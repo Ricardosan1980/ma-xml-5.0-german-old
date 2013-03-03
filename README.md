@@ -12,7 +12,7 @@ BobQuentok - 2nd Leader of the German translation
 
 KlotziDotCom - Helps with the translation^^
 
-mnetwork - Helps with the translation^^
+metwork - Helps with the translation^^
 
 External Links
 MIUIAndroid (http://miuiandroid.com)
