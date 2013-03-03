@@ -122,9 +122,9 @@
   <string name="review_retake">RETAKE</string>
   <string name="setting_decrement">&lt;</string>
   <string name="setting_increment">&gt;</string>
-  <string name="share_picture_via">Share picture via</string>
-  <string name="share_video_via">Share video via</string>
-  <string name="spaceIsLow_content">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
+  <string name="share_picture_via">Teilen über</string>
+  <string name="share_video_via">Teilen über</string>
+  <string name="spaceIsLow_content">Die SD Karte ist bald voll. Bitte einige Dateien löschen!</string>
   <string name="switch_camera_id">Switch Camera</string>
   <string name="switch_to_camera_label">Switch to camera</string>
   <string name="switch_to_panorama_label">Switch to panorama</string>
