@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">"Couldn't access SD card."</string>
+  <string name="access_sd_fail">"Kann nicht auf die SD Karte zugreifen"</string>
   <string name="accessibility_back_to_first_level">Close setting controls</string>
-  <string name="accessibility_camera_picker">Front and back camera switch</string>
+  <string name="accessibility_camera_picker">Vorder und Hinterkamera wechseln</string>
   <string name="accessibility_decrement">Decrease %1$s</string>
   <string name="accessibility_increment">Increase %1$s</string>
   <string name="accessibility_mode_picker">Camera, video or panorama selector</string>
@@ -118,7 +118,7 @@
   <string name="preparing_sd">Preparing storage...</string>
   <string name="review_cancel">CANCEL</string>
   <string name="review_ok">OK</string>
-  <string name="review_play">Play</string>
+  <string name="review_play">Abspielen</string>
   <string name="review_retake">RETAKE</string>
   <string name="setting_decrement">&lt;</string>
   <string name="setting_increment">&gt;</string>
