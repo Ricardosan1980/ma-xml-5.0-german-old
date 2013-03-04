@@ -29,7 +29,7 @@
   <string name="cannot_connect_camera">"Verbindung zur Kamera kann nicht hergestellt werden."</string>
   <string name="clear_effects">Effekte löschen</string>
   <string name="close">Schließen</string>
-  <string name="confirm_change_mode_title">Switch mode</string>
+  <string name="confirm_change_mode_title">Modus wechseln</string>
   <string name="confirm_change_to_expert_mode_message">Zum Profi-Modus wechseln?</string>
   <string name="confirm_change_to_simple_mode_message">Zum Einfach-Modus wechseln?</string>
   <string name="confirm_location_message">Das MI-Two kann Deinen Standort aufnehmen, möchtest Du die Standort-Einstellungen aufrufen?</string>
