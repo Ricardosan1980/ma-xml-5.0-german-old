@@ -1,4 +1,4 @@
-MIUIAndroid V4 German Translations.
+MIUIAndroid V5 German Translations.
 =================
 This is the repository for the German Translation of MIUIAndroid.
 
