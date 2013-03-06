@@ -60,7 +60,7 @@
   <string name="effect_goofy_face_small_mouth">Kleiner Mund</string>
   <string name="effect_goofy_face_squeeze">Quetschen</string>
   <string name="effect_none">Kein Effekt</string>
-  <string name="effect_silly_faces">LUSTIGE GESICHTER</string>
+  <string name="effect_silly_faces">Lustige Gesichter</string>
   <string name="empty">" "</string>
   <string name="enter_expert_mode_title">Professioneller Modus</string>
   <string name="err_app_unsupport_ae_bracket_code">no ae bracket support by Apps now</string>
@@ -497,7 +497,7 @@
   <string name="simple_mode_button_text_hdr">HDR-Modus verlassen</string>
   <string name="simple_mode_button_text_panorama">Panorama-Modus verlassen</string>
   <string name="simple_mode_button_text_slow_video">Zeitlupen-Modus verlassen</string>
-  <string name="skip">Skip</string>
+  <string name="skip">Überspringen</string>
   <string name="slideshow">Slideshow</string>
   <string name="snapshot_lower_than_video">Video-Schnappschuss-Größe ist kleiner als Videogröße. Verringere Videogröße. Bitte eine gleiche oder höhere Auflösung wählen.</string>
   <string name="snapshot_qcif_and_d1">Video-Schnappschuss-Größe wird für diese Auflösung unterstützt.</string>
