@@ -153,7 +153,6 @@
   <string name="theme_import_new_download">Wird importiert</string>
   <string name="theme_import_normal">Thema-Aktualisierung</string>
   <string name="theme_import_oper_start">Alle aktualisieren</string>
-  <string name="theme_import_oper_start">Alle aktualisieren</string>
   <string name="theme_import_oper_stop">Anhalten</string>
   <string name="theme_import_oper_stop_request_content">Thema muss aktualisiert werden, um verwendet werden zu können. Soll die Aktualisierung abgebrochen werden?</string>
   <string name="theme_import_preparing">Lokale Themen werden überprüft</string>
