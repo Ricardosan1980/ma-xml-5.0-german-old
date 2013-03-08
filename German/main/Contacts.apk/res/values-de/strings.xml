@@ -317,7 +317,7 @@
   <string name="exporting_vcard_finished_title">Exportieren von %s abgeschlossen</string>
   <string name="external_profile_title">Mein %1$s-Profil</string>
   <string name="fail_reason_could_not_initialize_exporter">Der Exporter konnte nicht initialisiert werden: \"%s\"</string>
-  <string name="fail_reason_could_not_open_file">\"%s\" konnte nicht geöffnet werden: %s</string>
+  <string name="fail_reason_could_not_open_file">konnte nicht geöffnet werden: %s</string>
   <string name="fail_reason_error_occurred_during_export">Während dem Exportieren ist ein Fehler aufgetreten: \"%s\"</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Konnte Meta-Informationen der ausgewählten vCard-Dateien nicht sammeln."</string>
   <string name="fail_reason_failed_to_read_files">"Eine oder mehrere Dateien konnten nicht importiert werden (%s)."</string>
