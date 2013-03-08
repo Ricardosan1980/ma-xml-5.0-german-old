@@ -133,7 +133,6 @@
   <string name="account_setup_names_account_name_label">Konto benennen (optional)</string>
   <string name="account_setup_index_other_mails">Andere E-Mail-Konten</string>
   <string name="account_setup_index_title">Anleitung zur Kontenerstellung</string>
-  <string name="account_setup_names_account_name_label">Gib diesem Konto einen Namen(optional)</string>
   <string name="account_setup_names_headline">Dein Konto ist jetzt eingerichtet.</string>
   <string name="account_setup_names_title">Kontoeinrichtung</string>
   <string name="account_setup_names_user_name_empty_error">Dieses Feld darf nicht leer sein.</string>
