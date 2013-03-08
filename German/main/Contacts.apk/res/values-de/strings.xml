@@ -660,7 +660,6 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
   <string name="readOnlyContactWarning">Sie können keine Kontakte von schreibgeschützten Benutzerkonten löschen, diese aber in Ihrer Kontaktliste ausblenden.</string>
-  <string name="reading_vcard_failed_title">"vCard-Daten konnten nicht gelesen werden"</string>
   <string name="reading_vcard_failed_title">"Konnte vCard-Daten nicht lesen"</string>
   <string name="rebuild_t9_index_dialog_message">T9-Indexdaten werden wiederhergestellt…</string>
   <string name="recent">Kürzlich</string>
@@ -674,7 +673,6 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="recentCalls_shareVoicemail">Sprachnachricht teilen</string>
   <string name="recentCalls_trashVoicemail">Sprachnachricht löschen</string>
   <string name="recent_contacts_label">Kürzlich</string>
-  <string name="recent_updates">Kürzlich</string>
   <string name="recent_updates">Kürzliche Aktualisierungen</string>
   <string name="relationLabelsGroup">Verhältnis</string>
   <string name="remind_btn_ignore">Ignorieren</string>
