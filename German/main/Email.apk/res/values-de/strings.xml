@@ -320,7 +320,7 @@
   <string name="mailbox_settings_mailbox_check_frequency_label">Abrufhäufigkeit</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Zu synchronisierende Tage</string>
   <string name="mailbox_shortcut_picker_title">Ordner auswählen</string>
-  <string name="manager_activity_last_sync_format">"Letzte Synchronisierung:
+  <string name="manager_activity_last_sync_format">"Letzte Synchronisierung:</string>
   <string name="manager_do_not_upload">Nicht hochladen</string>
   <string name="manager_list_switcher_completed_format">Abgeschlossene Uploads [%d]</string>
   <string name="manager_list_switcher_pending_format">Ausstehende Uploads [%d]</string>
@@ -357,7 +357,7 @@ Von: %2$s
 An: %3$s
 Cc: %4$s
 
-</string>
+"</string>
   <string name="message_compose_include_quoted_text_checkbox_label">Text einfügen</string>
   <string name="message_compose_insert_quick_response_list_title">Kurzantwort einfügen</string>
   <string name="message_compose_quoted_text_label">Zitierten Text einfügen</string>
@@ -365,11 +365,11 @@ Cc: %4$s
 
 %s schrieb:
 
-</string>
+"</string>
   <string name="message_compose_subject_hint">Betreff</string>
   <string name="message_compose_to_hint">An</string>
   <string name="message_decode_error">Beim Entschlüsseln der Nachricht ist ein Fehler aufgetreten.</string>
-  <string name="message_delete_dialog_title" />
+  <string name="message_delete_dialog_title"/>
   <string name="message_discarded_toast">Nachricht gelöscht</string>
   <string name="message_is_empty_description">Kein Betreff</string>
   <string name="message_list_load_more_messages_action">Weitere Nachrichten laden</string>
@@ -531,7 +531,7 @@ Cc: %4$s
   <string name="settings_activity_title">Einstellungen</string>
   <string name="show_quick_text_list_dialog_action">Kurzantwort einfügen</string>
   <string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
+  %2$s"</string>
   <string name="status_loading_messages">Nachrichten werden geladen...</string>
   <string name="status_network_error">Verbindungsproblem</string>
   <string name="subject_hint">Betreff</string>
@@ -564,23 +564,6 @@ Cc: %4$s
   <string name="upload_state_completed">Abgeschlossen</string>
   <string name="upload_state_failed">Fehlgeschlagen</string>
   <string name="upload_state_queued" />
-<<<<<<< HEAD
-  <string name="upload_state_uploading">Uploading</string>
-  <string name="upload_state_waiting_retry">Waiting to retry</string>
-  <string name="upload_state_waiting_wifi">Waiting for Wi-Fi connection</string>
-  <string name="uploading_for">for %s</string>
-  <string name="uploading_to">Uploading to %s</string>
-  <string name="waitinf_for_sync_message_1">Waiting for sync</string>
-  <string name="waitinf_for_sync_message_2">Your e-mail will appear soon.</string>
-  <string name="widget_all_mail">Combined Inbox</string>
-  <string name="widget_loading">Loading…</string>
-  <string name="widget_no_accounts">"You haven't set up an e-mail account yet."</string>
-  <string name="widget_no_mailboxes">"This account isn't synced. Try again later."</string>
-  <string name="widget_other_views">Touch icon to change.</string>
-  <string name="widget_starred">Starred</string>
-  <string name="widget_touch_to_configure">Touch to configure.</string>
-  <string name="widget_unread">Unread</string>
-=======
   <string name="upload_state_uploading">Upload wird durchgeführt</string>
   <string name="upload_state_waiting_retry">Warten auf erneuten Versuch</string>
   <string name="upload_state_waiting_wifi">Warten auf WLAN</string>
@@ -596,5 +579,4 @@ Cc: %4$s
   <string name="widget_starred">Markiert</string>
   <string name="widget_touch_to_configure">Zum Einrichten berühren</string>
   <string name="widget_unread">Ungelesen</string>
->>>>>>> Weitere Übersetzungen
 </resources>
