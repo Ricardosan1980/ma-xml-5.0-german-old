@@ -549,7 +549,7 @@ Du kannst innerhalb der Anwendung bessere Datenverbrauchs-Einstellungen finden."
 
 Einige Konten können auch automatisch Änderungen, die Du auf dem Telefon vornimmst, ins Internet kopieren. Ein Google-Account funktioniert auf diese Weise.
 
-Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellungen &gt; Konten."</string>"</string>
+Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellungen &gt; Konten."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Auto-Synchronisierung aktivieren?</string>
   <string name="data_usage_change_cycle">Wechsle Zeitraum…</string>
   <string name="data_usage_cycle">Datenverbrauchszeitraum</string>
