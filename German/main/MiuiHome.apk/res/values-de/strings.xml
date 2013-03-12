@@ -187,7 +187,7 @@
   <string name="start_activity_failed">Starten fehlgeschlagen, bitte versuche es erneut</string>
   <string name="starting_preset_app">Es wird gestartet...</string>
   <string name="status_bar_toggle_ac">Zugriffskontrolle</string>
-  <string name="status_bar_toggle_auto_brightness">Test-String B</string>
+  <string name="status_bar_toggle_auto_brightness">Auto-Helligkeit</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Helligkeit</string>
   <string name="status_bar_toggle_data">Daten</string>
