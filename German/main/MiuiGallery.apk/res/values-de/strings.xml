@@ -264,9 +264,9 @@
   <string name="tab_wallpaper_text">Desktop</string>
   <string name="tags">Schlagworte</string>
   <string name="temperature">Wärme</string>
-  <string name="time">Mal</string>
-  <string name="times">Mal</string>
-  <string name="tint">Tinte</string>
+  <string name="time">Zeit</string>
+  <string name="times">Datum</string>
+  <string name="tint">Färbung</string>
   <string name="title">Titel</string>
   <string name="turn_left">Nach links rotieren</string>
   <string name="turn_right">Nach rechts rotieren</string>
