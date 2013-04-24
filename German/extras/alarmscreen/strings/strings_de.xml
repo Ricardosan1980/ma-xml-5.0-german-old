@@ -1,4 +1,4 @@
 <strings>
-<string name="slider_text" value="Nach rechts schieben um zu schließen"/>
+<string name="slider_text" value="Zum schließen schieben "/>
 <string name="snooze_message" value="Für %d Minuten schlummern"/>
 </strings>
