@@ -12,7 +12,7 @@
   <string name="alert_message_open_sync">Synchronisierung erforderlich, möchtest Du die Synchronisierung öffnen?</string>
   <string name="aperture">Blende</string>
   <string name="app_name">Galerie</string>
-  <string name="appwidget_empty_text">Keine Fotos.</string>
+  <string name="appwidget_empty_text">Keine Fotos</string>
   <string name="appwidget_title">Fotogalerie</string>
   <string name="auto">Automatisch</string>
   <string name="auto_create_recent_album">Alben automatisch erstellen</string>
