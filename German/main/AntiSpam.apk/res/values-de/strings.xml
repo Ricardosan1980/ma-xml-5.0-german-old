@@ -130,5 +130,10 @@
   <string name="save_button">Speichern</string>
   <string name="show_firewall_notification">Firewall-Benachrichtigung</string>
   <string name="show_notification">Benachrichtigungen</string>
+  <string name="smart_antispam">Smart Antispam</string>
+  <string name="turn_on_smart_antispam_hint">Nach dem Einschalten werden Nummern identifiziert und zugeordnet, um betrügerische Anrufer zu ermitteln.</string>
+  <string name="turn_on_smart_antispam_summary_off">Frage die lokale Nummerndatenbank ab</string>
+  <string name="turn_on_smart_antispam_summary_on">Funktioniert nur mit WLAN und 3G Netzwerken</string>
+  <string name="turn_on_smart_antispam_title">Identifziere unbekannte Nummern</string>
   <string name="whitelist_tab_title">Weiße Liste</string>
 </resources>

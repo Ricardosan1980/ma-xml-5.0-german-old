@@ -17,7 +17,7 @@
   <string name="check_phone_io_error">Netzwerkfehler</string>
   <string name="childrens_day">Kindertag</string>
   <string name="chinese_youth_day">Jugendtag</string>
-  <string name="christmas_dad">1. Weihnachtsfeiertag</string>
+  <string name="christmas_day">1. Weihnachtsfeiertag</string>
   <string name="clear_and_bright">Klar und hell</string>
   <string name="cold_dews">Kalter Tau</string>
   <string name="contact_carrier_message">Bitte den Netzbetreiber bei Fragen kontaktieren</string>
@@ -253,7 +253,7 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
   <string name="delete">Löschen</string>
-  <string name="double_seventh_day">七夕</string>
+  <string name="double_seventh_day">Chinesicher Valentinstag</string>
   <string name="emergency_call_string">Notruf</string>
   <string name="error_forbidden">Dein Benutzerkonto weist ein paar Fehler auf. Synchronisierung wurde deaktiviert.</string>
   <string name="error_not_acceptable">Es ist ein Serverfehler aufgetreten. Synchronisierung wurde deaktiviert.</string>
@@ -301,8 +301,8 @@
   <string name="input_puk_code">PUK eingeben</string>
   <string name="input_puk_code_to_unlock">Zum entsperren PUK-Code eingeben</string>
   <string name="insects_awaken" />
-  <string name="international_womens_day" />
-  <string name="labour_day" />
+  <string name="international_womens_day">Internationaler Frauentag</string>
+  <string name="labour_day">Tag der Arbeit</string>
   <string name="lantern_festival" />
   <string name="light_snow" />
   <string name="lock_screen_date">EEEE, d. MMMM</string>
@@ -365,7 +365,7 @@
   <string name="multi_select_title">%1$s Element(e) ausgewählt</string>
   <string name="national_day" />
   <string name="never">Nie</string>
-  <string name="new_years_day" />
+  <string name="new_years_day">Neujahrstag</string>
   <string name="no_sim">Keine SIM, Service nicht verfügbar</string>
   <string name="open_wifi_settings">WLAN-Einstellungen öffnen</string>
   <string name="partys_day" />
@@ -385,7 +385,7 @@
   <string name="pincode_set_to_default_msg">PIN-Code ist auf 1234 gesetzt worden, bitte setze den PIN hier zurück.</string>
   <string name="private_num">Privatnummer</string>
   <string name="puk_operation_failed">PUK-Vorgang fehlgeschlagen.</string>
-  <string name="reboot_confirm">Das Telefon wird neugestartet</string>
+  <string name="reboot_confirm">Das Telefon wird neu gestartet</string>
   <string name="reboot_progress">Wird neu gestartet...</string>
   <string name="return_to_me_message">Bitte gib das Telefon an den Inhaber zurück.</string>
   <string name="reverse_all">Alle löschen</string>
@@ -409,24 +409,24 @@
   <string name="short_pukcode_error_msg">Bitte mindestens 8 Stellen eingeben</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_notice">Die aktuelle SIM-Karte wurde noch nicht aktiviert. Eine SMS ist erforderlich, um den Xiaomi-Synchronisierungs-Dienst zu aktivieren. Jetzt reaktivieren?</string>
-  <string name="slight_cold" />
-  <string name="slight_heat" />
+  <string name="slight_cold">Kühl</string>
+  <string name="slight_heat">Warm</string>
   <string name="solar_calendar" />
   <string name="speaker">Lautsprecher</string>
-  <string name="spring_begins" />
+  <string name="spring_begins">Frühlingsbeginn</string>
   <string name="stopping_the_heat" />
-  <string name="summer_begins" />
-  <string name="summer_solstice" />
+  <string name="summer_begins">Sommerbeginn</string>
+  <string name="summer_solstice">Sommersonnenwende</string>
   <string name="sync_one_time_sync">Zur Synchronisation berühren (%1$s)</string>
-  <string name="teachers_day" />
+  <string name="teachers_day">Lehrertag</string>
   <string name="text_pastelist">Zwischenablage</string>
   <string name="the_armys_day" />
   <string name="the_double_ninth_festival" />
-  <string name="the_dragon_boat_festival" />
+  <string name="the_dragon_boat_festival">Das Drachenbootfest</string>
   <string name="the_laba_rice_porridge_festival" />
-  <string name="the_mid_autumn_festival" />
+  <string name="the_mid_autumn_festival">Das Mittherbstfest</string>
   <string name="the_rains" />
-  <string name="the_spring_festival" />
+  <string name="the_spring_festival">Das Frühlingsfest</string>
   <string name="unknown">Unbekannte Nummer</string>
   <string name="unknown_caller">Unbekannter Anrufer</string>
   <string name="unlock_string">OK</string>
@@ -460,4 +460,5 @@
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />
+  <string name="yesterday">Gestern</string>
 </resources>
