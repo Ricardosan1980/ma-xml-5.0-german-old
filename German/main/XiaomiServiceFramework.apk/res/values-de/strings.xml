@@ -15,6 +15,7 @@
   <string name="bind_description">Synchronisierung mit Telefon-Kontakten erlauben</string>
   <string name="bind_sina_weibo">Sina Weibo authorisieren</string>
   <string name="bind_weibo_description">Finde Kontakte, Freunde und andere Informationen direkt über Dein Konto</string>
+  <string name="binded">Authorisiert</string>
   <string name="binding_behavior_error">Authorisierungs-Fehler!</string>
   <string name="btn_activate">Aktivieren</string>
   <string name="btn_back">Zurück</string>
@@ -157,6 +158,7 @@
   <string name="prepaid_picker_title_default">Bitte top-up Betrag wählen</string>
   <string name="prepaid_picker_title_selected">Top-up Betrag</string>
   <string name="prev">Zurück</string>
+  <string name="process_result">Ergebnis:</string>
   <string name="progress_connecting">Verbinde...</string>
   <string name="progress_creating">Rufe Bestellinformation ab...</string>
   <string name="progress_error_common">Aufladen fehlgeschlagen, bitte versuche es später erneut.</string>
@@ -221,6 +223,7 @@
   <string name="unbind">Authorisierung widerrufen</string>
   <string name="update_contacts">Kontakte aktualisieren</string>
   <string name="update_contacts_description">Aktualisiere Deine Telefon-Kontakte und andere Informationen</string>
+  <string name="updated_contacts">%s Kontakte aktualisiert</string>
   <string name="user_agreement_p1">"Durch die Registrierung stimmst Du den "</string>
   <string name="user_agreement_p2">Xiaomi-Nutzungsbedingungen</string>
   <string name="user_agreement_p3"> und </string>
