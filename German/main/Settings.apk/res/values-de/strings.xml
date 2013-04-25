@@ -679,7 +679,6 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="disable_power_key_long_press_under_keyguard">Im Lockscreen deaktivieren</string>
   <string name="disable_text">Deaktivieren</string>
   <string name="disabled">Deaktiviert</string>
-  <string name="disableNetwork">disableNetwork</string>
   <string name="disconnect">Trennen</string>
   <string name="display_font_size_label">Schriftgröße:</string>
   <string name="display_label">Bildschirm</string>
