@@ -196,6 +196,7 @@
   <string name="rename_album_menu">Album umbenennen</string>
   <string name="rename_artist_menu">Interpret umbenennen</string>
   <string name="rename_playlist_menu">Umbenennen</string>
+  <string name="retry">Wiederholen</string>
   <string name="ringtone_menu">Als Klingelton verwenden</string>
   <string name="ringtone_set">\"%s\" wurde als Klingelton festgelegt.</string>
   <string name="save">Speichern</string>

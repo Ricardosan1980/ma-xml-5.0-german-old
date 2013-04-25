@@ -12,7 +12,8 @@
   <string name="access_control_app_entry_multiple">%s öffnen</string>
   <string name="access_control_app_entry_single">Gewählte Anwendung öffnen</string>
   <string name="access_control_need_to_unlock">Passwort zum Entsperren benötigt</string>
-  <string name="access_control_need_password">"%s wurde geschützt "</string> 
+  <string name="access_control_need_password">"%s wurde geschützt 
+"</string> 
   <string name="access_control_no_back_footer">Drücke zum Verlassen auf [icon]</string>
   <string name="access_control_password_title">Passwort aktivieren</string>
   <string name="access_control_recording_intro_header">Zeichne ein Muster, um die Sperre zu aktivieren</string>
@@ -116,7 +117,7 @@
   <string name="app_floating_window_dlg">Erlaube\"%1$s\" Popup-Fenster anzuzeigen</string>
   <string name="app_floating_window_dlg_disable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung wird das Beenden der Anwendung erzwingen . Ausschalten? Bist Du sicher?"</string>
   <string name="app_floating_window_dlg_enable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung erfordert einen Neustart der Anwendung. Einschalten? Bist Du sicher?"</string>
-<string name="app_forward_locked">Anwendung ist schreibgeschützt.</string>
+  <string name="app_forward_locked">Anwendung ist schreibgeschützt.</string>
   <string name="app_install_location_summary">Ändert den bevorzugten Installationsort für neue Anwendungen</string>
   <string name="app_install_location_title">Bevorzugter Installationsort</string>
   <string name="app_name_label">Anwendung</string>
@@ -668,7 +669,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Akku-Status, Ladestand, etc.</string>
   <string name="dialog_title_font_size">Schriftgröße</string>
-  <string name="dirac_control">Dirac Kontrolle</string>
+  <string name="dirac_control">Dirac Einstellung</string>
   <string name="dirac_mode_earbuds">In-Ohrhörer</string>
   <string name="dirac_mode_earphones">Ohrhörer</string>
   <string name="dirac_mode_off">Dirac Aus</string>
@@ -1530,9 +1531,9 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="screen_color_temperature_adjust">Farbtemperatur anpassen</string>
   <string name="screen_compatibility_label">Bildschirmkompabilität</string>
   <string name="screen_compatibility_text">Diese Anwendung ist unter Umständen nicht für Deinen Bildschirm angepasst. Du kannst hier die Anpassung an Deinen Bildschirm bestimmen.</string>
-  <string name="screen_key_long_press">Halte Bildschirm Tasten</string>
+  <string name="screen_key_long_press">Bildschirm Tasten halten</string>
   <string name="screen_key_long_press_action">Funktion auslösen</string>
-  <string name="screen_key_long_press_timeout">Halten Zeitüberschreitung</string>
+  <string name="screen_key_long_press_timeout">Zeitüberschreitung beim halten</string>
   <string name="screen_on_proximity_sensor_summary">Telefonfunktionen in der Hosentasche deaktivieren (Mittels Bewegungssensor feststellen).</string>
   <string name="screen_on_proximity_sensor_title">Fehlfunktion vermeiden</string>
   <string name="screen_saturation_adjust">Farbsättigung anpassen</string>

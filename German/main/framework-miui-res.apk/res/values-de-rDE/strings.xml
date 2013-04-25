@@ -409,7 +409,7 @@
   <string name="short_pukcode_error_msg">Bitte mindestens 8 Stellen eingeben</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_notice">Die aktuelle SIM-Karte wurde noch nicht aktiviert. Eine SMS ist erforderlich, um den Xiaomi-Synchronisierungs-Dienst zu aktivieren. Jetzt reaktivieren?</string>
-  <string name="sim_in_airplane_mode">Flugzeugmodus aus.</string>
+  <string name="sim_in_airplane_mode">Flugmodus aus.</string>
   <string name="sim_locked">SIM-Karte gesperrt</string>
   <string name="sim_not_ready">SIM-Karte aktiv, bitte wiederholen.</string>
   <string name="sim_unavailable">SIM-Karte nicht verfügbar.</string>

@@ -173,8 +173,8 @@
   <string name="operation_delete_confirm_message">Löschen bestätigen?</string>
   <string name="operation_delete_confirm_message_folder">"Mit Löschen des Ordners werden auch alle in ihm befindlichen Dateien gelöscht."</string>
   <string name="operation_deleting">Wird gelöscht...</string>
-   <string name="operation_deleting_detail">Lösche Dateien (%1$d/%2$d)</string>
- <string name="operation_download_link">Downloadlink erstellen</string>
+  <string name="operation_deleting_detail">Lösche Dateien (%1$d/%2$d)</string>
+  <string name="operation_download_link">Downloadlink erstellen</string>
   <string name="operation_favorite">Zu Favoriten hinzufügen</string>
   <string name="operation_hide_sys">Versteckte Dateien ausblenden</string>
   <string name="operation_info">Details</string>

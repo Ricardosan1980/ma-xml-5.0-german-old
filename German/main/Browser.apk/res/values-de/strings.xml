@@ -425,6 +425,7 @@
   <string name="ssl_untrusted">"Dieses Zertifikat stammt nicht von einer vertrauenswürdigen Autorität."</string>
   <string name="ssl_warnings_header">Es gibt Probleme mit dem Sicherheitszertifikat dieser Seite.</string>
   <string name="stop">Anhalten</string>
+  <string name="stop_loading">Anhalten</string>
   <string name="stopping">Wird angehalten...</string>
   <string name="tab_bookmarks">Lesezeichen</string>
   <string name="tab_closed">Tab wurde geschlossen.</string>

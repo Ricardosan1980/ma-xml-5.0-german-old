@@ -40,6 +40,8 @@
   <string name="answer_widget_sliding_horizontal_miui">Horizontaler Slide</string>
   <string name="answer_widget_sliding_vertical_miui">Vertikaler Slide</string>
   <string name="answer_widget_title_miui">Geste zur Rufannahme</string>
+  <string name="antispam_marked_count">%1$d Personen markiert</string>
+  <string name="antispam_notification_title">Unbekannte Nummer entdeckt</string>
   <string name="apn_settings">APNs</string>
   <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Ländervorwahl für Notrufe benötigt</string>

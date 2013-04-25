@@ -108,6 +108,8 @@
   <string name="fw_whitelist">Weiße Liste</string>
   <string name="fw_whitelist_hint">Mitglieder der Weißen Liste werden nicht blockiert</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_number_dialog_maintitle">Markiere unbekannte Nummer und speichere</string>
+  <string name="mark_number_dialog_subtitle">Entwickelt mit Sogou</string>
   <string formatted="false" name="member_firewall_log">Blockiert: Nummer %d Details %d</string>
   <string name="menu_edit">Bearbeiten</string>
   <string name="mms_log_tab_title">SMS</string>
