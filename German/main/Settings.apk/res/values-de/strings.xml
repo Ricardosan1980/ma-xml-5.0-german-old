@@ -113,7 +113,10 @@
   <string name="app_factory_reset">Updates deinstallieren</string>
   <string name="app_factory_reset_dlg_text">Alle Updates dieser Android System-Anwendung werden deinstalliert.</string>
   <string name="app_factory_reset_dlg_title">Updates deinstallieren?</string>
-  <string name="app_forward_locked">Anwendung ist schreibgeschützt.</string>
+  <string name="app_floating_window_dlg">Erlaube\"%1$s\" Popup-Fenster anzuzeigen</string>
+  <string name="app_floating_window_dlg_disable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung wird das Beenden der Anwendung erzwingen . Ausschalten? Bist Du sicher?"</string>
+  <string name="app_floating_window_dlg_enable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung erfordert einen Neustart der Anwendung. Einschalten? Bist Du sicher?"</string>
+<string name="app_forward_locked">Anwendung ist schreibgeschützt.</string>
   <string name="app_install_location_summary">Ändert den bevorzugten Installationsort für neue Anwendungen</string>
   <string name="app_install_location_title">Bevorzugter Installationsort</string>
   <string name="app_name_label">Anwendung</string>
@@ -809,6 +812,8 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="finish_application">Ende</string>
   <string name="finish_button_label">Abschließen</string>
   <string name="firmware_version">Android-Version:</string>
+  <string name="floating_window_switch_label">Zeige Popup-Fenster</string>
+  <string name="floating_window_switch_label_disable">Verstecke Popup-Fenster</string>
   <string name="font_size_huge">Riesig</string>
   <string name="font_size_large">Groß</string>
   <string name="font_size_medium">Mittel</string>
@@ -1689,6 +1694,7 @@ Vermutlich falscher PIN."</string>
   <string name="sim_lock_settings">SIM-Karten-Lock-Einstellungen</string>
   <string name="sim_lock_settings_category">SIM-Karten-Lock einstellen</string>
   <string name="sim_lock_settings_title">SIM-Karten-Lock</string>
+  <string name="sim_management_title">SIM-Verwaltung</string>
   <string name="sim_pin_attempts">"
 Verbleibende Versuche :"</string>
   <string name="sim_pin_change">SIM-PIN ändern</string>
