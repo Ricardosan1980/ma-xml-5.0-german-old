@@ -58,7 +58,7 @@
   <string name="fw_action_settings">Firewall-Einstellungen</string>
   <string name="fw_add_keyword">Zu überwachende Stichwörter hinzufügen</string>
   <string formatted="false" name="fw_add_keyword_existing">Stichwort \"%s\" ist bereits vorhanden</string>
-  <string name="fw_add_list_title">telefonnummer eingeben</string>
+  <string name="fw_add_list_title">Telefonnummer eingeben</string>
   <string name="fw_advanced_settings">Erweiterte Einstellungen</string>
   <string name="fw_all_day">Täglich</string>
   <string name="fw_blacklist">Schwarze Liste</string>

@@ -512,7 +512,7 @@ Cc: %4$s
   <string name="save_draft_action">Entwurf speichern</string>
   <string name="search_action">Suche</string>
   <string name="search_header_text_fmt">Ergebnisse</string>
-  <string name="search_hint">In Emails suchen</string>
+  <string name="search_hint">In E-Mails suchen</string>
   <string name="search_mailbox_hint">%1$s durchsuchen</string>
   <string name="search_slow_warning_message">Bei einigen Servern benötigen Sie möglicherweise etwas mehr Geduld.</string>
   <string name="search_slow_warning_title">Warten auf Ergebnisse</string>
