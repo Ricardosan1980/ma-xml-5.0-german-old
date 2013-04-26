@@ -47,7 +47,7 @@
   <string name="operation_goto_folder">Gehe zu Ordner</string>
   <string name="operation_info">Datei-Info</string>
   <string name="operation_send">Sende</string>
-  <string name="picker_title">Choose apk</string>
+  <string name="picker_title">Wähle App</string>
   <string name="receive">Empfange</string>
   <string name="receive_cancel_tip">Empfang unvollständig. Bist Du sicher, dass Du die Übertragung stoppen und beenden willst?</string>
   <string name="receive_cancel_tip2">Empfangsabbruch. %1$d / %2$d Datei(en) empfangen.</string>
