@@ -7,8 +7,10 @@ Credits
 * **iBotPeaches**  - Builder of MIUI-ROM.
 
 * **ingbrzy** - Builder of MultiLang Packs for MIUI-ROM, Build-Bug Fixes.
+ 
+* **Acid** - Builder of MultiLang Packs for MIUI-ROM, Build-Bug Fixes.
 
-* **Bitti09** - Leader of  the German translation
+* **Bitti09** - Leader of  the German translation ( currently inactive )
 
 * **BobQuentok** - 2nd Leader of  the German translation
 
@@ -18,7 +20,8 @@ Credits
 
 * **metwork** - Helps with the translation^^
 
- 
+* **ThaMcBride** - Helps with the translation^^
+
 External Links
 =================
 * **MIUIAndroid** (http://miuiandroid.com)
