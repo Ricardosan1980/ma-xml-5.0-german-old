@@ -2,6 +2,7 @@
 <resources>
   <string name="continues">Fortfahren</string>
   <string name="data_usage_summary">Solltest Du keine Flatrate haben, wird empfohlen, mobilen Datenempfang zu deaktivieren, um zusätzliche Kosten zu vermeiden.</string>
+  <string name="default_gprs_sim_name">Bitte \"%s\" Datenplanlimits eintragen</string>
   <string name="input_method">Eingabemethode</string>
   <string name="input_method_category">Standard-Eingabemethode auswählen</string>
   <string name="next">Weiter</string>

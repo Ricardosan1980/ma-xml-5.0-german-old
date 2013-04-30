@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_name">Kamera</string>
   <string name="access_sd_fail">"Auf die SD-Karte konnte nicht zugegriffen werden."</string>
   <string name="accessibility_back_to_first_level">Einstellungen schließen</string>
   <string name="accessibility_camera_picker">Front- und Rückkamera wechseln</string>

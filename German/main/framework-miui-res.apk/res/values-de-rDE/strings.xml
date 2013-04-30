@@ -408,7 +408,8 @@
   <string name="short_pincode_error_msg">Bitte gib 4-8 Stellen ein</string>
   <string name="short_pukcode_error_msg">Bitte mindestens 8 Stellen eingeben</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_changed_reactivate_notice">Die aktuelle SIM-Karte wurde noch nicht aktiviert. Eine SMS ist erforderlich, um den Xiaomi-Synchronisierungs-Dienst zu aktivieren. Jetzt reaktivieren?</string>
+  <string name="sim_changed_reactivate_int_notice">Die aktuelle SIM-Karte wurde noch nicht aktiviert. Eine internationale SMS ist erforderlich, um den Xiaomi-Synchronisierungs-Dienst zu aktivieren. Jetzt aktivieren?</string>
+  <string name="sim_changed_reactivate_notice">Die aktuelle SIM-Karte wurde noch nicht aktiviert. Eine SMS ist erforderlich, um den Xiaomi-Synchronisierungs-Dienst zu aktivieren. Jetzt aktivieren?</string>
   <string name="sim_in_airplane_mode">Flugmodus aus.</string>
   <string name="sim_locked">SIM-Karte gesperrt</string>
   <string name="sim_not_ready">SIM-Karte aktiv, bitte wiederholen.</string>
@@ -452,8 +453,13 @@
   <string name="v5_edit_mode_title_empty">Objekte überprüfen</string>
   <string name="v5_icon_menu_bar_more_item_label">Mehr</string>
   <string name="v5_select_all">Alles auswählen</string>
+<<<<<<< HEAD
   <string name="v5_time_picker_label_hour">Stunde</string>
   <string name="v5_time_picker_label_minute">Minute</string>
+=======
+  <string name="v5_time_picker_label_hour">Std</srting>
+  <string name="v5_time_picker_label_minute">Min</string>
+>>>>>>> 3.4.28 and corrections
   <string name="valentines_day">Valentinstag</string>
   <string name="vernal_equinox">Frühlings Tagundnachtgleiche</string>
   <string name="volume_alarm">Alarm</string>
@@ -465,6 +471,6 @@
   <string name="wake_alarm_message">Wecker anhalten. In %s erneut erinnern</string>
   <string name="white_dews" />
   <string name="winter_begins" />
-  <string name="winter_solstice" />
+  <string name="winter_solstice">Wintersonnenwende</string>
   <string name="yesterday">Gestern</string>
 </resources>

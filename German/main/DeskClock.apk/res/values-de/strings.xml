@@ -93,8 +93,7 @@
   <string name="silent_alarm_summary">Lautlos</string>
   <string name="slide_down_delelte_alarm">Runterziehen zum Beenden</string>
   <string name="snooze_confirm_cancel">Schlummern abbrechen</string>
-  <string name="snooze_confirm_message">"Schlummern wurde verschoben，Noch %s schlummern.
-Du kannst diesen Wecker auch abbrechen"</string>
+  <string name="snooze_confirm_message">"Schlummern wurde verschoben，noch %s schlummern. Du kannst diesen Wecker auch abbrechen"</string>
   <string name="snooze_confirm_ok">Verstanden</string>
   <string name="start">Stoppuhr starten</string>
   <string name="start_up">Start</string>

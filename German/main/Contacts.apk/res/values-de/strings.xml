@@ -707,7 +707,8 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="separatorJoinAggregateSuggestions">Vorgeschlagene Kontakte</string>
   <string name="service_provider">Gelbe Seite</string>
   <string name="set_default">Als Standard festlegen</string>
-  <string name="share_error">Dieser Kontakt kann nicht geteilt werden.</string>
+  <string name="set_photo_failed_msg">Avatar konnte nicht gesetzt werden</string>
+  <string name="share_error">Dieser Kontakt kann nicht geteilt werden</string>
   <string name="share_via">Kontakt teilen via</string>
   <string name="share_visible_contacts">Sichtbare Kontakte teilen</string>
   <string name="shortcutActivityTitle">Wählen Sie eine Kontaktverknüpfung</string>

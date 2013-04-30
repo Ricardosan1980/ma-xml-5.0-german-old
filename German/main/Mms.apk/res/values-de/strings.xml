@@ -195,6 +195,9 @@
   <string name="mx_activate_hint_malformed_info">Vorgang unterbrochen. Reaktivieren der Cloud-Nachrichten erforderlich. Jetzt aktivieren?</string>
   <string name="mx_activate_hint_server">Aktivieren der Cloud-Nachrichten durch Server-Aktivierung fehlgeschlagen. Jetzt aktivieren?</string>
   <string name="mx_activate_hint_sim_change">SIM-Karte wurde geändert. Reaktivieren der Cloud-Nachrichten erforderlich. Jetzt aktivieren?</string>
+  <string name="mx_activate_int_hint_malformed_info">Fehler bei der Verarbeitung. Eine internationale SMS wird benötigt, um Cloud-Nachrichten zu reaktivieren. Jetzt aktivieren?</string>
+  <string name="mx_activate_int_hint_server">Aktivierung mit Server für Cloud-Nachrichten fehlgeschlagen. Eine internationale SMS wird benötigt, um Cloud-Nachrichten zu reaktivieren. Jetzt aktivieren?</string>
+  <string name="mx_activate_int_hint_sim_change">SIM-Karten-Status geändert. Eine internationale SMS wird benötigt, um Cloud-Nachrichten zu reaktivieren. Jetzt aktivieren?</string>
   <string name="mx_auto_resend_mms">Als MMS senden</string>
   <string name="mx_auto_resend_mms_summary">Als MMS senden, wenn Cloud-Nachrichten nicht verfügbar sind. Der Mobilfunkanbieter könnte Gebühren verlangen</string>
   <string name="mx_auto_resend_sms">Als SMS senden</string>
@@ -204,7 +207,9 @@
   <string name="mx_current_status">Derzeitiger Status: Online</string>
   <string name="mx_dspt">Nachrichten über das Internet zwischen MIUI-Benutzern senden. Aktivieren, um über das Mobilfunknetz zu senden, falls Senden über das Internet fehlschlägt</string>
   <string name="mx_enable">Cloud-Nachrichten aktivieren</string>
+  <string name="mx_enable_int_popup_msg">Cloud-Nachrichten erlauben Dir Nachrichten zwischen MIUI-Benutzern zu versenden. Eine internationale SMS wird benötigt, um den Dienst zu aktivieren (Mobilfunkanbieter könnte Gebühren verlangen).</string>
   <string name="mx_enable_popup_msg">Mit Cloud-Nachrichten kannst Du Nachrichten zwischen MIUI-Benutzern senden. Eine normale SMS wird benötigt, um den Dienst zu aktivieren (Mobilfunkanbieter könnte Gebühren verlangen). Soll dies jetzt aktiviert werden?</string>
+  <string name="mx_int_warning_notice">Eine internationale SMS wird benötigt, um den Cloud-Dienst zu aktivieren (Mobilfunkanbieter könnte Gebühren verlangen).</string>
   <string name="mx_msg">Cloud-Nachricht</string>
   <string name="mx_offline">Abgemeldet</string>
   <string name="mx_online">Angemeldet</string>

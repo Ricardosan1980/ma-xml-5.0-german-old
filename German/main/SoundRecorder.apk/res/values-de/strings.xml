@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Soll die ausgewählte Aufnahme gelöscht werden?</string>
-  <string name="app_name">Aufnahme</string>
+  <string name="app_name">Rekorder</string>
   <string name="audio_db_album_name">Audio-Aufnahmen</string>
   <string name="audio_db_artist_name">Deine Aufnahmen</string>
   <string name="audio_db_playlist_name">Meine Aufnahmen</string>
@@ -48,8 +48,10 @@
   <string name="pref_title_enable_high_quality">Hohe Qualität aktivieren</string>
   <string name="pref_title_enable_sound_effect">Toneffekt aktivieren</string>
   <string name="pref_title_record_type">Aufnahme-Dateityp</string>
-  <string name="preference_led_indicator">Aufnahmeanzeige wenn Bildschirm gesperrt</string>
+  <string name="preference_led_indicator">Anzeige wenn Bildschirm gesperrt</string>
   <string name="preference_led_indicator_prompt">LED und Statuszeilenanzeige während der Aufnahme, wenn der Bildschirm gesperrt ist</string>
+  <string name="preference_silent_mode">Lautlose Aufnahme</string>
+  <string name="preference_silent_mode_summary">Einschalten um die lautlose Aufnahme zu aktivieren</string>
   <string name="preferences_title">Einstellungen</string>
   <string name="record_list">Aufnahmenliste</string>
   <string name="record_loading">Lade Aufnahme, bitte warte</string>
