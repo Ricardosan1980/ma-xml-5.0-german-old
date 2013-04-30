@@ -453,13 +453,8 @@
   <string name="v5_edit_mode_title_empty">Objekte überprüfen</string>
   <string name="v5_icon_menu_bar_more_item_label">Mehr</string>
   <string name="v5_select_all">Alles auswählen</string>
-<<<<<<< HEAD
-  <string name="v5_time_picker_label_hour">Stunde</string>
-  <string name="v5_time_picker_label_minute">Minute</string>
-=======
   <string name="v5_time_picker_label_hour">Std</srting>
   <string name="v5_time_picker_label_minute">Min</string>
->>>>>>> 3.4.28 and corrections
   <string name="valentines_day">Valentinstag</string>
   <string name="vernal_equinox">Frühlings Tagundnachtgleiche</string>
   <string name="volume_alarm">Alarm</string>
