@@ -88,7 +88,6 @@
   <string name="share">Teilen</string>
   <string name="share_text">MIUI V5 unterstützt Deatiübertragung ohne die Nutzung mobiler Daten. Nicht MIUI V5 Benutzer laden bitte: %1$s</string>
   <string name="summary_step_one">Sende Bilder, Musik, Kontakte und verschiedende andere Dateien</string>
-  <string name="summary_step_two">Lade Freunde ein, AnyShare zu installieren</string>
   <string name="summary_step_two">Lade Freunde ein, MiShare zu installieren</string>
   <string name="support_tip">MiShare stellt eine Anleitung zur Verfügung</string>
   <string name="title_step_one">1. Dateien können schnell und ohne mobile Daten zu verwenden übertragen werden.</string>
