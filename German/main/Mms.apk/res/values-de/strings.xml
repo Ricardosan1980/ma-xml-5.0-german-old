@@ -331,7 +331,7 @@
   <string name="send">Senden</string>
   <string name="send_signature_confirm_dialog_message">Es wurde keine Nachricht gefunden. Soll nur die Signatur gesendet werden?</string>
   <string name="send_signature_confirm_dialog_title">Senden bestätigen</string>
-  <string name="send_to">An: %1$s</string>
+  <string name="send_to">An: </string>
   <string name="send_to_count">%1$s Nachricht(en) gesendet</string>
   <string name="send_to_index_contact">Senden an %1$s von %2$s</string>
   <string name="sent_label">"Gesendet: "</string>
