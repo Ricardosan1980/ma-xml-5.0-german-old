@@ -103,9 +103,9 @@
   <string name="share_update_content_unsign">Ich habe MIUI auf %1$s aktualisiert! Mein Update-Rang ist %2$s. Für Changelog-Details bitte %3$s besuchen</string>
   <string name="sign_in_add_account">Bitte aktiviere Dein Xiaomi-Konto</string>
   <string name="sign_in_add_account_helper">Dein Telefon hat kein aktives MIUI-Konto. Füge eins hinzu, um Nutzerpunkte zu erhalten</string>
-  <string name="sign_in_info">"Dein Update-Rang ist %1$s. %2$s Nutzer haben sich für MIUI %3$s registriert"</string>
-  <string name="sign_in_info_rank_more">"Dein Update-Rang nach Update ist %1$s. Über %2$s haben sich für MIUI %3$s registriert"</string>
-  <string name="sign_in_info_total_more">"YDein Update-Rang nach Update ist %1$s. Über %2$s Nutzer haben sich für MIUI %3$s registriert"</string>
+  <string name="sign_in_info">"Dein Update-Rang ist %1$s.\n%2$s Nutzer haben sich für MIUI %3$s registriert"</string>
+  <string name="sign_in_info_rank_more">"Dein Update-Rang nach Update ist %1$s.\nÜber %2$s haben sich für MIUI %3$s registriert"</string>
+  <string name="sign_in_info_total_more">"Dein Update-Rang nach Update ist %1$s.\nÜber %2$s Nutzer haben sich für MIUI %3$s registriert"</string>
   <string name="stable_build">Stable Build</string>
   <string name="start_update">Update starten</string>
   <string name="submit">Absenden</string>
