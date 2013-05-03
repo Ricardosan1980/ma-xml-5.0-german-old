@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_to_receive">Empfange Datei(en)</string>
   <string name="about_to_send">Sende Datei(en)</string>
   <string name="app_name">Transfer</string>
   <string name="button_last">Beginne jetzt</string>
