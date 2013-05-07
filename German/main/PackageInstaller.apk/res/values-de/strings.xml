@@ -38,6 +38,9 @@
   <string name="other_relative">Andere Berechtigungen</string>
   <string name="out_of_space_dlg_text">%1$s konnte nicht installiert werden. Schaffe etwas Speicherplatz und versuche es erneut.</string>
   <string name="out_of_space_dlg_title">Kein Speicher mehr verfügbar</string>
+  <string name="perm_action_accept">Erlauben</string>
+  <string name="perm_action_prompt">Fragen</string>
+  <string name="perm_action_reject">Verbieten</string>
   <string name="perm_notice">Sicherheitswarnung</string>
   <string name="perm_privacy_app_finish">Abgeschlossen</string>
   <string name="perm_privacy_app_installed">Installation erfolgreich!</string>
@@ -67,4 +70,5 @@
   <string name="unknown">Unbekannt</string>
   <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen wurde Dein Telefon so eingestellt, dass Anwendungen von unsicheren Quellen nicht installiert werden können. Solltest Du Anwendungen von fremden Quellen installieren, so trägst Du alle Risiken bei Datenverlust oder Beschädigung. Du kannst dies auch unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen ändern."</string>
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
+  <string name="unknown_installer">Unbekannter Installer</string>
 </resources>

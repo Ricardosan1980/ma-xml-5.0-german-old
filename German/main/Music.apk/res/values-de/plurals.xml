@@ -37,8 +37,8 @@
         <item quantity="one">Playlist</item>
     </plurals>
     <plurals name="Nfolders">
-        <item quantity="other">" folders"</item>
-        <item quantity="one">" folder"</item>
+        <item quantity="other">" Ordner"</item>
+        <item quantity="one">" Ordner"</item>
     </plurals>
     <plurals name="Nitems_batch_selection">
         <item quantity="other">%d Objekte ausgewählt</item>

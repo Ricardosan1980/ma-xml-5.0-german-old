@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Kamera</string>
   <string name="access_sd_fail">"Auf die SD-Karte konnte nicht zugegriffen werden."</string>
   <string name="accessibility_back_to_first_level">Einstellungen schließen</string>
   <string name="accessibility_camera_picker">Front- und Rückkamera wechseln</string>
@@ -12,6 +11,8 @@
   <string name="accessibility_shutter_button">Auslöser</string>
   <string name="accessibility_switch">%1$s wechseln</string>
   <string name="accessibility_zoom_control">Zoom-Steuerung</string>
+  <string name="app_label">Kamera</string>
+  <string name="app_name">Kamera</string>
   <string name="bg_replacement_message">"Gerät auf ebenem Untergrund platzieren, einen Moment aus dem Bild gehen."</string>
   <string name="camera_disabled">Die Kamera wurde aufgrund von Sicherheitsrichtlinien deaktiviert.</string>
   <string name="camera_error_title">Kamerafehler</string>
