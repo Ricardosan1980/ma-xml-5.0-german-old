@@ -97,6 +97,9 @@
   <string name="ext_media_nomedia_notification_title">SD-Kartenspeicher entfernt</string>
   <string name="ext_media_safe_unmount_notification_message">Der SD-Kartenspeicher kann nun sicher entnommen werden.</string>
   <string name="ext_media_safe_unmount_notification_title">Sichere SD-Kartenspeicher-Entnahme</string>
+  <string name="ext_media_safe_remove">Medium sicher entnehmen</string>
+  <string name="ext_media_safe_unmount_notification_message">Du kansst die SD-Karte jetzt sicher entnehmen.</string>
+  <string name="ext_media_safe_unmount_notification_title">SD-Karte sicher zum entfernen</string>
   <string name="ext_media_unmountable_notification_message">SD-Kartenspeicher defekt. Du musst den Speicher eventuell neu formatieren.</string>
   <string name="ext_media_unmountable_notification_title">Defekter SD-Kartenspeicher</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
@@ -123,8 +126,8 @@
   <string name="notification_icon_filter_menu_item_hide">Keine Benachrichtigungen dieser Anwendung in der Statusleiste anzeigen</string>
   <string name="notification_icon_filter_menu_item_show">Zeige Benachrichtigungen dieser Anwendung in der Statusleiste</string>
   <string name="notification_icon_filter_mode">Steuerungs-Modus</string>
-  <string name="notification_icon_filter_mode_black_list">Blacklist</string>
-  <string name="notification_icon_filter_mode_white_list">Whitelist</string>
+  <string name="notification_icon_filter_mode_black_list">Schwarze Liste</string>
+  <string name="notification_icon_filter_mode_white_list">Weiße Liste</string>
   <string name="notification_icon_filter_other_list">Anwendungsliste</string>
   <string name="notification_icon_filter_settings">Benachrichtigungsliste</string>
   <string name="notification_icon_filter_settings_loading">Lädt, bitte warten...</string>
@@ -202,6 +205,8 @@
   <string name="status_bar_recent_inspect_item_title">Anwendungs-Info</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Aus der Liste entfernen</string>
+  <string name="status_bar_recording_back">Berühren um zum Rekorder zurückzukehren</string>
+  <string name="status_bar_recording_pause">"Aufnahme wurde angehalten."</string>
   <string name="status_bar_settings_airplane">Flugzeug-Modus</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Auto-Bildschirmdrehung</string>

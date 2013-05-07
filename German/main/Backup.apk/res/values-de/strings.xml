@@ -170,8 +170,12 @@
   <string name="task_restore_cancel_progress">Wird abgebrochen...</string>
   <string name="task_restore_finished_local">Wiederherstellung abgeschlossen</string>
   <string name="task_restore_none">Wiederherstellung nicht erforderlich</string>
+  <string name="task_running_backup_dialog">Sicherung läuft im Hintergrund, zum Ansehen \"OK\" berühren.</string>
+  <string name="task_running_backup_hint">Dienst läuft im Hintergrund, bitte noch einmal versuchen!</string>
   <string name="task_running_dialog">Hintergrundsicherung und -wiederherstellung ist im Gange. Zum Ansehen \"OK\" berühren</string>
   <string name="task_running_hint">Dienst läuft im Hintergrund. Bitte versuche erneut, diese Sicherung wiederherzustellen!</string>
+  <string name="task_running_restore_dialog">Hintergrundwiederherstellung ist im Gange, zum Ansehen \"OK\" berühren.</string>
+  <string name="task_running_restore_hint">Dienst läuft im Hintergrund, bitte noch einmal versuchen!</string>
   <string name="task_service_not_launched">Dienst noch nicht gestartet. Bitte warte!</string>
   <string name="task_stopped_exception">Auftrag abgebrochen</string>
   <string name="total_num">Insgesamt %d Aufnahmen</string>

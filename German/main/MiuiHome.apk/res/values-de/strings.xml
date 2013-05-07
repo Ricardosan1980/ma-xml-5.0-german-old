@@ -53,7 +53,7 @@
   <string name="free_style_edit_drawer">Drawer</string>
   <string name="free_style_edit_move_tip">Zum Bewegen lange drücken</string>
   <string name="free_style_edit_tab_free_component">Freie Komponenten</string>
-  <string name="free_style_edit_tab_shortcut">Shortcuts</string>
+  <string name="free_style_edit_tab_shortcut">Verknüpfungen</string>
   <string name="free_style_edit_tab_widget">Widgets</string>
   <string name="free_style_enter_tip">Mit zwei Fingern nach unten wischen, um MiSpace zu aktivieren</string>
   <string name="free_style_exit_tip">Mit zwei Fingern nach oben wischen, um MiSpace zu beenden</string>
@@ -63,6 +63,7 @@
   <string name="gadget_clock_22_label">Uhr 2x2</string>
   <string name="gadget_clock_24_label">Uhr 2x4</string>
   <string name="gadget_error_text">Problem beim Laden des Widgets</string>
+  <string name="gadget_google_search_label">Google Suche</string>
   <string name="gadget_load_error">Fehler beim Laden des Widgets...</string>
   <string name="gadget_photo_22_label">Bilderrahmen 2x2</string>
   <string name="gadget_photo_24_label">Bilderrahmen 2x4</string>
@@ -83,6 +84,8 @@
   <string name="group_folder">Neuer Ordner</string>
   <string name="group_live_folders">Ordner</string>
   <string name="group_shortcuts">Verknüpfungen</string>
+  <string name="guide_install_app_msg">App nicht installiert. Jetzt im Markt nach App suchen?</string>
+  <string name="guide_install_app_title">Installiere App</string>
   <string name="guide_tips_editing_mode">Halte das folgende Widget, um es auf den Bildschirm zu bewegen</string>
   <string name="home_indicator">bottom_point</string>
   <string name="install">Installieren</string>
@@ -125,6 +128,7 @@
   <string name="pref_icon_shadow_title">Symbolschatten</string>
   <string name="pref_keep_in_memory_summary">Verhindert, dass der Launcher beendet wird, wenn wenig Speicher verfügbar ist.</string>
   <string name="pref_keep_in_memory_title">Im Speicher behalten</string>
+  <string name="pref_keep_layout_summary">Ändern der Symbolanordnung könnte ihre Desktopanordnung verändern.</string>
   <string name="pref_keep_layout_title">Derzeitiges Layout behalten</string>
   <string name="pref_render_in_truecolor_summary">Durch Ausschalten dieser Option wird die Drawing-Performance verbessert.</string>
   <string name="pref_render_in_truecolor_title">Hochaufgelöste Grafiken</string>

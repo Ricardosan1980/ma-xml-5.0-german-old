@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="advanced">Fortgeschritten</string>
+  <string name="advanced">Erweitert</string>
   <string name="app_name">Rechner</string>
   <string name="basic">Einfach</string>
   <string name="clear">C</string>
@@ -52,7 +52,7 @@
   <string name="plus">+</string>
   <string name="plusDesc">Addieren</string>
   <string name="power">^</string>
-  <string name="powerDesc">power</string>
+  <string name="powerDesc">Potenz</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">Rechte Klammer</string>
   <string name="scientific">Wissenschaftlich</string>
@@ -63,7 +63,7 @@
   <string name="sqrtDesc">Quadratwurzel</string>
   <string name="standard">Standard</string>
   <string name="tan">tan</string>
-  <string name="tanDesc">Tangente</string>
+  <string name="tanDesc">Tangens</string>
   <string name="tan_mathematical_value">tan</string>
   <string name="text_copied_toast">Text in Zwischenablage kopiert.</string>
 </resources>

@@ -30,7 +30,7 @@
   <string name="low_battery_warning">Unerwartetes Herunterfahren kann zu Aufnahmeverlust führen. Es wird empfohlen, nur mit voll aufgeladenem Akku aufzunehmen.</string>
   <string name="mark_now">(Aktuell)</string>
   <string name="max_length_reached">Maximale Länge erreicht</string>
-  <string name="menu_setting">Einstellungen</string>
+  <string name="menu_settings">Einstellungen</string>
   <string name="menu_view_record_list">Alle Aufnahmen</string>
   <string formatted="false" name="minute">%d Minute</string>
   <string name="no_file">Keine Aufnahmen</string>

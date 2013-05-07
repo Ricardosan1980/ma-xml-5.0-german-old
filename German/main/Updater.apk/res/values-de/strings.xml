@@ -13,6 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Abbrechen</string>
   <string name="apply_update_dialog_update_button">Aktualisieren</string>
   <string name="apply_update_fail">System-Aktualisierung fehlgeschlagen</string>
+  <string name="apply_update_timer">Aktualisierung vollständig，Gerät wird in %d Sekunden neu starten.</string>
   <string name="apply_upload_info_message">Ein Druck auf "Aktualisieren" startet das Telefon neu und beginnt mit der Aktualisierung</string>
   <string name="apply_upload_info_message_manually">Nach dem Ausschalten kannst Du manuell ins Recovery-Menü um ein Update von der SD-Karte auszuführen. Wenn Du vorher ein Backup machen möchtest, dann kannst Du dies machen und danach zur Aktualisierung zurückkehren</string>
   <string name="applying_rom_message">Aktualisierung wird durchgeführt</string>
@@ -85,6 +86,8 @@
   <string name="paused_queued_for_network">Warte auf Netzwerkverbindung</string>
   <string name="paused_queued_for_wifi">Warte auf WLAN-Verbindung</string>
   <string name="previous">Zurück</string>
+  <string name="reboot_later">Später neu starten</string>
+  <string name="reboot_now">Jetzt neu starten</string>
   <string name="reboot_to_new_system">Neustart zur neuen Version</string>
   <string name="recommend">Empfehlen</string>
   <string name="recommend_comment_hint">Grund (optional)</string>
@@ -96,6 +99,7 @@
   <string name="sdcard_is_not_present_dialog_title">SD-Karte nicht gefunden</string>
   <string name="send_install_log">Fehler-Log schicken</string>
   <string name="send_install_log_error">Fehler beim versenden des Fehler-Logs</string>
+  <string name="share">Teilen</string>
   <string name="share_qq">Mit Tencent senden</string>
   <string name="share_sina">Mit Sina senden</string>
   <string name="share_update">Info über System-Aktualisierung teilen</string>
@@ -112,8 +116,11 @@
   <string name="submit_fail">Konnte nicht abgesendet werden</string>
   <string name="submit_progress">Absenden...</string>
   <string name="submit_success">Erfolgreich abgesendet, Dankeschön!</string>
+  <string name="system_backup_apply_helper">Gerät wird automatisch neu starten um die Aktualisierung anzuwenden</string>
+  <string name="system_backup_ask">Nocheinmal fragen</string>
   <string name="system_backup_button_text">Vor dem Update eine Sicherung durchführen</string>
   <string name="system_backup_cancel_text">Ins Update neu starten</string>
+  <string name="system_backup_download_helper">Nach dem herunterladen, wird das Gerät zur Aktualisierung automatisch neu gestartet.</string>
   <string name="system_backup_error_message">MIUI-Sicherung wurde nicht gefunden, bitte manuell sichern</string>
   <string name="system_backup_ok_text">Sichern</string>
   <string name="sytemt_backup_helper">Eine System-Aktualisierung löscht keine Nutzerdaten. Es wird dennoch empfohlen, Deine Nutzerdaten zu sichern, bevor Du aktualisierst</string>

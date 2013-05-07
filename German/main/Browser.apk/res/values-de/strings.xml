@@ -171,6 +171,7 @@
   <string name="go_home">Startseite</string>
   <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Los</string>
+  <string name="have_sent_bookmark_to_home_screen">Lesezeichen zum Home-Screen hinzugefügt</string>
   <string name="history">Verlauf</string>
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Startseite festgelegt</string>
@@ -192,6 +193,7 @@
   <string name="import_bookmarks_wizard_next">Weiter</string>
   <string name="import_bookmarks_wizard_previous">Zurück</string>
   <string name="importing_favorite_files">Daten werden importiert...</string>
+  <string name="in_incognito">Incognito-Modus ist aktiv, es wird keine Browser-History gespeichert.</string>
   <string name="instant_search_label">Google mit Instant (Labs)</string>
   <string name="is_first_history_item">Ist das erste Verlaufselement</string>
   <string name="is_first_tab">Ist der erste Tab</string>
@@ -221,6 +223,7 @@
   <string name="new_tab">Neuer Tab</string>
   <string name="no_subfolders">Keine Unterordner.</string>
   <string name="not_remind_again">Erinnere mich nicht mehr daran</string>
+  <string name="notif_install_successful">Download erfolgreich</string>
   <string name="ok">Ok</string>
   <string name="open_all_bookmarks">Alle öffnen</string>
   <string name="open_all_in_new_window">Alle in neuen Tabs öffnen</string>
@@ -301,6 +304,7 @@
   <string name="pref_force_userscalable_summary">"Überschreibt die Anfrage einer Webseite, das Zoom-Verhalten zu kontrollieren"</string>
   <string name="pref_general_autofill_title">AutoFill</string>
   <string name="pref_general_exit_setting_title">Einstellungen beenden</string>
+  <string name="pref_general_setting_title">Einstellungen</string>
   <string name="pref_general_sync_title">Synchronisation</string>
   <string name="pref_general_title">Allgemein</string>
   <string name="pref_gesture_title">Gesten-Vorgänge</string>
@@ -356,6 +360,7 @@
   <string name="pref_security_show_security_warning">Sicherheitswarnungen anzeigen</string>
   <string name="pref_security_show_security_warning_summary">"Eine Warnung zeigen, wenn ein Problem mit der Sicherheit einer Seite besteht"</string>
   <string name="pref_set_homepage_to">Festlegen als</string>
+  <string name="pref_setting_title">Seiten-Einstellungen</string>
   <string name="pref_text_zoom">Textskalierung</string>
   <string name="pref_ua_mione_entry">Mi-one</string>
   <string name="pref_ua_mione_value">6</string>
@@ -387,6 +392,7 @@
   <string name="removed_from_bookmarks">Aus den Lesezeichen entfernt.</string>
   <string name="replace">Ersetzen</string>
   <string name="report_reading_mode_issue">Lesemodus-Problem an MIUI berichten</string>
+  <string name="return_to_homepage">Zur Homepage zurück</string>
   <string name="rlz_access_point">Y1</string>
   <string name="save">Ok</string>
   <string name="save_to_bookmarks">Zu den Lesezeichen speichern</string>
@@ -432,6 +438,7 @@
   <string name="tab_history">Verlauf</string>
   <string name="tab_most_visited">Meist besucht</string>
   <string name="tab_opened_background">Tab wurde im Hintergrund geöffnet.</string>
+  <string name="tab_opened_background_in_incognito">Neues Incognito-Fenster geöffnet</string>
   <string name="tab_quicklinks">Nützliche Links</string>
   <string name="tab_snapshots">Gespeicherte Seiten</string>
   <string name="tab_yellowpage">Gelbe Seiten</string>

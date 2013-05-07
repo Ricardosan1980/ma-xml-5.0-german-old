@@ -43,5 +43,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Jetzt senden</string>
   <string name="wlan_unavailable_dialog_content">%s wird an 2G/3G-Daten verwendet. Bitte berühre\"OK\", um nur über ein verbundenes WLAN-Netzwerk zu senden</string>
   <string name="wlan_unavailable_dialog_title">WLAN nicht verfügbar</string>
-
 </resources>

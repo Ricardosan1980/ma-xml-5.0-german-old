@@ -46,6 +46,7 @@
   <string name="context_call">Anrufen</string>
   <string name="context_ms">Nachricht senden</string>
   <string name="context_new_contact">Neuer Kontakt</string>
+  <string name="custom_mark_category">Eigene</string>
   <string name="edit_blacklist">Notiz bearbeiten</string>
   <string name="edit_whitelist">Notiz bearbeiten</string>
   <string name="emptylist_fwlog_call">Alle blockierten Anrufe werden hier aufgelistet.</string>

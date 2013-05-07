@@ -130,9 +130,10 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (alle Zertifikate akzeptieren)</string>
   <string name="account_setup_incoming_title">Kontoeinrichtung</string>
   <string name="account_setup_incoming_username_label">Nutzername</string>
-  <string name="account_setup_names_account_name_label">Konto benennen (optional)</string>
+  <string name="account_setup_index_label">Aus der Liste der E-Mail-Anbieter wählen:</string>
   <string name="account_setup_index_other_mails">Andere E-Mail-Konten</string>
-  <string name="account_setup_index_title">Anleitung zur Kontenerstellung</string>
+  <string name="account_setup_index_title">Anleitung zur Kontoeinrichtung</string>
+  <string name="account_setup_names_account_name_label">Konto benennen (optional)</string>
   <string name="account_setup_names_headline">Dein Konto ist jetzt eingerichtet.</string>
   <string name="account_setup_names_title">Kontoeinrichtung</string>
   <string name="account_setup_names_user_name_empty_error">Dieses Feld darf nicht leer sein.</string>
@@ -306,6 +307,12 @@
   <string name="mailbox_name_display_sent">Gesendet</string>
   <string name="mailbox_name_display_trash">Papierkorb</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
+  <string name="mailbox_name_server_drafts">Entwürfe</string>
+  <string name="mailbox_name_server_inbox">Posteingang</string>
+  <string name="mailbox_name_server_junk">Spam</string>
+  <string name="mailbox_name_server_outbox">Postausgang</string>
+  <string name="mailbox_name_server_sent">Gesendet</string>
+  <string name="mailbox_name_server_trash">Papierkorb</string>
   <string name="mailbox_preferences_header">Synchronisierungseinstellungen</string>
   <string name="mailbox_settings_action">Synchronisierungsoptionen</string>
   <string name="mailbox_settings_activity_title">Synchronisierungsoptionen</string>
