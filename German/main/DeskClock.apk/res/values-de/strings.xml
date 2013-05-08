@@ -44,6 +44,7 @@
   <string name="clock_instructions">Wähle eine Uhr</string>
   <string name="close_alarm">Wähle einen Alarm</string>
   <string name="common_settings">Allgemeine Einstellungen</string>
+  <string name="confirm_abort">Abbrechen</string>  
   <string name="control_set_alarm">Wecker stellen</string>
   <string name="control_set_alarm_with_existing">Wecker gestellt: %s</string>
   <string name="day">1 Tag</string>
@@ -88,6 +89,8 @@
   <string name="holiday_update_pref_invalidate_title">Werktags-Daten aktualisieren (abgelaufen)</string>
   <string name="holiday_update_pref_summary">Prüfe auf Aktualisierung</string>
   <string name="holiday_update_pref_title">Werktags-Daten Aktualisierung</string>
+  <string name="holiday_update_summary">Prüfe auf Aktualisierungen</string>
+  <string name="holiday_update_title">Aktualisieren benötigt eine Netzwerkverbindung</string>
   <string name="home_button_description">Launcher</string>
   <string name="hour">1 Stunde</string>
   <string name="hour_unit">Std</string>

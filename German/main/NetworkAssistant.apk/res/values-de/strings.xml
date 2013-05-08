@@ -135,11 +135,13 @@
   <string name="traffic_settings_error">Es wurde ein Fehler mit Deinen Einstellungen für das monatliche Datenvolumen festgestellt. In Anbetracht Deiner Einstellungen und der Mobilfunkanbieter-SMS, beträgt Dein monatliches Datenvolumen: %1$s und Dein übriges Datenvolumen: %2$s.</string>
   <string name="traffic_suffix">Verbrauch</string>
   <string name="traffic_suffix_with_uint">Verbrauch (MB)</string>
-  <string name="traffic_total">Insgesamt: %s</string>
-  <string name="traffic_used_status">Verbraucht: %s</string>
+  <string name="traffic_total">"Gesamt: 
+%s"</string>
+  <string name="traffic_used_status">"Verbraucht: 
+%s"</string>
   <string name="unknown">unbekannt</string>
   <string name="unknown_free_traffic_hint">"Falls Du Dein Datenvolumen nicht weisst, informiere Dich bitte bei Deinem Mobilfunkanbieter"</string>
-  <string name="unknown_free_traffic_text">"Ich weiß mein Datenvolumen nicht?"</string>
+  <string name="unknown_free_traffic_text">"Datenvolumen unbekannt?"</string>
   <string name="unknown_free_traffic_title">Unbekanntes Datenvolumen</string>
   <string name="unknown_location">Unbekannter Standort</string>
   <string name="unknown_traffic_hint">Unbekanntes Datenvolumen. Soll dies jetzt festgelegt werden?</string>
