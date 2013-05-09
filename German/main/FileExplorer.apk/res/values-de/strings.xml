@@ -144,7 +144,6 @@ Junk"</string>
   <string name="move_failed">Verschieben fehlgeschlagen</string>
   <string name="multi_select_title">%1$s Element(e) ausgewählt</string>
   <string name="name_illegal">Dateiname kann nicht leer sein</string>
-  <string name="multi_select_title">%1$s Element(e) ausgewählt</string>
   <string name="net_lose_connected">Netzwerk nicht verfügbar, Größe kann nicht abgefragt werden</string>
   <string name="networkView_notConnected">Kein Netzwerk verfügbar</string>
   <string name="networkView_offline">Offline-Modus, Ordneraktualisierung deaktiviert</string>
