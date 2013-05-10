@@ -79,7 +79,7 @@
   <string name="android_beam_on_summary">Bereit, Anwendungsinhalte via NFC zu senden</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_witch_label">Aktiviere Android Beam</string>
-  <string name="animator_duration_scale_title">Animations-Skala anpassen</string>
+  <string name="animator_duration_scale_title">Animator-Dauer anpassen</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Authentifizierungs-Typ</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -1680,7 +1680,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="show_rounded_corners_summary">Ein Neustart ist erforderlich, damit die Änderungen wirksam werden</string>
   <string name="show_running_services">Zeige laufende Dienste</string>
   <string name="show_screen_updates">Zeige Bildschirm-Aktualisierungen</string>
-  <string name="show_screen_updates_summary">Teile des Bildschirms flackern während der Aktualisierung</string>
+  <string name="show_screen_updates_summary">Bildschirmflackern während der Aktualisierung</string>
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Zeige visuelles Feedback für Berührungen</string>
   <string name="silent_mode_title">Lautlos-Modus</string>
@@ -1833,9 +1833,9 @@ Verbleibende Versuche :"</string>
   <string name="total_size">%s (insgesamt)</string>
   <string name="total_size_label">Insgesamt</string>
   <string name="track_frame_time">Profile GPU-Rendering</string>
-  <string name="track_frame_time_summary">Messe Rendering-Zeit in adb-Shell dumpsys gfxinfo</string>
+  <string name="track_frame_time_summary">Messe Rendering-Zeit mit \"adb shell dumpsys gfxinfo\"</string>
   <string name="trackball_settings">Trackball</string>
-  <string name="trackball_wake_title">Trackball aufwecken</string>
+  <string name="trackball_wake_title">Mit Trackball aufwecken</string>
   <string name="transition_animation_scale_title">Übergangs-Animations-Skala</string>
   <string name="trust_switch_dialog_msg">"MIUI wird nicht nach einer Bestätigung für sicherheitsrelevante Vorgänge dieser Anwendung fragen. Dieser Anwendung vertrauen?"</string>
   <string name="trusted_credentials">Vertrauenswürdige Zertifikate</string>
