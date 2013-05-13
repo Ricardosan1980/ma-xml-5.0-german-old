@@ -4,7 +4,6 @@
   <string name="action_fail_unknown_error">Vorgang wegen unbekannten Fehlers gescheitert.</string>
   <string name="activity_not_found">Keine Anwendung verfügbar, die diese Aktion ausführen kann.</string>
   <string name="add_account">Benutzerkonto hinzufügen</string>
-  <string name="add_sharer">Zu \"Shared\" hinzufügen</string>
   <string name="add_to_cloud_album">Zur Cloud hinzufügen</string>
   <string name="add_to_cloud_folder">Zu Cloud-Ordner hinzufügen</string>
   <string name="albums">Alben</string>
@@ -29,7 +28,6 @@
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Hintergrundbild</string>
   <string name="camera_view_none_message">Aufgenommene Bilder werden hier angezeigt.</string>
-  <string name="can_modified">Erlaube Aktuallisierung</string>
   <string name="cancel">Abbrechen</string>
   <string name="cant_delete_system_album">%s ist ein Systemalbum und kann nicht gelöscht werden!</string>
   <string name="cleaning_cache">Zwischenspeicher leeren...</string>
@@ -118,7 +116,6 @@
   <string name="group_by_album">Album</string>
   <string name="group_by_faces">Personen</string>
   <string name="group_by_location">Standort</string>
-  <string name="group_by_size">Größe</string>
   <string name="group_by_tags">Schlagworte</string>
   <string name="group_by_time">Zeit</string>
   <string name="height">Höhe</string>
@@ -162,7 +159,6 @@
   <string name="mimetype">MIME-Typ</string>
   <string name="miui_capture_screen_folder_display_name">Bildschirmfotos</string>
   <string name="model">Modell</string>
-  <string name="modify_cloud_settings">MiCloud-Einstellungen</string>
   <string name="more">Weitere</string>
   <string name="move_to_cloud_album">In Cloud verschieben</string>
   <string name="multiface_crop_help">Ein Gesicht berühren, um zu beginnen.</string>
@@ -171,7 +167,6 @@
   <string name="no">Nein</string>
   <string name="no_albums_alert">Keine Alben verfügbar.</string>
   <string name="no_connectivity">"Einige Standorte konnten aufgrund von Netzwerkproblemen nicht identifiziert werden."</string>
-  <string name="no_file">Es wurden keine Dateien gefunden</string>
   <string name="no_location">Es wurde kein Standort gefunden</string>
   <string name="no_map_app">Es wurde keine Karten-Anwendung gefunden</string>
   <string name="no_network_connected">Es ist keine Netzwerkverbindung verfügbar</string>
@@ -211,7 +206,6 @@
   <string name="save_photo">Bearbeitetes Foto speichern?</string>
   <string name="saving_failure">Foto kann nicht gespeichert werden</string>
   <string name="saving_image">Bild wird gespeichert...</string>
-  <string name="scan_qr_code">Teile QR-Code mit Freunden um das Teilen von Dateien zu ermöglichen</string>
   <string name="sd_not_available">SD-Karte ausgehängt oder nicht verfügbar</string>
   <string name="seconds">Sekunden</string>
   <string name="select_album">Album auswählen</string>
@@ -235,13 +229,6 @@
   <string name="settings">Einstellungen</string>
   <string name="settings_i_xiaomi_com">Melde Dich bei i.xiaomi.com an, um Deinen Cloud-Speicher zu verwalten</string>
   <string name="shadow">Schatten</string>
-  <string name="share_album">Teile Album</string>
-  <string name="share_album_owner">Geteilt</string>
-  <string name="share_album_qr_code">QR-Code</string>
-  <string name="share_album_share_to">Teile mit</string>
-  <string name="sharer_status_accepted">Akzeptiert</string>
-  <string name="sharer_status_refused">Abgewiesen</string>
-  <string name="sharer_status_waitting">Warten</string>
   <string name="sharpen">Schärfen</string>
   <string name="show_all">Bilder und Videos</string>
   <string name="show_hidden_album">Ausgeblendete Alben anzeigen</string>

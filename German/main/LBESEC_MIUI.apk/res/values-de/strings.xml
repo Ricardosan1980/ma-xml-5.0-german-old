@@ -147,7 +147,6 @@
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Standard-SMS-Center</string>
   <string name="HIPS_Perm_SendSMS_Text">SMS an %1$s senden</string>
   <string name="HIPS_Perm_SilenceRinger">Den Klingelton stumm schalten</string>
-  <string name="HIPS_Perm_Title">Berechtigungen</string>
   <string name="HIPS_Perm_WIFINetwork">WLAN</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Auf das Internet über WLAN zugreifen</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s Anwendungen haben die Berechtigung, auf das Internet zuzugreifen</string>

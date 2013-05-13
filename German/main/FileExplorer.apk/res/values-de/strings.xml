@@ -201,7 +201,6 @@ Junk"</string>
   <string name="paused">Angehalten</string>
   <string name="remote_management">FTP</string>
   <string name="query_bind_state">Statusabfrage, bitte warten...</string>
-  <string name="release_space_indication">Finde Junk-Dateien</string>
   <string name="rename_description">Wird umbenannt. Bitte warten...</string>
   <string name="rename_failed">Umbenennen von《%1$s》fehlgeschlagen</string>
   <string name="restart_cleaning">Neustart</string>

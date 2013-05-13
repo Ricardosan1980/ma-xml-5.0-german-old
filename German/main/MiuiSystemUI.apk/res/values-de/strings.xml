@@ -95,7 +95,6 @@
   <string name="ext_media_nofs_notification_title">Leerer SD-Kartenspeicher</string>
   <string name="ext_media_nomedia_notification_message">SD-Kartenspeicher entfernt. Bitte neues Medium einlegen.</string>
   <string name="ext_media_nomedia_notification_title">SD-Kartenspeicher entfernt</string>
-  <string name="ext_media_safe_remove">Medium sicher entnehmen</string>
   <string name="ext_media_safe_unmount_notification_message">Du kansst die SD-Karte jetzt sicher entnehmen.</string>
   <string name="ext_media_safe_unmount_notification_title">SD-Karte sicher zum entfernen</string>
   <string name="ext_media_unmountable_notification_message">SD-Kartenspeicher defekt. Du musst den Speicher eventuell neu formatieren.</string>

@@ -136,7 +136,6 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="clear_default">Standardwerte löschen</string>
   <string name="click_close">Zum Schließen berühren</string>
   <string name="cloud_antispam_mark">Spam</string>
-  <string name="cloud_antispam_summary">Filtere Anrufe und Nachrichten über WLAN und Daten-Netzwerke</string>
   <string name="cloud_antispam_title">Cloud-Wächter</string>
   <string name="composer_failed_to_get_database_infomation">"Datenbankinformationen konnten nicht abgerufen werden"</string>
   <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Deinem Telefon befinden, wurde für diese das Exportieren außerhalb das Telefons eventuell von manchen Datenanbietern verboten.</string>
@@ -412,7 +411,6 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="import_weibo_fetch_followers">Sina Weibo Followers wiederherstellen…</string>
   <string name="import_weibo_notification_title">Importiere Sina Weibo Kontakte…</string>
   <string name="import_weibo_notification_title_done">Import abgeschlossen</string>
-  <string name="import_weibo_progress_hint">Importiere…</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title">Importieren von %s wurde abgebrochen</string>
@@ -425,11 +423,10 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="keep_local_btn">Nur am Telefon sichern</string>
   <string name="label_custom_type">Benutzerdefiniert</string>
   <string name="label_duplicate_count">(%1$d)</string>
-  <string name="label_no_duplicate_contacts">Keine doppelten Kontakte</string>
+  <string name="label_no_duplicate_contacts">Hurra! Derzeit keine doppelten Kontakte</string>
   <string name="label_notes">Notizen</string>
   <string name="label_sip_address">Internetanruf</string>
   <string name="launcherDialer">Telefon</string>
-  <string name="listAllContactsInAccount">\"%s\"-Kontakte</string>
   <string name="listCustomView">Kontakte aus eigener Auswahl</string>
   <string name="listFoundAllContactsZero">Nicht gefunden</string>
   <string name="listSingleContact">Einzelner Kontakt</string>
