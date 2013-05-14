@@ -92,7 +92,7 @@
   <string name="plate_traffic_already_used">Verbraucht</string>
   <string name="plate_traffic_exceed">Überschritten</string>
   <string name="plate_traffic_remain">Übrig</string>
-  <string name="powered_by">Technische Unterstützung von MIUI.com bereitgestellt</string>
+  <string name="powered_by">Technische Unterstützung bereitgestellt von MIUI.com</string>
   <string name="pref_category_adjust_traffic">Datenverbrauch einstellen</string>
   <string name="pref_connect_settings_enable_backgroung">Hintergrunddienste aktivieren</string>
   <string name="pref_connect_settings_enable_backgroung_hint">Erlaubt eine automatische Verbindung zum Netzwerk, wenn die App im Hintergrund läuft</string>
@@ -115,7 +115,7 @@
   <string name="settings_page_traffic_summary_no_settings">Paket nicht eingestellt. Abrechnungstag: %d. Tag im Monat</string>
   <string name="sms_match_fail">Anpassen der SMS fehlgeschlagen</string>
   <string name="sms_template_match_fail">Anpassen des SMS-Templates fehlgeschlagen</string>
-  <string name="sms_template_updated_label">"Aktualisieren: "</string>
+  <string name="sms_template_updated_label">"Aktualisiert: "</string>
   <string name="sort_dialog_title">Sortieren</string>
   <string name="sorted_flux">Statistik</string>
   <string name="stop_app_button">Schließen</string>

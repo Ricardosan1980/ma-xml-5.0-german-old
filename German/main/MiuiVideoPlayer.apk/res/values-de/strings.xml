@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_app_name">MiPlayer</string>
+  <string name="about_app_name" />
+  <string name="about_developer_label">Entwickler</string>
+  <string name="about_developer_name" />
   <string name="about_title">Über</string>
-  <string name="about_version">V4.0</string>
+  <string name="about_version" />
+  <string name="about_version_label">Version:</string>
   <string name="adjust_position_next_media_notice">Vor</string>
   <string name="adjust_position_prev_media_notice">Zurück</string>
   <string name="airkan_control_device_des">Steuere die Wiedergabe mit dem unteren Button</string>

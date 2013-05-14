@@ -35,28 +35,18 @@
   <string formatted="false" name="minute">%d Minute</string>
   <string name="no_file">Keine Aufnahmen</string>
   <string name="notification_playback">Aufnahme wird wiedergegeben...</string>
-  <string name="notification_playback_paused">Wiedergabe angehalten...</string>
   <string name="notification_recording">Wird aufgenommen...</string>
   <string name="notification_stopped">Aufnahme wurde beendet</string>
   <string formatted="false" name="notification_warning">Wenig Speicherplatz (weniger als %d Minuten)...</string>
   <string name="open_file_explorer">Datei-Explorer öffnen</string>
   <string formatted="false" name="overwrite_dialog_message">%s ist bereits vorhanden. Soll dies überschrieben werden?</string>
-  <string name="prefDefault_recordType">audio/3gpp</string>
-  <string name="prefDialogTitle_recordType">Bitte wählen Sie den Dateityp aus</string>
-  <string name="pref_summary_enable_high_quality">Audio-Dateien mit hoher Qualität werden eine größere Dateigröße haben</string>
-  <string name="pref_summary_enable_sound_effect">Toneffekt abspielen, wenn der Aufnahmestatus geändert wurde</string>
-  <string name="pref_title_enable_high_quality">Hohe Qualität aktivieren</string>
-  <string name="pref_title_enable_sound_effect">Toneffekt aktivieren</string>
-  <string name="pref_title_record_type">Aufnahme-Dateityp</string>
   <string name="preference_led_indicator">Anzeige wenn Bildschirm gesperrt</string>
   <string name="preference_led_indicator_prompt">LED und Statuszeilenanzeige während der Aufnahme, wenn der Bildschirm gesperrt ist</string>
   <string name="preference_silent_mode">Lautlose Aufnahme</string>
   <string name="preference_silent_mode_summary">Einschalten um die lautlose Aufnahme zu aktivieren</string>
-  <string name="preferences_title">Einstellungen</string>
   <string name="record_list">Aufnahmenliste</string>
   <string name="record_loading">Lade Aufnahme, bitte warte</string>
-  <string name="record_name_hour">.</string>
-  <string name="record_name_minute">Min</string>
+  <string name="record_name_hour">:</string>
   <string name="record_picker_title">Aufnahme auswählen</string>
   <string name="record_saving">Aufnahme wird gespeichert. Bitte warten...</string>
   <string name="recording">Wird aufgenommen...</string>
@@ -72,7 +62,6 @@
   <string name="status_bar_anti_disturb">Telefon wurde stummgeschaltet, zur Wiederaufnahme Lautstärke anpassen.</string>
   <string name="status_bar_back">Berühren, um zur Aufnahme zurückzukehren</string>
   <string name="status_bar_recording">Nimmt auf...</string>
-  <string name="status_bar_recording_back">Berühren, um zur Aufnahme zurückzukehren</string>
   <string name="status_bar_recording_pause">"Aufnahme wurde angehalten."</string>
   <string name="storage_is_full">Speicher ist voll</string>
   <string formatted="false" name="timer_format">%02d:%02d</string>

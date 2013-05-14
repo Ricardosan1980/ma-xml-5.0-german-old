@@ -14,7 +14,7 @@
   <string name="addPeopleToGroup">Gruppe bearbeiten, um Leute hinzuzufügen.</string>
   <string name="add_2sec_pause">2-Sekunden-Pause einfügen</string>
   <string name="add_account">Benutzerkonto hinzufügen</string>
-  <string name="add_blacklist">Zur Blacklist hinzufügen</string>
+  <string name="add_blacklist">Zur Schwarzen Liste hinzufügen</string>
   <string name="add_connection_button">Verbindung hinzufügen</string>
   <string name="add_contact_dlg_message_fmt">\"%s\" zu den Kontakten hinzufügen?</string>
   <string name="add_field">Weiteres Feld hinzufügen</string>
@@ -47,8 +47,8 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="btn_split_contact">Kontakt trennen</string>
   <string name="button_cancel_scan">Anhalten</string>
   <string name="button_scan">Erneut scannen</string>
-  <string name="caching_vcard_message">Der Importer speichert vCards im lokalen Zwischenspeicher. Der eigentliche Import beginnt in Kürze.</string>
-  <string name="caching_vcard_title">vCards im lokalen Zwischenspeicher gespeichert</string>
+  <string name="caching_vcard_message">vCards in Telefonspeicher laden...</string>
+  <string name="caching_vcard_title">Laden...</string>
   <string name="callAgain">Wahlwiederholung</string>
   <string name="callBack">Zurückrufen</string>
   <string name="callDetailTitle">Anrufdetails</string>
@@ -59,7 +59,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="call_car">Auto anrufen</string>
   <string name="call_company_main">Firma anrufen</string>
   <string formatted="false" name="call_custom">%s anrufen</string>
-  <string name="call_disambig_title">Anrufen via</string>
+  <string name="call_disambig_title">Nummer auswählen</string>
   <string name="call_fax_home">Fax (Zuhause) anrufen</string>
   <string name="call_fax_work">Fax (Arbeit) anrufen</string>
   <string name="call_home">Zuhause anrufen</string>
@@ -82,7 +82,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="call_work">Arbeit anrufen</string>
   <string name="call_work_mobile">Mobil (Arbeit) anrufen</string>
   <string name="call_work_pager">Pager (Arbeit) anrufen</string>
-  <string name="calllog_menu_blacklist">Zur Blacklist hinzufügen</string>
+  <string name="calllog_menu_blacklist">Zur Schwarzen Liste hinzufügen</string>
   <string name="calllog_menu_edit_before_call">Vor dem Anrufen bearbeiten</string>
   <string name="calllog_menu_send_sms">Eine Nachricht senden</string>
   <string name="callrecordview_item_newcontact">Neuer Kontakt</string>
@@ -128,7 +128,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="check_unsynchronized_accounts">Nicht synchronisierte Kontakte überprüfen</string>
   <string name="checkhint">Überprüfe anderes Telefon</string>
   <string name="clearCallLogConfirmation">Soll die gesamte Anrufliste gelöscht werden?</string>
-  <string name="clearCallLogConfirmation_title">Anrufliste löschen</string>
+  <string name="clearCallLogConfirmation_title">Gesamte Anrufliste löschen?</string>
   <string name="clearCallLogProgress_title">Anrufliste wird gelöscht</string>
   <string name="clearFrequentsConfirmation">"Lösche die Liste der häufigen Kontakte in den Kontakt- und Telefonanwendungen und ermögliche somit den E-Mail-Anwendungen, Dein Adress-Verhalten neu zu lernen."</string>
   <string name="clearFrequentsConfirmation_title">Häufige Kontakte löschen?</string>
@@ -264,8 +264,8 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="device_list_title">Telefon für Pairing auswählen</string>
   <string name="device_other_guide">Sollte Dein Telefon nicht in der Herstellerliste aufgeführt sein, versuche die Hilfe unterhalb zu nutzen</string>
   <string name="device_other_title">Anderes Telefon</string>
-  <string name="device_paired_dialog_message">Gerät gepaired, übertrage Kontakte (Du musst dies u.U. auf dem anderen Telefon bestätigen)...</string>
-  <string name="device_paired_dialog_title">Gerät gepaired, übertrage Kontakte</string>
+  <string name="device_paired_dialog_message">Gerät verbunden, übertrage Kontakte (Du musst dies u.U. auf dem anderen Telefon bestätigen)...</string>
+  <string name="device_paired_dialog_title">Gerät verbunden, übertrage Kontakte</string>
   <string name="device_pairing_dialog_message">Gerät verbindet (Du musst dies u.U. auf dem anderen Telefon bestätigen)...</string>
   <string name="device_pairing_dialog_title">Gerät verbindet</string>
   <string name="device_version_header_bluetooth">Bluetooth-Einstellungen öffnen</string>
@@ -290,7 +290,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="dialog_voicemail_not_ready_message">Um die Mailbox zu konfigurieren, gehe zu Menü &gt; Einstellungen.</string>
   <string name="directory_search_label">Verzeichnis</string>
   <string name="dirty_contacts_notification_description">Lokaler Speicher hat %d nicht synchronisierte Kontakte</string>
-  <string name="dirty_contacts_notification_message"> (Deaktiviere Benachrichtigungen in den Einstellungen)</string>
+  <string name="dirty_contacts_notification_message">(Deaktiviere Benachrichtigungen in den Einstellungen)</string>
   <string name="dirty_contacts_notification_title">Nicht synchronisierte Kontakte synchronisieren?</string>
   <string name="display_all_contacts">Alle Kontakte</string>
   <string name="display_more_groups">Weitere Gruppen</string>
@@ -324,7 +324,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Exportieren auf die SIM-Karte abgeschlossen</string>
   <string name="export_sim_contacts_dialog_message">Deine SIM-Karte kann bis zu %d Kontakte speichern. Möchtest Du wirklich fortfahren?</string>
-  <string name="export_to_sdcard">Auf Speicher exportieren</string>
+  <string name="export_to_sdcard">In Speicher exportieren</string>
   <string name="export_to_sim">Auf SIM-Karte exportieren</string>
   <string name="export_to_sim_title">Exportiere auf SIM-Karte…</string>
   <string name="export_vcard_description">vCard auf die SD-Karte exportieren</string>
@@ -337,7 +337,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="exporting_vcard_finished_title">Exportieren von %s abgeschlossen</string>
   <string name="external_profile_title">Mein %1$s-Profil</string>
   <string name="fail_reason_could_not_initialize_exporter">Der Exporter konnte nicht initialisiert werden: \"%s\"</string>
-  <string name="fail_reason_could_not_open_file">konnte nicht geöffnet werden: %s</string>
+  <string name="fail_reason_could_not_open_file">Konnte nicht geöffnet werden: %s</string>
   <string name="fail_reason_error_occurred_during_export">Während dem Exportieren ist ein Fehler aufgetreten: \"%s\"</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Konnte Meta-Informationen der ausgewählten vCard-Dateien nicht sammeln."</string>
   <string name="fail_reason_failed_to_read_files">"Eine oder mehrere Dateien konnten nicht importiert werden (%s)."</string>
@@ -370,12 +370,12 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="group_create_success_toast">Gruppe erfolgreich erstellt</string>
   <string name="group_delete_success_toast">Gruppe erfolgreich gelöscht</string>
   <string name="group_edit_field_hint_text">Gruppenname</string>
-  <string name="group_name_contacts">Kontakte</string>
-  <string name="group_name_coworkers">Kollegen</string>
-  <string name="group_name_family">Familie</string>
-  <string name="group_name_friends">Freunde</string>
+  <string name="group_member_remove_toast">Kontakt erfolgreich aus der Gruppe entfernt</string>
   <string name="group_name_hint">"Name der Gruppe"</string>
   <string name="group_read_only">Auf diesem Gerät nicht editierbar</string>
+  <string name="group_rename_dialog_title">Gruppe umbenennen</string>
+  <string name="group_rename_fail_toast">Umbenennen der Gruppe gescheitert</string>
+  <string name="group_rename_success_toast">Gruppe erfolgreich umbenannt</string>
   <string name="group_sms_progress_msg">Bereite SMS an Gruppe vor…</string>
   <string name="groupsLabel">Gruppen</string>
   <string name="groups_list_empty">Keine Gruppen</string>
@@ -384,7 +384,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="help_url_people_main" />
   <string name="hint_distance">Bewahre Abstand</string>
   <string name="hint_findContacts">Kontakte finden</string>
-  <string name="hint_more_contact">use merge contact when exits double contacts</string>
+  <string name="hint_more_contact">Verwende \"Kontakte zusammenführen\" wenn Kontakte doppelt vorhanden sind</string>
   <string name="hint_search_contacts">%d Kontakte</string>
   <string name="hint_search_phone_numbers">%d Kontakt-Telefonnummer</string>
   <string name="ic_menu_back">Zurück</string>
@@ -402,7 +402,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="import_one_vcard_string">Eine vCard-Datei importieren</string>
   <string name="import_percent">0%</string>
   <string name="import_to_xiaomi_account_confirm">Importieren</string>
-  <string name="import_to_xiaomi_account_progress_finish">Importieren abgeschlossen</string>
+  <string name="import_to_xiaomi_account_progress_finish">Importieren erfolgreich!</string>
   <string name="import_to_xiaomi_account_progress_message">Wird importiert...</string>
   <string name="import_to_xiaomi_account_progress_title">Kontakte in Xiaomi-Konto importieren</string>
   <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in Dein Xiaomi-Konto importiert werden?</string>
@@ -436,7 +436,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="listTotalAllContactsZeroStarred">Es sind keine Favoriten vorhanden</string>
   <string name="listTotalPhoneContactsZero">Es sind keine Kontakte mit Telefonnummern vorhanden</string>
   <string name="list_filter_all_accounts">Alle Kontakte</string>
-  <string name="list_filter_all_starred">Favorisierte</string>
+  <string name="list_filter_all_starred">Favoriten</string>
   <string name="list_filter_custom">Benutzerdefiniert</string>
   <string name="list_filter_customize">Wird angepasst...</string>
   <string name="list_filter_phones">Alle Kontakte mit Telefonnummern</string>
@@ -451,7 +451,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="local_search_label">Alle Kontakte</string>
   <string name="locale_change_in_progress">Die Kontaktliste wird aufgrund Änderung der Sprache aktualisiert.</string>
   <string name="lunarBirthdayLabelsGroup">Geburtstag</string>
-  <string name="make_primary">Auswahl merken</string>
+  <string name="make_primary">Diese Auswahl merken</string>
   <string name="map_custom">%s Adresse ansehen</string>
   <string name="map_home">Privatadresse ansehen</string>
   <string name="map_other">Adresse ansehen</string>
@@ -639,7 +639,7 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="pref_title_account_import">Von Benutzerkonto importieren</string>
   <string name="pref_title_import_from_account">In Xiaomi-Konto importieren</string>
   <string name="preference_auto_ip_summary_disable">Deaktiviert</string>
-  <string name="preference_auto_ip_summary_on">"'IP-Prefix des Anbieters: %s"</string>
+  <string name="preference_auto_ip_summary_on">"'IP-Präfix des Anbieters: %s"</string>
   <string name="preference_auto_ip_title">Automatische IP</string>
   <string name="preference_contacts">Kontakt</string>
   <string name="preference_contacts_display">Kontaktanzeige</string>

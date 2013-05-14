@@ -22,7 +22,7 @@
     <string-array name="operatorDescs">
         <item>Klammer links</item>
         <item>Klammer rechts</item>
-        <item>Faktorisch</item>
+        <item>Fakultät</item>
         <item>Natürlicher Logarithmus</item>
         <item>Logarithmus</item>
         <item>Quadratwurzel</item>

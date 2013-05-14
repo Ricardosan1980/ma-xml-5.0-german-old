@@ -8,10 +8,8 @@
   <string name="alert_message_delete_note">Soll diese Notiz gelöscht werden?</string>
   <string name="alert_message_delete_notes">Sollen die ausgewählten %1$s Notizen gelöscht werden?</string>
   <string name="alert_message_discard_changes">Alle Änderungen verwerfen?</string>
-  <string name="alert_message_exceed_image_limit">Es können maximal 15 Bilder an eine Notiz gehängt werden. Um mehr Bilder anzuhängen, erstelle eine neue Notiz.</string>
   <string name="alert_title_delete">Ausgewählte Notizen löschen</string>
   <string name="alert_title_discard">Änderungen verwerfen?</string>
-  <string name="alert_title_exceed_image_limit">Limit von Bildern pro Notiz erreicht!</string>
   <string name="app_name">Notizen</string>
   <string name="app_widget">Notizen</string>
   <string name="attachment_camera">Kamera</string>

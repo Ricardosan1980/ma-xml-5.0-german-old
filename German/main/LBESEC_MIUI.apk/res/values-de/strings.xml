@@ -56,12 +56,12 @@
   <string name="Generic_UserApp">Heruntergeladene Apps (%d)</string>
   <string name="Generic_Version">Version: %1$s</string>
   <string name="HIPS_Action_Accept">Erlauben</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Erlauben&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">Erlaubt: %1$d</string>
   <string name="HIPS_Action_Prompt">Nachfragen</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Ask&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Nachfragen&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Ablehnen</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Ablehnen&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Count">Abgelehnt: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Privatsphäre</string>
   <string name="HIPS_Group_Expense">Sicherheit</string>
@@ -70,8 +70,8 @@
   <string name="HIPS_Group_PIM">Persönliche Informationen</string>
   <string name="HIPS_Group_PhoneID">Telefon-Identifikation</string>
   <string name="HIPS_Group_ROOT">ROOT</string>
-  <string name="HIPS_Perm_AdjustRingerVolume">Die Klingeltonlautstärke anpassen</string>
-  <string name="HIPS_Perm_AdjustVolumeInCall">Die Gesprächslautstärke anpassen</string>
+  <string name="HIPS_Perm_AdjustRingerVolume">Klingeltonlautstärke anpassen</string>
+  <string name="HIPS_Perm_AdjustVolumeInCall">Gesprächslautstärke anpassen</string>
   <string name="HIPS_Perm_AllowAll">Alle erlauben</string>
   <string name="HIPS_Perm_AnswerCall">Den aktuell eingehenden Anruf annehmen</string>
   <string name="HIPS_Perm_Call">Telefonat</string>

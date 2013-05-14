@@ -23,7 +23,7 @@
         <item>Desktop-Anordnung</item>
         <item>Alarmeinstellungen</item>
         <item>Notizen</item>
-        <item>DND</item>
+        <item>Nicht stören</item>
         <item>Konto</item>
     </string-array>
     <string-array name="app_type_desc">

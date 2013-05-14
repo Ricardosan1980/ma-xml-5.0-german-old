@@ -43,7 +43,7 @@
   <string name="change_response_title">Antwort ändern</string>
   <string name="copy_db">Datenbank senden</string>
   <string name="copy">E-Mail-Adresse kopieren</string>
-  <string name="copy_number">Kopiere Telefon Nummer</string>
+  <string name="copy_number">Telefonnummer kopieren</string>
   <string name="create_an_account_desc">"Der Kalender funktioniert besser mit einem Google-Konto.
 
 • Zugriff über jeden beliebigen Browser
@@ -62,7 +62,7 @@
   <string name="directory_searching_fmt">%s wird durchsucht…</string>
   <string name="discard_label">Abbrechen</string>
   <string name="dismiss_all_label">Alle schließen</string>
-  <string name="do_not_check">Nicht markieren-></string>
+  <string name="do_not_check">NICHT markieren-></string>
   <string name="does_not_repeat">Einmaliger Termin</string>
   <string name="done">Zurück</string>
   <string name="edit_event_all_day_label">Ganztägig</string>
@@ -119,9 +119,9 @@
   <string name="no_syncable_calendars">Keine Kalender</string>
   <string name="no_title_label">(Kein Titel)</string>
   <string name="not_synced">Nicht synchronisiert</string>
+  <string name="prefDefault_alerts_vibrateWhen">nie</string>
   <string name="prefDefault_alerts_vibrate_false">nie</string>
   <string name="prefDefault_alerts_vibrate_true">immer</string>
-  <string name="prefDefault_alerts_vibrateWhen">nie</string>
   <string name="prefDialogTitle_vibrateWhen">Vibration</string>
   <string name="preferences_about_title">Über</string>
   <string name="preferences_alerts_popup_title">Pop-Up-Benachrichtigung</string>
@@ -138,7 +138,7 @@
   <string name="preferences_default_reminder_title">Standard-Erinnerungszeit</string>
   <string name="preferences_general_title">Kalender-Ansicht festlegen</string>
   <string name="preferences_hide_declined_title">Abgelehnte Termine ausblenden</string>
-  <string name="preferences_home_tz_default">Europe/Amsterdam</string>
+  <string name="preferences_home_tz_default">Europa/Amsterdam</string>
   <string name="preferences_home_tz_title">Heimatzeitzone</string>
   <string name="preferences_reminder_title">Erinnerung</string>
   <string name="preferences_show_week_num_title">Kalenderwoche anzeigen</string>

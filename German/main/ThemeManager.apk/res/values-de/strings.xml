@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Fehler bei den Konto-Informationen, bitte melde Dich erneut an.</string>
+  <string name="account_abnormal_state">Fehler bei der Konto-Information, bitte melde Dich erneut an.</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
   <string name="app_name">Themen</string>
@@ -62,14 +62,14 @@
   <string name="resource_comment_edit_title">Kommentar: %1$s</string>
   <string name="resource_comment_entry_tips">%1$s Bewertungen. Zum Ansehen berühren</string>
   <string name="resource_comment_expand_full_text">Text ausklappen</string>
-  <string name="resource_comment_invalid">Bitte berühre den Stern, um eine Bewertung abzugeben</string>
+  <string name="resource_comment_invalid">Berühre die Sterne, um eine Bewertung abzugeben</string>
   <string name="resource_comment_name_default">Benutzer %1$s</string>
   <string name="resource_comment_publish">Abschicken</string>
   <string name="resource_comment_rate">Bewertung:</string>
   <string name="resource_comment_sending">Kommentar wird abgeschickt...</string>
   <string name="resource_comment_title">Kommentare: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Leider ist der abgeschickte Kommentar ungültig</string>
-  <string name="resource_comment_upload_failed">Kommentar konnte nicht gespeichert werden</string>
+  <string name="resource_comment_upload_failed">Kommentar konnte nicht gesendet werden</string>
   <string name="resource_comment_upload_not_bought">Du musst das Thema erst anwenden, bevor Du Kommentare verfassen kannst.</string>
   <string name="resource_comment_upload_not_logined">Bitte melde Dich zuerst an</string>
   <string name="resource_comment_upload_success">Kommentar wurde abgeschickt! Dieser wird angezeigt, sobald er überprüft wurde</string>
@@ -83,9 +83,9 @@
   <string name="resource_downloaded_title">Quellen herunterladen</string>
   <string name="resource_downloading">Lädt herunter</string>
   <string name="resource_get_auth_checking">Überprüfe Authorisierung...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Theme kann auf diesem Gerät nicht genutzt werden. Du hast das Maximum von 10 Xiaomi-Konten erreicht. Bitte versuche es mit einem anderen Konto.</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Thema kann auf diesem Gerät nicht genutzt werden. Du hast das Maximum von 10 Xiaomi-Konten erreicht. Bitte versuche es mit einem anderen Konto.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Authorisierungs-Limit erreicht!</string>
-  <string name="resource_get_auth_missing">Theme wurde nicht vom Theme-Market heruntergeladen, bitte lade es erneut über den offiziellen Market herunter.</string>
+  <string name="resource_get_auth_missing">Thema wurde nicht vom Theme-Market heruntergeladen, bitte lade es erneut über den offiziellen Markt herunter.</string>
   <string name="resource_get_auth_retrieving">Empfange Authorisierung...</string>
   <string name="resource_importing">Importiere</string>
   <string name="resource_list_title">Zuletzt ausgewählt</string>
@@ -108,7 +108,7 @@
   <string name="resource_title">Quell-Details</string>
   <string name="resource_title_select_ringtone">Klingelton auswählen</string>
   <string name="resource_update">Aktualisierung</string>
-  <string name="restore_default_theme_alert">Möglicherweise bist Du ein Opfer einer \"Thema-Fälschung\", bitte besuche den Themen-Markt um das Thema erneut herunter zu laden oder zu kaufen.</string>
+  <string name="restore_default_theme_alert">Möglicherweise bist Du ein Opfer einer Fälschung, bitte besuche den Themen-Markt um das Thema erneut herunter zu laden oder zu kaufen.</string>
   <string name="sdcard_status_changed_dialog_message">"Anwendung wird geschlossen. Bitte erneut öffnen, um Quellen zu aktualisieren."</string>
   <string name="sdcard_status_changed_dialog_title">Status der SD-Karte geändert</string>
   <string name="short_ringtone_resource">Kurz (&lt;5sek)</string>

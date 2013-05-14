@@ -5,6 +5,7 @@
   <string name="activity_not_found">Keine Anwendung verfügbar, die diese Aktion ausführen kann.</string>
   <string name="add_account">Benutzerkonto hinzufügen</string>
   <string name="add_to_cloud_album">Zur Cloud hinzufügen</string>
+  <string name="add_to_cloud_fail_too_many_items">Konnte Vorgang nicht abschließen, zu viele Objekte ausgewählt.</string>
   <string name="add_to_cloud_folder">Zu Cloud-Ordner hinzufügen</string>
   <string name="albums">Alben</string>
   <string name="albumset_page_title_separator"> | </string>
@@ -20,6 +21,7 @@
   <string name="auto_create_recent_album_confirm">Nachdem diese Funktion deaktiviert wird, werden alle von der Galerie erstellten Daten der Lieblingsalben gelöscht. Vom Benutzer festgelegte Lieblingsalben werden davon nicht betroffen sein. Alternativ kannst Du dies manuell festlegen, indem Du ein Album berührst und etwas länger festhältst.</string>
   <string name="auto_create_recent_album_over_ten_times">Automatisch Lieblingsalben erstellen, wenn ein Album mehr als 10mal geöffnet wird</string>
   <string name="autofix">Automatisch anpassen</string>
+  <string name="big_screen_alertdialog_title">Projektor</string>
   <string name="bigscrren_slide_exit">Diashow über den Fernseher beenden</string>
   <string name="browse_category">Fotos ansehen</string>
   <string name="camera_connected">Kamera verbunden.</string>
@@ -51,9 +53,11 @@
   <string name="cloudfolder_already_exists">Cloud-Ordner bereits vorhanden</string>
   <string name="confirm_delete">Löschen</string>
   <string formatted="false" name="confirm_delete_album">Sollen %s Alben gelöscht werden (insgesamt %s Elemente)?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">Sollen %s Bild(er) in %s Alben gelöscht werden?</string>
   <string name="confirm_delete_folders_and_pictures">Soll %s gelöscht werden?</string>
   <string formatted="false" name="confirm_delete_folders_including">%s Ordner (beinhalten %s)</string>
   <string name="confirm_delete_including_null">0 Elemente</string>
+  <string name="confirm_delete_items">%s Elemente</string>
   <string name="confirm_delete_pictures">%s Bilder</string>
   <string name="confirm_delete_system_album">%s ist ein Systemalbum. Soll dieses gelöscht werden?</string>
   <string name="confirm_delete_videos">%s Videos</string>
@@ -70,7 +74,9 @@
   <string name="damaged_file">Datei ist beschädigt</string>
   <string name="defalt_local_mobile">Mobil</string>
   <string name="delete">Löschen</string>
+  <string name="delete_fail_too_many_items">Löschen fehlgeschlagen, zu viele Elemente ausgewählt</string>
   <string name="deleting_files">Dateien werden gelöscht...</string>
+  <string name="demo_video_folder_display_name" />
   <string name="description">Beschreibung</string>
   <string name="deselect_all">Alle abwählen</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
@@ -80,7 +86,7 @@
   <string name="done">Fertig</string>
   <string name="doodle">Kritzeln</string>
   <string name="doodle_tooltip">Zum Kritzeln mit dem Finger auf das Foto malen</string>
-  <string name="duotone">Duplexdruck</string>
+  <string name="duotone">Duplex</string>
   <string name="duration">Dauer</string>
   <string name="edit">Bearbeiten</string>
   <string name="edited_photo_bucket_name">Bearbeitet</string>
@@ -124,7 +130,7 @@
   <string name="how_many_pics">%d Fotos</string>
   <string name="how_many_sub_folders">%d Ordner</string>
   <string name="how_many_videos">%d Videos</string>
-  <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="hue_polymorphism">Fotoeditor Farbeffekt</string>
   <string name="import_complete">Importieren abgeschlossen</string>
   <string name="import_fail">Importieren fehlgeschlagen</string>
   <string name="initial_cloud_button_text">Nutze jetzt Deine MiCloud</string>
@@ -157,6 +163,7 @@
   <string name="miliao_painting_folder_display_name">MiTalk-Gemälde</string>
   <string name="miliao_saved_folder_display_name">Aus MiTalk gespeichert</string>
   <string name="mimetype">MIME-Typ</string>
+  <string name="mishop_saved_folder_display_name">MiShop Sicherungen</string>
   <string name="miui_capture_screen_folder_display_name">Bildschirmfotos</string>
   <string name="model">Modell</string>
   <string name="more">Weitere</string>
@@ -215,6 +222,7 @@
   <string name="select_video">Video auswählen</string>
   <string name="send">Senden</string>
   <string name="send_multiple_files_hint_format">Mehrere Dateien senden (%s)</string>
+  <string name="send_to_cloud_failed_message">Senden an Cloud-Album-Speicher fehlgeschlagen</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Ausgeblendetes Album</string>
   <string name="set_image">Bild festlegen als</string>

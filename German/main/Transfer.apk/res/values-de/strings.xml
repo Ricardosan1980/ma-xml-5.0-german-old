@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_receive">Empfange Datei(en)</string>
+  <string name="about_to_receive">Datei(en) werden in Kürze empfangen</string>
   <string name="about_to_send">Sende Datei(en)</string>
   <string name="app_name">Transfer</string>
   <string name="button_last">Beginne jetzt</string>
@@ -14,7 +14,7 @@
   <string name="connect_confirm">%1$s fordert eine Verbindung an</string>
   <string name="connecting">Verbinde</string>
   <string name="continue_to_send">Setze senden fort</string>
-  <string name="device_default_name">Xiaomi phone</string>
+  <string name="device_default_name">Xiaomi Telefon</string>
   <string name="device_name">Gerätename</string>
   <string name="device_name_tip">Drücke \"Gehe zu: Über das Telefon\" und ändere den Gerätenamen.</string>
   <string name="editmode_menu_delete">Löschen</string>
@@ -59,7 +59,7 @@
   <string name="receive_finish_tip">$1%d Datei(en) empfangen:</string>
   <string name="receive_from">Empfange von:</string>
   <string name="receive_store">Sichere Datei nach:</string>
-  <string name="receive_tip">Für schnelles Pairing und Empfangsübertragung.</string>
+  <string name="receive_tip">Für schnelle Verbindungs- und Empfangsübertragung.</string>
   <string name="receive_uncompleted">Empfang unvollständig</string>
   <string name="received">Empfangen</string>
   <string name="resend">Erneut senden</string>
@@ -72,7 +72,7 @@
   <string name="send_files">Sende %1$d Datei(en)</string>
   <string name="send_finish">Datei gesendet!</string>
   <string name="send_finish_tip">%1$d Datei(en) gesendet an:</string>
-  <string name="send_tip">Serienversand von Bildern, Musik, Kontakten und verschiedener anderer Dateien.</string>
+  <string name="send_tip">Massenversand von Bildern, Musik, Kontakten und verschiedener anderer Dateien.</string>
   <string name="send_to">Sende an:</string>
   <string name="send_uncompleted">Senden unvollständig</string>
   <string name="sent">Gesendet</string>
@@ -95,7 +95,6 @@
   <string name="title_step_three">3. Teile Dateien mit Freunden</string>
   <string name="title_step_two">2. MiShare ist ein universelles Dateitransferprotokol</string>
   <string name="transfer_history">Übertragungsverlauf</string>
-  <string name="trasfer_list">Übertragungsliste</string>
   <string name="use_start">Beginne jetzt</string>
   <string name="voice_assist_match">Schnelle automatische Anpassung</string>
   <string name="voice_match">Schnelle Anpassung</string>

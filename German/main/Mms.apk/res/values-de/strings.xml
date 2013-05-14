@@ -14,7 +14,6 @@
   <string name="add_slide">Dia hinzufügen</string>
   <string name="add_slide_hint">Berühren, um ein neues Dia zu erstellen.</string>
   <string name="add_smiley">Emoticon</string>
-  <string name="add_subject">Betreff hinzufügen</string>
   <string name="add_timing">Zeitpunkt</string>
   <string name="add_video">Video hinzufügen</string>
   <string name="adding_attachments">Bitte warte, während die Elemente zur Diashow hinzugefügt werden.</string>
@@ -86,9 +85,8 @@
   <string name="delete_bookmark">Aus Favoriten entfernen</string>
   <string name="delete_message">Löschen</string>
   <string name="delete_phrase">Vorlage löschen</string>
-  <string name="delete_subject">Betreff löschen</string>
   <string name="delete_unlocked">Gesperrte Nachricht löschen</string>
-  <string name="delivery_report_activity">Zustellungsbericht</string>
+  <string name="delivery_report_activity">Zustellbericht</string>
   <string name="delivery_toast_body">Nachricht wurde von %s erhalten.</string>
   <string name="disable_notifications_dialog_message">Doppelte Textnachricht-Benachrichtigungen von der Standard-Nachrichten-Anwendung anhalten?</string>
   <string name="discard">Verwerfen</string>
@@ -111,6 +109,7 @@
   <string name="edit_slide_activity">Dia bearbeiten</string>
   <string name="edit_slideshow_activity">Diashow bearbeiten</string>
   <string name="enable_password_protect">Passwortschutz aktivieren</string>
+  <string name="enable_visible_pattern_title">Mach Muster sichtbar</string>
   <string name="enter_edit_mode">Löschen</string>
   <string name="error_code_label">"Fehlermeldung: "</string>
   <string name="error_state">Inkonsistenter Zustand</string>
@@ -159,6 +158,8 @@
   <string name="menu_edit">Bearbeiten</string>
   <string name="menu_forward">Weiterleiten</string>
   <string name="menu_lock">Sperren</string>
+  <string name="menu_new_manual">Nummer eingeben</string>
+  <string name="menu_pick_from_contact">Aus Kontakten wählen</string>
   <string name="menu_preferences">Einstellungen</string>
   <string name="menu_unlock">Entsperren</string>
   <string name="menu_view_contact">Kontakt ansehen</string>
@@ -214,6 +215,7 @@
   <string name="mx_offline">Abgemeldet</string>
   <string name="mx_online">Angemeldet</string>
   <string name="mx_reactivate">Cloud-Nachrichten reaktivieren</string>
+  <string name="mx_recommend_msg">Aktiviere Cloud-Nachrichten um kostenlose Nachrichten zu senden</string>
   <string name="mx_warning_notice">Es wird eine SMS zur Aktivierung von Cloud-Nachrichten gesendet. Der Mobilfunkanbieter könnte Gebühren verlangen</string>
   <string name="need_download">Auf Synchronisation wird gewartet...</string>
   <string name="new_message">Neue Nachricht</string>
@@ -231,6 +233,7 @@
   <string name="notification_failed_multiple_title">Nachrichten nicht gesendet</string>
   <string name="notification_multiple">%s ungelesene Nachrichten.</string>
   <string name="notification_multiple_title">Neue Nachrichten</string>
+  <string name="number_add_hint">Nummer eingeben die zu Kontakt zugefügt werden soll</string>
   <string name="phrase_confirm_delete_message">Die ausgewählte Vorlage wird gelöscht</string>
   <string name="phrase_empty">Keine Vorlagen</string>
   <string name="phrase_from">Von %1s</string>
@@ -250,7 +253,7 @@
   <string name="pref_sms_theme_title">Themen-Einstellungen</string>
   <string name="pref_summary_allow_si_sl_push">Empfangen und benachrichtigen von WAP-Push-Nachrichten (SI/SL) erlauben</string>
   <string name="pref_summary_delete_limit">%1$s Nachrichten pro Unterhaltung</string>
-  <string name="pref_summary_delivery_reports">Einen Zustellungsbericht für jede von Dir versendete Nachricht anfragen</string>
+  <string name="pref_summary_delivery_reports">Einen Zustellbericht für jede von Dir versendete Nachricht anfragen</string>
   <string name="pref_summary_hide_festival">\"Empfohlen\"-Tab für Nicht-Chinesische-Sprachen ausblenden</string>
   <string name="pref_summary_manage_sim_messages">Auf Deiner SIM-Karte gespeicherte Nachrichten verwalten</string>
   <string name="pref_summary_mms_auto_retrieval">Nachrichten automatisch empfangen</string>
@@ -265,7 +268,7 @@
   <string name="pref_time_auto_group_summary">Nachrichten nach Zeitpunkt sortieren</string>
   <string name="pref_time_auto_group_title">Gruppieren</string>
   <string name="pref_title_allow_si_sl_push">WAP-Push erlauben</string>
-  <string name="pref_title_delivery_reports">Zustellungsberichte</string>
+  <string name="pref_title_delivery_reports">Zustellberichte</string>
   <string name="pref_title_hide_festival">\"Empfohlen\"-Tab ausblenden</string>
   <string name="pref_title_manage_sim_messages">SIM-Karten-Nachrichten verwalten</string>
   <string name="pref_title_mms_auto_retrieval">Automatisches Abrufen</string>
@@ -327,6 +330,8 @@
   <string name="select_bottom_text">Text am Ende</string>
   <string name="select_different_media">Bitte wähle ein anderes %1$s.</string>
   <string name="select_link_title">Aktion auswählen</string>
+  <string name="select_local_audio">Lokales Audio auswählen</string>
+  <string name="select_local_video">Lokales Video auswählen</string>
   <string name="select_top_text">Text am Anfang</string>
   <string name="send">Senden</string>
   <string name="send_signature_confirm_dialog_message">Es wurde keine Nachricht gefunden. Soll nur die Signatur gesendet werden?</string>
@@ -397,9 +402,9 @@
   <string name="undelivered_sms_dialog_body">Diese Nachricht kann nicht gesendet werden.</string>
   <string name="unknown_num">Unbekannte Nummer</string>
   <string name="unknown_sender">Unbekannter Absender</string>
-  <string name="unstick">Losheften</string>
-  <string name="unstick_conversation">Aktuelle Unterhaltung losheften</string>
-  <string name="unsticked_conversation">Bereits losgeheftet</string>
+  <string name="unstick">Lösen</string>
+  <string name="unstick_conversation">Aktuelle Unterhaltung lösen</string>
+  <string name="unsticked_conversation">Bereits gelöst</string>
   <string name="unsupported_media_format">Nicht unterstütztes %1$s-Format</string>
   <string name="view">Ansehen</string>
   <string name="view_bookmark">Ursprüngliche Nachricht ansehen</string>

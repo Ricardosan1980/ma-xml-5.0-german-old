@@ -77,7 +77,7 @@
   <string name="label">Label</string>
   <string name="lap">Runde</string>
   <string name="lap_num">Runde Nr.</string>
-  <string name="legal_workday">Gesetlicher Werktag</string>
+  <string name="legal_workday">Gesetzlicher Werktag</string>
   <string name="legal_workday_invalidate">Daten abgelaufen (Derzeit wecken von Mo-Fr)</string>
   <string name="legal_workday_invalidate_message">(Daten abgelaufen, aktualisiere in Einstellungen)</string>
   <string name="legal_workday_message">(Wecker aus an Feiertagen)</string>
@@ -110,8 +110,8 @@
   <string name="snooze_confirm_message">"Schlummern wurde verschoben，noch %s schlummern.
   Du kannst diesen Wecker auch abbrechen."</string>
   <string name="snooze_confirm_ok">Verstanden</string>
-  <string name="start">Stoppuhr starten</string>  
   <string name="snooze_duration_title">Schlummerdauer</string>
+  <string name="start">Stoppuhr starten</string>  
   <string name="start_up">Start</string>
   <string name="stopwatch_lap_empty_text">Keine Runden aufgezeichnet</string>
   <string name="stopwatch_title">Stoppuhr</string>

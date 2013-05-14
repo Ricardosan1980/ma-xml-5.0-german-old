@@ -115,7 +115,6 @@
   <string name="app_factory_reset">Updates deinstallieren</string>
   <string name="app_factory_reset_dlg_text">Alle Updates dieser Android System-Anwendung werden deinstalliert.</string>
   <string name="app_factory_reset_dlg_title">Updates deinstallieren?</string>
-  <string name="app_floating_window_dlg">Erlaube\"%1$s\" Popup-Fenster anzuzeigen</string>
   <string name="app_floating_window_dlg_disable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung wird das Beenden der Anwendung erzwingen . Ausschalten? Bist Du sicher?"</string>
   <string name="app_floating_window_dlg_enable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung erfordert einen Neustart der Anwendung. Einschalten? Bist Du sicher?"</string>
   <string name="app_forward_locked">Anwendung ist schreibgeschützt.</string>
@@ -159,8 +158,6 @@
   <string name="available_size">%s verfügbar</string>
   <string name="awake">Aktivzeit des Geräts</string>
   <string name="back_key">Zurück-Taste</string>
-  <string name="back_long_press">Zurück-Taste</string>
-  <string name="back_long_press_timeout">Verzögerung</string>
   <string name="background_data">Hintergrund-Daten</string>
   <string name="background_data_dialog_message">Deaktivierung von Hintergrund-Daten verlängert die Batterieausdauer und verringert den Datenverbrauch. Einige Apps benutzen unter Umständen weiterhin Hintergrund-Daten.</string>
   <string name="background_data_dialog_title">Hintergrund-Daten deaktivieren?</string>
@@ -257,7 +254,7 @@
   <string name="battery_sugg_display">Verringere die Bildschirmhelligkeit und/oder -abschaltung</string>
   <string name="battery_sugg_radio">Wechsle in den Flugmodus, um in Gegenden ohne Empfang Strom zu sparen</string>
   <string name="battery_sugg_wifi">"Deaktiviere WLAN wenn Du es nicht benutzt oder kein WLAN verfügbar ist"</string>
-  <string name="bearer">Inhaber</string>
+  <string name="bearer">Eigentümer</string>
   <string name="biometric_weak_improve_matching_title">Verbessere Gesichtserkennung</string>
   <string name="biometric_weak_liveliness_summary">Erfordert Blinzeln beim Entsperren</string>
   <string name="biometric_weak_liveliness_title">Lebendigkeits-Check</string>
@@ -389,7 +386,6 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="bluetooth_profile_dun">DFÜ-Verbindung</string>
   <string name="bluetooth_profile_headset">Headset</string>
   <string name="bluetooth_profile_hid">Eingabegerät</string>
-  <string name="bluetooth_profile_name">"%1$s's MIUI Phone"</string>
   <string name="bluetooth_profile_opp">Datentransfer</string>
   <string name="bluetooth_profile_pan">Internet-Zugriff</string>
   <string name="bluetooth_profile_pan_nap">Internet-Sharing</string>
@@ -657,7 +653,6 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="device_cpu">CPU:</string>
   <string name="device_cpu2_info">"Dual Core "</string>
   <string name="device_cpu4_info">"Quad-Core "</string>
-  <string name="device_default_name">Xiaomi Phone</string>
   <string name="device_edit_title">Gerätenamen ändern</string>
   <string name="device_info_default">Unbekannt</string>
   <string name="device_info_label">Geräte-Info</string>
@@ -770,8 +765,6 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="enableNetwork">Netzwerk aktivieren</string>
   <string name="enable_adb">USB-Debugging</string>
   <string name="enable_adb_summary">Debug-Modus bei USB-Verbindung</string>
-  <string name="enable_assist_key_long_press">Gedrückt halten, um Sprachassistenten zu öffnen</string>
-  <string name="enable_back_long_press">Gedrückt halten, um Anwendung zu schließen</string>
   <string name="enable_compatibility">Anwendung skalieren</string>
   <string name="enable_drive_mode">Laufwerksmodus aktivieren</string>
   <string name="enable_snapshot_screenlock">Gedrückt halten, um Screenshot aufzunehmen</string>
@@ -1069,13 +1062,6 @@ Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
 Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="master_clear_summary">Löscht alle Daten auf dem Telefon</string>
   <string name="master_clear_title">Auf Werkseinstellung zurücksetzen</string>
-  <string name="mdb_entering">Betrete</string>
-  <string name="mdb_restore_cancel">Abbrechen</string>
-  <string name="mdb_restore_info1">"Stellt die Daten Deines Telefons wieder her"</string>
-  <string name="mdb_restore_info2">"Bitte die USB-Verbindung nicht unterbrechen"</string>
-  <string name="mdb_restore_label">Mdb-Wiederherstellung</string>
-  <string name="mdb_restore_mode">Wiederherstellungs-Modus</string>
-  <string name="mdb_usb_disconnection_exit">USB getrennt, Wiederherstellung wird abgebrochen</string>
   <string name="media_button">Speichermedien</string>
   <string name="media_format_button_text">SD-Karte löschen</string>
   <string name="media_format_desc">SD-Karte löschen? Alle Daten gehen verloren</string>
@@ -1111,7 +1097,6 @@ Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="misc_files">Verschiedene Dateien</string>
   <string name="misc_files_selected_count">%1$d von %2$d ausgewählt</string>
   <string name="misc_files_selected_count_bytes">%1$s von %2$s</string>
-  <string name="miui_device_default_name">Android</string>
   <string name="mms_vibrate_abbreviation">Nachrichten</string>
   <string name="model_number">Modell-Nummer:</string>
   <string name="move_app">Verschieben</string>
@@ -1188,7 +1173,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="other_relative">Andere Berechtigungen</string>
   <string name="owner_info_settings_edit_text_hint">Text eingeben, der auf dem Sperrbildschirm angezeigt werden soll</string>
   <string name="owner_info_settings_summary" />
-  <string name="owner_info_settings_title">Inhaber-Informationen</string>
+  <string name="owner_info_settings_title">Eigentümer-Informationen</string>
   <string name="packages_subtitle">Beinhaltete Pakete</string>
   <string name="password_guard">Sicherheit</string>
   <string name="percentage">%d%%</string>
@@ -1303,7 +1288,6 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="perm_operating">Verarbeite...</string>
   <string name="perm_optimize">Optimieren</string>
   <string name="perm_privacy_app_count">%1$d Berechtigungen</string>
-  <string name="perm_privacy_app_count_trust_summary">Anwendung vertrauen</string>
   <string name="perm_privacy_app_finish">Abschließen</string>
   <string name="perm_privacy_app_installed">Installation erfolgreich!</string>
   <string name="perm_privacy_app_launch">Starten</string>
@@ -1371,7 +1355,6 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Telefon-Standby</string>
   <string name="power_idle">Telefon-Leerlauf</string>
-  <string name="power_key">An-/Aus-Taste</string>
   <string name="power_mode">Energie-Modus</string>
   <string name="power_phone">Sprachanrufe</string>
   <string name="power_screen">Bildschirm</string>
@@ -1384,7 +1367,6 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="pref_button_light">Tastenbeleuchtung</string>
   <string name="pref_button_light_summary">Menü, Home und Zurück-Taste</string>
   <string name="pref_operational_key">Funktionstaste</string>
-  <string name="pref_volume_category_title">Lautstärke</string>
   <string name="pref_volume_wake_summary">Lautstärke hoch/runter aktiviert das Gerät. Für Geräte gedacht, wo der An-/Aus-Knopf schwer zu drücken ist</string>
   <string name="pref_volume_wake_title">Aktivierung durch Lautstärketasten</string>
   <string name="preference_change_password_title">Passwort ändern</string>
@@ -1451,7 +1433,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="radioInfo_lac">LAC</string>
   <string name="radioInfo_menu_getPDP">Zeige PDP-Liste</string>
   <string name="radioInfo_menu_viewADN">SIM-Adressbuch ansehen</string>
-  <string name="radioInfo_menu_viewFDN">Feste Rufnummern ansehen</string>
+  <string name="radioInfo_menu_viewFDN">FDN-Rufnummern ansehen</string>
   <string name="radioInfo_menu_viewSDN">Service-Rufnummern ansehen</string>
   <string name="radioInfo_phone_idle">Leerlauf</string>
   <string name="radioInfo_phone_offhook">Anruf aktiv</string>
@@ -1536,7 +1518,6 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="runningservicedetails_stop_dlg_title">Systemdienst anhalten?</string>
   <string name="runningservices_settings_summary">Zeige und kontrolliere laufende Dienste</string>
   <string name="runningservices_settings_title">Laufende Dienste</string>
-  <string name="safe_relative">Sichere Berechtigungen</string>
   <string name="scan_list_label">Ergebnisse überprüfen:</string>
   <string name="screen">Bildschirm</string>
   <string name="screen_button_custom">Bildschirmtasten-Position anpassen</string>
@@ -1673,11 +1654,10 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="show_hw_screen_updates">Show GPU view updates</string>
   <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
   <string name="show_magnifier_when_input">Lupe anzeigen</string>
-  <string name="show_owner_info_on_lockscreen_label">Inhaber-Informationen im Sperrbildschirm anzeigen</string>
+  <string name="show_owner_info_on_lockscreen_label">Eigentümer-Informationen im Sperrbildschirm anzeigen</string>
   <string name="show_password">Passwörter sichtbar machen</string>
   <string name="show_password_summary" />
   <string name="show_rounded_corners">Abgerundete Ecken darstellen</string>
-  <string name="show_rounded_corners_summary">Ein Neustart ist erforderlich, damit die Änderungen wirksam werden</string>
   <string name="show_running_services">Zeige laufende Dienste</string>
   <string name="show_screen_updates">Zeige Bildschirm-Aktualisierungen</string>
   <string name="show_screen_updates_summary">Bildschirmflackern während der Aktualisierung</string>

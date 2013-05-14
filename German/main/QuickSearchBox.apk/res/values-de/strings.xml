@@ -28,8 +28,6 @@
   <string name="menu_settings">Sucheinstellungen</string>
   <string name="remove_from_history">Aus dem Suchverlauf entfernen</string>
   <string name="remove_from_history_failed">"Element konnte nicht aus dem Verlauf entfernt werden"</string>
-  <string name="search_in_app_store">PlayStore durchsuchen</string>
-  <string name="search_in_web">Im Internet suchen</string>
   <string name="search_settings">Sucheinstellungen</string>
   <string name="search_sources">Durchsuchbare Elemente</string>
   <string name="search_sources_summary">Wähle aus, was auf dem Telefon durchsucht werden soll</string>

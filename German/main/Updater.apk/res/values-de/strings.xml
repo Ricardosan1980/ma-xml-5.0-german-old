@@ -101,7 +101,7 @@
   <string name="send_install_log_error">Fehler beim versenden des Fehler-Logs</string>
   <string name="share">Teilen</string>
   <string name="share_qq">Mit Tencent senden</string>
-  <string name="share_sina">Mit Sina senden</string>
+  <string name="share_sina">Mit Sina Weibo senden</string>
   <string name="share_update">Info über System-Aktualisierung teilen</string>
   <string name="share_update_content_sign">Ich habe MIUI auf %1$s aktualisiert! Mein Update-Rang ist %2$s. Für Changelog-Details bitte %3$s besuchen</string>
   <string name="share_update_content_unsign">Ich habe MIUI auf %1$s aktualisiert! Mein Update-Rang ist %2$s. Für Changelog-Details bitte %3$s besuchen</string>
@@ -139,7 +139,7 @@
   <string name="update_success_title">Glückwunsch. Aktualisierung abgeschlossen</string>
   <string name="upgrade_close">Schließen</string>
   <string name="upgrade_kernel">Derzeitiger Kernel benötigt Aktualisierung</string>
-  <string name="upgrade_kernel_msg">"Die derzeitige Kernel-Version stimmt nicht mit der MIUI-ROM überein. Du musst den Kernel manuell aktualisieren. Bitte folge diesem Tutorial:"</string>
+  <string name="upgrade_kernel_msg">"Die derzeitige Kernel-Version stimmt nicht mit der MIUI-ROM überein. Du musst den Kernel manuell aktualisieren. Bitte folge dieser Anleitung:"</string>
   <string name="verify_and_apply_dialog_message">Prüfe MD5-Summe...</string>
   <string name="verify_and_apply_dialog_title">Datei-Integrität prüfen</string>
   <string name="view_install_log">Fehler-Log anzeigen</string>

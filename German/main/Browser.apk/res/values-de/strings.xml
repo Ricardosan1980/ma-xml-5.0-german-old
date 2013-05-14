@@ -131,11 +131,11 @@
   <string name="download_pending">Download wird gestartet...</string>
   <string name="download_sdcard_busy_dlg_msg">Der USB-Speicher ist nicht verfügbar. Um Downloads zu ermöglichen, berühre "USB-Speicher deaktivieren" in der Benachrichtigungsleiste.</string>
   <string name="download_sdcard_busy_dlg_title">USB-Speicher nicht verfügbar</string>
-  <string name="dump_counters">Dump V8 counters</string>
-  <string name="dump_display_tree">Dump display tree to file</string>
-  <string name="dump_dom_tree">Dump DOM tree to file</string>
-  <string name="dump_nav">Dump navigation cache</string>
-  <string name="dump_render_tree">Dump render tree to file</string>
+  <string name="dump_counters">V8-Zähler entleeren</string>
+  <string name="dump_display_tree">\"Display tree\" in Datei entleeren</string>
+  <string name="dump_dom_tree">\"DOM tree\" in Datei entleeren</string>
+  <string name="dump_nav">Navigations-Cache entleeren</string>
+  <string name="dump_render_tree">\"Render tree\" in Datei entleeren</string>
   <string name="edit">Bearbeiten</string>
   <string name="edit_bookmark">Lesezeichen bearbeiten</string>
   <string name="edit_folder">Ordner bearbeiten</string>
@@ -193,7 +193,7 @@
   <string name="import_bookmarks_wizard_next">Weiter</string>
   <string name="import_bookmarks_wizard_previous">Zurück</string>
   <string name="importing_favorite_files">Daten werden importiert...</string>
-  <string name="in_incognito">Incognito-Modus ist aktiv, es wird keine Browser-History gespeichert.</string>
+  <string name="in_incognito">Inkognito-Modus ist aktiv, es wird keine Browser-History gespeichert.</string>
   <string name="instant_search_label">Google mit Instant (Labs)</string>
   <string name="is_first_history_item">Ist das erste Verlaufselement</string>
   <string name="is_first_tab">Ist der erste Tab</string>
@@ -438,7 +438,7 @@
   <string name="tab_history">Verlauf</string>
   <string name="tab_most_visited">Meist besucht</string>
   <string name="tab_opened_background">Tab wurde im Hintergrund geöffnet.</string>
-  <string name="tab_opened_background_in_incognito">Neues Incognito-Fenster geöffnet</string>
+  <string name="tab_opened_background_in_incognito">Neues Inkognito-Fenster geöffnet</string>
   <string name="tab_quicklinks">Nützliche Links</string>
   <string name="tab_snapshots">Gespeicherte Seiten</string>
   <string name="tab_yellowpage">Gelbe Seiten</string>

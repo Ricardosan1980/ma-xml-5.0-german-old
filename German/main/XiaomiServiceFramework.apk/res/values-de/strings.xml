@@ -12,12 +12,9 @@
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="bad_authentication">Authentifizierung fehlgeschlagen, falscher Benutzername oder Passwort</string>
   <string name="balance">Balance: %1$s Mi-Credits</string>
-  <string name="bind">Authorisieren</string>
-  <string name="bind_description">Synchronisierung mit Telefon-Kontakten erlauben</string>
   <string name="bind_sina_weibo">Sina Weibo authorisieren</string>
   <string name="bind_weibo_description">Finde Kontakte, Freunde und andere Informationen direkt über Dein Konto</string>
   <string name="binded">Authorisiert</string>
-  <string name="binding_behavior_error">Authorisierungs-Fehler!</string>
   <string name="btn_activate">Aktivieren</string>
   <string name="btn_back">Zurück</string>
   <string name="btn_call">Support Anrufen</string>
@@ -46,6 +43,8 @@
   <string name="disable_find_device_error">%1$s, Deaktivierung der Lokalisierungsfunktion fehlgeschlagen</string>
   <string name="email_already_be_used">E-Mail-Adresse schon in Benutzung</string>
   <string name="enable_find_device_error">%1$s, Aktivierung der Lokalisierungsfunktion fehlgeschlagen</string>
+  <string name="error_account_changed_summary">Dein Xiaomi-Konto wurde aktualisiert. Bitte überprüfe Deine Angaben und versuche es noch einmal</string>
+  <string name="error_account_changed_title">Konto aktualisiert</string>
   <string name="error_auth_summary">Konto-Authentifizierung fehlgeschlagen, bitte erneut versuchen</string>
   <string name="error_auth_title">Konto-Fehler</string>
   <string name="error_common_summary">Systemfehler, bitte versuche es später erneut</string>
@@ -90,7 +89,6 @@
   <string name="frozen">(Gesperrt)</string>
   <string name="header_data_and_synchronization">Daten &amp; Synchronisierung</string>
   <string name="i_know">OK</string>
-  <string name="imported_contacts">%s Kontakte importiert</string>
   <string name="input_password_hint">Passwort eingeben</string>
   <string name="int_phone_user_notice">Wenn Du eine Telefonnummer ausserhalb von China registrierst, verwende bitte auch Deine Landesvorwahl, z.B. +43xxxxxxxxx</string>
   <string name="label_order_name">Name: </string>
@@ -124,13 +122,11 @@
   <string name="micloud_reg_new">Neu registrieren</string>
   <string name="micloud_resend_active_email">Aktivierungs-Mail erneut senden</string>
   <string name="micloud_use_existing">Vorhanden</string>
-  <string name="micloud_val_sms_alert">Es wird eine SMS geschickt um Deine Telefonnummer zu bestätigen. Fortfahren?</string>
   <string name="micloud_via_int_sms_alert">Es wird eine internationale SMS zu den Anbieter üblichen Kosten geschickt. Fortfahren?</string>
   <string name="micloud_via_sms_alert">Es wird eine SMS geschickt um Deine Telefonnummer zu bestätigen. Fortfahren?</string>
   <string name="micloud_welcome_skip_login">Anmeldung überspringen</string>
   <string name="mili_center">Mi-Credit Zentrale</string>
   <string name="next">Weiter</string>
-  <string name="no_sim">SIM-Karte nicht gefunden, Synchronisierung fehlgeschlagen</string>
   <string name="nobind">Nicht authorisiert</string>
   <string name="order_price">%1$s Mi-Credits</string>
   <string name="other_settings">Erweiterte Einstellungen</string>
@@ -170,13 +166,9 @@
   <string name="process_result">Ergebnis:</string>
   <string name="progress_connecting">Verbinde...</string>
   <string name="progress_creating">Rufe Bestellinformation ab...</string>
-  <string name="progress_error_common">Aufladen fehlgeschlagen, bitte versuche es später erneut.</string>
-  <string name="progress_error_network">Netzwerkverbindung konnte nicht hergestellt werden, bitte überprüfe den Netzwerkstatus.</string>
+  <string name="progress_downloading">Herunterladen...</string>
   <string name="progress_error_pay_title">Zahlung fehlgeschlagen</string>
   <string name="progress_error_recharge_title">Topup fehlgeschlagen</string>
-  <string name="progress_error_server">Serverfehler, bitte versuche es später erneut.</string>
-  <string name="progress_error_title">Topup fehlgeschlagen</string>
-  <string name="progress_error_waiting">Immer noch nicht aktualisiert, bitte versuche es später erneut!</string>
   <string name="progress_loading">Bearbeite, bitte warten...</string>
   <string name="progress_paytool_creating">Generiere %1$s Bestellung...</string>
   <string name="progress_paytool_installing">Installiere %1$s mobiles Sicherheits-PlugIn...</string>
@@ -185,17 +177,15 @@
   <string name="progress_submit_hint">Wird in ungefähr 3 Minuten erwartet</string>
   <string name="progress_submit_pay_summary">Zusammenfassung: %1$s RMB</string>
   <string name="progress_submit_recharge_summary">Topup für: %1$s RMB</string>
-  <string name="progress_submit_summary">Topup: %1$s RMB</string>
   <string name="progress_submit_title">Topup-Anfrage versendet</string>
   <string name="progress_success_pay_title">%1$s Mi-Credit Zahlung abgeschlossen</string>
   <string name="progress_success_recharge_summary">Guthaben: %1$sMi-Credits</string>
   <string name="progress_success_recharge_title">%1$s Mi-Credits topup abgeschlossen</string>
-  <string name="progress_success_summary">Guthaben: %1$sMi-Credits</string>
-  <string name="progress_success_title">%1$s Mi-Credits topup abgeschlossen</string>
   <string name="progress_voucher_creating">Aktualisiere Mi-Credits...</string>
   <string name="progress_warning_contact_server">"Nachricht wurde nciht zugestellt, wird aber in Kürze gesendet:
    1. Kontaktiere den Kundendienst unter: %1$s
    2. Übermittle diese Seriennummer: %2$s"</string>
+  <string name="progress_warning_waiting">Konto-Änderungen werden noch aktualisiert. Bitte versuche es später noch einmal.</string>
   <string name="quick_login_title">Authentifizierung nötig, bitte Passwort eingeben</string>
   <string name="recharge_alipay_summary">Alipay topup</string>
   <string name="recharge_alipay_title">Alipay</string>
@@ -215,8 +205,8 @@
   <string name="recharge_voucher_title">Mi-Credit-Gutscheine</string>
   <string name="reg_by_email_failure">Registrierung fehlgeschlagen: %1$s</string>
   <string name="reg_failed">Registrierung fehlgeschlagen</string>
-  <string name="reg_type_email">Über E-Mail registrieren</string>
-  <string name="reg_type_phone">Über Telefon registrieren (Empfohlen)</string>
+  <string name="reg_type_email">Mit E-Mail registrieren</string>
+  <string name="reg_type_phone">Mit Telefon registrieren (Empfohlen)</string>
   <string name="reging">Registrierung, bitte warten…</string>
   <string name="relogin">Login</string>
   <string name="remove_account_notice">Was möchtst Du mit den bereits synchronisierten Nachrichten, Kontakten, Anruflisten und Notizen auf Deinem Telefon machen?</string>
@@ -239,8 +229,8 @@
   <string name="title_mili_center">Mi-Credits Zentrale</string>
   <string name="title_pay">Bezahle mit Mi-Credits</string>
   <string name="title_pay_record">%1$s Objekte im Bezahlverlauf</string>
-  <string name="title_paytool">Top-up via %1$s</string>
-  <string name="title_prepaid">Topup per Karte</string>
+  <string name="title_paytool">Top-up mit %1$s</string>
+  <string name="title_prepaid">Topup mit Karte</string>
   <string name="title_recharge">Topup Mi-Credits</string>
   <string name="title_recharge_record">Topup-Verlauf</string>
   <string name="title_reg">Registere Dein Xiaomi-Konto</string>
