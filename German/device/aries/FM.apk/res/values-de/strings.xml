@@ -75,7 +75,6 @@
   <string name="msg_searching">Suche nach Sendern um eine Preset-Liste zu erstellen</string>
   <string name="msg_searching_title">Presets automatisch wählen</string>
   <string name="msg_seeking">Suche Radiosender</string>
-  <string name="msg_unable_start_fm_title">Konnte Radio nicht starten</string>
   <string name="msg_weak_searching">Suche nach Frequenzen zur Übermittlung</string>
   <string name="no_storage">Bitte SD-Karte vor der Aufnahme einlegen.</string>
   <string name="preparing_sd">SD-Karte wird vorbereitet</string>
@@ -90,7 +89,6 @@
   <string name="record_file_location_format">Berühren, um die Datei %s zu öffnen</string>
   <string name="record_sucess">Aufnahme erfolgreich</string>
   <string name="regional_band">Regionaler Frequenzbereich löscht alle gespeicherten Sender</string>
-  <string name="revert_to_fac">Auf Werkseinstellung zurücksetzen</string>
   <string name="search_dialog_title">Sender suchen</string>
   <string name="sel_audio_output">Audio-Ausgabe wählen</string>
   <string name="sel_band_menu">Regionalen Frequenzbereich wählen</string>
@@ -99,7 +97,6 @@
   <string name="set_sigth">Signal-Th konfigurieren</string>
   <string name="settings_menu">Einstellungen</string>
   <string name="settings_revert_confirm_msg">Dies löscht alle Einstellungen und Presets</string>
-  <string name="settings_revert_confirm_title">Zurücksetzen bestätigen</string>
   <string name="settings_revert_defaults_title">Auf Werkseinstellungen zurücksetzen</string>
   <string name="spaceIsLow_content">Dein Speicherplatz wird knapp. Ändere die Qualitätseinstellungen oder lösche ein paar Bilder oder andere Dateien.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
