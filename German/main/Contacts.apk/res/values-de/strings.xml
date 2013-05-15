@@ -150,7 +150,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">"Möchtest Du wirklich %s's Anrufmitschnitt löschen?"</string>
   <string name="confirm_delete_selected_call_log">Die %1d ausgewählte(n) Gruppe(n) an Gesprächsmitschnitten löschen?</string>
-  <string name="confirm_export_message">Ihre Kontaktliste in die Datei \"%s\" exportieren?</string>
+  <string name="confirm_export_message">Deine Kontaktliste in die Datei \"%s\" exportieren?</string>
   <string name="confirm_export_title">Exportieren bestätigen</string>
   <string name="connections">Verbindungen</string>
   <string name="contactDetailAbout">Über</string>
@@ -168,7 +168,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="contact_edit_title_insert">Erstelle %s Kontakt</string>
   <string name="contact_edit_title_readonly">Read-Only-Kontakt</string>
   <string name="contact_editor_prompt_multiple_accounts">Du kannst den neuen Kontakt mit einem der folgenden Benutzerkonten synchronisieren. Welches soll verwendet werden?</string>
-  <string name="contact_editor_prompt_one_account">Ihr neuer Kontakt wird mit \"%1$s\" synchronisiert.</string>
+  <string name="contact_editor_prompt_one_account">Dein neuer Kontakt wird mit \"%1$s\" synchronisiert.</string>
   <string name="contact_editor_prompt_zero_accounts">"Der neue Kontakt wurde nicht gesichert. Möchtest Du ein Benutzerkonto hinzufügen, welches Deine Kontakte online sichert und synchronisiert?"</string>
   <string name="contact_list_loading">Lädt...</string>
   <string name="contact_pick_photo">Bild</string>
@@ -686,7 +686,7 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="quit_dialog_confirm_title">Soll das Zusammenführen von Kontakten beendet werden?</string>
   <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
-  <string name="readOnlyContactWarning">Sie können keine Kontakte von schreibgeschützten Benutzerkonten löschen, diese aber in Ihrer Kontaktliste ausblenden.</string>
+  <string name="readOnlyContactWarning">Du kannst keine Kontakte von schreibgeschützten Benutzerkonten löschen, diese aber in Deiner Kontaktliste ausblenden.</string>
   <string name="reading_vcard_canceled_title">Lesen der vCard-Daten abgebrochen</string>
   <string name="reading_vcard_failed_title">"Konnte vCard-Daten nicht lesen"</string>
   <string name="rebuild_t9_index_dialog_message">T9-Indexdaten werden wiederhergestellt…</string>
@@ -782,7 +782,7 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="share_error">Dieser Kontakt kann nicht geteilt werden</string>
   <string name="share_via">Kontakt teilen via</string>
   <string name="share_visible_contacts">Sichtbare Kontakte teilen</string>
-  <string name="shortcutActivityTitle">Wählen Sie eine Kontaktverknüpfung</string>
+  <string name="shortcutActivityTitle">Wähle eine Kontaktverknüpfung</string>
   <string name="shortcutContact">Kontakte</string>
   <string name="shortcutDialContact">Direktwahl</string>
   <string name="shortcutMessageContact">Direktnachricht</string>

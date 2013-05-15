@@ -344,7 +344,7 @@
   <string name="pref_privacy_clear_passwords_summary">Alle gespeicherten Passwörter löschen</string>
   <string name="pref_privacy_cookies_title">Cookies</string>
   <string name="pref_privacy_enable_geolocation">Standort freigeben</string>
-  <string name="pref_privacy_enable_geolocation_summary">Seiten erlauben, die Freigabe Ihres Standorts anzufragen</string>
+  <string name="pref_privacy_enable_geolocation_summary">Seiten erlauben, die Freigabe deines Standorts anzufragen</string>
   <string name="pref_privacy_formdata_title">Formulardaten</string>
   <string name="pref_privacy_location_title">Standort</string>
   <string name="pref_privacy_security_title">Privatsphäre &amp; Sicherheit</string>

@@ -113,7 +113,7 @@
   <string name="enter_edit_mode">Löschen</string>
   <string name="error_code_label">"Fehlermeldung: "</string>
   <string name="error_state">Inkonsistenter Zustand</string>
-  <string name="error_state_text">Der Zustand der Unterhaltung und der Empfänger ist inkonsistent. Bitte senden Sie eine Fehlermeldung via http://go/droidanizer</string>
+  <string name="error_state_text">Der Zustand der Unterhaltung und der Empfänger sind inkonsistent. Bitte sende eine Fehlermeldung via http://go/droidanizer</string>
   <string name="error_timed_msg">Es kann kein Zeitpunkt in der Vergangenheit gewählt werden</string>
   <string name="ex_type_mx">Cloud-Nachricht</string>
   <string name="ex_type_sms">SMS</string>

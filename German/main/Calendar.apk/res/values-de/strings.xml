@@ -17,7 +17,7 @@
   <string name="accessibility_repeats">Wiederholung</string>
   <string name="accessibility_sync_cal">Kalender synchronisieren</string>
   <string name="accounts">Konten &amp; Synchronisierung</string>
-  <string name="acct_not_synced">Dieses Konto wird nicht synchronisiert. Ihre Kalender sind möglicherweise nicht aktuell.</string>
+  <string name="acct_not_synced">Dieses Konto wird nicht synchronisiert. Deine Kalender sind möglicherweise nicht aktuell.</string>
   <string name="acessibility_cal_notification">Kalender Benachrichtigung</string>
   <string name="acessibility_selected_marker_description">Wähle Event</string>
   <string name="acessibility_snooze_notification">Schlummer Benachrichtigung</string>
@@ -115,7 +115,7 @@
   <string name="more_string">%1$s weitere...</string>
   <string name="new_event_dialog_label">Neuer Termin</string>
   <string name="new_event_dialog_option">Neuer Termin</string>
-  <string name="no_calendars_found">Damit Sie einen Termin hinzufügen können, müssen Sie mindestens ein Google Kalender-Konto zu Ihrem Gerät hinzufügen und einen Kalender sichtbar machen. Tippen Sie zum Hinzufügen eines Kontos auf \"Konto hinzufügen\". Falls Sie gerade ein Konto hinzugefügt haben, warten Sie, bis die Synchronisierung abgeschlossen ist, und versuchen Sie es dann erneut. Sie können auch auf \"Abbrechen\" tippen und sich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
+  <string name="no_calendars_found">Damit Du einen Termin hinzufügen kannst, musst Du mindestens ein Google Kalender-Konto zu Deinem Gerät hinzufügen und einen Kalender sichtbar machen. Zum Hinzufügen eines Kontos tippe auf \"Konto hinzufügen\". Falls Du gerade ein Konto hinzugefügt hast, warte bis die Synchronisierung abgeschlossen ist und versuchen es dann erneut. Du kannst auch auf \"Abbrechen\" tippen und dich vergewissern, dass mindestens ein Kalender sichtbar ist.</string>
   <string name="no_syncable_calendars">Keine Kalender</string>
   <string name="no_title_label">(Kein Titel)</string>
   <string name="not_synced">Nicht synchronisiert</string>

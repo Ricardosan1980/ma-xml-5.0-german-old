@@ -73,7 +73,7 @@
   <string name="allow_mock_location_summary">Erlaubt falsche Standorte</string>
   <string name="always_allow_bind_appwidgets_text">"Du hast dieser Anwendung erlaubt, Widgets zu erstellen und auf deren Daten zuzugreifen."</string>
   <string name="android_beam_disabled_summary">Nicht verfügbar, weil NFC deaktiviert ist</string>
-  <string name="android_beam_explained">"Wenn diese Funktion aktiviert ist, kannst Du einem anderen NFC-kompatiblen Gerät Daten senden, indem Du die Geräte aneinander hälst. Du kannst so beispielsweise Webseiten, Youtube-Videos oder Kontakte senden. Halte einfach die Geräte aneinander (gewöhnlicherweise Rückseite an Rückseite) und berühre den Bildschirm. Die App bestimmt selbst, was Sie senden soll."</string>
+  <string name="android_beam_explained">"Wenn diese Funktion aktiviert ist, kannst Du einem anderen NFC-kompatiblen Gerät Daten senden, indem Du die Geräte aneinander hälst. Du kannst so beispielsweise Webseiten, Youtube-Videos oder Kontakte senden. Halte einfach die Geräte aneinander (gewöhnlicherweise Rückseite an Rückseite) und berühre den Bildschirm. Die App bestimmt selbst, was sie senden soll."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Aus</string>
   <string name="android_beam_on_summary">Bereit, Anwendungsinhalte via NFC zu senden</string>
@@ -774,7 +774,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="enable_traces_summary_none">Keine Traces aktiviert</string>
   <string name="enable_traces_summary_num">%1$d Traces aktiviert</string>
   <string name="enable_traces_title">Traces aktivieren</string>
-  <string name="enforce_read_external_confirm_message">"Wenn der USB-Speicher geschützt ist, müssen Anwendungen um Erlaubnis fragen, wenn Sie Daten von externen Speichern lesen möchten.
+  <string name="enforce_read_external_confirm_message">"Wenn der USB-Speicher geschützt ist, müssen Anwendungen um Erlaubnis fragen, wenn sie Daten von externen Speichern lesen möchten.
 
 Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler eine Aktualisierung durchgeführt hat."</string>
   <string name="enforce_read_external_confirm_title">USB-Speicher schützen?</string>
@@ -1559,7 +1559,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="sdcard_format">SD-Karte löschen</string>
   <string name="sdcard_setting">SD-Karte</string>
   <string name="sdcard_settings_available_bytes_label">Verfügbare Bytes:</string>
-  <string name="sdcard_settings_bad_removal_status">SD-Karte wurde entfernt, während Sie noch in Benutzung war!</string>
+  <string name="sdcard_settings_bad_removal_status">SD-Karte wurde entfernt, während sie noch in Benutzung war!</string>
   <string name="sdcard_settings_mass_storage_status">SD-Karte wird als Massenspeicher verwendet</string>
   <string name="sdcard_settings_not_present_status">Keine SD-Karte</string>
   <string name="sdcard_settings_read_only_status">SD-Karte im Lesemodus gemounted</string>

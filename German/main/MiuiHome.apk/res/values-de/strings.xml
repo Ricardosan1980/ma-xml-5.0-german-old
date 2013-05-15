@@ -113,7 +113,7 @@
   <string name="pref_icon_shadow_title">Symbolschatten</string>
   <string name="pref_keep_in_memory_summary">Verhindert, dass der Launcher beendet wird, wenn wenig Speicher verfügbar ist.</string>
   <string name="pref_keep_in_memory_title">Im Speicher behalten</string>
-  <string name="pref_keep_layout_summary">Ändern der Symbolanordnung könnte ihre Desktopanordnung verändern.</string>
+  <string name="pref_keep_layout_summary">Ändern der Symbolanordnung könnte deine Desktopanordnung verändern.</string>
   <string name="pref_keep_layout_title">Derzeitiges Layout behalten</string>
   <string name="pref_render_in_truecolor_summary">Durch Ausschalten dieser Option wird die Drawing-Performance verbessert.</string>
   <string name="pref_render_in_truecolor_title">Hochaufgelöste Grafiken</string>

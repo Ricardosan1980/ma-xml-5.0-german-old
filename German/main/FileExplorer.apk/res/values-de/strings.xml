@@ -77,7 +77,7 @@
   <string name="downloading">Lädt herunter…</string>
   <string name="empty_dir_cleanup_indication">%s Junk-Dateien</string>
   <string name="empty_dir_title">Leere Verzeichnisse</string>
-  <string name="enable_sd_card">SD-Karte ist nicht verfügbar, legen Sie bitte eine ein</string>
+  <string name="enable_sd_card">SD-Karte ist nicht verfügbar, lege bitte eine ein</string>
   <string name="error_info_cant_send_folder">Der Ordner konnte nicht gesendet werden</string>
   <string name="fail_to_create_folder">Der Ordner konnte nicht erstellt werden, da er bereits vorhanden ist</string>
   <string name="fail_to_rename">Die Datei oder der Ordner konnte nicht umbenannt werden, da sie bzw. er bereits vorhanden ist</string>

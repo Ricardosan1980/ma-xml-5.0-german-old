@@ -21,7 +21,7 @@
   <string name="auto_select_af_summary">Stellt auf eine andere Frequenz des gleichen Senders ein, wenn das erste Signal zu schwach wird</string>
   <string name="button_text_stop">Stop</string>
   <string name="cancel">Abbrechen</string>
-  <string name="cancel_sleep_mode">Schlummermodus abbrechen</string>
+  <string name="cancel_sleep_mode">Einschlafmodus abbrechen</string>
   <string name="clear">Löschen</string>
   <string name="close">Schließen</string>
   <string name="default_audio">Stereo</string>

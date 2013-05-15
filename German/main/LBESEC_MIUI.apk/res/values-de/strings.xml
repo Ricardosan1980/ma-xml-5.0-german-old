@@ -97,7 +97,7 @@
   <string name="HIPS_Perm_GetCallState">Den aktuellen Anrufstatus erhalten</string>
   <string name="HIPS_Perm_ListenCallState">Den Anrufstatus überwachen</string>
   <string name="HIPS_Perm_Location">Positionierung</string>
-  <string name="HIPS_Perm_Location_Access">Ihre aktuelle Position erhalten</string>
+  <string name="HIPS_Perm_Location_Access">Deine aktuelle Position erhalten</string>
   <string name="HIPS_Perm_Location_CellInfo">Die Telefonposition erhalten</string>
   <string name="HIPS_Perm_Location_CellLocation">Die Telefonposition erhalten</string>
   <string name="HIPS_Perm_Location_Desc">Dein Telefon über Netzwerk oder GPS orten</string>
@@ -119,12 +119,12 @@
   <string name="HIPS_Perm_Network_WIFIEvent">Das WLAN-Netzwerk verwenden</string>
   <string name="HIPS_Perm_PhoneID">Telefon-ID</string>
   <string name="HIPS_Perm_PhoneID_Desc">Deine Telefon-ID erhalten, inklusive IMEI, IMSI, etc.</string>
-  <string name="HIPS_Perm_PhoneID_Hint">%1$s Anwendungen haben die Berechtigung, Ihre Telefon-ID zu erhalten</string>
+  <string name="HIPS_Perm_PhoneID_Hint">%1$s Anwendungen haben die Berechtigung, deine Telefon-ID zu erhalten</string>
   <string name="HIPS_Perm_PhoneID_ICCID">die SIM-Karten-Seriennummer erhalten</string>
   <string name="HIPS_Perm_PhoneID_IMEI">die IMEI-Nummer erhalten</string>
   <string name="HIPS_Perm_PhoneID_IMEISN">IMEI/SN erhalten</string>
   <string name="HIPS_Perm_PhoneID_IMSI">die IMSI-Nummer erhalten</string>
-  <string name="HIPS_Perm_PhoneID_Number">Ihre Telefonnummer erhalten</string>
+  <string name="HIPS_Perm_PhoneID_Number">Deine Telefonnummer erhalten</string>
   <string name="HIPS_Perm_PromptAll">Alle nachfragen</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc">ROOT-Berechtigung anfragen</string>
@@ -133,9 +133,9 @@
   <string name="HIPS_Perm_ROOT_Title">ROOT-Berechtigungen erhalten</string>
   <string name="HIPS_Perm_RejectAll">Alle abweisen</string>
   <string name="HIPS_Perm_SMS">SMS</string>
-  <string name="HIPS_Perm_SMS_Access">Ihren SMS-Eingang lesen</string>
-  <string name="HIPS_Perm_SMS_Desc">auf Ihren SMS-Eingang zugreifen</string>
-  <string name="HIPS_Perm_SMS_Hint">%1$s Anwendungen haben die Berechtigung, auf Ihren SMS-Eingang zuzugreifen</string>
+  <string name="HIPS_Perm_SMS_Access">Deinen SMS-Eingang lesen</string>
+  <string name="HIPS_Perm_SMS_Desc">auf deinen SMS-Eingang zugreifen</string>
+  <string name="HIPS_Perm_SMS_Hint">%1$s Anwendungen haben die Berechtigung, auf deinen SMS-Eingang zuzugreifen</string>
   <string name="HIPS_Perm_SendSMS">SMS senden</string>
   <string name="HIPS_Perm_SendSMS_Content">Inhalt:</string>
   <string name="HIPS_Perm_SendSMS_Data">SMS an %1$s:%2$d senden</string>
