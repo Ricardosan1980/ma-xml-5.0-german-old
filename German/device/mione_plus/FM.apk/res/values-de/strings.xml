@@ -26,7 +26,6 @@
   <string name="close">Schließen</string>
   <string name="default_audio">Stereo</string>
   <string name="default_band">United States</string>
-  <string name="default_blank" />
   <string name="default_station">FM</string>
   <string name="default_time">Nach 30 Minuten</string>
   <string name="delete_station_title">Löschen</string>
@@ -65,7 +64,6 @@
   <string name="frequency_already_exist">Frequenz ist schon vorhanden</string>
   <string name="frequency_out_of_range">(%1$s~%2$s) Frequenz ist ausser Reichweite</string>
   <string name="frequency_should_not_null">Radiofrequenz darf nicht leer sein</string>
-  <string name="frequency_string" />
   <string name="hint_station_name">Sendernamen eingeben</string>
   <string name="input_station">Frequenz (MHz)</string>
   <string name="max_time">90</string>
@@ -161,5 +159,4 @@
   <string name="toast_save_station">%sMHz wurde gespeichert</string>
   <string name="toast_sleep_mode">Radio in %s beenden</string>
   <string name="transmit_msg_string">Übertrage auf:</string>
-  <string name="type_rd" />
 </resources>
