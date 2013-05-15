@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Konto</string>
   <string name="account_delete_dlg_instructions_fmt">Das Konto \"%s\" wird aus E-Mail entfernt.</string>
@@ -307,6 +307,12 @@
   <string name="mailbox_name_display_sent">Gesendet</string>
   <string name="mailbox_name_display_trash">Papierkorb</string>
   <string name="mailbox_name_display_unread">Ungelesen</string>
+  <!--
+       Do NOT translate the 
+       strings called
+       mailbox_name_server_*
+       this would break the IMAP sync!
+  -->
   <string name="mailbox_preferences_header">Synchronisierungseinstellungen</string>
   <string name="mailbox_settings_action">Synchronisierungsoptionen</string>
   <string name="mailbox_settings_activity_title">Synchronisierungsoptionen</string>

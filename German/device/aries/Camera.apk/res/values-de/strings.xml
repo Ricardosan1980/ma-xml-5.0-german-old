@@ -11,7 +11,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Gerät auf ebenem Untergrund platzieren und
   einen Moment aus dem Bild gehen"</string>
-  <string name="camera_disabled">Kamera wurde aus Sicherheitsgründen deaktiviert.</string>
+  <string name="camera_disabled">Kamera wurde durch Sicherheitseinstellungen deaktiviert.</string>
   <string name="camera_error_title">Kamera-Fehler</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_settings_label">Kamera-Einstellungen</string>
@@ -42,7 +42,7 @@
   <string name="effect_backdropper_gallery">Selbst auswählen</string>
   <string name="effect_backdropper_space">Im Weltraum</string>
   <string name="effect_backdropper_sunset">Sonnenuntergang</string>
-  <string name="effect_background">HINTERGRUND</string>
+  <string name="effect_background">Hintergrund</string>
   <string name="effect_goofy_face_big_eyes">Große Augen</string>
   <string name="effect_goofy_face_big_mouth">Großer Mund</string>
   <string name="effect_goofy_face_big_nose">Große Nase</string>
@@ -50,7 +50,7 @@
   <string name="effect_goofy_face_small_mouth">Kleiner Mund</string>
   <string name="effect_goofy_face_squeeze">Quetschen</string>
   <string name="effect_none">Kein Effekt</string>
-  <string name="effect_silly_faces">LUSTIGE GESICHTER</string>
+  <string name="effect_silly_faces">Lustige Gesichter</string>
   <string name="empty">" "</string>
   <string name="error_app_unsupported">Nicht unterstützte Video-Auflösung für diesen Encoder</string>
   <string name="error_app_unsupported_hfr_720p">720p unterstützt bis zu 90 FPS</string>
@@ -105,7 +105,7 @@
   <string name="pano_how_to_use_prompt_go_on_moving">Weiter bewegen, Telefon ruhig halten</string>
   <string name="pano_how_to_use_prompt_to_move">Versuche, das Telefon bei der Bewegung ruhig zu halten</string>
   <string name="pano_review_saving_indication_str">Speichert…</string>
-  <string name="pano_too_fast_prompt">Zu schnell bewegt</string>
+  <string name="pano_too_fast_prompt">Zu schnell</string>
   <string name="path">Pfad</string>
   <string name="people">Personen</string>
   <string name="pref_advanced_functions">Erweiterte Funktionen</string>
@@ -296,7 +296,7 @@
   <string name="pref_camera_scenedetect_title">Automatische Szenen-Erkennung</string>
   <string name="pref_camera_scenemode_default" />
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
-  <string name="pref_camera_scenemode_entry_backlight">Hintergrundlicht</string>
+  <string name="pref_camera_scenemode_entry_backlight">Gegenlicht</string>
   <string name="pref_camera_scenemode_entry_beach">Strand</string>
   <string name="pref_camera_scenemode_entry_fireworks">Feuerwerk</string>
   <string name="pref_camera_scenemode_entry_flowers">Blumen</string>
@@ -358,13 +358,13 @@
   <string name="pref_camera_whitebalance_entry_cloudy">Bewölkt</string>
   <string name="pref_camera_whitebalance_entry_daylight">Tageslicht</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Neonlicht</string>
-  <string name="pref_camera_whitebalance_entry_incandescent">Glühbirne</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">Glühlampe</string>
   <string name="pref_camera_whitebalance_k_value_title">K-Wert Weißabgleich</string>
   <string name="pref_camera_whitebalance_title">Weißabgleich</string>
   <string name="pref_camera_zsl_default" />
   <string name="pref_camera_zsl_entry_off">Aus</string>
   <string name="pref_camera_zsl_entry_on">An</string>
-  <string name="pref_camera_zsl_title">ZSL (Keine Auslöseverzögerung))</string>
+  <string name="pref_camera_zsl_title">ZSL (Keine Auslöseverzögerung)</string>
   <string name="pref_camera_zsl_value_off">Aus</string>
   <string name="pref_camera_zsl_value_on">An</string>
   <string name="pref_captrue_mirror_entry_off">Aus</string>
@@ -377,7 +377,7 @@
   <string name="pref_grp_picture_settings">Bild-Einstellungen</string>
   <string name="pref_grp_restore_settings">Einstellungen zurücksetzen</string>
   <string name="pref_settings_mode">Kamera-Modus</string>
-  <string name="pref_video_captrue_ability_title">Aufnahmesmöglichkeit</string>
+  <string name="pref_video_captrue_ability_title">Aufnahmemöglichkeit</string>
   <string name="pref_video_continuous_focus">Kontinuierlicher Fokus</string>
   <string name="pref_video_continuous_focus_entry_off">Aus</string>
   <string name="pref_video_continuous_focus_entry_on">An</string>
@@ -394,9 +394,9 @@
   <string name="pref_video_quality_title">Video-Qualität</string>
   <string name="pref_video_slow_speed_title_simple_mode">Zeitlupe</string>
   <string name="pref_video_speed_entry_normal" />
-  <string name="pref_video_speed_entry_slow">Schnell</string>
+  <string name="pref_video_speed_entry_fast">Zeitlupe</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
-  <string name="pref_video_speed_entry_slow">Langsam</string>
+  <string name="pref_video_speed_entry_slow">Zeitraffer</string>
   <string name="pref_video_speed_title">Videoaufnahmegeschwindigkeit</string>
   <string name="pref_video_speed_value_fast" />
   <string name="pref_video_speed_value_normal" />
@@ -452,7 +452,7 @@
   <string name="snapshot_lower_than_video">Video-Schnappschuss-Größe ist kleiner als Videogröße. Verringere Videogröße. Bitte eine gleiche oder höhere Auflösung wählen.</string>
   <string name="snapshot_qcif_and_d1">Video-Schnappschuss-Größe wird für diese Auflösung unterstützt.</string>
   <string name="snapshotsize_low_powermode">Bildauflösung wird im Low-Power-Modus nicht unterstützt. Video-Schnappschuss-Größe wird verwendet. Bitte High-Power-Modus für Bildauflösung verwenden.</string>
-  <string name="spaceIsLow_content">Auf der SD-Karte ist kein Platz mehr. Ändere die Auflösung, lösche Bilder oder andere Daten, um Speicherplatz zu gewinnen.</string>
+  <string name="spaceIsLow_content">Auf der SD-Karte ist kein Platz mehr. Verringere die Auflösung oder lösche Bilder oder andere Daten.</string>
   <string name="tags">Tags</string>
   <string name="tap_to_focus">Zum Fokussieren berühren.</string>
   <string name="time">Zeit</string>
