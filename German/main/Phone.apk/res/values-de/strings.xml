@@ -462,7 +462,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="general_news_settings">Allgemeine Nachrichten</string>
   <string name="get_pin2">PIN2 eingeben</string>
   <string name="get_smsc_address_error_miui">Konnte Nummer der SMS-Zentrale nicht abrufen. Bitte später erneut versuchen.</string>
-  <string name="get_smsc_address_timeout_miui">Time-Out beim Abruf der SMS-Zentrale. Bitte später erneut versuchen.</string>
+  <string name="get_smsc_address_timeout_miui">Zeitüberschreitung beim Abruf der SMS-Zentrale. Bitte später erneut versuchen.</string>
   <string name="go_private_miui">Vertraulich</string>
   <string name="goPrivate">Vertraulich</string>
   <string name="gsm_umts_options">GSM/UMTS-Einstellungen</string>
@@ -887,7 +887,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="set_primary_summary">Für ausgehende Anrufe genutzt</string>
   <string name="set_primary_title">Als primäres Konto nutzen</string>
   <string name="set_smsc_address_error_miui">Konnte Nummer der SMS-Zentrale nicht ändern, bitte später erneut versuchen.</string>
-  <string name="set_smsc_address_timeout_miui">Time-Out beim Ändern der SMS-Zentrale, bitte später erneut versuchen.</string>
+  <string name="set_smsc_address_timeout_miui">Zeitüberschreitung beim Ändern der SMS-Zentrale, bitte später erneut versuchen.</string>
   <string name="set_smsc_address_title_miui">Nummer der SMS-Zentrale</string>
   <string name="set_sub_1">Abonnement 1:</string>
   <string name="set_sub_2">Abonnement 2:</string>

@@ -121,7 +121,7 @@
   <string name="pref_camera_audio_capture_title">Audioaufnahme</string>
   <string name="pref_camera_auto_focus_entry_off">Aus</string>
   <string name="pref_camera_auto_focus_entry_on">An</string>
-  <string name="pref_camera_autoexposure_entry_centerweighted">Mehrfeldmessung</string>
+  <string name="pref_camera_autoexposure_entry_centerweighted">Mittenbetont</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Durchschnitt</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Spotmessung</string>
   <string name="pref_camera_autoexposure_title">Auto-Belichtungsmodus wählen</string>

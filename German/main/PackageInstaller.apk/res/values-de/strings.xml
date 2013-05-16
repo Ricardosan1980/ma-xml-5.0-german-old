@@ -27,7 +27,7 @@
   <string name="install_failed_msg">%1$s konnte nicht auf diesem Gerät installiert werden.</string>
   <string name="install_failed_older_sdk">Dieses Paket funktioniert nur mit neueren Android-Versionen.</string>
   <string name="install_failed_verify_failed">Dieses Paket hat die Verifzierung nicht bestanden und kann nicht installiert werden.</string>
-  <string name="install_failed_verify_timeout">Timeout bei der Verifizierung des Pakets. Bitte versuche es zu einem späteren Zeitpunkt erneut zu installieren.</string>
+  <string name="install_failed_verify_timeout">Zeitüberschreitung bei der Verifizierung des Pakets. Bitte versuche es zu einem späteren Zeitpunkt erneut zu installieren.</string>
   <string name="installing">Installiere...</string>
   <string name="launch">Öffnen</string>
   <string name="lift_ban">Sperre aufheben</string>

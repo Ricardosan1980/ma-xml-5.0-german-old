@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importieren</string>
-  <string name="access_sd_fail">"Auf die SD-Karte konnte nicht zugegriffen werden."</string>
+  <string name="access_sd_fail">Auf die SD-Karte konnte nicht zugegriffen werden.</string>
   <string name="accessibility_camera_picker">Front- und Rückseitenkamera wechseln</string>
   <string name="accessibility_review_thumbnail">Letztes Foto</string>
   <string name="accessibility_shutter_button">Auslöser</string>
@@ -17,7 +17,7 @@
   <string name="camera_settings_label">Kamera-Einstellungen</string>
   <string name="can_not_play_video">Zum abzuspielen Bildschirm entsperren</string>
   <string name="cancel">Abbrechen</string>
-  <string name="cannot_connect_camera">"Verbindung zur Kamera kann nicht hergestellt werden."</string>
+  <string name="cannot_connect_camera">Verbindung zur Kamera kann nicht hergestellt werden.</string>
   <string name="clear_effects">Effekte löschen</string>
   <string name="close">Schließen</string>
   <string name="confirm_change_mode_title">Modus wechseln</string>
@@ -76,7 +76,7 @@
   <string name="hand_night_exit_button_text">Nachtmodus verlassen</string>
   <string name="hdr_exit_button_text">HDR-Modus verlassen</string>
   <string name="height">Höhe</string>
-  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
+  <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="import_complete">Import vollständig</string>
   <string name="import_fail">Import fehlgeschlagen!</string>
   <string name="iso">ISO</string>
@@ -88,7 +88,7 @@
   <string name="manual">Manuell</string>
   <string name="mimetype">MIME type</string>
   <string name="model">Modell</string>
-  <string name="no_save">"Nicht speichern"</string>
+  <string name="no_save">Nicht speichern</string>
   <string name="no_storage">Bitte SD-Karte einlegen, bevor die Kamera benutzt wird.</string>
   <string name="no_thumbnail">Kein Thumbnail</string>
   <string name="not_enough_space">Dein Speicher ist voll.</string>
@@ -96,16 +96,16 @@
   <string name="ok">OK</string>
   <string name="open">Öffnen</string>
   <string name="orientation">Ausrichtung</string>
-  <string name="pano_dialog_panorama_failed">"Panorama konnte nicht gespeichert werden."</string>
+  <string name="pano_dialog_panorama_failed">Panorama konnte nicht gespeichert werden.</string>
   <string name="pano_dialog_prepare_preview">Bereitet Panorama vor</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Warte auf Beendigung des vorherigen Panoramas</string>
-  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
+  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Auslöser drücken, um Panorama-Aufnahme zu starten</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Weiter bewegen, Telefon ruhig halten</string>
   <string name="pano_how_to_use_prompt_to_move">Versuche, das Telefon bei der Bewegung ruhig zu halten</string>
   <string name="pano_review_saving_indication_str">Speichert…</string>
-  <string name="pano_too_fast_prompt">Zu schnell</string>
+  <string name="pano_too_fast_prompt">Zu schnell bewegt</string>
   <string name="path">Pfad</string>
   <string name="people">Personen</string>
   <string name="pref_advanced_functions">Erweiterte Funktionen</string>
@@ -124,12 +124,12 @@
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Rauschunterdrückung</string>
   <string name="pref_camera_audio_capture_title">Audioaufnahme</string>
-  <string name="pref_camera_auto_focus_entry_off">Aus</string>
-  <string name="pref_camera_auto_focus_entry_on">An</string>
+  <string name="pref_camera_auto_focus_title_entry_off">Aus</string>
+  <string name="pref_camera_auto_focus_title_entry_on">An</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Mittenbetont</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Durchschnitt</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Spotmessung</string>
-  <string name="pref_camera_autoexposure_title">Auto-Belichtungsmodus wählen</string>
+  <string name="pref_camera_autoexposure_title">Spotmessung</string>
   <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
@@ -153,7 +153,7 @@
   <string name="pref_camera_default_suffix">(Standard)</string>
   <string name="pref_camera_denoise_title">Wavelet Entstör-Modus</string>
   <string name="pref_camera_facedetection_entry_off">Aus</string>
-  <string name="pref_camera_facedetection_entry_on">An</string>
+  <string name="pref_camera_facedetection_entry_on">On</string>
   <string name="pref_camera_facedetection_title">Gesichtserkennung</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Aus</string>
@@ -177,7 +177,7 @@
   <string name="pref_camera_hfr_value_off">Aus</string>
   <string name="pref_camera_histogram_entry_disable">Deaktivieren</string>
   <string name="pref_camera_histogram_entry_enable">Aktivieren</string>
-  <string name="pref_camera_histogram_title">Histogramm</string>
+  <string name="pref_camera_histogram_title">Histogram</string>
   <string name="pref_camera_histogram_value_disable">Deaktivieren</string>
   <string name="pref_camera_histogram_value_enable">Aktivieren</string>
   <string name="pref_camera_id_title">Kamera auswählen</string>
@@ -204,7 +204,9 @@
   <string name="pref_camera_long_pressing_burst_shooting_title">Serienbild-Aufnahme</string>
   <string name="pref_camera_movie_solid_entry_off">Aus</string>
   <string name="pref_camera_movie_solid_entry_on">An</string>
-  <string name="pref_camera_movie_solid_title">Bildstabilisierung</string>
+  <string name="pref_camera_movie_solid_title">An</string>
+  <string name="pref_camera_movie_solid_value_off">Aus</string>
+  <string name="pref_camera_movie_solid_value_on">An</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
@@ -316,9 +318,6 @@
   <string name="pref_camera_zsl_title">ZSL (Keine Auslöseverzögerung)</string>
   <string name="pref_camera_zsl_value_off">Aus</string>
   <string name="pref_camera_zsl_value_on">An</string>
-  <string name="pref_captrue_mirror_entry_off">Aus</string>
-  <string name="pref_captrue_mirror_entry_on">An</string>
-  <string name="pref_captrue_mirror_title">Frontkamera spiegeln</string>
   <string name="pref_exposure_title">Belichtung</string>
   <string name="pref_grp_advanced_settings">Erweiterte Einstellungen</string>
   <string name="pref_grp_capture_settings">Aufnahme-Einstellungen</string>
@@ -386,7 +385,6 @@
   <string name="simple_mode_button_text_hdr">HDR-Modus verlassen</string>
   <string name="simple_mode_button_text_panorama">Panorama-Modus verlassen</string>
   <string name="simple_mode_button_text_slow_video">Zeitlupe verlassen</string>
-  <string name="simple_mode_title">Einfacher Modus</string> 
   <string name="skip">Überspringen</string>
   <string name="slideshow">Diaschau</string>
   <string name="snapshot_lower_than_video">Video-Schnappschuss-Größe ist kleiner als Videogröße. Verringere Videogröße. Bitte eine gleiche oder höhere Auflösung wählen.</string>
@@ -408,8 +406,8 @@
   <string name="undo">Rückgängig</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Videokamera</string>
-  <string name="video_err">"Video kann nicht abgespielt werden."</string>
-  <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
+  <string name="video_err">Video kann nicht abgespielt werden.</string>
+  <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Größenlimit erreicht.</string>
   <string name="video_snapshot_hint">Mache ein Foto während der Videoaufnahme, indem du das Vorschaubild berührst.</string>
   <string name="videocamera_settings_label">Videokamera-Einstellungen</string>
