@@ -54,12 +54,12 @@
   <string name="edit_frame_warning_title">Warnung</string>
   <string name="empty" />
   <string name="finish_traffic_settings_hint">Einstellungen gespeichert!</string>
-  <string name="finish_traffic_settings_message">"Datenverbrauch beträgt %s. Sind die Daten korrekt? Falls nicht, kannst Du diese einstellen."</string>
+  <string name="finish_traffic_settings_message">"Datenverbrauch beträgt %s. Sind die Daten korrekt? Falls nicht, kannst du diese einstellen."</string>
   <string name="finish_traffic_settings_title">Datenverbrauch einstellen</string>
   <string name="fire_rule_program_list">Anwendungs-Liste</string>
   <string name="fire_rule_title_bar">fire_rule_title_bar</string>
   <string name="fire_wall_is_closed">Firewall ist nicht aktiviert</string>
-  <string name="force_stop_dlg_text">Falls Du das Beenden einer App erzwingst, kann dies zu Fehlverhalten führen.</string>
+  <string name="force_stop_dlg_text">Falls du das Beenden einer App erzwingst, kann dies zu Fehlverhalten führen.</string>
   <string name="force_stop_dlg_title">Beenden erzwingen?</string>
   <string name="i_known_button">OK</string>
   <string name="input_hint">Bitte gib etwas ein</string>
@@ -140,7 +140,7 @@
   <string name="traffic_used_status">"Verbraucht: 
 %s"</string>
   <string name="unknown">unbekannt</string>
-  <string name="unknown_free_traffic_hint">"Falls Du Dein Datenvolumen nicht weisst, informiere Dich bitte bei Deinem Mobilfunkanbieter"</string>
+  <string name="unknown_free_traffic_hint">"Falls du Dein Datenvolumen nicht weisst, informiere dich bitte bei Deinem Mobilfunkanbieter"</string>
   <string name="unknown_free_traffic_text">"Datenvolumen unbekannt?"</string>
   <string name="unknown_free_traffic_title">Unbekanntes Datenvolumen</string>
   <string name="unknown_location">Unbekannter Standort</string>

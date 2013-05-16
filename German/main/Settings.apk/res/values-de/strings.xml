@@ -17,7 +17,7 @@
   <string name="access_control_no_back_footer">Drücke zum Verlassen auf [icon]</string>
   <string name="access_control_password_title">Passwort aktivieren</string>
   <string name="access_control_recording_intro_header">Zeichne ein Muster, um die Sperre zu aktivieren</string>
-  <string name="access_control_reset_by_account">Melde Dich mit Deinem Xiaomi-Konto an, um das Passwort für die Zugriffskontrolle zurückzusetzen</string>
+  <string name="access_control_reset_by_account">Melde dich mit Deinem Xiaomi-Konto an, um das Passwort für die Zugriffskontrolle zurückzusetzen</string>
   <string name="accessibility_enable">Bedienhilfe aktivieren</string>
   <string name="accessibility_long_press_timeout_title">Druck- &amp; Halteverzögerung</string>
   <string name="accessibility_menu_item_settings">Einstellungen</string>
@@ -27,14 +27,14 @@
   <string name="accessibility_script_injection_button_allow">Erlauben</string>
   <string name="accessibility_script_injection_button_disallow">"Nicht erlauben</string>
   <string name="accessibility_script_injection_disallowed">Nicht erlaubt</string>
-  <string name="accessibility_script_injection_security_warning_summary">Möchtest Du, dass Anwendungen Scripts von Google installieren, um mehr Zugriff auf deren Web-Inhalte zu haben?</string>
+  <string name="accessibility_script_injection_security_warning_summary">Möchtest du, dass Anwendungen Scripts von Google installieren, um mehr Zugriff auf deren Web-Inhalte zu haben?</string>
   <string name="accessibility_script_injection_title">Web-Scripts installieren</string>
   <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_disable_warning_summary">Drücke "OK" um %1$s anzuhalten.</string>
   <string name="accessibility_service_disable_warning_title">%1$s anhalten?</string>
-  <string name="accessibility_service_no_apps_message">TalkBack bietet Sprachausgabe für blinde und sehbehinderte Benutzer. Möchtest Du es kostenfrei vom PlayStore installieren?</string>
-  <string name="accessibility_service_no_apps_title">Brauchst Du eine Bildschirmlupe?</string>
-  <string name="accessibility_service_security_warning_summary">%1$s kann von Dir eingegebene Texte, außer Passwörter, speichern. Dazu gehören persönliche Informationen wie bsp. Kreditkartennummern. Es können auch Interaktionen mit dem Telefon aufgezeichnet werden.</string>
+  <string name="accessibility_service_no_apps_message">TalkBack bietet Sprachausgabe für blinde und sehbehinderte Benutzer. Möchtest du es kostenfrei vom PlayStore installieren?</string>
+  <string name="accessibility_service_no_apps_title">Brauchst du eine Bildschirmlupe?</string>
+  <string name="accessibility_service_security_warning_summary">%1$s kann von dir eingegebene Texte, außer Passwörter, speichern. Dazu gehören persönliche Informationen wie bsp. Kreditkartennummern. Es können auch Interaktionen mit dem Telefon aufgezeichnet werden.</string>
   <string name="accessibility_service_security_warning_title">%1$s benutzen?</string>
   <string name="accessibility_service_state_off">Aus</string>
   <string name="accessibility_service_state_on">An</string>
@@ -66,14 +66,14 @@
   <string name="airplane_mode">Flugmodus</string>
   <string name="alarm_volume_title">Wecker</string>
   <string name="all_volume_title">Lautstärke</string>
-  <string name="allow_bind_app_widget_activity_allow_bind">Nachdem Du das Widget erstellt hast, kann %1$s auf alle angezeigten Daten zugreifen.</string>
+  <string name="allow_bind_app_widget_activity_allow_bind">Nachdem du das Widget erstellt hast, kann %1$s auf alle angezeigten Daten zugreifen.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget erstellen und Zugriff erlauben?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s immer erlauben, Widgets zu erstellen und auf Daten zuzugreifen</string>
   <string name="allow_mock_location">Falschen Standort erlauben</string>
   <string name="allow_mock_location_summary">Erlaubt falsche Standorte</string>
   <string name="always_allow_bind_appwidgets_text">"Du hast dieser Anwendung erlaubt, Widgets zu erstellen und auf deren Daten zuzugreifen."</string>
   <string name="android_beam_disabled_summary">Nicht verfügbar, weil NFC deaktiviert ist</string>
-  <string name="android_beam_explained">"Wenn diese Funktion aktiviert ist, kannst Du einem anderen NFC-kompatiblen Gerät Daten senden, indem Du die Geräte aneinander hälst. Du kannst so beispielsweise Webseiten, Youtube-Videos oder Kontakte senden. Halte einfach die Geräte aneinander (gewöhnlicherweise Rückseite an Rückseite) und berühre den Bildschirm. Die App bestimmt selbst, was sie senden soll."</string>
+  <string name="android_beam_explained">"Wenn diese Funktion aktiviert ist, kannst du einem anderen NFC-kompatiblen Gerät Daten senden, indem du die Geräte aneinander hälst. Du kannst so beispielsweise Webseiten, Youtube-Videos oder Kontakte senden. Halte einfach die Geräte aneinander (gewöhnlicherweise Rückseite an Rückseite) und berühre den Bildschirm. Die App bestimmt selbst, was sie senden soll."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Aus</string>
   <string name="android_beam_on_summary">Bereit, Anwendungsinhalte via NFC zu senden</string>
@@ -108,15 +108,15 @@
   <string name="apn_settings">APNs</string>
   <string name="apn_type">APN-Typ</string>
   <string name="apn_user">Benutzername</string>
-  <string name="app_disable_dlg_text">Wenn Du eine vorinstallierte Anwendung deaktivierst, könnten andere Anwendungen unter Umständen nicht mehr fehlerfrei funktionieren.</string>
+  <string name="app_disable_dlg_text">Wenn du eine vorinstallierte Anwendung deaktivierst, könnten andere Anwendungen unter Umständen nicht mehr fehlerfrei funktionieren.</string>
   <string name="app_disable_dlg_title">Vorinstallierte Anwendung deaktivieren?</string>
-  <string name="app_disable_notifications_dlg_text">Wenn Du Benachrichtigungen für diese Anwendung ausschaltest, verpasst Du eventuell wichtige Warnungen und Updates.</string>
+  <string name="app_disable_notifications_dlg_text">Wenn du Benachrichtigungen für diese Anwendung ausschaltest, verpasst du eventuell wichtige Warnungen und Updates.</string>
   <string name="app_disable_notifications_dlg_title">Benachrichtigungen ausschalten?</string>
   <string name="app_factory_reset">Updates deinstallieren</string>
   <string name="app_factory_reset_dlg_text">Alle Updates dieser Android System-Anwendung werden deinstalliert.</string>
   <string name="app_factory_reset_dlg_title">Updates deinstallieren?</string>
-  <string name="app_floating_window_dlg_disable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung wird das Beenden der Anwendung erzwingen . Ausschalten? Bist Du sicher?"</string>
-  <string name="app_floating_window_dlg_enable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung erfordert einen Neustart der Anwendung. Einschalten? Bist Du sicher?"</string>
+  <string name="app_floating_window_dlg_disable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung wird das Beenden der Anwendung erzwingen . Ausschalten? Bist du sicher?"</string>
+  <string name="app_floating_window_dlg_enable">"Ändern der \"%1$s\" Hinweisfenster-Einstellung erfordert einen Neustart der Anwendung. Einschalten? Bist du sicher?"</string>
   <string name="app_forward_locked">Anwendung ist schreibgeschützt.</string>
   <string name="app_install_location_summary">Ändert den bevorzugten Installationsort für neue Anwendungen</string>
   <string name="app_install_location_title">Bevorzugter Installationsort</string>
@@ -250,10 +250,10 @@
   <string name="battery_sugg_apps_info">Anwendung anhalten oder deinstallieren</string>
   <string name="battery_sugg_apps_settings">Diese Anwendung bietet eventuell Einstellungen, um den Stromverbrauch zu verringern</string>
   <string name="battery_sugg_bluetooth_basic">"Deaktiviere Bluetooth, wenn es nicht benutzt wird"</string>
-  <string name="battery_sugg_bluetooth_headset">Versuche, Dich mit einem anderen Bluetooth-Gerät zu verbinden</string>
+  <string name="battery_sugg_bluetooth_headset">Versuche, dich mit einem anderen Bluetooth-Gerät zu verbinden</string>
   <string name="battery_sugg_display">Verringere die Bildschirmhelligkeit und/oder -abschaltung</string>
   <string name="battery_sugg_radio">Wechsle in den Flugmodus, um in Gegenden ohne Empfang Strom zu sparen</string>
-  <string name="battery_sugg_wifi">"Deaktiviere WLAN wenn Du es nicht benutzt oder kein WLAN verfügbar ist"</string>
+  <string name="battery_sugg_wifi">"Deaktiviere WLAN wenn du es nicht benutzt oder kein WLAN verfügbar ist"</string>
   <string name="bearer">Eigentümer</string>
   <string name="biometric_weak_improve_matching_title">Verbessere Gesichtserkennung</string>
   <string name="biometric_weak_liveliness_summary">Erfordert Blinzeln beim Entsperren</string>
@@ -276,7 +276,7 @@
   <string name="bluetooth_connected_no_headset_no_a2dp">Verbunden (Kein Telefon oder Audiogerät)</string>
   <string name="bluetooth_connecting">Verbinde…</string>
   <string name="bluetooth_connecting_error_message">Es gab ein Problem bei der Verbindung mit %1$s.</string>
-  <string name="bluetooth_connection_dialog_text">Möchtest Du mit \"%1$s\" verbinden?</string>
+  <string name="bluetooth_connection_dialog_text">Möchtest du mit \"%1$s\" verbinden?</string>
   <string name="bluetooth_connection_notif_message">Berühre, um mit \"%1$s\" zu verbinden.</string>
   <string name="bluetooth_connection_permission_request">Bluetooth Verbindungs-Anfrage</string>
   <string name="bluetooth_device">Unbenanntes Bluetooth-Gerät</string>
@@ -427,7 +427,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="breathing_light_freq_summary">LED-Pause zwischen Aufleuchten</string>
   <string name="breathing_light_freq_title">LED-Leuchtfrequenz</string>
   <string name="brightness">Helligkeit</string>
-  <string name="brightness_auto_adjust_off">Du kannst die Helligkeit mit dem Slider so einstellen, wie es Dir gefällt. Die Bildschirmhelligkeit wird sich dann nicht mehr ändern, egal in welcher Umgebung.</string>
+  <string name="brightness_auto_adjust_off">Du kannst die Helligkeit mit dem Slider so einstellen, wie es dir gefällt. Die Bildschirmhelligkeit wird sich dann nicht mehr ändern, egal in welcher Umgebung.</string>
   <string name="brightness_auto_adjust_on">Die Automatische Helligkeit kann mit dem Slider eingestellt werden. Die Bildschirmhelligkeit passt sich dann entsprechend Deiner Einstellung und Umgebung an.</string>
   <string name="brightness_summary">Stellt die Bildschirmhelligkeit ein</string>
   <string name="bssid_label">BSSID:</string>
@@ -488,7 +488,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="controls_subtitle">Stromverbrauch einstellen</string>
   <string name="copyright_title">Copyright</string>
   <string name="create">Erstellen</string>
-  <string name="credentials_configure_lock_screen_hint">Du musst eine Lockscreen-PIN oder Passwort festlegen, bevor Du Zugangsdaten speichern kannst.</string>
+  <string name="credentials_configure_lock_screen_hint">Du musst eine Lockscreen-PIN oder Passwort festlegen, bevor du Zugangsdaten speichern kannst.</string>
   <string name="credentials_enabled">Zugangsdatenspeicher aktiviert.</string>
   <string name="credentials_erased">Zugangsdatenspeicher wurde gelöscht.</string>
   <string name="credentials_install">Von Speicher installieren</string>
@@ -510,9 +510,9 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="crypt_keeper_button_text">Telefon verschlüsseln</string>
   <string name="crypt_keeper_confirm_title">Verschlüsselung bestätigen</string>
   <string name="crypt_keeper_cooldown">Bitte in ^1 Sekunden erneut versuchen.</string>
-  <string name="crypt_keeper_desc">"Du kannst Deine Konten, Einstellungen, heruntergeladene Anwendung und deren Daten, Medien und andere Dateien verschlüsseln. Wenn Dein Telefon einmal verschlüsselt ist, musst Du bei jedem Neustart eine numerische PIN oder ein Passwort zum entschlüsseln eingeben: Die Verschlüsselung kann ausschließlich durch ein Zurücksetzen auf Werkseinstellung entfernt werden, dadurch werden sämtliche Daten gelöscht.
+  <string name="crypt_keeper_desc">"Du kannst Deine Konten, Einstellungen, heruntergeladene Anwendung und deren Daten, Medien und andere Dateien verschlüsseln. Wenn Dein Telefon einmal verschlüsselt ist, musst du bei jedem Neustart eine numerische PIN oder ein Passwort zum entschlüsseln eingeben: Die Verschlüsselung kann ausschließlich durch ein Zurücksetzen auf Werkseinstellung entfernt werden, dadurch werden sämtliche Daten gelöscht.
 
-Die Verschlüsselung dauert eine Stunde oder länger. Du musst mit einem voll geladenen Akku beginnen und das Telefon eingesteckt lassen, bis die Verschlüsselung vollständig ist. Sollte der Prozess unterbrochen werden, verlierst Du einige oder alle Daten."</string>
+Die Verschlüsselung dauert eine Stunde oder länger. Du musst mit einem voll geladenen Akku beginnen und das Telefon eingesteckt lassen, bis die Verschlüsselung vollständig ist. Sollte der Prozess unterbrochen werden, verlierst du einige oder alle Daten."</string>
   <string name="crypt_keeper_dialog_need_password_message">Du musst eine Lockscreen-PIN oder ein Passwort setzen, bevor die Verschlüsselung gestartet werden kann.</string>
   <string name="crypt_keeper_dialog_need_password_title">Keine Lockscreen-PIN oder Passwort</string>
   <string name="crypt_keeper_encrypt_summary">Benötigt eine numerische PIN oder ein Passwort, um das Telefon bei jedem Anschalten zu entschlüsseln</string>
@@ -521,7 +521,7 @@ Die Verschlüsselung dauert eine Stunde oder länger. Du musst mit einem voll ge
   <string name="crypt_keeper_enter_password">Passwort eingeben</string>
   <string name="crypt_keeper_failed_summary">"Verschlüsselung wurde unterbrochen und konnte nicht abgeschlossen werden. Aus diesem Grund sind die Daten auf Deinem Telefon nicht mehr verfügbar. 
 
-Um das Telefon erneut zu benutzen, muss es auf Werkseinstellungen zurückgesetzt werden. Wenn Du das Telefon danach einrichtest, hast Du die Möglichkeit, alle Daten, die auf Deinem Google-Konto gesichert wurden, wiederherzustellen."</string>
+Um das Telefon erneut zu benutzen, muss es auf Werkseinstellungen zurückgesetzt werden. Wenn du das Telefon danach einrichtest, hast du die Möglichkeit, alle Daten, die auf Deinem Google-Konto gesichert wurden, wiederherzustellen."</string>
   <string name="crypt_keeper_failed_title">Verschlüsselung nicht erfolgreich</string>
   <string name="crypt_keeper_final_desc">Telefon verschlüsseln? Dieser Vorgang ist nicht umkehrbar und führt bei Unterbrechung zu Datenverlust. Die Verschlüsselung dauert eine Stunde oder länger, währenddessen wird das Telefon mehrfach neu gestartet.</string>
   <string name="crypt_keeper_low_charge_text">Lade Deinen Akku auf und versuche es erneut.</string>
@@ -546,11 +546,11 @@ Du kannst innerhalb der Anwendung bessere Datenverbrauchs-Einstellungen finden."
   <string name="data_usage_app_restrict_dialog_title">Hintergrunddaten einschränken?</string>
   <string name="data_usage_app_restricted">Eingeschränkt</string>
   <string name="data_usage_app_settings">Zeige Anwendungseinstellungen</string>
-  <string name="data_usage_auto_sync_off_dialog">"Dies verringert den Strom- und Datenverbrauch, aber Du musst jedes Konto manuell synchronisieren, um aktuelle Informationen und Benachrichtigungen zu erhalten."</string>
+  <string name="data_usage_auto_sync_off_dialog">"Dies verringert den Strom- und Datenverbrauch, aber du musst jedes Konto manuell synchronisieren, um aktuelle Informationen und Benachrichtigungen zu erhalten."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Auto-Synchronisierung deaktivieren?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Alle Änderungen, die Du im Internet an Deinen Konten vornimmst, werden automatisch auf Dein Telefon kopiert.
+  <string name="data_usage_auto_sync_on_dialog">"Alle Änderungen, die du im Internet an Deinen Konten vornimmst, werden automatisch auf Dein Telefon kopiert.
 
-Einige Konten können auch automatisch Änderungen, die Du auf dem Telefon vornimmst, ins Internet kopieren. Ein Google-Account funktioniert auf diese Weise.
+Einige Konten können auch automatisch Änderungen, die du auf dem Telefon vornimmst, ins Internet kopieren. Ein Google-Account funktioniert auf diese Weise.
 
 Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellungen &gt; Konten."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Auto-Synchronisierung aktivieren?</string>
@@ -570,7 +570,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="data_usage_enable_mobile">Mobilfunk-Daten</string>
   <string name="data_usage_label_background">Hintergrund</string>
   <string name="data_usage_label_foreground">Vordergrund</string>
-  <string name="data_usage_limit_dialog_mobile">"Das Datenverbrauchs-Limit wurde erreicht. Das System wird nun Deine Datenverbindung deaktivieren. Vielleicht solltest Du weniger Daten verbrauchen oder Dein Limit erhöhen."</string>
+  <string name="data_usage_limit_dialog_mobile">"Das Datenverbrauchs-Limit wurde erreicht. Das System wird nun Deine Datenverbindung deaktivieren. Vielleicht solltest du weniger Daten verbrauchen oder Dein Limit erhöhen."</string>
   <string name="data_usage_limit_dialog_title">Schränke Datenverbrauch ein</string>
   <string name="data_usage_limit_editor_title">Datenverbrauchs-Limit setzen</string>
   <string name="data_usage_list_mobile">Mobilnetz</string>
@@ -589,7 +589,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="data_usage_metered_wifi_disabled">Aktiviere WLAN, um mobile Hotspots auszuwählen.</string>
   <string name="data_usage_pick_cycle_day">Tag des Monats für Rückstellung:</string>
   <string name="data_usage_received_sent">%1$s empfangen, %2$s gesendet</string>
-  <string name="data_usage_restrict_background">"Wenn Du Hintergrunddaten in Mobilnetzen einschränkst, dann funktionieren einige Anwendungen und Dienste nur bei einer bestehenden WLAN-Verbindung."</string>
+  <string name="data_usage_restrict_background">"Wenn du Hintergrunddaten in Mobilnetzen einschränkst, dann funktionieren einige Anwendungen und Dienste nur bei einer bestehenden WLAN-Verbindung."</string>
   <string name="data_usage_restrict_background_title">Hintergrunddaten einschränken?</string>
   <string name="data_usage_restrict_denied_dialog">"Hintergrunddaten können nur bei gesetztem Datenlimit eingeschränkt werden."</string>
   <string name="data_usage_summary_title">Datenverbrauch</string>
@@ -698,7 +698,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="dock_audio_summary_desk">Einstellungen für das verbundene Desktop-Dock</string>
   <string name="dock_audio_summary_none">Phone nicht mit Dock verbunden</string>
   <string name="dock_audio_summary_unknown">Einstellungen für das verbundene Dock</string>
-  <string name="dock_not_found_text">Du musst das Telefon anschließen, bevor Du Audio-Einstellungen für das Dock ändern kannst.</string>
+  <string name="dock_not_found_text">Du musst das Telefon anschließen, bevor du Audio-Einstellungen für das Dock ändern kannst.</string>
   <string name="dock_not_found_title">Dock nicht gefunden</string>
   <string name="dock_settings">Dock</string>
   <string name="dock_settings_summary">Audio-Einstellungen für das verbundene Dock</string>
@@ -720,7 +720,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="dolby_eq_delete">Löschen</string>
   <string name="dolby_eq_delete_success">EQ-Profil erfolgreich gelöschtSuccessfully removed EQ profile</string>
   <string name="dolby_eq_electronic">Electronic</string>
-  <string name="dolby_eq_enter_alert_msg">Möchtest Du den Dolby Equalizer-Modus öffnen?</string>
+  <string name="dolby_eq_enter_alert_msg">Möchtest du den Dolby Equalizer-Modus öffnen?</string>
   <string name="dolby_eq_enter_alert_title">Dolby EQ-Modus öffnen</string>
   <string name="dolby_eq_flat">Flat</string>
   <string name="dolby_eq_hiphop">Hiphop</string>
@@ -798,7 +798,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="error_title" />
   <string name="external_code_size_label">USB-Speicheranwendung</string>
   <string name="external_data_size_label">SD-Karte</string>
-  <string name="factory_reset_summary">Du kannst Deine persönlichen Daten löschen, indem Du das Telefon auf Werkseinstellung zurücksetzt, oder die installierten Anwendungen löschen und die SD-Karte formatieren, um die Werkseinstellungen wiederherzustellen</string>
+  <string name="factory_reset_summary">Du kannst Deine persönlichen Daten löschen, indem du das Telefon auf Werkseinstellung zurücksetzt, oder die installierten Anwendungen löschen und die SD-Karte formatieren, um die Werkseinstellungen wiederherzustellen</string>
   <string name="failed_to_open_app_settings_toast">Konnte Einstellungen für %1$s nicht öffnen</string>
   <string name="fcc_equipment_id">Equipment-ID</string>
   <string name="filter">Filter</string>
@@ -825,7 +825,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="force_hw_ui">GPU-Rendering erzwingen</string>
   <string name="force_hw_ui_summary">2D-Hardwarebeschleunigung in Anwendungen verwenden</string>
   <string name="force_stop">Anhalten erzwingen</string>
-  <string name="force_stop_dlg_text">Wenn Du eine Anwendung anhältst, so kommt es unter Umständen zu Fehlfunktionen.</string>
+  <string name="force_stop_dlg_text">Wenn du eine Anwendung anhältst, so kommt es unter Umständen zu Fehlfunktionen.</string>
   <string name="force_stop_dlg_title">Anhalten erzwingen?</string>
   <string name="forget_wifi_message">Dieses WLAN-Netzwerk löschen? Das Passwort muss bei erneuter Verbindung wieder eingegeben werden</string>
   <string name="frequently_fragment_delete">Löschen</string>
@@ -851,7 +851,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="header_category_system">SYSTEM</string>
   <string name="header_category_wireless_networks">DRAHTLOS &amp; NETZWERKE</string>
   <string name="header_data_and_synchronization">Daten &amp; Synchronisierung</string>
-  <string name="heavy_weight_stop_description">"Diese Anwendung kann nicht sicher angehalten werden. Wenn Du diese Anwendung anhälst, verlierst Du deine derzeitigen Daten."</string>
+  <string name="heavy_weight_stop_description">"Diese Anwendung kann nicht sicher angehalten werden. Wenn du diese Anwendung anhälst, verlierst du deine derzeitigen Daten."</string>
   <string name="help_label">Hilfe</string>
   <string name="help_url_accounts" />
   <string name="help_url_backup_reset" />
@@ -956,7 +956,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="location_title">Mein Standort</string>
   <string name="lock_after_timeout">Automatisch sperren</string>
   <string name="lock_after_timeout_summary">Nach %1$s sperren</string>
-  <string name="lock_intro_message">"Schütze Dein Telefon vor unbefugtem Zugriff, indem Du ein persönliches Entsperrmuster festlegst. Bewege Deinen Finger auf dem nächsten Bildschirm über mindestens 4 Punkte. 
+  <string name="lock_intro_message">"Schütze Dein Telefon vor unbefugtem Zugriff, indem du ein persönliches Entsperrmuster festlegst. Bewege Deinen Finger auf dem nächsten Bildschirm über mindestens 4 Punkte. 
 
 Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lock_screen_unlock_show">Passwort-Eingabefeld direkt anzeigen</string>
@@ -993,7 +993,7 @@ Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lockpassword_pin_set_toast">PIN gesetzt</string>
   <string name="lockpassword_pin_too_long">PIN muss weniger als %d Stellen enthalten</string>
   <string name="lockpassword_pin_too_short">PIN muss mindestens %d Stellen enthalten</string>
-  <string name="lockpassword_press_continue">Berührer "Weiter", wenn Du fertig bist</string>
+  <string name="lockpassword_press_continue">Berührer "Weiter", wenn du fertig bist</string>
   <string name="lockpattern_change_lock_pattern_label">Entsperrmuster ändern</string>
   <string name="lockpattern_change_lock_pin_label">Entsperr-PIN ändern</string>
   <string name="lockpattern_confirm_button_text">Bestätigen</string>
@@ -1006,7 +1006,7 @@ Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lockpattern_pattern_confirmed_header">Dein neues Entsperrmuster:</string>
   <string name="lockpattern_pattern_entered_header">Muster gespeichert!</string>
   <string name="lockpattern_recording_incorrect_too_short">Verbinde mindestens %d Punkte. Erneut versuchen:</string>
-  <string name="lockpattern_recording_inprogress">Loslassen, wenn Du fertig bist.</string>
+  <string name="lockpattern_recording_inprogress">Loslassen, wenn du fertig bist.</string>
   <string name="lockpattern_recording_intro_footer">Menü drücken, um Hilfe aufzurufen.</string>
   <string name="lockpattern_recording_intro_header">Zeichne ein Entsperrmuster</string>
   <string name="lockpattern_restart_button_text">Erneut Zeichnen</string>
@@ -1039,7 +1039,7 @@ Bereit anzufangen? Tippe auf "Weiter"."</string>
 
 Du bist derzeit mit folgenden Konten angemeldet:
 "</string>
-  <string name="master_clear_all">"Möchtest Du alle Daten löschen und auf Werkseinstellung zurücksetzen?
+  <string name="master_clear_all">"Möchtest du alle Daten löschen und auf Werkseinstellung zurücksetzen?
 Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden."</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
@@ -1054,11 +1054,11 @@ Um Musik, Bilder und andere Benutzerdaten zu löschen, der "</string>
   <string name="master_clear_final_desc">"Alle persönlichen Informationen und heruntergeladene Anwendungen löschen? Dieser Vorgang kann nicht rückgängig gemacht werden!"</string>
   <string name="master_clear_gesture_explanation">Du musst Dein Entsperrmuster eingeben, um das Telefon auf Werkseinstellung zurückzusetzen.</string>
   <string name="master_clear_gesture_prompt">Zeichne Dein Entsperrmuster</string>
-  <string name="master_clear_personal_data">Möchtest Du wirklich alle persönlichen Daten löschen? 
+  <string name="master_clear_personal_data">Möchtest du wirklich alle persönlichen Daten löschen? 
 Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
-  <string name="master_clear_personal_data_application">Möchtest Du wirklich alle persönlichen Daten und installierte Anwendungen löschen? 
+  <string name="master_clear_personal_data_application">Möchtest du wirklich alle persönlichen Daten und installierte Anwendungen löschen? 
 Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
-  <string name="master_clear_personal_data_sdcard">Möchtest Du wirklich alle persönlichen Daten löschen und die SD-Karte formatieren? 
+  <string name="master_clear_personal_data_sdcard">Möchtest du wirklich alle persönlichen Daten löschen und die SD-Karte formatieren? 
 Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="master_clear_summary">Löscht alle Daten auf dem Telefon</string>
   <string name="master_clear_title">Auf Werkseinstellung zurücksetzen</string>
@@ -1108,7 +1108,7 @@ Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="msd_driver_download">Treiber herunterladen</string>
   <string name="msd_driver_mac_download">Gehe auf http://miuiandroid.com/mac/ für Mac downloads</string>
   <string name="msd_driver_windows_xp_download">Gehe auf http://miuiandroid.com/windows/ für PC downloads</string>
-  <string name="msd_help_summary">"Hast Du Probleme, mit dem PC auf den Speicher zuzugreifen? Bitte wähle das Betriebssystem Deines PCs:"</string>
+  <string name="msd_help_summary">"Hast du Probleme, mit dem PC auf den Speicher zuzugreifen? Bitte wähle das Betriebssystem Deines PCs:"</string>
   <string name="msd_help_title">Hilfe</string>
   <string name="msd_install">Treiber erneut installieren</string>
   <string name="msd_install_finish">OK</string>
@@ -1118,7 +1118,7 @@ Versuche folgendes:
 1) Benutze die Installationstools sudo aptitude install mtpfs libfuse-dev libmad0-dev
 2) Erstelle ein Verzeichnis mkdir /media/mtp
 3) Bestätige die Gruppenberechtigung in der derzeitigen Benutzer-Fuse-Gruppe
-4) Melde Dich erneut an
+4) Melde dich erneut an
 5) Greife auf das gemountete Gerät mtpfs /media/mtp mit dem Datei-Explorer zu; genau wie das lokale Verzeichnis
 6) Deinstalliere das Gerät fusermount -u /media/mtp
  Hinweis: Für Ubuntu 8.04"</string>
@@ -1207,7 +1207,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="perm_hips_desc">Überwache die Sicherheit und Privatsphäre von %1$d Anwendungen</string>
   <string name="perm_hips_desc1">Überwache die Sicherheit und Privatsphäre von Anwendungen</string>
   <string name="perm_hips_desc2">Überwacht die Sicherheit und Privatsphäre von %1$d Anwendungen</string>
-  <string name="perm_hips_disable_content">"Wenn Du dies deaktivierst, hört MIUI auf, Anwendungsanfragen bzgl. Sicherheit und Privatsphäre zu überwachen und Du bist nicht länger geschützt. Wirklich deaktivieren?"</string>
+  <string name="perm_hips_disable_content">"Wenn du dies deaktivierst, hört MIUI auf, Anwendungsanfragen bzgl. Sicherheit und Privatsphäre zu überwachen und du bist nicht länger geschützt. Wirklich deaktivieren?"</string>
   <string name="perm_hips_disable_title">Berechtigungs-Überwachung</string>
   <string name="perm_hips_end_call">den derzeitigen Anruf beenden</string>
   <string name="perm_hips_get_call_state">den Status des derzeitigen Anrufs</string>
@@ -1258,7 +1258,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="perm_hips_security_prompt_reject">Ablehnen (%d)</string>
   <string name="perm_hips_security_prompt_remember">Meine Einstellung behalten</string>
   <string name="perm_hips_security_prompt_root_caption">Wichtiger Hinweis</string>
-  <string name="perm_hips_security_prompt_root_step1">Möchtest Du %1$s ROOT-Zugriff erlauben?</string>
+  <string name="perm_hips_security_prompt_root_step1">Möchtest du %1$s ROOT-Zugriff erlauben?</string>
   <string name="perm_hips_security_prompt_root_step2">ROOT-Zugriff kann zu Systeminstabilität führen</string>
   <string name="perm_hips_security_prompt_root_step3">Deine persönlichen Daten, wie bsp. Konten, Passwörter und Nachrichten werden eventuell gefährdet</string>
   <string name="perm_hips_security_prompt_root_step4">Ein permanenter Hardware-Schaden ist auch möglich</string>
@@ -1294,7 +1294,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="perm_privacy_app_log">Logs</string>
   <string name="perm_privacy_app_manage">Details</string>
   <string name="perm_privacy_app_trust">Ich vertraue dieser Anwendung</string>
-  <string name="perm_privacy_app_trust_dialog_content">MIUI wird Dich nicht nach einer Bestätigung zu Sicherheits- oder Privatsphärenrelevanten Aktionen dieser Anwendung fragen.</string>
+  <string name="perm_privacy_app_trust_dialog_content">MIUI wird dich nicht nach einer Bestätigung zu Sicherheits- oder Privatsphärenrelevanten Aktionen dieser Anwendung fragen.</string>
   <string name="perm_privacy_app_trust_dialog_title">Dieser Anwendung vertrauen</string>
   <string name="perm_privacy_app_trust_summary">Vertraulich</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI wird diese Anwendung überwachen</string>
@@ -1309,12 +1309,12 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="perm_su_desc">%1$d Anwendungen werden nach ROOT-Berechtigung überwacht</string>
   <string name="perm_su_desc1">ROOT-Berechtigung verwalten</string>
   <string name="perm_su_disabled">ROOT-Berechtigung ist deaktiviert</string>
-  <string name="perm_su_disabled_desc">Wenn Du Anwendungen von Drittherstellern ROOT-Berechtigung gestattest, kann dies zu Systeminstabilität, Verlust persönlicher Daten  und permanentem Hardware-Schaden führen. Bitte stelle sicher, dass Du dich mit ROOT auskennst.</string>
+  <string name="perm_su_disabled_desc">Wenn du Anwendungen von Drittherstellern ROOT-Berechtigung gestattest, kann dies zu Systeminstabilität, Verlust persönlicher Daten  und permanentem Hardware-Schaden führen. Bitte stelle sicher, dass du dich mit ROOT auskennst.</string>
   <string name="perm_su_disabled_in_stable">ROOT ist in der MIUI Stable nicht verfügbar</string>
-  <string name="perm_su_disabled_in_stable_desc">"Wenn Du Anwendungen von Drittherstellern ROOT-Berechtigung gestattest, kann dies zu Systeminstabilität, Verlust persönlicher Daten  und permanentem Hardware-Schaden führen.  Bitte wechsle auf die MIUI Development-Version, wenn Du ROOT-Zugriff aktivieren möchtest."</string>
+  <string name="perm_su_disabled_in_stable_desc">"Wenn du Anwendungen von Drittherstellern ROOT-Berechtigung gestattest, kann dies zu Systeminstabilität, Verlust persönlicher Daten  und permanentem Hardware-Schaden führen.  Bitte wechsle auf die MIUI Development-Version, wenn du ROOT-Zugriff aktivieren möchtest."</string>
   <string name="perm_su_disabled_in_stable_download">MIUI herunterladen</string>
   <string name="perm_su_enable_content">"Das Aktivieren gestattet Anwendungen ROOT-Zugriff. Hinweis: Anwendungen mit dieser Genehmigung können zu Systeminstabilität, Datenverlust und sogar Hardware-Schaden führen, also sei vorsichtig. Wirklich aktivieren?"</string>
-  <string name="perm_su_enable_dialog">%1$s versucht, ROOT-Zugriff zu bekommen, welcher standardmäßig deaktiviert ist um die Systemsicherheit zu gewährleisten. Wenn Du den Zugriff aktivieren musst, dann gehe bitte in die Berechtigungs-Verwaltung.</string>
+  <string name="perm_su_enable_dialog">%1$s versucht, ROOT-Zugriff zu bekommen, welcher standardmäßig deaktiviert ist um die Systemsicherheit zu gewährleisten. Wenn du den Zugriff aktivieren musst, dann gehe bitte in die Berechtigungs-Verwaltung.</string>
   <string name="perm_su_enable_title">ROOT-Zugriff</string>
   <string name="perm_su_switch">ROOT-Zugriff</string>
   <string name="perm_summary_disabled">Aus</string>
@@ -1371,7 +1371,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="pref_volume_wake_title">Aktivierung durch Lautstärketasten</string>
   <string name="preference_change_password_title">Passwort ändern</string>
   <string name="preferred_launcher_title">Bevorzugter Launcher</string>
-  <string name="preferred_launcher_warning_message">Ein anderer Launcher könnte mehr Ressourcen verbrauchen als der Standard-Launcher. Bist Du sicher, dass Du weitermachen willst?</string>
+  <string name="preferred_launcher_warning_message">Ein anderer Launcher könnte mehr Ressourcen verbrauchen als der Standard-Launcher. Bist du sicher, dass du weitermachen willst?</string>
   <string name="preferred_launcher_warning_replace">Ersetze Launcher</string>
   <string name="preferred_launcher_warning_title">Ersetze Standard-Launcher</string>
   <string name="preferred_launcher_warning_use_system">Verwende Standard-Launcher</string>
@@ -1384,7 +1384,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="privacy_settings_title">Sichern &amp; Wiederherstellen</string>
   <string name="private_sms_need_to_unlock">Bitte persönliches SMS-Passwort eingeben</string>
   <string name="private_sms_recording_intro_header">Zeichne ein Muster, um ein Entsperrmuster zu erstellen</string>
-  <string name="private_sms_reset_by_account">Bitte melde Dich in Deinem Xiaomi-Konto an, um Dein persönliches SMS-Passwort zurückzusetzen</string>
+  <string name="private_sms_reset_by_account">Bitte melde dich in Deinem Xiaomi-Konto an, um Dein persönliches SMS-Passwort zurückzusetzen</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Provider %1$s in Benutzung.</string>
@@ -1483,7 +1483,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="recognizer_settings_title">Sprachsuche</string>
   <string name="recognizer_title">Spracherkennung</string>
   <string name="recompute_size">Berechne Größe…</string>
-  <string name="remove_account_failed">Dieses Konto wird von einigen Anwendungen gebraucht. Du kannst es nur löschen, wenn Du das Telefon über Einstellungen &gt; Sichern &amp; Wiederherstellen auf Werkseinstellung zurücksetzt (dies löscht Deine persönlichen Daten).</string>
+  <string name="remove_account_failed">Dieses Konto wird von einigen Anwendungen gebraucht. Du kannst es nur löschen, wenn du das Telefon über Einstellungen &gt; Sichern &amp; Wiederherstellen auf Werkseinstellung zurücksetzt (dies löscht Deine persönlichen Daten).</string>
   <string name="remove_account_label">Konto entfernen</string>
   <string name="remove_device_admin">Deaktivieren</string>
   <string name="remove_from_frequently_fragment">\"%s\" von den generellen Einstellungen entfernen?</string>
@@ -1514,7 +1514,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="runningservicedetails_processes_title">Prozesse</string>
   <string name="runningservicedetails_services_title">Dienste</string>
   <string name="runningservicedetails_settings_title">Laufende Anwendungen</string>
-  <string name="runningservicedetails_stop_dlg_text">Wenn Du diesen Dienst anhältst, können einige Features Deines Telefons nicht mehr sachgemäß funktionieren, bis Du es aus- und wieder einschaltest.</string>
+  <string name="runningservicedetails_stop_dlg_text">Wenn du diesen Dienst anhältst, können einige Features Deines Telefons nicht mehr sachgemäß funktionieren, bis du es aus- und wieder einschaltest.</string>
   <string name="runningservicedetails_stop_dlg_title">Systemdienst anhalten?</string>
   <string name="runningservices_settings_summary">Zeige und kontrolliere laufende Dienste</string>
   <string name="runningservices_settings_title">Laufende Dienste</string>
@@ -1750,7 +1750,7 @@ Verbleibende Versuche :"</string>
   <string name="status_wimax_mac_address">4G MAC-Adresse</string>
   <string name="storage_format">Formatieren</string>
   <string name="storage_label">Speicher</string>
-  <string name="storage_low_summary">Einige Systemfunktionen, wie beispielsweise Synchronisierung, funktionieren unter Umständen nicht korrekt. Versuche Speicherplatz zu gewinnen, indem Du Objekte wie Anwendungen oder Medien löschst.</string>
+  <string name="storage_low_summary">Einige Systemfunktionen, wie beispielsweise Synchronisierung, funktionieren unter Umständen nicht korrekt. Versuche Speicherplatz zu gewinnen, indem du Objekte wie Anwendungen oder Medien löschst.</string>
   <string name="storage_low_title">Geringer Speicherplatz</string>
   <string name="storage_menu_usb">USB-Verbindung mit Computer</string>
   <string name="storage_settings">Speicher</string>
@@ -1866,7 +1866,7 @@ Verbleibende Versuche :"</string>
   <string name="under_keyguard">Am Sperrbildschirm</string>
   <string name="uninstall_text">Deinstallieren</string>
   <string name="unknown">unbekannt</string>
-  <string name="unlock_backup_info_summary">"Wie möchtest Du entsperren, wenn die Gesichtserkennung fehlschlägt?"</string>
+  <string name="unlock_backup_info_summary">"Wie möchtest du entsperren, wenn die Gesichtserkennung fehlschlägt?"</string>
   <string name="unlock_change_lock_password_title">Entsperrpasswort ändern</string>
   <string name="unlock_change_lock_pattern_title">Entsperrmuster ändern</string>
   <string name="unlock_change_lock_pin_title">Entsperr-PIN ändern</string>
@@ -1943,7 +1943,7 @@ Verbleibende Versuche :"</string>
   <string name="use_location_title">Standort &amp; Google-Suche</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprache verwenden</string>
   <string name="user_add_user_menu">Benutzer hinzufügen</string>
-  <string name="user_confirm_remove_message">Willst Du den ausgewählten Benutzer und alle verwandten Daten wirklich vom Gerät entfernen?</string>
+  <string name="user_confirm_remove_message">Willst du den ausgewählten Benutzer und alle verwandten Daten wirklich vom Gerät entfernen?</string>
   <string name="user_confirm_remove_title">Benutzer entfernen?</string>
   <string name="user_details_title">Details bearbeiten</string>
   <string name="user_dict_multiple_settings_title">Persönliche Wörterbücher</string>
@@ -1988,7 +1988,7 @@ Verbleibende Versuche :"</string>
   <string name="virus_scan_app_find_risk">%d ist eine Gefahr, es wird empfohlen, dies umgehend zu deinstallieren.</string>
   <string name="virus_scan_app_finish">Schließen</string>
   <string name="virus_scan_app_force_stop">Überprüfung angehalten!</string>
-  <string name="virus_scan_app_is_stop_scan">Möchtest Du die Virenüberprüfung anhalten?</string>
+  <string name="virus_scan_app_is_stop_scan">Möchtest du die Virenüberprüfung anhalten?</string>
   <string name="virus_scan_app_multi_engines">Suche auswählen, Suche kann dadurch länger dauern</string>
   <string name="virus_scan_app_no_risk">Keine Bedrohungen festgestellt.</string>
   <string name="virus_scan_app_passed">Überprüfung erfolgreich abgeschlossen</string>
@@ -2078,9 +2078,9 @@ Verbleibende Versuche :"</string>
   <string name="wallpaper_settings_fragment_title">Wallpaper auswählen von</string>
   <string name="wallpaper_settings_title">Wallpaper</string>
   <string name="wfd_available_devices">Verfügbare Geräte</string>
-  <string name="wfd_disconnect_diag_msg">Wenn Du die WLAN-Displaysitzung beendest, wird die Verbindung mit %1$s getrennt.</string>
+  <string name="wfd_disconnect_diag_msg">Wenn du die WLAN-Displaysitzung beendest, wird die Verbindung mit %1$s getrennt.</string>
   <string name="wfd_disconnect_diag_title">Sitzung beenden?</string>
-  <string name="wfd_disconnect_multiple_diag_message">Wenn Du die WLAN-Displaysitzung beendest, wird die Verbindung mit %1$s und %2$s anderen Geräten getrennt.</string>
+  <string name="wfd_disconnect_multiple_diag_message">Wenn du die WLAN-Displaysitzung beendest, wird die Verbindung mit %1$s und %2$s anderen Geräten getrennt.</string>
   <string name="wfd_menu_search">Suche Geräte</string>
   <string name="wfd_menu_searching">Suche...</string>
   <string name="wfd_menu_teardown">Anhalten</string>
@@ -2155,11 +2155,11 @@ Verbleibende Versuche :"</string>
   <string name="wifi_notify_open_networks_summary">Benachrichtigen, wenn ein offenes Netzwerk verfügbar ist</string>
   <string name="wifi_on_time">WLAN AN-Zeit</string>
   <string name="wifi_other_network">Anderes Netzwerk…</string>
-  <string name="wifi_p2p_cancel_connect_message">Möchtest Du Die Verbindungseinladung an %1$s abbrechen?</string>
+  <string name="wifi_p2p_cancel_connect_message">Möchtest du Die Verbindungseinladung an %1$s abbrechen?</string>
   <string name="wifi_p2p_cancel_connect_title">Einladung abbrechen?</string>
   <string name="wifi_p2p_device_info">Geräte-Information</string>
-  <string name="wifi_p2p_disconnect_message">Wenn Du die Verbindung trennst, dann endet die Verbindung mit %1$s.</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Wenn Du die Verbindung trennst, dann endet die Verbindung mit %1$s und %2$s anderen Geräten.</string>
+  <string name="wifi_p2p_disconnect_message">Wenn du die Verbindung trennst, dann endet die Verbindung mit %1$s.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Wenn du die Verbindung trennst, dann endet die Verbindung mit %1$s und %2$s anderen Geräten.</string>
   <string name="wifi_p2p_disconnect_title">Verbindung trennen?</string>
   <string name="wifi_p2p_failed_connect_message">"Verbindung fehlgeschlagen."</string>
   <string name="wifi_p2p_failed_rename_message">Konnte Gerät nicht umbenennen.</string>
@@ -2214,7 +2214,7 @@ Verbleibende Versuche :"</string>
   <string name="wifi_setup_description_connected">Berühre </string>
   <string name="wifi_setup_description_connecting">Verbindung kann ein paar Minuten dauern…</string>
   <string name="wifi_setup_detail">Netzwerk-Details</string>
-  <string name="wifi_setup_eap_not_supported">"EAP-WLAN-Verbindung kann nicht während des Setups konfiguriert werden. Nachdem das Setup fertig ist, kannst Du unter Einstellungen &gt; Drahtlos &amp; Netzwerke die Konfiguration vornehmen."</string>
+  <string name="wifi_setup_eap_not_supported">"EAP-WLAN-Verbindung kann nicht während des Setups konfiguriert werden. Nachdem das Setup fertig ist, kannst du unter Einstellungen &gt; Drahtlos &amp; Netzwerke die Konfiguration vornehmen."</string>
   <string name="wifi_setup_forget">Entfernen</string>
   <string name="wifi_setup_next">Weiter</string>
   <string name="wifi_setup_not_connected">Nicht verbunden</string>
@@ -2228,7 +2228,7 @@ Verbleibende Versuche :"</string>
   <string name="wifi_setup_status_new_network">Mit neuem Netzwerk verbinden</string>
   <string name="wifi_setup_status_proceed_to_next">Zum nächsten Schritt gehen</string>
   <string name="wifi_setup_status_scanning">Scanne Netzwerke…</string>
-  <string name="wifi_setup_status_select_network">Berühre ein Netzwerk, um Dich zu verbinden</string>
+  <string name="wifi_setup_status_select_network">Berühre ein Netzwerk, um dich zu verbinden</string>
   <string name="wifi_setup_status_unsecured_network">Mit ungesichertem Netzwerk verbinden</string>
   <string name="wifi_setup_title">WLAN-Setup</string>
   <string name="wifi_setup_title_add_network">Ein Netzwerk hinzufügen</string>
@@ -2272,7 +2272,7 @@ Verbleibende Versuche :"</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Bitte den AS-Zertifikatsnamen eingeben</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Verzeichniserstellung gescheitert</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Bitte einen anderen Verzeichnisnamen angeben, diesen gibt es schon.</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Bitte den Namen für das verzeichnis eingeben, dass Du erstellen willst!</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Bitte den Namen für das verzeichnis eingeben, dass du erstellen willst!</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">WAPI-Zertifikat-Management</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Bitte den Namen des Benutzer-Zertifikats eingeben</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Das Benutzerzertifikat-Format ist falsch! Bitte richtig als Benutzer-Zertifikat installieren</string>

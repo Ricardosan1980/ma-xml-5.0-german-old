@@ -49,7 +49,7 @@
   <string name="cit_display_check_summary">Test zeigt ein Bild, bitte füge eine .BMP-Datei zur SD-Karte hinzu</string>
   <string name="cit_display_check_title">Teste Bildschirm</string>
   <string name="cit_display_continue">Berühre den Bildschirm, um Test zu starten</string>
-  <string name="cit_exit_test_summary">Aktive Tests beenden führt zu Datenverlust, möchtest Du wirklich fortfahren?</string>
+  <string name="cit_exit_test_summary">Aktive Tests beenden führt zu Datenverlust, möchtest du wirklich fortfahren?</string>
   <string name="cit_exit_test_title">Test anhalten</string>
   <string name="cit_fail">Fehlgeschlagen</string>
   <string name="cit_fm_audio_path">Audiopfad festlegen</string>
@@ -67,7 +67,7 @@
 1. Drücke auf den Kamera-Button, um Systemkamera zu öffnen
 2. Drücke auf Kamera
 3. Drücke auf den OK-Button, das System speichert das Bild automatisch
-4. Schaue Dir die Vorschau an. Wenn Du zufrieden bist, kannst Du sie löschen."</string>
+4. Schaue dir die Vorschau an. Wenn du zufrieden bist, kannst du sie löschen."</string>
   <string name="cit_front_camera_check_title"> Frontkamera testen (Frontkamera)</string>
   <string name="cit_gps_check_summary">Dieser Test zeigt GPS-Informationen</string>
   <string name="cit_gps_check_title">Teste GPS</string>

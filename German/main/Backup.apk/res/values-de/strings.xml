@@ -80,14 +80,14 @@
   <string name="enable_encrypt_summery1">"Das System wird Deine lokalen Sicherungen, basierend auf Deinem Xiaomi-Konto, verschlüsseln. Du musst mit Deinem Xiaomi-Konto angemeldet sein, um Daten zu entfernen, oder um die Sicherung auf anderen Geräten wiederherstellen zu können."</string>
   <string name="enable_encrypt_summery2">"Neue Sicherungen werden automatisch verschlüsselt. Du musst mit Deinem Xiaomi-Konto angemeldet sein, um Daten zu entfernen, oder um die Sicherung auf anderen Geräten wiederherstellen zu können."</string>
   <string name="enable_encrypt_title">Verschlüsselung aktivieren</string>
-  <string name="enable_encrypt_xiaomi_account">Diese Sicherung wurde von %1$s erstellt. Bitte entferne das aktuelle Benutzerkonto und melde Dich mit %2$s an, um die Daten wiederherstellen zu können.</string>
+  <string name="enable_encrypt_xiaomi_account">Diese Sicherung wurde von %1$s erstellt. Bitte entferne das aktuelle Benutzerkonto und melde dich mit %2$s an, um die Daten wiederherstellen zu können.</string>
   <string name="exchange_account">Exchange-Konto</string>
   <string name="fail">fehlgeschlagen</string>
   <string name="findlost_contact">Gelöschte Kontakte retten</string>
   <string name="findlost_contact_online">Gelöschte Kontakte aus der Cloud wiederherstellen</string>
   <string name="guarded_mode_dialog_message">Im Wächtermodus kann nicht gesichert oder wiederhergestellt werden</string>
   <string name="guarded_mode_dialog_title">Wächtermodus</string>
-  <string name="import_from_xiaomi_account_hint1">1. Installiere MiTalk und melde Dich an.\n http://www.miliao.com\n\n2. Gehe in die MiTalk-Einstellungen und wähle "Kontakte mit Xiaomi-Konto sichern"</string>
+  <string name="import_from_xiaomi_account_hint1">1. Installiere MiTalk und melde dich an.\n http://www.miliao.com\n\n2. Gehe in die MiTalk-Einstellungen und wähle "Kontakte mit Xiaomi-Konto sichern"</string>
   <string name="import_from_xiaomi_account_hint2">Hinweis: Fahre mit dem nächsten Schritt fort, falls eine Sicherung bereits vorhanden ist</string>
   <string name="import_from_xiaomi_account_hint_title">Verwende MiTalk, um Kontakte auf anderen Geräten zu sichern</string>
   <string name="local_app_name">Sicherung</string>

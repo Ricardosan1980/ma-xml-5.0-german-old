@@ -35,7 +35,7 @@
   <string name="add_to_bookmarks_menu_option">Lesezeichen</string>
   <string name="add_to_homescreen_menu_option">Desktop</string>
   <string name="add_to_other_folder_menu_option">Anderer Ordner</string>
-  <string name="add_xiaomi_account_warning">Bitte melde Dich zuerst mit Deinem Xiaomi-Konto an</string>
+  <string name="add_xiaomi_account_warning">Bitte melde dich zuerst mit Deinem Xiaomi-Konto an</string>
   <string name="added_to_bookmarks">Zu Lesezeichen hinzugefügt</string>
   <string name="allow">Erlauben</string>
   <string name="application_name">Browser</string>
@@ -57,8 +57,8 @@
   <string name="autofill_profile_editor_zip_code">Postleitzahl:</string>
   <string name="autofill_profile_successful_delete">AutoFill-Text gelöscht</string>
   <string name="autofill_profile_successful_save">AutoFill-Text gespeichert</string>
-  <string name="autofill_setup_dialog_message">Der Browser kann solche Formulare selbstständig ausfüllen. Möchtest Du Autofill aktivieren?</string>
-  <string name="autofill_setup_dialog_negative_toast">Du kannst den AutoFill-Text jederzeit über "Einstellungen &gt; Allgemein" festlegen.</string>
+  <string name="autofill_setup_dialog_message">Der Browser kann solche Formulare selbstständig ausfüllen. Möchtest du Autofill aktivieren?</string>
+  <string name="autofill_setup_dialog_negative_toast">du kannst den AutoFill-Text jederzeit über "Einstellungen &gt; Allgemein" festlegen.</string>
   <string name="autologin_bar_error">"Anmeldung fehlgeschlagen"</string>
   <string name="autologin_bar_hide_text">Ausblenden</string>
   <string name="autologin_bar_login_text">Anmelden</string>
@@ -87,7 +87,7 @@
   <string name="bookmarks_search">Browser</string>
   <string name="browserFrameFileErrorLabel">Dateiproblem</string>
   <string name="browserFrameFormResubmitLabel" />
-  <string name="browserFrameFormResubmitMessage">"Du versuchst, eine Seite anzuzeigen, an die bereits Daten geschickt wurden (\"POSTDATA\"). Wenn Du die Daten erneut sendest, wird jeder Vorgang (Online-Kauf, Bestätigung) unter Umständen erneut ausgeführt."</string>
+  <string name="browserFrameFormResubmitMessage">"du versuchst, eine Seite anzuzeigen, an die bereits Daten geschickt wurden (\"POSTDATA\"). Wenn du die Daten erneut sendest, wird jeder Vorgang (Online-Kauf, Bestätigung) unter Umständen erneut ausgeführt."</string>
   <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
   <string name="browser_bookmarks_page_bookmarks_text">Lesezeichen</string>
   <string name="browser_history">Kürzlich besuchte Seiten</string>
@@ -116,7 +116,7 @@
   <string name="contextmenu_sharelink">Link teilen</string>
   <string name="contextmenu_view_image">Bild ansehen</string>
   <string name="copy_page_url">Seiten-URL kopieren</string>
-  <string name="crash_recovcery_message">Browser wurde nicht ordnungsgemäß beendet. Möchtest Du die letzte Sitzung wiederherstellen?</string>
+  <string name="crash_recovcery_message">Browser wurde nicht ordnungsgemäß beendet. Möchtest du die letzte Sitzung wiederherstellen?</string>
   <string name="create_shortcut_bookmark">Verknüpfung auf Startbildschirm hinzufügen</string>
   <string name="current_page">"Von "</string>
   <string name="defaultBookmarksUpButton">Lesezeichen</string>
@@ -183,7 +183,7 @@
   <string formatted="false" name="import_bookmarks_dialog_confirm_add">Die Lesezeichen auf diesem Gerät mit %s synchronisieren?</string>
   <string formatted="false" name="import_bookmarks_dialog_confirm_delete">Die Lesezeichen auf diesem Gerät löschen und mit %s synchronisieren?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Die Lesezeichen auf diesem Gerät löschen und mit dem Google-Konto synchronisieren</string>
-  <string name="import_bookmarks_dialog_description">"Die Lesezeichen auf diesem Gerät sind noch nicht mit einem Google-Konto verknüpft. Speichere die Lesezeichen, indem Du sie zu einem Konto hinzufügst. Lösche die Lesezeichen, wenn Du sie nicht synchronisieren möchtest."</string>
+  <string name="import_bookmarks_dialog_description">"Die Lesezeichen auf diesem Gerät sind noch nicht mit einem Google-Konto verknüpft. Speichere die Lesezeichen, indem du sie zu einem Konto hinzufügst. Lösche die Lesezeichen, wenn du sie nicht synchronisieren möchtest."</string>
   <string formatted="false" name="import_bookmarks_dialog_import">Android-Lesezeichen zu %s Lesezeichen hinzufügen</string>
   <string name="import_bookmarks_dialog_remove">Lesezeichen löschen</string>
   <string name="import_bookmarks_dialog_select_add_account">Die Lesezeichen auf diesem Gerät mit dem Google-Konto synchronisieren</string>

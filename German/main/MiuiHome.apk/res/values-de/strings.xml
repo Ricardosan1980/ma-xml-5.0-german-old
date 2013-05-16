@@ -123,7 +123,7 @@
   <string name="preferences_title">Desktop-Einstellungen</string>
   <string name="process" />
   <string name="reset_scene_prompt">Die Szene wird auf das Standardlayout zurückgesetzt</string>
-  <string name="screen_button_disabled_message">Tasten unterhalb des Bildschirms sind deaktiviert. Du kannst sie aktivieren, indem Du \"Home\" and \"Power\ drückst."</string>
+  <string name="screen_button_disabled_message">Tasten unterhalb des Bildschirms sind deaktiviert. Du kannst sie aktivieren, indem du \"Home\" and \"Power\ drückst."</string>
   <string name="screen_button_enabled_message">Tasten unterhalb des Bildschirms sind aktiviert</string>
   <string name="screen_rotation_freeze_message">Bildschirmdrehung im Landschaftsmodus gesperrt</string>
   <string name="select_frame">Rahmen</string>

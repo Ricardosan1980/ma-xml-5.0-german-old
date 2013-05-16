@@ -11,14 +11,14 @@
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Hinweis</string>
   <string name="alert_message_initial_cloud">Das System wird Deine alten und neuen Fotos, sowie Bildschirmfotos nur dann automatisch hochladen, wenn eine WLAN-Verbindung besteht.</string>
-  <string name="alert_message_open_sync">Synchronisierung erforderlich, möchtest Du die Synchronisierung öffnen?</string>
+  <string name="alert_message_open_sync">Synchronisierung erforderlich, möchtest du die Synchronisierung öffnen?</string>
   <string name="aperture">Blende</string>
   <string name="app_name">Galerie</string>
   <string name="appwidget_empty_text">Keine Fotos</string>
   <string name="appwidget_title">Fotogalerie</string>
   <string name="auto">Automatisch</string>
   <string name="auto_create_recent_album">Alben automatisch erstellen</string>
-  <string name="auto_create_recent_album_confirm">Nachdem diese Funktion deaktiviert wird, werden alle von der Galerie erstellten Daten der Lieblingsalben gelöscht. Vom Benutzer festgelegte Lieblingsalben werden davon nicht betroffen sein. Alternativ kannst Du dies manuell festlegen, indem Du ein Album berührst und etwas länger festhältst.</string>
+  <string name="auto_create_recent_album_confirm">Nachdem diese Funktion deaktiviert wird, werden alle von der Galerie erstellten Daten der Lieblingsalben gelöscht. Vom Benutzer festgelegte Lieblingsalben werden davon nicht betroffen sein. Alternativ kannst du dies manuell festlegen, indem du ein Album berührst und etwas länger festhältst.</string>
   <string name="auto_create_recent_album_over_ten_times">Automatisch Lieblingsalben erstellen, wenn ein Album mehr als 10mal geöffnet wird</string>
   <string name="autofix">Automatisch anpassen</string>
   <string name="big_screen_alertdialog_title">Projektor</string>
@@ -43,7 +43,7 @@
   <string name="cloud_albums">Cloud-Alben</string>
   <string name="cloud_camera_display_name">Unsortiert</string>
   <string name="cloud_gallery_no_pictures">Es wurden keine Bilder in MiCloud gefunden</string>
-  <string name="cloud_gallery_recyclebin_full">Der Cloud-Papierkorb ist voll. Bitte leere den Papierkorb, indem Du i.xiaomi.com besuchst.</string>
+  <string name="cloud_gallery_recyclebin_full">Der Cloud-Papierkorb ist voll. Bitte leere den Papierkorb, indem du i.xiaomi.com besuchst.</string>
   <string name="cloud_gallery_space_full">Hochladen fehlgeschlagen! Cloud-Galerie-Speicher voll</string>
   <string name="cloud_media_set_set">Cloud-Alben</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
@@ -235,7 +235,7 @@
   <string name="set_recent_album">Als Lieblingsalbum festlegen</string>
   <string name="set_wallpaper">Als Desktop-Hintergrund festlegen</string>
   <string name="settings">Einstellungen</string>
-  <string name="settings_i_xiaomi_com">Melde Dich bei i.xiaomi.com an, um Deinen Cloud-Speicher zu verwalten</string>
+  <string name="settings_i_xiaomi_com">Melde dich bei i.xiaomi.com an, um Deinen Cloud-Speicher zu verwalten</string>
   <string name="shadow">Schatten</string>
   <string name="sharpen">Schärfen</string>
   <string name="show_all">Bilder und Videos</string>

@@ -15,7 +15,7 @@
   <string name="apply_update_fail">System-Aktualisierung fehlgeschlagen</string>
   <string name="apply_update_timer">Aktualisierung vollständig，Gerät wird in %d Sekunden neu starten.</string>
   <string name="apply_upload_info_message">Ein Druck auf "Aktualisieren" startet das Telefon neu und beginnt mit der Aktualisierung</string>
-  <string name="apply_upload_info_message_manually">Nach dem Ausschalten kannst Du manuell ins Recovery-Menü um ein Update von der SD-Karte auszuführen. Wenn Du vorher ein Backup machen möchtest, dann kannst Du dies machen und danach zur Aktualisierung zurückkehren</string>
+  <string name="apply_upload_info_message_manually">Nach dem Ausschalten kannst du manuell ins Recovery-Menü um ein Update von der SD-Karte auszuführen. Wenn du vorher ein Backup machen möchtest, dann kannst du dies machen und danach zur Aktualisierung zurückkehren</string>
   <string name="applying_rom_message">Aktualisierung wird durchgeführt</string>
   <string name="applying_update">Aktualisierung...%s</string>
   <string name="best_update">2.bestes Update</string>
@@ -25,8 +25,8 @@
   <string name="check_update_policy">Nach Aktualisierungen suchen</string>
   <string name="check_update_when_wifi_available">Nur über WLAN</string>
   <string name="checking_for_updates">Suche nach Aktualisierungen...</string>
-  <string name="choose_recommend">Bitte auswählen, ob Du weiterempfehlen möchtest</string>
-  <string name="confirm_download_cancelation_dialog_message">Möchtest Du den derzeitigen Download abbrechen?</string>
+  <string name="choose_recommend">Bitte auswählen, ob du weiterempfehlen möchtest</string>
+  <string name="confirm_download_cancelation_dialog_message">Möchtest du den derzeitigen Download abbrechen?</string>
   <string name="copy_install_log">In Zwischenablage kopieren</string>
   <string name="current_version_text">Derzeitige Version </string>
   <string name="current_version_update_monthly_build">Derzeitige Version (Aktualisierung auf Monatliche Built)</string>
@@ -81,7 +81,7 @@
   <string name="no_updatecheck_executed">Überprüfung wurde noch nicht ausgeführt</string>
   <string name="no_updates_found">Du hast bereits die aktuellste Version installiert</string>
   <string name="no_updates_warning">Es wurden keine Aktualisierungen für Dein Telefon gefunden</string>
-  <string name="no_updates_warning2">Die Anwendung benachrichtigt Dich über zukünftige Aktualisierungen</string>
+  <string name="no_updates_warning2">Die Anwendung benachrichtigt dich über zukünftige Aktualisierungen</string>
   <string name="not_recommend">"Nicht empfehlen"</string>
   <string name="paused_queued_for_network">Warte auf Netzwerkverbindung</string>
   <string name="paused_queued_for_wifi">Warte auf WLAN-Verbindung</string>
@@ -123,13 +123,13 @@
   <string name="system_backup_download_helper">Nach dem herunterladen, wird das Gerät zur Aktualisierung automatisch neu gestartet.</string>
   <string name="system_backup_error_message">MIUI-Sicherung wurde nicht gefunden, bitte manuell sichern</string>
   <string name="system_backup_ok_text">Sichern</string>
-  <string name="sytemt_backup_helper">Eine System-Aktualisierung löscht keine Nutzerdaten. Es wird dennoch empfohlen, Deine Nutzerdaten zu sichern, bevor Du aktualisierst</string>
+  <string name="sytemt_backup_helper">Eine System-Aktualisierung löscht keine Nutzerdaten. Es wird dennoch empfohlen, Deine Nutzerdaten zu sichern, bevor du aktualisierst</string>
   <string name="top_secret_build">Secret build</string>
   <string name="update_comment_hint">(Optional)</string>
   <string name="update_comment_title">Deine Kommentare</string>
   <string name="update_feedback">Four-grid Update Feedback</string>
-  <string name="update_feedback_expired">"Schade, dass Du das Feedback verpasst hast! Bitte die Umfrage nächsten Dienstag erneut abschicken"</string>
-  <string name="update_feel">1. Wie fühlst Du Dich?</string>
+  <string name="update_feedback_expired">"Schade, dass du das Feedback verpasst hast! Bitte die Umfrage nächsten Dienstag erneut abschicken"</string>
+  <string name="update_feel">1. Wie fühlst du dich?</string>
   <string name="update_general">Nicht schlecht</string>
   <string name="update_happy">Glücklich</string>
   <string name="update_monthly_build_only">Nur auf Monthly Build aktualisieren</string>

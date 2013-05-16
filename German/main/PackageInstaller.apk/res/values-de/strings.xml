@@ -10,14 +10,14 @@
   <string name="auto_startup_dialog_msg">"MIUI wird der Anwendung erlauben, ohne Bestätigung zu starten. Dies kann zu erhöhtem Energie- und/oder Datenverbauch führen. Autostart gestatten?"</string>
   <string name="caller_app">Anrufer: %1$s</string>
   <string name="cancel">Abbrechen</string>
-  <string name="dlg_app_replacement_statement">"Die Anwendung, die Du installierst, wird eine andere Anwendung ersetzen. Alle vorherigen Benutzerdaten bleiben gespeichert."</string>
+  <string name="dlg_app_replacement_statement">"Die Anwendung, die du installierst, wird eine andere Anwendung ersetzen. Alle vorherigen Benutzerdaten bleiben gespeichert."</string>
   <string name="dlg_app_replacement_title">Anwendung ersetzen</string>
   <string name="dlg_ok">OK</string>
-  <string name="dlg_sys_app_replacement_statement">"Dies ist eine System-Anwendung. Möchtest Du sie immer noch ersetzen? Alle vorherigen Benutzerdaten bleiben gespeichert."</string>
+  <string name="dlg_sys_app_replacement_statement">"Dies ist eine System-Anwendung. Möchtest du sie immer noch ersetzen? Alle vorherigen Benutzerdaten bleiben gespeichert."</string>
   <string name="done">Fertig</string>
   <string name="high_risk_perms">Riskante Rechte</string>
   <string name="install">Installieren</string>
-  <string name="install_confirm_question">Möchtest Du diese Anwendung installieren?</string>
+  <string name="install_confirm_question">Möchtest du diese Anwendung installieren?</string>
   <string name="install_done">Anwendung installiert</string>
   <string name="install_failed">Anwendung nicht installiert</string>
   <string name="install_failed_cpu_abi_incompatible">"Diese Anwendung ist nicht mit der CPU Deines Telefons kompatibel."</string>
@@ -54,11 +54,11 @@
   <string name="safe_relative">Sichere Berechtigungen</string>
   <string name="security_settings_desc">Gestatte dieser Anwendung:</string>
   <string name="settings">Einstellungen</string>
-  <string name="trust_switch_dialog_msg">"MIUI wird Dich nicht nach einer Bestätigung für alle Sicherheits- und privatsphären-relevanten Prozesse dieser Anwendung fragen. Dieser Anwendung vertrauen?"</string>
+  <string name="trust_switch_dialog_msg">"MIUI wird dich nicht nach einer Bestätigung für alle Sicherheits- und privatsphären-relevanten Prozesse dieser Anwendung fragen. Dieser Anwendung vertrauen?"</string>
   <string name="uninstall_activity_text">%1$s ist ein Teil der folgenden Anwendung:</string>
   <string name="uninstall_application_text">Diese Anwendung wird deinstalliert.</string>
   <string name="uninstall_application_title">Anwendung deinstallieren</string>
-  <string name="uninstall_confirm_question">Möchtest Du diese Anwendung deinstallieren?</string>
+  <string name="uninstall_confirm_question">Möchtest du diese Anwendung deinstallieren?</string>
   <string name="uninstall_done">Deinstallation abgeschlossen</string>
   <string name="uninstall_failed">Deinstallation nicht erfolgreich</string>
   <string name="uninstall_failed_device_policy_manager">Kann nicht deinstallieren: Paket ist ein aktiver Geräte-Administrator.</string>
@@ -68,7 +68,7 @@
   <string name="uninstall_update_title">Update deinstallieren</string>
   <string name="uninstalling">Deinstallation...</string>
   <string name="unknown">Unbekannt</string>
-  <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen wurde Dein Telefon so eingestellt, dass Anwendungen von unsicheren Quellen nicht installiert werden können. Solltest Du Anwendungen von fremden Quellen installieren, so trägst Du alle Risiken bei Datenverlust oder Beschädigung. Du kannst dies auch unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen ändern."</string>
+  <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen wurde Dein Telefon so eingestellt, dass Anwendungen von unsicheren Quellen nicht installiert werden können. Solltest du Anwendungen von fremden Quellen installieren, so trägst du alle Risiken bei Datenverlust oder Beschädigung. Du kannst dies auch unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen ändern."</string>
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
   <string name="unknown_installer">Unbekannter Installer</string>
 </resources>

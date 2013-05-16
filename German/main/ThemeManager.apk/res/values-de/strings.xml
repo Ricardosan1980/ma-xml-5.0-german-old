@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Fehler bei der Konto-Information, bitte melde Dich erneut an.</string>
+  <string name="account_abnormal_state">Fehler bei der Konto-Information, bitte melde dich erneut an.</string>
   <string name="all_resources">Alle</string>
   <string name="all_ringtone_resource">Alle</string>
   <string name="app_name">Themen</string>
@@ -57,7 +57,7 @@
   <string name="resource_comment_count">%1$s hat eine Bewertung von %2$s und Kommentare (%3$s Version)</string>
   <string name="resource_comment_description">%1$s Kommentar zu %2$s:%3$s:%4$s</string>
   <string name="resource_comment_edit_comment">Kommentar hinzufügen</string>
-  <string name="resource_comment_edit_comment_waiting">Es wird überprüft, ob Du schon geantwortet hast</string>
+  <string name="resource_comment_edit_comment_waiting">Es wird überprüft, ob du schon geantwortet hast</string>
   <string name="resource_comment_edit_text_default">Einen Kommentar verfassen</string>
   <string name="resource_comment_edit_title">Kommentar: %1$s</string>
   <string name="resource_comment_entry_tips">%1$s Bewertungen. Zum Ansehen berühren</string>
@@ -70,14 +70,14 @@
   <string name="resource_comment_title">Kommentare: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Leider ist der abgeschickte Kommentar ungültig</string>
   <string name="resource_comment_upload_failed">Kommentar konnte nicht gesendet werden</string>
-  <string name="resource_comment_upload_not_bought">Du musst das Thema erst anwenden, bevor Du Kommentare verfassen kannst.</string>
-  <string name="resource_comment_upload_not_logined">Bitte melde Dich zuerst an</string>
+  <string name="resource_comment_upload_not_bought">Du musst das Thema erst anwenden, bevor du Kommentare verfassen kannst.</string>
+  <string name="resource_comment_upload_not_logined">Bitte melde dich zuerst an</string>
   <string name="resource_comment_upload_success">Kommentar wurde abgeschickt! Dieser wird angezeigt, sobald er überprüft wurde</string>
   <string name="resource_comment_version_name">(%1$s Version)</string>
   <string name="resource_default">Standard-Klingelton</string>
   <string name="resource_default_name">Quelle</string>
-  <string name="resource_delete_all">Sicher, dass Du %1$d ausgewählte Quellen löschen möchtest?</string>
-  <string name="resource_delete_confirm">Möchtest Du diese Quellen löschen?</string>
+  <string name="resource_delete_all">Sicher, dass du %1$d ausgewählte Quellen löschen möchtest?</string>
+  <string name="resource_delete_confirm">Möchtest du diese Quellen löschen?</string>
   <string name="resource_detail">Details</string>
   <string name="resource_download">Download</string>
   <string name="resource_downloaded_title">Quellen herunterladen</string>
@@ -108,7 +108,7 @@
   <string name="resource_title">Quell-Details</string>
   <string name="resource_title_select_ringtone">Klingelton auswählen</string>
   <string name="resource_update">Aktualisierung</string>
-  <string name="restore_default_theme_alert">Möglicherweise bist Du ein Opfer einer Fälschung, bitte besuche den Themen-Markt um das Thema erneut herunter zu laden oder zu kaufen.</string>
+  <string name="restore_default_theme_alert">Möglicherweise bist du ein Opfer einer Fälschung, bitte besuche den Themen-Markt um das Thema erneut herunter zu laden oder zu kaufen.</string>
   <string name="sdcard_status_changed_dialog_message">"Anwendung wird geschlossen. Bitte erneut öffnen, um Quellen zu aktualisieren."</string>
   <string name="sdcard_status_changed_dialog_title">Status der SD-Karte geändert</string>
   <string name="short_ringtone_resource">Kurz (&lt;5sek)</string>
@@ -146,7 +146,7 @@
   <string name="theme_import_from_sdcard">Von SD-Karte importieren</string>
   <string name="theme_import_importing">Wird aktualisiert... %1$d übrig</string>
   <string name="theme_import_item_delete_request_button">Löschen</string>
-  <string name="theme_import_item_delete_request_content">Thema wurde noch nicht aktualisiert. Du kannst es verwenden, sobald es aktualisiert wurde. Alternativ kannst Du das Thema auch löschen.</string>
+  <string name="theme_import_item_delete_request_content">Thema wurde noch nicht aktualisiert. Du kannst es verwenden, sobald es aktualisiert wurde. Alternativ kannst du das Thema auch löschen.</string>
   <string name="theme_import_item_delete_request_title">Thema nicht aktualisiert</string>
   <string name="theme_import_item_importing">Wird aktualisiert...</string>
   <string name="theme_import_item_not_upgraded">Nicht aktualisiert</string>

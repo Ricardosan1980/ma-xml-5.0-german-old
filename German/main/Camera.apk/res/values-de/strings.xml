@@ -42,7 +42,7 @@
   <string name="gallery_camera_videos_bucket_name">Kameravideos</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="no_picture_to_share">Kein Bild zum Teilen</string>
-  <string name="no_storage">Bitte lege die SD-Karte ein, bevor Du die Kamera verwendest.</string>
+  <string name="no_storage">Bitte lege die SD-Karte ein, bevor du die Kamera verwendest.</string>
   <string name="no_video_to_share">Kein Video zum Teilen</string>
   <string name="not_enough_space">Deine SD-Karte ist voll.</string>
   <string name="not_selectable_in_effect">Dies kann nicht ausgewählt werden, wenn der Effekt aktiviert ist.</string>
@@ -126,6 +126,6 @@
   <string name="video_camera_label">Videokamera</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Die maximale Dateigröße wurde erreicht.</string>
-  <string name="video_snapshot_hint">Nehme ein Bild während des Filmens auf, indem Du auf das Vorschaubild tippst.</string>
+  <string name="video_snapshot_hint">Nehme ein Bild während des Filmens auf, indem du auf das Vorschaubild tippst.</string>
   <string name="wait">Bitte warte…</string>
 </resources>

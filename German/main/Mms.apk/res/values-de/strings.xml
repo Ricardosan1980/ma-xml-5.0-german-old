@@ -58,7 +58,7 @@
   <string name="confirm_delete_message">Die Nachricht wird gelöscht.</string>
   <string name="confirm_dialog_locked_title">Gesperrte Nachricht löschen?</string>
   <string name="confirm_dialog_title">Löschen</string>
-  <string name="confirm_export_dialog_description">Ausgewählten privaten Kontakt entfernen, Unterhaltung wird zu normalen SMS verschoben. Möchtest Du fortfahren?</string>
+  <string name="confirm_export_dialog_description">Ausgewählten privaten Kontakt entfernen, Unterhaltung wird zu normalen SMS verschoben. Möchtest du fortfahren?</string>
   <string name="confirm_export_dialog_title">Privaten Kontakt entfernen</string>
   <string name="confirm_rate_limit">Eine große Anzahl an Multimedia-Nachrichten wird gesendet. Fortfahren?</string>
   <string name="context_menu_add_contact">Zu Kontakten hinzufügen</string>
@@ -120,7 +120,7 @@
   <string name="exceed_message_size_limitation">Größenlimit erreicht.</string>
   <string name="expire_on">Läuft ab: %s</string>
   <string name="exporting_progress_private_message">Exportiere Nachrichten aus persönlichem Nachrichtenordner</string>
-  <string name="failed_to_add_media">Leider kannst Du \"%1$s\" nicht zu Deiner Nachricht hinzufügen.</string>
+  <string name="failed_to_add_media">Leider kannst du \"%1$s\" nicht zu Deiner Nachricht hinzufügen.</string>
   <string name="failed_to_resize_image">Bild nicht verkleinert.</string>
   <string name="fdn_check_failure">Du kannst nur Nachrichten an Deine freigegebenen Telefonnummern senden.</string>
   <string name="festival">Empfohlen</string>
@@ -204,12 +204,12 @@
   <string name="mx_auto_resend_sms">Als SMS senden</string>
   <string name="mx_auto_resend_sms_summary">Als SMS senden, wenn Cloud-Nachrichten nicht verfügbar sind. Der Mobilfunkanbieter könnte Gebühren verlangen</string>
   <string name="mx_btn_enable">Aktivieren</string>
-  <string name="mx_count_dspt">Seit der Aktivierung wurden %1$d Cloud-Nachricht(en) für Dich versendet (%2$s)</string>
+  <string name="mx_count_dspt">Seit der Aktivierung wurden %1$d Cloud-Nachricht(en) für dich versendet (%2$s)</string>
   <string name="mx_current_status">Derzeitiger Status: Online</string>
   <string name="mx_dspt">Nachrichten über das Internet zwischen MIUI-Benutzern senden. Aktivieren, um über das Mobilfunknetz zu senden, falls Senden über das Internet fehlschlägt</string>
   <string name="mx_enable">Cloud-Nachrichten aktivieren</string>
-  <string name="mx_enable_int_popup_msg">Cloud-Nachrichten erlauben Dir Nachrichten zwischen MIUI-Benutzern zu versenden. Eine internationale SMS wird benötigt, um den Dienst zu aktivieren (Mobilfunkanbieter könnte Gebühren verlangen).</string>
-  <string name="mx_enable_popup_msg">Mit Cloud-Nachrichten kannst Du Nachrichten zwischen MIUI-Benutzern senden. Eine normale SMS wird benötigt, um den Dienst zu aktivieren (Mobilfunkanbieter könnte Gebühren verlangen). Soll dies jetzt aktiviert werden?</string>
+  <string name="mx_enable_int_popup_msg">Cloud-Nachrichten erlauben dir Nachrichten zwischen MIUI-Benutzern zu versenden. Eine internationale SMS wird benötigt, um den Dienst zu aktivieren (Mobilfunkanbieter könnte Gebühren verlangen).</string>
+  <string name="mx_enable_popup_msg">Mit Cloud-Nachrichten kannst du Nachrichten zwischen MIUI-Benutzern senden. Eine normale SMS wird benötigt, um den Dienst zu aktivieren (Mobilfunkanbieter könnte Gebühren verlangen). Soll dies jetzt aktiviert werden?</string>
   <string name="mx_int_warning_notice">Eine internationale SMS wird benötigt, um den Cloud-Dienst zu aktivieren (Mobilfunkanbieter könnte Gebühren verlangen).</string>
   <string name="mx_msg">Cloud-Nachricht</string>
   <string name="mx_offline">Abgemeldet</string>
@@ -253,11 +253,11 @@
   <string name="pref_sms_theme_title">Themen-Einstellungen</string>
   <string name="pref_summary_allow_si_sl_push">Empfangen und benachrichtigen von WAP-Push-Nachrichten (SI/SL) erlauben</string>
   <string name="pref_summary_delete_limit">%1$s Nachrichten pro Unterhaltung</string>
-  <string name="pref_summary_delivery_reports">Einen Zustellbericht für jede von Dir versendete Nachricht anfragen</string>
+  <string name="pref_summary_delivery_reports">Einen Zustellbericht für jede von dir versendete Nachricht anfragen</string>
   <string name="pref_summary_hide_festival">\"Empfohlen\"-Tab für Nicht-Chinesische-Sprachen ausblenden</string>
   <string name="pref_summary_manage_sim_messages">Auf Deiner SIM-Karte gespeicherte Nachrichten verwalten</string>
   <string name="pref_summary_mms_auto_retrieval">Nachrichten automatisch empfangen</string>
-  <string name="pref_summary_mms_read_reports">Eine Lesebestätigung für jede von Dir versendete Nachricht anfragen</string>
+  <string name="pref_summary_mms_read_reports">Eine Lesebestätigung für jede von dir versendete Nachricht anfragen</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Nachrichten automatisch während des Roamings empfangen</string>
   <string name="pref_summary_new_message_popup">Pop-Ups anzeigen, wenn eine neue Nachricht erhalten wurde</string>
   <string name="pref_summary_new_message_popup_when_secure">Keine Pop-Up-Benachrichtigungen anzeigen, wenn Zugriffskontrollen aktiviert sind</string>
@@ -371,7 +371,7 @@
   <string name="stick_conversation">Aktuelle Unterhaltung anheften</string>
   <string name="sticked_conversation">Bereits angeheftet</string>
   <string name="storage_limits_activity">Speicherlimits</string>
-  <string name="storage_limits_message">Die Anzahl an Nachrichten beschränken, die Du pro Unterhaltung speicherst?</string>
+  <string name="storage_limits_message">Die Anzahl an Nachrichten beschränken, die du pro Unterhaltung speicherst?</string>
   <string name="storage_limits_setting">Limit festlegen</string>
   <string name="storage_limits_setting_dismiss">Kein Limit</string>
   <string name="subject_hint">Betreff</string>

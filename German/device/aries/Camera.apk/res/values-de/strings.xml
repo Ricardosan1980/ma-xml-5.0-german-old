@@ -23,7 +23,7 @@
   <string name="confirm_change_mode_title">Modus wechseln</string>
   <string name="confirm_change_to_expert_mode_message">Zum Profi-Modus wechseln?</string>
   <string name="confirm_change_to_simple_mode_message">Zum Einfach-Modus wechseln?</string>
-  <string name="confirm_location_message">Die Kamera kann Deinen Standort mit den Bildern aufnehmen, möchtest Du dies aktivieren?</string>
+  <string name="confirm_location_message">Die Kamera kann deinen Standort mit den Bildern aufnehmen, möchtest du dies aktivieren?</string>
   <string name="confirm_restore_message">Kamera auf Standardwerte zurücksetzen?</string>
   <string name="confirm_restore_title">Standardwerte wiederherstellen</string>
   <string name="crop_saved">Bearbeitetes Bild unter %s gespeichert</string>
@@ -411,7 +411,7 @@
   <string name="video_err">"Video kann nicht abgespielt werden."</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Größenlimit erreicht.</string>
-  <string name="video_snapshot_hint">Mache ein Foto während der Videoaufnahme, indem Du das Vorschaubild berührst.</string>
+  <string name="video_snapshot_hint">Mache ein Foto während der Videoaufnahme, indem du das Vorschaubild berührst.</string>
   <string name="videocamera_settings_label">Videokamera-Einstellungen</string>
   <string name="wait">Bitte warten…</string>
   <string name="white_balance">Weißabgleich</string>

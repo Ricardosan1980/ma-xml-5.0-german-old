@@ -7,13 +7,13 @@
   <string name="cancel_running_download">Abbrechen</string>
   <string name="confirm_delete_downloads_message">%d ausgewählte Downloads werden gelöscht!</string>
   <string name="confirm_delete_the_download_item_message">Diese Downloads löschen?</string>
-  <string name="confirm_disable_download_only_in_wifi_message">Durch Ausschalten von \"Nur mit WLAN herunterladen\" wird der Datenverbrauch zunehmen. Möchtest Du dies wirklich ausschalten?</string>
+  <string name="confirm_disable_download_only_in_wifi_message">Durch Ausschalten von \"Nur mit WLAN herunterladen\" wird der Datenverbrauch zunehmen. Möchtest du dies wirklich ausschalten?</string>
   <string name="delete_download">Löschen</string>
   <string name="delete_downloads_records">Downloads löschen</string>
   <string name="delete_the_downloaded_file">Die heruntergeladenen Dateien löschen.</string>
   <string name="deselect_all">Nichts auswählen</string>
   <string name="dialog_cannot_resume">Download unterbrochen, kann nicht wieder aufgenommen werden.</string>
-  <string name="dialog_failed_body">Möchtest Du versuchen, die Datei später erneut herunterzuladen, oder möchtest Du diese aus der Warteschlange entfernen?</string>
+  <string name="dialog_failed_body">Möchtest du versuchen, die Datei später erneut herunterzuladen, oder möchtest du diese aus der Warteschlange entfernen?</string>
   <string name="dialog_file_already_exists">Herunterladen nicht möglich, die Zieldatei ist bereits vorhanden.</string>
   <string name="dialog_file_missing_body">Die heruntergeladene Datei kann nicht gefunden werden.</string>
   <string name="dialog_file_missing_title">Öffnen der Datei fehlgeschlagen</string>

@@ -50,7 +50,7 @@
   <string name="operation_send">Sende</string>
   <string name="picker_title">Wähle App</string>
   <string name="receive">Empfange</string>
-  <string name="receive_cancel_tip">Empfang unvollständig. Bist Du sicher, dass Du die Übertragung stoppen und beenden willst?</string>
+  <string name="receive_cancel_tip">Empfang unvollständig. Bist du sicher, dass du die Übertragung stoppen und beenden willst?</string>
   <string name="receive_cancel_tip2">Empfangsabbruch. %1$d / %2$d Datei(en) empfangen.</string>
   <string name="receive_canceled">Abgebrochen</string>
   <string name="receive_cannot_created_file">Datei konnte nicht erstellt werden</string>
@@ -67,7 +67,7 @@
   <string name="scanning">Scanne...</string>
   <string name="sdcard_unavailable">SD-Karte ist nicht verfügbar</string>
   <string name="send">Sende</string>
-  <string name="send_cancel_tip">Empfang unvollständig. Bist Du sicher, dass Du stoppen und beenden willst?</string>
+  <string name="send_cancel_tip">Empfang unvollständig. Bist du sicher, dass du stoppen und beenden willst?</string>
   <string name="send_cancel_tip2">Senden abgerochen. %1$d / %2$d Datei(en) gesendet</string>
   <string name="send_files">Sende %1$d Datei(en)</string>
   <string name="send_finish">Datei gesendet!</string>

@@ -80,7 +80,7 @@
   <string name="auto_ip_exception_summary_miui">%d insgesamt</string>
   <string name="auto_ip_exception_summary_more_miui">,... %d insgesamt</string>
   <string name="auto_ip_no_exceptions_miui">"Nummern hinzufügen, die kein IP-Prefix benötigen"</string>
-  <string name="auto_ip_remove_exception_numbers_confirm_miui">Möchtest Du wirklich diese %d Nummern löschen?</string>
+  <string name="auto_ip_remove_exception_numbers_confirm_miui">Möchtest du wirklich diese %d Nummern löschen?</string>
   <string name="auto_ip_setting_miui">Automatische IP-Einstellungen</string>
   <string name="auto_ip_summary_not_enabled">Nicht aktiviert</string>
   <string name="auto_ip_support_local_numbers">Unterstütze lokale Nummern</string>
@@ -210,7 +210,7 @@
   <string name="cb_sms_settings">Cell-Broadcast SMS-Einstellungen</string>
   <string name="cdma_activate_device">Gerät aktivieren</string>
   <string name="cdma_conference_call_miui">Telefon-Konferenz</string>
-  <string name="cdma_display_precise_call_state_message_miui">Wenn Dein Betreiber dies nicht unterstützt, ist der Anrufstatus inkorrekt, wenn dieser Schalter geöffnet wird. Willst Du ihne wirklich öffnen?</string>
+  <string name="cdma_display_precise_call_state_message_miui">Wenn Dein Betreiber dies nicht unterstützt, ist der Anrufstatus inkorrekt, wenn dieser Schalter geöffnet wird. Willst du ihne wirklich öffnen?</string>
   <string name="cdma_display_precise_call_state_summary_miui">CDMA Anruf-Timer wird vom Netzwerkbetreiber eingeschränkt. Falls durch das lokale Netzwerk unterstützt, kann der Anrufstatus genau angezeigt werden.</string>
   <string name="cdma_display_precise_call_state_title_miui">Zeige genauen Anrufstatus</string>
   <string name="cdma_lte_data_service">Datenservice Einrichten</string>
@@ -283,7 +283,7 @@
   <string name="corporate_unlock_success">Entsperren der Corporate-SIM erfolgreich.</string>
   <string name="count_down">Sekunden:</string>
   <string name="count_of_persons_in_conference_miui">Insgesamt %d Personen</string>
-  <string name="countrycode_alert_message_warning_miui">Die Landesvorwahl ist eventuell falsch. Möchtest Du diese trotzdem benutzen?</string>
+  <string name="countrycode_alert_message_warning_miui">Die Landesvorwahl ist eventuell falsch. Möchtest du diese trotzdem benutzen?</string>
   <string name="countrycode_alert_message_wrong_miui">Die eingegebene Landesvorwahl ist falsch, bitte erneut eingeben</string>
   <string name="countrycode_alert_title_miui">Fehler</string>
   <string name="crystaltalk_summary_miui">Optimieren der Anruf-Einstellungen</string>
@@ -690,7 +690,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="ota_activate">Aktivieren</string>
   <string name="ota_call_end">Zurück</string>
   <string name="ota_failure">Programmierung fehlgeschlagen</string>
-  <string name="ota_listen">Folge den Sprachanweisungen, bis Du hörst, dass die Aktivierung vollständig ist.</string>
+  <string name="ota_listen">Folge den Sprachanweisungen, bis du hörst, dass die Aktivierung vollständig ist.</string>
   <string name="ota_next">Weiter</string>
   <string name="ota_progress">Bitte warte, während das Telefon programmiert wird.</string>
   <string name="ota_skip_activation_dialog_message">"Wenn die Aktivierung übersprungen wird, können keine Anrufe oder mobile Datenverbindungen genutzt werden (WLAN-Verbindung funktioniert). Du wirst bei jedem Einschalten erneut nach der Aktivierung gefragt, bis diese erfolgt ist."</string>
@@ -704,7 +704,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="ota_title_problem_with_activation">Problem bei der Aktivierung</string>
   <string name="ota_touch_activate">"Es muss ein spezieller Anruf getätigt werden, um den Telefon-Service zu aktivieren. Nachdem "Aktivieren" gedrückt wurde, bitte den Anweisungen folgen, um das Telefon zu aktivieren."</string>
   <string name="ota_try_again">Erneut versuchen</string>
-  <string name="ota_unsuccessful">"Das Telefon wurde nicht aktiviert. Unter Umständen brauchst Du besseren Empfang. Bitte erneut versuchen oder den Kundendienst kontaktieren."</string>
+  <string name="ota_unsuccessful">"Das Telefon wurde nicht aktiviert. Unter Umständen brauchst du besseren Empfang. Bitte erneut versuchen oder den Kundendienst kontaktieren."</string>
   <string name="other_settings">Andere Anruf-Einstellungen</string>
   <string name="other_settings_miui">Andere Einstellungen</string>
   <string name="password">Passwort</string>
@@ -767,7 +767,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="preferred_network_mode_title">Netzwerk-Modus</string>
   <string name="preferred_network_mode_wcdma_only_summary">Bevorzugter Netzwerk-Modus: Nur WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Bevorzugter Netzwerk-Modus: WCDMA bevorzugt</string>
-  <string name="preferred_network_type_3g_only_warning_miui">"Du hast 3G als bevorzugten Netzwerk-Modus gewählt. Sollte Deine SIM kein 3G unterstützen, so hast Du keinen Empfang. Drücke "OK" um fortzufahren."</string>
+  <string name="preferred_network_type_3g_only_warning_miui">"Du hast 3G als bevorzugten Netzwerk-Modus gewählt. Sollte Deine SIM kein 3G unterstützen, so hast du keinen Empfang. Drücke "OK" um fortzufahren."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G bevorzugt</string>
@@ -800,7 +800,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="regional_disable">Regionale Nachrichten deaktiviert</string>
   <string name="regional_enable">Regionale Nachrichten aktiviert</string>
   <string name="register_automatically">Automatische Anmeldung...</string>
-  <string name="register_network_failed_message_miui">"Anmeldung beim gewählten Netzwerk nicht möglich, möchtest Du das bevorzugte Netzwerk automatisch wählen?"</string>
+  <string name="register_network_failed_message_miui">"Anmeldung beim gewählten Netzwerk nicht möglich, möchtest du das bevorzugte Netzwerk automatisch wählen?"</string>
   <string name="register_network_failed_title_miui">Service nicht verfügbar</string>
   <string name="register_on_network">Melde bei %s an…</string>
   <string name="registration_done">Im Netz angemeldet.</string>
@@ -835,15 +835,15 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="requesting_sim_unlock">SIM Entsperranfrage…</string>
   <string name="requesting_sp_unlock">SIM-Serviceanbieter Entsperranfrage…</string>
   <string name="requesting_unlock">Network Entsperranfrage…</string>
-  <string name="reset_my_choice_hint">Du kannst die Anruf-Einstellungen nutzen, um festzulegen, welches Konto standardmäßig für Internet-Telefonie bei anrufen genutzt wird, indem Du ein anderes Konto wählst</string>
+  <string name="reset_my_choice_hint">Du kannst die Anruf-Einstellungen nutzen, um festzulegen, welches Konto standardmäßig für Internet-Telefonie bei anrufen genutzt wird, indem du ein anderes Konto wählst</string>
   <string name="respond_via_sms_canned_response_1">"Kann gerade nicht antworten. Worum geht es?"</string>
   <string name="respond_via_sms_canned_response_1_miui">"Leider kann ich gerade nicht ans Telefon. Ich rufe später zurück."</string>
   <string name="respond_via_sms_canned_response_2">"Ich rufe umgehend zurück."</string>
-  <string name="respond_via_sms_canned_response_2_miui">"Leider kann ich gerade nicht telefonieren. Was kann ich für Dich tun?"</string>
-  <string name="respond_via_sms_canned_response_3">"Ich rufe Dich später zurück."</string>
-  <string name="respond_via_sms_canned_response_3_miui">"Ich bin derzeit sehr beschäftigt. Rufe Dich später zurück."</string>
+  <string name="respond_via_sms_canned_response_2_miui">"Leider kann ich gerade nicht telefonieren. Was kann ich für dich tun?"</string>
+  <string name="respond_via_sms_canned_response_3">"Ich rufe dich später zurück."</string>
+  <string name="respond_via_sms_canned_response_3_miui">"Ich bin derzeit sehr beschäftigt. Rufe dich später zurück."</string>
   <string name="respond_via_sms_canned_response_4">"Kann gerade nicht telefonieren. Ruf mich später nochmal an?"</string>
-  <string name="respond_via_sms_canned_response_4_miui">"Kann gerade nicht sprechen. Was kann ich für Dich tun?"</string>
+  <string name="respond_via_sms_canned_response_4_miui">"Kann gerade nicht sprechen. Was kann ich für dich tun?"</string>
   <string name="respond_via_sms_confirmation_format">Nachricht an %s gesendet.</string>
   <string name="respond_via_sms_custom_message">Eigene Nachricht...</string>
   <string name="respond_via_sms_edittext_dialog_title">Schnellantwort</string>
@@ -1033,7 +1033,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="tty_mode_option_summary_miui">TTY-Modus einstellen</string>
   <string name="tty_mode_option_title">TTY-Modus</string>
   <string name="tty_mode_option_title_miui">TTY-Modus</string>
-  <string name="turn_off_auto_select_confirm_message_miui">Empfang und Netzwerk sind eventuell nicht verfügbar, möchtest Du diese Option wirklich ausschalten?</string>
+  <string name="turn_off_auto_select_confirm_message_miui">Empfang und Netzwerk sind eventuell nicht verfügbar, möchtest du diese Option wirklich ausschalten?</string>
   <string name="turn_off_auto_select_title_miui">Automatische Netzauswahl deaktivieren</string>
   <string name="turn_off_auto_select_warning_message_miui">Nachdem diese Option deaktiviert wurde, wird nur das gewählte Netzwerk genutzt, es erfolgt keine Anmeldung in anderen Netzwerken</string>
   <string name="turn_off_miui">Ausschalten</string>

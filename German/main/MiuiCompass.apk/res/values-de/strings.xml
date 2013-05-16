@@ -15,7 +15,7 @@
   <string name="direction_south">S</string>
   <string name="direction_west">W</string>
   <string name="getting_location">Rufe Standort ab...</string>
-  <string name="guide_toast">"Mögliche Magnetfeldinterferenzen. Bitte kalibriere den Kompass indem Du die folgende Bewegung ausführst."</string>
+  <string name="guide_toast">"Mögliche Magnetfeldinterferenzen. Bitte kalibriere den Kompass indem du die folgende Bewegung ausführst."</string>
   <string name="latitude">LAT</string>
   <string name="location_east">%s O</string>
   <string name="location_north">%s N</string>

@@ -13,7 +13,7 @@
   <string name="account_name_display_all">Alle Konten</string>
   <string name="account_out_of_quota">Das Speicherplatzkontingent für das Konto ist überschritten.</string>
   <string name="account_password_spaces_error">Dieses Passwort beginnt oder endet mit einem oder mehreren Leerzeichen. Viele Server unterstützen keine Passwörter mit Leerzeichen.</string>
-  <string name="account_security_dialog_content_fmt">%s erfordert, dass Du Deine Sicherheitseinstellungen aktualisierst.</string>
+  <string name="account_security_dialog_content_fmt">%s erfordert, dass du Deine Sicherheitseinstellungen aktualisierst.</string>
   <string name="account_security_dialog_title">Sicherheitsupdate</string>
   <string name="account_security_policy_explanation_fmt">Der Server %s fordert die Erlaubnis zur Remote-Steuerung einiger Sicherheitsfunktionen auf Deinem Android-Gerät an.</string>
   <string name="account_security_title">Gerätesicherheit</string>
@@ -171,7 +171,7 @@
   <string name="account_setup_outgoing_smtp_server_label">SMTP-Server</string>
   <string name="account_setup_outgoing_title">Kontoeinrichtung</string>
   <string name="account_setup_outgoing_username_label">Benutzername</string>
-  <string name="account_setup_security_policies_required_fmt">Der Server %s fordert die Erlaubnis zur Remote-Steuerung einiger Sicherheitsfunktionen auf Deinem Android-Gerät an. Möchtest Du die Einrichtung dieses Kontos abschließen?</string>
+  <string name="account_setup_security_policies_required_fmt">Der Server %s fordert die Erlaubnis zur Remote-Steuerung einiger Sicherheitsfunktionen auf Deinem Android-Gerät an. Möchtest du die Einrichtung dieses Kontos abschließen?</string>
   <string name="account_setup_security_required_title">Remote-Sicherheitsverwaltung</string>
   <string name="account_setup_username_password_toast">Gib eine gültige E-Mail-Adresse und ein gültiges Passwort ein.</string>
   <string name="account_setup_username_uneditable_error">Du kannst Benutzernamen von Konten nicht ändern. Wähle \"Konto hinzufügen\" aus, um ein Konto mit einem anderen Benutzernamen hinzuzufügen.</string>
@@ -194,11 +194,11 @@
   <string name="attachment_info_dialog_default_title">Informationen zum Anhang</string>
   <string name="attachment_info_dialog_wifi_title">WLAN-Verbindung erforderlich</string>
   <string name="attachment_info_malware">Du kannst diese Datei nicht öffnen oder speichern, da diese Art von Anhang möglicherweise schädliche Software enthält.</string>
-  <string name="attachment_info_no_intent">Du verfügst über keine App, mit der Du diesen Anhang öffnen kannst. Lade eine entsprechende App vom PlayStore herunter.</string>
+  <string name="attachment_info_no_intent">Du verfügst über keine App, mit der du diesen Anhang öffnen kannst. Lade eine entsprechende App vom PlayStore herunter.</string>
   <string name="attachment_info_policy">Dieser Anhang kann aufgrund der Sicherheitsrichtlinien dieses Kontos nicht gespeichert oder geöffnet werden.</string>
-  <string name="attachment_info_sideload_disabled">Dieser Anhang ist eine App. Aktiviere \"Unbekannte Quellen\" unter \"Einstellungen\" > \"Apps\", damit Du die App installieren kannst.</string>
+  <string name="attachment_info_sideload_disabled">Dieser Anhang ist eine App. Aktiviere \"Unbekannte Quellen\" unter \"Einstellungen\" > \"Apps\", damit du die App installieren kannst.</string>
   <string name="attachment_info_unknown">Anhang kann nicht geöffnet werden.</string>
-  <string name="attachment_info_wifi_only">Dieser Anhang ist zu groß, um ihn über ein Mobilfunknetz herunterzuladen. Du kannst ihn herunterladen, sobald Du das nächste Mal mit einem WLAN-Netzwerk verbunden bist.</string>
+  <string name="attachment_info_wifi_only">Dieser Anhang ist zu groß, um ihn über ein Mobilfunknetz herunterzuladen. Du kannst ihn herunterladen, sobald du das nächste Mal mit einem WLAN-Netzwerk verbunden bist.</string>
   <string name="attachment_info_wifi_settings">WLAN-Einstellungen</string>
   <string name="attachment_not_found">Anhang kann nicht heruntergeladen werden.</string>
   <string name="bcc">Bcc</string>
@@ -253,7 +253,7 @@
   <string name="dialog_sync_all_preparing">%1$d Fotos und %2$d Videos werden für den Upload vorbereitet...</string>
   <string name="dialog_sync_all_scanning">Dateien werden gesucht...</string>
   <string name="dialog_sync_all_server_error">Bei der Kommunikation mit dem Server ist ein Problem aufgetreten. Versuche es später erneut.</string>
-  <string name="disable_admin_warning">Warnung: Wenn Du die Berechtigung der E-Mail-App zur Verwaltung Deines Geräts deaktivierst, werden alle E-Mail-Konten, die diese Berechtigung benötigen, mit allen zugehörigen E-Mails, Kontakten, Terminen und anderen Daten gelöscht.</string>
+  <string name="disable_admin_warning">Warnung: Wenn du die Berechtigung der E-Mail-App zur Verwaltung Deines Geräts deaktivierst, werden alle E-Mail-Konten, die diese Berechtigung benötigen, mit allen zugehörigen E-Mails, Kontakten, Terminen und anderen Daten gelöscht.</string>
   <string name="discard_action">Verwerfen</string>
   <string name="done">Zurück</string>
   <string name="done_action">Fertig</string>
@@ -434,9 +434,9 @@ Cc: %4$s
   <string name="password_expire_warning_content_title">Sperr-Passwort läuft ab</string>
   <string name="password_expire_warning_dialog_content_fmt">Du musst deine PIN bzw. Dein Passwort zum Sperren des Bildschirms bald ändern, sonst werden die Daten für %s gelöscht. Jetzt ändern?</string>
   <string name="password_expire_warning_dialog_title">Passwort für Bildschirmsperre läuft ab</string>
-  <string name="password_expire_warning_ticker_fmt">\"%s\" erfordert, dass Du PIN bzw. Passwort für die Display-Sperre änderst.</string>
+  <string name="password_expire_warning_ticker_fmt">\"%s\" erfordert, dass du PIN bzw. Passwort für die Display-Sperre änderst.</string>
   <string name="password_expired_content_title">Sperr-Passwort abgelaufen</string>
-  <string name="password_expired_dialog_content_fmt">Die Daten für %s werden von Deinem Gerät gelöscht. Du kannst sie wiederherstellen, indem Du deine PIN bzw. dein Passwort zum Sperren des Bildschirms änderst. Jetzt ändern?</string>
+  <string name="password_expired_dialog_content_fmt">Die Daten für %s werden von Deinem Gerät gelöscht. Du kannst sie wiederherstellen, indem du deine PIN bzw. dein Passwort zum Sperren des Bildschirms änderst. Jetzt ändern?</string>
   <string name="password_expired_dialog_title">Sperr-Passwort abgelaufen</string>
   <string name="password_expired_ticker">Deine PIN bzw. dein Passwort zum Sperren des Bildschirms ist abgelaufen.</string>
   <string name="pause_state_low_battery">Ausgesetzt - Akku schwach</string>
@@ -477,7 +477,7 @@ Cc: %4$s
   <string name="preference_plus_sync_all">Vorhandene Fotos hochladen</string>
   <string name="preference_plus_sync_all_description">Jetzt alle vorhandenen Fotos und Videos von deinem Telefon hochladen</string>
   <string name="preference_plus_sync_all_prompt_no">Nein</string>
-  <string name="preference_plus_sync_all_prompt_text">Das Hochladen von Fotos und Videos, die noch nicht von deinem Telefon in ein privates Album im Web hochgeladen wurden, kann einige Zeit dauern. Der Upload wird jedoch im Hintergrund ausgeführt. Möchtest Du wirklich fortfahren?</string>
+  <string name="preference_plus_sync_all_prompt_text">Das Hochladen von Fotos und Videos, die noch nicht von deinem Telefon in ein privates Album im Web hochgeladen wurden, kann einige Zeit dauern. Der Upload wird jedoch im Hintergrund ausgeführt. Möchtest du wirklich fortfahren?</string>
   <string name="preference_plus_sync_all_prompt_title">Vorhandene Fotos hochladen</string>
   <string name="preference_plus_sync_all_prompt_yes">Ja</string>
   <string name="preference_plus_sync_while_roaming">Roaming-Uploads</string>
@@ -502,7 +502,7 @@ Cc: %4$s
   <string name="preference_title_videos_upload_connectivity">Upload-Einstellungen</string>
   <string name="preference_title_videos_upload_connectivity_summary">Vorerst werden die Verbindungseinstellungen für Fotos verwendet.</string>
   <string name="previous_action">Zurück</string>
-  <string name="provider_note_live">Nur einige \"Plus\"-Konten haben einen POP-Zugang, der diesem Programm ermöglicht, eine Verbindung aufzubauen. Solltest Du dazu nicht in der Lage sein, dich mit deiner korrekten E-Mail-Adresse und dem richtigen Passwort anzumelden, verfügst Du möglicherweise nicht über ein kostenpflichtiges \"Plus\"-Konto. Starte deinen Webbrowser, um auf diese Konten zuzugreifen.</string>
+  <string name="provider_note_live">Nur einige \"Plus\"-Konten haben einen POP-Zugang, der diesem Programm ermöglicht, eine Verbindung aufzubauen. Solltest du dazu nicht in der Lage sein, dich mit deiner korrekten E-Mail-Adresse und dem richtigen Passwort anzumelden, verfügst du möglicherweise nicht über ein kostenpflichtiges \"Plus\"-Konto. Starte deinen Webbrowser, um auf diese Konten zuzugreifen.</string>
   <string name="provider_note_t_online">Richte vor der Erstellung des E-Mail-Kontos ein Passwort für den POP3-E-Mail-Zugang auf der T-Online-Website ein.</string>
   <string name="quick_responses_empty_view">Keine Kurzantworten</string>
   <string name="read_action">Als gelesen markieren</string>
@@ -521,7 +521,7 @@ Cc: %4$s
   <string name="search_header_text_fmt">Ergebnisse</string>
   <string name="search_hint">In E-Mails suchen</string>
   <string name="search_mailbox_hint">%1$s durchsuchen</string>
-  <string name="search_slow_warning_message">Bei einigen Servern benötigst Du möglicherweise etwas mehr Geduld.</string>
+  <string name="search_slow_warning_message">Bei einigen Servern benötigst du möglicherweise etwas mehr Geduld.</string>
   <string name="search_slow_warning_title">Warten auf Ergebnisse</string>
   <string name="security_notification_content_title">Sicherheitsupdate erforderlich</string>
   <string name="security_notification_ticker_fmt">Das Konto \"%s\" erfordert eine Aktualisierung der Sicherheitseinstellungen.</string>

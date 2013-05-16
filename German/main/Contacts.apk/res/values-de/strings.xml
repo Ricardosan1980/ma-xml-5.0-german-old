@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Fehlerhafte Konto-Information, versuche Dich neu anzumelden oder später noch einmal!</string>
+  <string name="account_abnormal_state">Fehlerhafte Konto-Information, versuche dich neu anzumelden oder später noch einmal!</string>
   <string name="account_container_title">Von folgendem Konto</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Nur Telefon, nicht synchronisiert</string>
@@ -36,9 +36,9 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Mehrere Kontakte löschen</string>
-  <string name="batch_delete_msg">"Bist Du sicher, dass Du die gewählten %d Kontakte löschen willst?
+  <string name="batch_delete_msg">"Bist du sicher, dass du die gewählten %d Kontakte löschen willst?
 
-Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der Cloud gelöscht."</string>
+Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der Cloud gelöscht."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth-Verbindung getrennt</string>
   <string name="blurbJoinContactDataWith">Bitte den gewünschten Kontakt auswählen, der mit %s zusammengeführt werden soll.</string>
   <string name="btn_delete_multi_contacts">%d Kontakte löschen</string>
@@ -113,7 +113,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="cancel_confirmation_dialog_message">Sollen Deine Änderungen verworfen werden?</string>
   <string name="cancel_export_confirmation_message">Soll das Exportieren von %s abgebrochen werden?</string>
   <string name="cancel_import_confirmation_message">Soll das Importieren von %s abgebrochen werden?</string>
-  <string name="cancel_import_dialog_message">Möchtest Du den Import von Kontakten wirklich abbrechen?</string>
+  <string name="cancel_import_dialog_message">Möchtest du den Import von Kontakten wirklich abbrechen?</string>
   <string name="cancel_import_dialog_title">Import abbrechen</string>
   <string name="cancel_vcard_import_or_export_failed">"vCard-Import/-Export konnte nicht abgebrochen werden"</string>
   <string name="chat">Chat</string>
@@ -148,7 +148,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="config_export_vcard_type">default</string>
   <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp" />
-  <string name="confirm_delete_contact_all_call_logs">"Möchtest Du wirklich %s's Anrufmitschnitt löschen?"</string>
+  <string name="confirm_delete_contact_all_call_logs">"Möchtest du wirklich %s's Anrufmitschnitt löschen?"</string>
   <string name="confirm_delete_selected_call_log">Die %1d ausgewählte(n) Gruppe(n) an Gesprächsmitschnitten löschen?</string>
   <string name="confirm_export_message">Deine Kontaktliste in die Datei \"%s\" exportieren?</string>
   <string name="confirm_export_title">Exportieren bestätigen</string>
@@ -169,7 +169,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="contact_edit_title_readonly">Read-Only-Kontakt</string>
   <string name="contact_editor_prompt_multiple_accounts">Du kannst den neuen Kontakt mit einem der folgenden Benutzerkonten synchronisieren. Welches soll verwendet werden?</string>
   <string name="contact_editor_prompt_one_account">Dein neuer Kontakt wird mit \"%1$s\" synchronisiert.</string>
-  <string name="contact_editor_prompt_zero_accounts">"Der neue Kontakt wurde nicht gesichert. Möchtest Du ein Benutzerkonto hinzufügen, welches Deine Kontakte online sichert und synchronisiert?"</string>
+  <string name="contact_editor_prompt_zero_accounts">"Der neue Kontakt wurde nicht gesichert. Möchtest du ein Benutzerkonto hinzufügen, welches Deine Kontakte online sichert und synchronisiert?"</string>
   <string name="contact_list_loading">Lädt...</string>
   <string name="contact_pick_photo">Bild</string>
   <string name="contact_read_only">Nicht durch diese Anwendung editierbar</string>
@@ -264,9 +264,9 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="device_list_title">Telefon für Pairing auswählen</string>
   <string name="device_other_guide">Sollte Dein Telefon nicht in der Herstellerliste aufgeführt sein, versuche die Hilfe unterhalb zu nutzen</string>
   <string name="device_other_title">Anderes Telefon</string>
-  <string name="device_paired_dialog_message">Gerät verbunden, übertrage Kontakte (Du musst dies u.U. auf dem anderen Telefon bestätigen)...</string>
+  <string name="device_paired_dialog_message">Gerät verbunden, übertrage Kontakte (du musst dies u.U. auf dem anderen Telefon bestätigen)...</string>
   <string name="device_paired_dialog_title">Gerät verbunden, übertrage Kontakte</string>
-  <string name="device_pairing_dialog_message">Gerät verbindet (Du musst dies u.U. auf dem anderen Telefon bestätigen)...</string>
+  <string name="device_pairing_dialog_message">Gerät verbindet (du musst dies u.U. auf dem anderen Telefon bestätigen)...</string>
   <string name="device_pairing_dialog_title">Gerät verbindet</string>
   <string name="device_version_header_bluetooth">Bluetooth-Einstellungen öffnen</string>
   <string name="device_version_header_no_bluetooth">Kontakte von SIM-Karte importieren</string>
@@ -323,7 +323,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="eventLabelsGroup">Ereignisse</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Exportieren auf die SIM-Karte abgeschlossen</string>
-  <string name="export_sim_contacts_dialog_message">Deine SIM-Karte kann bis zu %d Kontakte speichern. Möchtest Du wirklich fortfahren?</string>
+  <string name="export_sim_contacts_dialog_message">Deine SIM-Karte kann bis zu %d Kontakte speichern. Möchtest du wirklich fortfahren?</string>
   <string name="export_to_sdcard">In Speicher exportieren</string>
   <string name="export_to_sim">Auf SIM-Karte exportieren</string>
   <string name="export_to_sim_title">Exportiere auf SIM-Karte…</string>
@@ -359,7 +359,7 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="frequentList">Häufigkeit</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
-  <string name="generic_no_account_prompt">Sichere Deine Kontakte, selbst wenn Du es verlierst: Synchronisiere mit einem Online-Dienst.</string>
+  <string name="generic_no_account_prompt">Sichere Deine Kontakte, selbst wenn du es verlierst: Synchronisiere mit einem Online-Dienst.</string>
   <string name="generic_no_account_prompt_title">Ein Konto hinzufügen</string>
   <string name="ghostData_company">Firma</string>
   <string name="ghostData_title">Titel</string>
@@ -538,14 +538,14 @@ Wenn Du den Synchronisations-Service verwendest, werden die Kontakte auch in der
 
 Um Kontakte hinzuzufügen, berühre "</string>
   <string name="noContactsHelpTextForCreateShortcut">"Es sind keine Kontkate zum Anzeigen vorhanden."</string>
-  <string name="noContactsHelpTextWithSync">"Es sind keine Kontkate zum Anzeigen vorhanden. (Falls Du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert sind.)
+  <string name="noContactsHelpTextWithSync">"Es sind keine Kontkate zum Anzeigen vorhanden. (Falls du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert sind.)
 
 Um Kontakte hinzuzufügen, berühre "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Es sind keine Kontkate zum Anzeigen vorhanden. (Falls Du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert sind.)"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Es sind keine Kontkate zum Anzeigen vorhanden. (Falls du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert sind.)"</string>
   <string name="noContactsNoSimHelpText">"Es sind keine Kontkate zum Anzeigen vorhanden.
 
 Um Kontakte hinzuzufügen, berühre "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Es sind keine Kontkate zum Anzeigen vorhanden. (Falls Du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert sind.)
+  <string name="noContactsNoSimHelpTextWithSync">"Es sind keine Kontkate zum Anzeigen vorhanden. (Falls du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert sind.)
 
 Um Kontakte hinzuzufügen, berühre "</string>
   <string name="noContactsWithPhoneNumbers">Es sind keine Kontakte mit Telefonnummern vorhanden.</string>
@@ -616,7 +616,7 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="picker_email_title">Bitte wähle eine E-Mail</string>
   <string name="picker_favorites_list_empty">Keine Favoriten</string>
   <string name="picker_groups_list_empty">Keine Gruppen</string>
-  <string name="picker_join_title">Wähle einen Kontakt, den Du mit %s verbinden möchtest</string>
+  <string name="picker_join_title">Wähle einen Kontakt, den du mit %s verbinden möchtest</string>
   <string name="picker_number_title">Bitte wähle eine Nummer</string>
   <string name="picker_postal_title">Bitte wähle eine Adresse</string>
   <string name="picker_recent_list_empty">Keine kürzlich genutzten Kontakte</string>
@@ -707,7 +707,7 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="remind_btn_ignore">Ignorieren</string>
   <string name="remind_btn_sync_now">Jetzt synchronisieren</string>
   <string name="removePhoto">Bild entfernen</string>
-  <string name="remove_duplicate">"MIUI wird Dir helfen, Duplikate zu finden und zusammenzuführen. Kontakte werden nicht automatisch zusammengefügt, dies musst Du manuell machen."</string>
+  <string name="remove_duplicate">"MIUI wird dir helfen, Duplikate zu finden und zusammenzuführen. Kontakte werden nicht automatisch zusammengefügt, dies musst du manuell machen."</string>
   <string name="resource_alarm_default">Wecker</string>
   <string name="resource_app_name">Quellen durchsuchen</string>
   <string name="resource_apply">Anwenden</string>
@@ -715,8 +715,8 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="resource_can_not_selected">%1$s kann nicht ausgewählt werden!</string>
   <string name="resource_default">Standard-Klingelton</string>
   <string name="resource_default_name">Quelle</string>
-  <string name="resource_delete_all">Bist Du sicher, dass Du die %1$d gewählten Quellen löschen willst?</string>
-  <string name="resource_delete_confirm">Bist Du sicher, dass Du diese Quellen löschen willst?</string>
+  <string name="resource_delete_all">Bist du sicher, dass du die %1$d gewählten Quellen löschen willst?</string>
+  <string name="resource_delete_confirm">Bist du sicher, dass du diese Quellen löschen willst?</string>
   <string name="resource_detail">Details</string>
   <string name="resource_download">Laden</string>
   <string name="resource_downloaded_title">Heruntergeladene Quellen</string>

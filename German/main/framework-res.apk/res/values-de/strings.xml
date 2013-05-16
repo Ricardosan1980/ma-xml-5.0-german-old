@@ -278,7 +278,7 @@
     <string name="shutdown_confirm">Telefon wird heruntergefahren.</string>
     <string name="shutdown_confirm_question">Möchtest das Gerät herunterfahren?</string>
     <string name="reboot_safemode_title">Im abgesicherten Modus starten</string>
-    <string name="reboot_safemode_confirm">Möchtest Du im abgesicherten Modus neu starten? Dadurch werden alle Apps von Drittanbietern deaktiviert, die Du installiert hast. Sie werden jedoch nach einem weiteren Neustart wiederhergestellt.</string>
+    <string name="reboot_safemode_confirm">Möchtest du im abgesicherten Modus neu starten? Dadurch werden alle Apps von Drittanbietern deaktiviert, die du installiert hast. Sie werden jedoch nach einem weiteren Neustart wiederhergestellt.</string>
     <string name="recent_tasks_title">Kürzlich geöffnet</string>
     <string name="no_recent_tasks">Keine kürzlich geöffneten Apps</string>
     <string name="global_actions">Telefonoptionen</string>
@@ -449,7 +449,7 @@
     <string name="permlab_changeComponentState">App-Komponenten aktivieren oder deaktivieren</string>
     <string name="permdesc_changeComponentState">Ermöglicht der App, Komponenten einer anderen App zu aktivieren oder zu deaktivieren. Schädliche Apps können so wichtige Telefonfunktionen deaktivieren. Bei der Erteilung dieser Berechtigung ist Vorsicht geboten, da die App-Komponenten unbrauchbar, inkonsistent oder instabil werden können.</string>
     <string name="permlab_grantRevokePermissions">Berechtigungen erteilen oder entziehen</string>
-    <string name="permdesc_grantRevokePermissions">Hiermit kann eine App sich selbst oder anderen Apps bestimmte Berechtigungen erteilen oder entziehen. Schädliche Apps können hierdurch Zugriff auf Funktionen erlangen, den Du nicht gewährt hast.</string>
+    <string name="permdesc_grantRevokePermissions">Hiermit kann eine App sich selbst oder anderen Apps bestimmte Berechtigungen erteilen oder entziehen. Schädliche Apps können hierdurch Zugriff auf Funktionen erlangen, den du nicht gewährt hast.</string>
     <string name="permlab_setPreferredApplications">Bevorzugte Apps festlegen</string>
     <string name="permdesc_setPreferredApplications">Ermöglicht der App, Änderungen an deinen bevorzugten Apps vorzunehmen. Schädliche Apps können so aktive Apps ohne dein Wissen ändern, damit die vorhandenen Apps private Daten von Ihnen erfassen.</string>
     <string name="permlab_writeSettings">Systemeinstellungen ändern</string>
@@ -463,9 +463,9 @@
     <string name="permlab_broadcastSticky">dauerhaften Broadcast senden</string>
     <string name="permdesc_broadcastSticky">Ermöglicht der App, dauerhafte Broadcasts zu senden, die auch nach Ende des Broadcasts bestehen bleiben. Ein zu intensiver Einsatz kann das Telefon langsam oder instabil machen, da zu viel Arbeitsspeicher belegt wird.</string>
     <string name="permlab_readContacts">Kontakte lesen</string>
-    <string name="permdesc_readContacts">Ermöglicht der App, Daten zu den auf deinem Telefon gespeicherten Kontakten zu lesen, einschließlich der Häufigkeit, mit der Du bestimmte Personen angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert hast. Die Berechtigung erlaubt Apps, deine Kontaktdaten zu speichern und schädliche Apps können Kontaktdaten ohne dein Wissen weiterleiten.</string>
+    <string name="permdesc_readContacts">Ermöglicht der App, Daten zu den auf deinem Telefon gespeicherten Kontakten zu lesen, einschließlich der Häufigkeit, mit der du bestimmte Personen angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert hast. Die Berechtigung erlaubt Apps, deine Kontaktdaten zu speichern und schädliche Apps können Kontaktdaten ohne dein Wissen weiterleiten.</string>
     <string name="permlab_writeContacts">Meine Kontakte ändern</string>
-    <string name="permdesc_writeContacts">Ermöglicht der App, Daten zu Kontakten, die auf deinem Telefon gespeichert sind, zu ändern, einschließlich der Häufigkeit, mit der Du bestimmte Kontakte angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert hast. Die Berechtigung erlaubt Apps, Kontaktdaten zu löschen.</string>
+    <string name="permdesc_writeContacts">Ermöglicht der App, Daten zu Kontakten, die auf deinem Telefon gespeichert sind, zu ändern, einschließlich der Häufigkeit, mit der du bestimmte Kontakte angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert hast. Die Berechtigung erlaubt Apps, Kontaktdaten zu löschen.</string>
     <string name="permlab_readCallLog">Anrufprotokoll lesen</string>
     <string name="permdesc_readCallLog">Ermöglicht der App, die Anrufliste deines Telefons zu lesen, einschließlich der Daten über ein- und ausgehende Anrufe. Die Berechtigung erlaubt Apps, deine Anruflistendaten zu speichern, und schädliche Apps können diese Daten ohne dein Wissen weiterleiten.</string>
     <string name="permlab_writeCallLog">Anrufprotokoll bearbeiten</string>
@@ -475,13 +475,13 @@
     <string name="permlab_writeProfile">Meine Kontaktkarten ändern</string>
     <string name="permdesc_writeProfile">Ermöglicht der App, auf deinem Gerät gespeicherte persönliche Profildaten zu ändern, einschließlich deines Namens und deiner Kontaktdaten, sowie Daten hinzuzufügen. Die App kann dich so identifizieren und deine Profildaten an andere senden.</string>
     <string name="permlab_readSocialStream">In sozialem Stream lesen</string>
-    <string name="permdesc_readSocialStream">Ermöglicht der App, auf Updates aus sozialen Netzwerken von dir und deinen Freunden zuzugreifen und diese zu synchronisieren. Sei vorsichtig, wenn Du Informationen teilst: Der App wird erlaubt, die Kommunikation zwischen Dir und deinen Freunden in sozialen Netzwerken zu lesen, unabhängig von der Vertraulichkeit der kommunizierten Informationen. Hinweis: Diese Berechtigung kann möglicherweise nicht in allen sozialen Netzwerken erzwungen werden.</string>
+    <string name="permdesc_readSocialStream">Ermöglicht der App, auf Updates aus sozialen Netzwerken von dir und deinen Freunden zuzugreifen und diese zu synchronisieren. Sei vorsichtig, wenn du Informationen teilst: Der App wird erlaubt, die Kommunikation zwischen dir und deinen Freunden in sozialen Netzwerken zu lesen, unabhängig von der Vertraulichkeit der kommunizierten Informationen. Hinweis: Diese Berechtigung kann möglicherweise nicht in allen sozialen Netzwerken erzwungen werden.</string>
     <string name="permlab_writeSocialStream">In sozialem Stream schreiben</string>
-    <string name="permdesc_writeSocialStream">Ermöglicht der App, Updates aus sozialen Netzwerken von deinen Freunden einzublenden. Sei vorsichtig, wenn Du Informationen teilst: Die App kann damit Nachrichten erstellen, die so erscheinen, als stammten sie von einem Freund. Hinweis: Diese Berechtigung kann möglicherweise nicht in allen sozialen Netzwerken erzwungen werden.</string>
+    <string name="permdesc_writeSocialStream">Ermöglicht der App, Updates aus sozialen Netzwerken von deinen Freunden einzublenden. Sei vorsichtig, wenn du Informationen teilst: Die App kann damit Nachrichten erstellen, die so erscheinen, als stammten sie von einem Freund. Hinweis: Diese Berechtigung kann möglicherweise nicht in allen sozialen Netzwerken erzwungen werden.</string>
     <string name="permlab_readCalendar">Kalendertermine sowie vertrauliche Informationen lesen</string>
     <string name="permdesc_readCalendar">Ermöglicht der App, alle auf deinem Telefon gespeicherten Kalendertermine zu lesen, einschließlich der von Freunden und Kollegen. Damit kann die App möglicherweise deine Kalenderdaten unabhängig von der Vertraulichkeit weiterleiten oder speichern.</string>
     <string name="permlab_writeCalendar">Ohne das Wissen der Eigentümer Kalendertermine hinzufügen oder ändern und E-Mails an Gäste senden</string>
-    <string name="permdesc_writeCalendar">Ermöglicht der App, Termine, die Du auf deinem Telefon ändern können, hinzuzufügen, zu entfernen und zu ändern, einschließlich der von Freunden und Kollegen. Damit kann die App Nachrichten senden, die so erscheinen, als stammten sie vom jeweiligen Kalenderinhaber, oder Termine ohne Wissen des Inhabers ändern.</string>
+    <string name="permdesc_writeCalendar">Ermöglicht der App, Termine, die du auf deinem Telefon ändern können, hinzuzufügen, zu entfernen und zu ändern, einschließlich der von Freunden und Kollegen. Damit kann die App Nachrichten senden, die so erscheinen, als stammten sie vom jeweiligen Kalenderinhaber, oder Termine ohne Wissen des Inhabers ändern.</string>
     <string name="permlab_accessMockLocation">Simulierte Standortquellen für Testzwecke</string>
     <string name="permdesc_accessMockLocation">Erstellen von simulierten Standortquellen für Testzwecke oder Installation eines neuen Standortanbieters. Damit kann die App den von anderen Standortquellen wie GPS oder Standortanbietern zurückgegebenen Standort und/oder Status überschreiben.</string>
     <string name="permlab_accessLocationExtraCommands">Auf zusätzliche Dienstanbieterbefehle für Standort zugreifen</string>
@@ -612,7 +612,7 @@
     <string name="permdesc_subscribedFeedsRead">Ermöglicht der App, Details zu den zurzeit synchronisierten Feeds abzurufen</string>
     <string name="permlab_subscribedFeedsWrite">Abonnierte Feeds schreiben</string>
     <string name="permdesc_subscribedFeedsWrite">Ermöglicht der App, Änderungen an kürzlich synchronisierten Feeds vorzunehmen. Schädliche Apps können so deine synchronisierten Feeds ändern.</string>
-    <string name="permlab_readDictionary">Begriffe lesen, die Du zum Wörterbuch hinzugefügt hast</string>
+    <string name="permlab_readDictionary">Begriffe lesen, die du zum Wörterbuch hinzugefügt hast</string>
     <string name="permdesc_readDictionary">Ermöglicht der App, alle Wörter, Namen und Ausdrücke zu lesen, die ein Nutzer in seinem Wörterbuch gespeichert hat.</string>
     <string name="permlab_writeDictionary">In benutzerdefiniertes Wörterbuch schreiben</string>
     <string name="permdesc_writeDictionary">Ermöglicht der App, dem Nutzerwörterbuch neue Einträge hinzuzufügen</string>
@@ -760,7 +760,7 @@
     <string name="emergency_calls_only">Nur Notrufe</string>
     <string name="lockscreen_network_locked_message">Netzwerk gesperrt</string>
     <string name="lockscreen_sim_puk_locked_message">PUK-Sperre auf SIM</string>
-    <string name="lockscreen_sim_puk_locked_instructions">Weitere Informationen erhältst Du im Nutzerhandbuch oder beim Kundendienst.</string>
+    <string name="lockscreen_sim_puk_locked_instructions">Weitere Informationen erhältst du im Nutzerhandbuch oder beim Kundendienst.</string>
     <string name="lockscreen_sim_locked_message">PIN eingeben</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt...</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Du hast dein Entsperrungsmuster %d-mal falsch gezeichnet. 
@@ -772,7 +772,7 @@ Bitte versuche es in %d Sekunden noch einmal."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du hast dein Passwort %d-mal falsch eingegeben.
 
 Bitte versuche es in %d Sekunden noch einmal."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du hast dein Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen wirst Du aufgefordert, dein Telefon mithilfe deiner Google-Anmeldeinformationen zu entsperren.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du hast dein Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen wirst du aufgefordert, dein Telefon mithilfe deiner Google-Anmeldeinformationen zu entsperren.
 
 Bitte versuche es in %d Sekunden noch einmal."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du hast %d Mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
@@ -856,7 +856,7 @@ Tippe zum Fortfahren auf \"OK\" oder tippe auf \"Abbrechen\", um auf der aktuell
     <string name="permdesc_accessContentProvidersExternally">Berechtigt den Inhaber, extern auf Content-Anbieter zuzugreifen. Bei normalen Apps nicht notwendig</string>
     <string name="permlab_updateLock">Automatische Geräte-Updates abweisen</string>
     <string name="permdesc_updateLock">Ermöglicht dem Inhaber, dem System Informationen zu einem günstigen Zeitpunkt mitzuteilen, an dem ein nicht interaktiver Neustart zur Aktualisierung des Geräts möglich ist</string>
-    <string name="save_password_message">Möchtest Du, dass der Browser dieses Passwort speichert?</string>
+    <string name="save_password_message">Möchtest du, dass der Browser dieses Passwort speichert?</string>
     <string name="save_password_notnow">Nicht jetzt</string>
     <string name="save_password_remember">Speichern</string>
     <string name="save_password_never">Nie</string>
@@ -873,7 +873,7 @@ Tippe zum Fortfahren auf \"OK\" oder tippe auf \"Abbrechen\", um auf der aktuell
     <string name="searchview_description_submit">Anfrage senden</string>
     <string name="searchview_description_voice">Sprachsuche</string>
     <string name="enable_explore_by_touch_warning_title">\"Tippen &amp; Entdecken\" aktivieren?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s fordert die Aktivierung von \"Tippen &amp; Entdecken\". Wenn \"Tippen &amp; Entdecken\" aktiviert ist, kannst Du Beschreibungen dessen hören oder sehen, was sich unter deinen Fingern befindet oder Gesten ausführen, um mit dem Telefon zu kommunizieren.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s fordert die Aktivierung von \"Tippen &amp; Entdecken\". Wenn \"Tippen &amp; Entdecken\" aktiviert ist, kannst du Beschreibungen dessen hören oder sehen, was sich unter deinen Fingern befindet oder Gesten ausführen, um mit dem Telefon zu kommunizieren.</string>
     <string name="oneMonthDurationPast">Vor 1 Monat</string>
     <string name="beforeOneMonthDurationPast">Vor mehr als 1 Monat</string>
     <string name="last_month">Letzter Monat</string>
@@ -924,20 +924,20 @@ Tippe zum Fortfahren auf \"OK\" oder tippe auf \"Abbrechen\", um auf der aktuell
     <string name="anr_title" />
     <string name="anr_activity_application">"%2$s reagiert nicht.
 
-Möchtest Du die App schließen?"</string>
+Möchtest du die App schließen?"</string>
     <string name="anr_activity_process">"Aktivität \"%1$s\" reagiert nicht.
 
-Möchtest Du sie beenden?"</string>
-    <string name="anr_application_process">%1$s reagiert nicht. Möchtest Du die App schließen?</string>
+Möchtest du sie beenden?"</string>
+    <string name="anr_application_process">%1$s reagiert nicht. Möchtest du die App schließen?</string>
     <string name="anr_process">"Prozess \"%1$s\" reagiert nicht.
 
-Möchtest Du ihn beenden?"</string>
+Möchtest du ihn beenden?"</string>
     <string name="force_close">OK</string>
     <string name="report">Bericht</string>
     <string name="wait">Warten</string>
     <string name="webpage_unresponsive">"Die Seite reagiert nicht mehr.
 
-Möchtest Du die Seite schließen?"</string>
+Möchtest du die Seite schließen?"</string>
     <string name="launch_warning_title">App umgeleitet</string>
     <string name="launch_warning_replace">%1$s wird jetzt ausgeführt.</string>
     <string name="launch_warning_original">%1$s wurde ursprünglich gestartet.</string>
@@ -996,11 +996,11 @@ Möchtest Du die Seite schließen?"</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="select_character">Zeichen einfügen</string>
     <string name="sms_control_title">Kurznachrichten werden gesendet</string>
-    <string name="sms_control_message">&lt;b>%1$s&lt;/b> sendet eine große Anzahl SMS. Möchtest Du zulassen, dass die App weiterhin Nachrichten sendet?</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> sendet eine große Anzahl SMS. Möchtest du zulassen, dass die App weiterhin Nachrichten sendet?</string>
     <string name="sms_control_yes">Zulassen</string>
     <string name="sms_control_no">Nicht zulassen</string>
     <string name="sim_removed_title">SIM-Karte entfernt</string>
-    <string name="sim_removed_message">Das Mobilfunknetz ist erst wieder verfügbar, wenn Du einen Neustart mit einer gültigen SIM-Karte durchführst.</string>
+    <string name="sim_removed_message">Das Mobilfunknetz ist erst wieder verfügbar, wenn du einen Neustart mit einer gültigen SIM-Karte durchführst.</string>
     <string name="sim_done_button">Fertig</string>
     <string name="sim_added_title">SIM-Karte hinzugefügt</string>
     <string name="sim_added_message">Zur Nutzung des Mobilfunknetzes starte dein Gerät neu.</string>
@@ -1017,7 +1017,7 @@ Möchtest Du die Seite schließen?"</string>
     <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
     <string name="usb_storage_activity_title">USB-Massenspeicher</string>
     <string name="usb_storage_title">USB-Verbindung</string>
-    <string name="usb_storage_message">Du hast eine USB-Verbindung mit deinem Computer hergestellt. Berühre die Schaltfläche unten, wenn Du Dateien von deinem Computer in den USB-Speicher deines Android-Geräts und umgekehrt kopieren möchtest.</string>
+    <string name="usb_storage_message">Du hast eine USB-Verbindung mit deinem Computer hergestellt. Berühre die Schaltfläche unten, wenn du Dateien von deinem Computer in den USB-Speicher deines Android-Geräts und umgekehrt kopieren möchtest.</string>
     <string name="usb_storage_button_mount">USB-Speicher aktivieren</string>
     <string name="usb_storage_error_message">Bei der Verwendung deines USB-Speichers als USB-Massenspeicher ist ein Problem aufgetreten.</string>
     <string name="usb_storage_notification_title">USB-Verbindung</string>
@@ -1025,11 +1025,11 @@ Möchtest Du die Seite schließen?"</string>
     <string name="usb_storage_stop_notification_title">USB-Speicher deaktivieren</string>
     <string name="usb_storage_stop_notification_message">Zum Deaktivieren des USB-Speichers berühren</string>
     <string name="usb_storage_stop_title">USB-Speicher in Verwendung</string>
-    <string name="usb_storage_stop_message">Bevor Du den USB-Speicher deaktivierst, trenne den USB-Speicher deines Android-Geräts von deinem Computer (\"auswerfen\").</string>
+    <string name="usb_storage_stop_message">Bevor du den USB-Speicher deaktivierst, trenne den USB-Speicher deines Android-Geräts von deinem Computer (\"auswerfen\").</string>
     <string name="usb_storage_stop_button_mount">USB-Speicher deaktivieren</string>
     <string name="usb_storage_stop_error_message">Beim Ausschalten des USB-Speichergeräts wurde ein Problem festgestellt. Bitte überprüfe, ob der USB-Host getrennt wurde, und versuche es erneut.</string>
     <string name="dlg_confirm_kill_storage_users_title">USB-Speicher aktivieren</string>
-    <string name="dlg_confirm_kill_storage_users_text">Wenn Du den USB-Speicher aktivierst, werden einige von Dir verwendeten Apps beendet und sind möglicherweise erst wieder verfügbar, wenn Du den USB-Speicher wieder deaktivierst.</string>
+    <string name="dlg_confirm_kill_storage_users_text">Wenn du den USB-Speicher aktivierst, werden einige von dir verwendeten Apps beendet und sind möglicherweise erst wieder verfügbar, wenn du den USB-Speicher wieder deaktivierst.</string>
     <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
     <string name="dlg_ok">OK</string>
     <string name="usb_mtp_notification_title">Als Mediengerät angeschlossen</string>
@@ -1084,7 +1084,7 @@ mit %s wählen"</string>
     <string name="create_contact_using">"Neuer Kontakt
 mit %s erstellen"</string>
     <string name="grant_credentials_permission_message_header">Die folgenden Apps benötigen die Berechtigung zum aktuellen und zukünftigen Zugriff auf dein Konto.</string>
-    <string name="grant_credentials_permission_message_footer">Möchtest Du diese Anfrage zulassen?</string>
+    <string name="grant_credentials_permission_message_footer">Möchtest du diese Anfrage zulassen?</string>
     <string name="grant_permissions_header_text">Zugriffsanforderung</string>
     <string name="allow">Zulassen</string>
     <string name="deny">Ablehnen</string>
@@ -1135,7 +1135,7 @@ für Konto %s"</string>
     <string name="gpsVerifYes">Ja</string>
     <string name="gpsVerifNo">Nein</string>
     <string name="sync_too_many_deletes">Löschbegrenzung überschritten</string>
-    <string name="sync_too_many_deletes_desc">Es sind %1$d gelöschte Elemente für %2$s, Konto %3$s, vorhanden. Wie möchtest Du fortfahren?</string>
+    <string name="sync_too_many_deletes_desc">Es sind %1$d gelöschte Elemente für %2$s, Konto %3$s, vorhanden. Wie möchtest du fortfahren?</string>
     <string name="sync_really_delete">Elemente löschen</string>
     <string name="sync_undo_deletes">Löschen rückgängig machen</string>
     <string name="sync_do_nothing">Im Moment nichts unternehmen</string>

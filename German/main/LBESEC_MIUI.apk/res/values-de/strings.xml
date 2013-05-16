@@ -178,7 +178,7 @@
   <string name="Privacy_App_Trust_Summary_On">Diese App wird nicht überwacht</string>
   <string name="Privacy_App_Uninstall">Deinstallieren</string>
   <string name="Privacy_Perm_Count">Erlaubt: %1$d | Abgewiesen: %2$d</string>
-  <string name="Su_Enable_Dialog">%1$s versucht, ROOT-Berechtigungen zu erhalten, was standardmäßig deaktiviert ist, um die Sicherheit des Systems zu gewährleisten. Falls Du diese aktivieren möchten, gehen zu den Einstellungen in der Rechte-App.</string>
+  <string name="Su_Enable_Dialog">%1$s versucht, ROOT-Berechtigungen zu erhalten, was standardmäßig deaktiviert ist, um die Sicherheit des Systems zu gewährleisten. Falls du diese aktivieren möchten, gehen zu den Einstellungen in der Rechte-App.</string>
   <string name="Su_Unavailable">ROOT-Zugriff ist in MIUI-Stable-Versionen deaktiviert. Bitte installiere MIUI Beta, um ROOT-Zugriff zu aktivieren.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart-Berechtigung</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>

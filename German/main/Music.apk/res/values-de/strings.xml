@@ -107,7 +107,7 @@
   <string name="id3_edit_failed">Bearbeiten der ID3-Informationen fehlgeschlagen</string>
   <string name="id3_modify_confirm_check">ID3-Änderungen bestätigen?</string>
   <string name="id3_modify_confirm_text">Speichern</string>
-  <string name="impunity_declaration">Die von Dir verwendete Online-Musik stammt von Baidu Online Music Service. Berühre \"OK\", um dies zu akzeptieren, oder \"Abbrechen\" zum Verlassen.</string>
+  <string name="impunity_declaration">Die von dir verwendete Online-Musik stammt von Baidu Online Music Service. Berühre \"OK\", um dies zu akzeptieren, oder \"Abbrechen\" zum Verlassen.</string>
   <string name="impunity_declaration_title">Erklärung</string>
   <string name="keep_quit_position_settings">Letzte Position merken</string>
   <string name="keep_quit_position_summary">Merkt sich die Position des abgespielten Liedes beim erneuten Start der Anwendung</string>
