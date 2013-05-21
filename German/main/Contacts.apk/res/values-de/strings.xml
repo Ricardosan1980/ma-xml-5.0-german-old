@@ -24,7 +24,7 @@
   <string name="add_to_my_contacts">Zu meinen Kontakten hinzufügen</string>
   <string name="add_wait">Hinzufügen Warteschleife</string>
   <string name="add_xiaomi_account_dialog_btn">Verwende Xiaomi-Konto</string>
-  <string name="add_xiaomi_account_dialog_msg">Für eine optimale Verwendung, bitte überlege Dein Xiaomi-Konto zu verwenden um Deine Kontakte mit deinem Computer zu snychronisieren, sichern und verwalten.</string>
+  <string name="add_xiaomi_account_dialog_msg">Für eine optimale Verwendung, bitte überlege dein Xiaomi-Konto zu verwenden um Deine Kontakte mit deinem Computer zu snychronisieren, sichern und verwalten.</string>
   <string name="add_xiaomi_account_dialog_title">Wähle Sync-Konto</string>
   <string name="aggregation_suggestion_edit_dialog_message">Zum Bearbeiten der ausgewählten Kontakte wechseln? Bisher eingegebene Informationen werden gespeichert.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Ausgewählte Kontakte bearbeiten</string>
@@ -130,7 +130,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="clearCallLogConfirmation">Soll die gesamte Anrufliste gelöscht werden?</string>
   <string name="clearCallLogConfirmation_title">Gesamte Anrufliste löschen?</string>
   <string name="clearCallLogProgress_title">Anrufliste wird gelöscht</string>
-  <string name="clearFrequentsConfirmation">"Lösche die Liste der häufigen Kontakte in den Kontakt- und Telefonanwendungen und ermögliche somit den E-Mail-Anwendungen, Dein Adress-Verhalten neu zu lernen."</string>
+  <string name="clearFrequentsConfirmation">"Lösche die Liste der häufigen Kontakte in den Kontakt- und Telefonanwendungen und ermögliche somit den E-Mail-Anwendungen, dein Adress-Verhalten neu zu lernen."</string>
   <string name="clearFrequentsConfirmation_title">Häufige Kontakte löschen?</string>
   <string name="clearFrequentsProgress_title">Lösche häufige Kontakte...</string>
   <string name="clear_default">Standardwerte löschen</string>
@@ -262,7 +262,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="device_import_progress_toast">%1$d Kontakte importiert</string>
   <string name="device_import_title">Import-Vorgang</string>
   <string name="device_list_title">Telefon für Pairing auswählen</string>
-  <string name="device_other_guide">Sollte Dein Telefon nicht in der Herstellerliste aufgeführt sein, versuche die Hilfe unterhalb zu nutzen</string>
+  <string name="device_other_guide">Sollte dein Telefon nicht in der Herstellerliste aufgeführt sein, versuche die Hilfe unterhalb zu nutzen</string>
   <string name="device_other_title">Anderes Telefon</string>
   <string name="device_paired_dialog_message">Gerät verbunden, übertrage Kontakte (du musst dies u.U. auf dem anderen Telefon bestätigen)...</string>
   <string name="device_paired_dialog_title">Gerät verbunden, übertrage Kontakte</string>
@@ -405,7 +405,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="import_to_xiaomi_account_progress_finish">Importieren erfolgreich!</string>
   <string name="import_to_xiaomi_account_progress_message">Wird importiert...</string>
   <string name="import_to_xiaomi_account_progress_title">Kontakte in Xiaomi-Konto importieren</string>
-  <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in Dein Xiaomi-Konto importiert werden?</string>
+  <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in dein Xiaomi-Konto importiert werden?</string>
   <string name="import_vcard_description">Kontakte von SD-Karte importieren</string>
   <string name="import_weibo_dialog_title"> Sina Weibo Kontakte importieren</string>
   <string name="import_weibo_fetch_followers">Sina Weibo Followers wiederherstellen…</string>
@@ -551,7 +551,7 @@ Um Kontakte hinzuzufügen, berühre "</string>
   <string name="noContactsWithPhoneNumbers">Es sind keine Kontakte mit Telefonnummern vorhanden.</string>
   <string name="noFavoritesHelpText">"Es sind keine Favoriten vorhanden.
 
-Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
+Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
 
 "</string>
   <string name="noGroups">Es sind keine Gruppen vorhanden</string>
@@ -560,10 +560,10 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="no_account_prompt">"Die Kontakte-App funktioniert am besten mit einem Google-Konto.
 
 • Zugang von jedem Browser.
-• Sichere Sicherung Deiner Kontakte."</string>
+• Sichere Sicherung deiner Kontakte."</string>
   <string name="no_contact_details">Es sind keine zusätzlichen Informationen für diesen Kontakt vorhanden</string>
   <string name="no_contact_in_other_phone">Es sind keine Kontakte auf dem Telefon vorhanden</string>
-  <string name="no_contacts_dialog_message">Konnte Person nicht in Deinen Kontakten finden. Der Kontakt könnte auf der SIM-Karte vorhanden sein. Bitte importiere die SIM-Kontakte auf Dein Telefon.</string>
+  <string name="no_contacts_dialog_message">Konnte Person nicht in Deinen Kontakten finden. Der Kontakt könnte auf der SIM-Karte vorhanden sein. Bitte importiere die SIM-Kontakte auf dein Telefon.</string>
   <string name="no_contacts_dialog_title">Kontakt konnte nicht gefunden werden</string>
   <string name="no_contacts_selected">Es wurden keine Kontakte ausgewählt.</string>
   <string name="no_sdcard_message">Es wurde kein Speicher gefunden</string>
@@ -686,7 +686,7 @@ Um einen Kontakt in Deiner Liste zu Favoriten hinzuzufügen:
   <string name="quit_dialog_confirm_title">Soll das Zusammenführen von Kontakten beendet werden?</string>
   <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
-  <string name="readOnlyContactWarning">Du kannst keine Kontakte von schreibgeschützten Benutzerkonten löschen, diese aber in Deiner Kontaktliste ausblenden.</string>
+  <string name="readOnlyContactWarning">Du kannst keine Kontakte von schreibgeschützten Benutzerkonten löschen, diese aber in deiner Kontaktliste ausblenden.</string>
   <string name="reading_vcard_canceled_title">Lesen der vCard-Daten abgebrochen</string>
   <string name="reading_vcard_failed_title">"Konnte vCard-Daten nicht lesen"</string>
   <string name="rebuild_t9_index_dialog_message">T9-Indexdaten werden wiederhergestellt…</string>

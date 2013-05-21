@@ -101,7 +101,7 @@
   <string name="HIPS_Perm_Location_CellInfo">Die Telefonposition erhalten</string>
   <string name="HIPS_Perm_Location_CellLocation">Die Telefonposition erhalten</string>
   <string name="HIPS_Perm_Location_Desc">Dein Telefon über Netzwerk oder GPS orten</string>
-  <string name="HIPS_Perm_Location_Hint">%1$s Anwendungen haben die Berechtigung, Dein Telefon zu orten</string>
+  <string name="HIPS_Perm_Location_Hint">%1$s Anwendungen haben die Berechtigung, dein Telefon zu orten</string>
   <string name="HIPS_Perm_Location_Monitor">Deine Position verfolgen</string>
   <string name="HIPS_Perm_Location_Source_Cellular">Quelle: Mobilfunknetz</string>
   <string name="HIPS_Perm_Location_Source_GPS">Quelle: GPS</string>

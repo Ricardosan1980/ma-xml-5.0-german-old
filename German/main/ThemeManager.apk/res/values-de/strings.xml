@@ -165,7 +165,7 @@
   <string name="theme_sdcard_importing">Von SD-Karte importieren</string>
   <string name="theme_select_others">Andere</string>
   <string name="theme_upgrade_request_cancel">Abbrechen</string>
-  <string name="theme_upgrade_request_content">Deine lokalen Themen müssen konvertiert werden, um wieder verwendet werden zu können. Dies kann mehrere Minuten dauern und Dein Telefon kann währenddessen nicht verwendet werden. Themen jetzt konvertieren?</string>
+  <string name="theme_upgrade_request_content">Deine lokalen Themen müssen konvertiert werden, um wieder verwendet werden zu können. Dies kann mehrere Minuten dauern und dein Telefon kann währenddessen nicht verwendet werden. Themen jetzt konvertieren?</string>
   <string name="theme_upgrade_request_title">Thema-Konvertierung erforderlich</string>
   <string name="theme_upgrade_request_yes">OK</string>
   <string name="third_party_pickers_activity_title">%1$s festlegen</string>

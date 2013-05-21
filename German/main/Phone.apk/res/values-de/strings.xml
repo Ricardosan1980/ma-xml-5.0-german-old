@@ -210,7 +210,7 @@
   <string name="cb_sms_settings">Cell-Broadcast SMS-Einstellungen</string>
   <string name="cdma_activate_device">Gerät aktivieren</string>
   <string name="cdma_conference_call_miui">Telefon-Konferenz</string>
-  <string name="cdma_display_precise_call_state_message_miui">Wenn Dein Betreiber dies nicht unterstützt, ist der Anrufstatus inkorrekt, wenn dieser Schalter geöffnet wird. Willst du ihne wirklich öffnen?</string>
+  <string name="cdma_display_precise_call_state_message_miui">Wenn dein Betreiber dies nicht unterstützt, ist der Anrufstatus inkorrekt, wenn dieser Schalter geöffnet wird. Willst du ihne wirklich öffnen?</string>
   <string name="cdma_display_precise_call_state_summary_miui">CDMA Anruf-Timer wird vom Netzwerkbetreiber eingeschränkt. Falls durch das lokale Netzwerk unterstützt, kann der Anrufstatus genau angezeigt werden.</string>
   <string name="cdma_display_precise_call_state_title_miui">Zeige genauen Anrufstatus</string>
   <string name="cdma_lte_data_service">Datenservice Einrichten</string>
@@ -699,7 +699,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
   <string name="ota_speaker">Lautsprecher</string>
   <string name="ota_successful">Dein Telefon ist nun aktiviert. Es kann bis zu 15 Minuten dauern, bis der Service verfügbar ist.</string>
-  <string name="ota_title_activate">Aktiviere Dein Telefon</string>
+  <string name="ota_title_activate">Aktiviere dein Telefon</string>
   <string name="ota_title_activate_success">Telefon ist aktiviert!</string>
   <string name="ota_title_problem_with_activation">Problem bei der Aktivierung</string>
   <string name="ota_touch_activate">"Es muss ein spezieller Anruf getätigt werden, um den Telefon-Service zu aktivieren. Nachdem "Aktivieren" gedrückt wurde, bitte den Anweisungen folgen, um das Telefon zu aktivieren."</string>

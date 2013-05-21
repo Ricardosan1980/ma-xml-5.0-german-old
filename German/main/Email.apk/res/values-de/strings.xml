@@ -95,7 +95,7 @@
   <string name="account_setup_failed_auth_required">Authentifizierungsmethoden werden nicht vom Server unterstützt.</string>
   <string name="account_setup_failed_certificate_inaccessible">Zertifikat ist ungültig oder nicht aufrufbar.</string>
   <string name="account_setup_failed_certificate_required">Client-Zertifikat ist erforderlich. Verbindung zu einem Server mit Client-Zertifikat herstellen?</string>
-  <string name="account_setup_failed_check_credentials_message">Der Server hat einen Fehler zurückgegeben. Bitte überprüfe Deinen Benutzernamen und Dein Passwort und versuche es erneut.</string>
+  <string name="account_setup_failed_check_credentials_message">Der Server hat einen Fehler zurückgegeben. Bitte überprüfe Deinen Benutzernamen und dein Passwort und versuche es erneut.</string>
   <string name="account_setup_failed_dlg_auth_message">Benutzername oder Passwort falsch</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Benutzername/Password falsch
 (%s)"</string>
@@ -432,7 +432,7 @@ Cc: %4$s
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="password_expire_warning_content_title">Sperr-Passwort läuft ab</string>
-  <string name="password_expire_warning_dialog_content_fmt">Du musst deine PIN bzw. Dein Passwort zum Sperren des Bildschirms bald ändern, sonst werden die Daten für %s gelöscht. Jetzt ändern?</string>
+  <string name="password_expire_warning_dialog_content_fmt">Du musst deine PIN bzw. dein Passwort zum Sperren des Bildschirms bald ändern, sonst werden die Daten für %s gelöscht. Jetzt ändern?</string>
   <string name="password_expire_warning_dialog_title">Passwort für Bildschirmsperre läuft ab</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" erfordert, dass du PIN bzw. Passwort für die Display-Sperre änderst.</string>
   <string name="password_expired_content_title">Sperr-Passwort abgelaufen</string>

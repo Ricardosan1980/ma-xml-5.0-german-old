@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">"Migriere Benutzerdaten, Dein Konto wird vorübergehen gesperrt, bitte warten..."</string>
+  <string name="account_bind_prompt">"Migriere Benutzerdaten, dein Konto wird vorübergehen gesperrt, bitte warten..."</string>
   <string name="add_task">Auftrag hinzufügen</string>
   <string name="adding_upload_tasks">Upload-Auftrag hinzufügen.</string>
   <string name="app_cache_cleanup_indication">%s Cache</string>
@@ -13,7 +13,7 @@
   <string name="background">Download im Hintergrund</string>
   <string name="bind_account">An MiDrive-Konto binden</string>
   <string name="bind_account_summary">Solltest du bereits ein MiDrive-Konto haben, so kannst du dies hinzufügen, um persönliche Daten abzurufen</string>
-  <string name="binded_accout_description">Konten wurden zusammengelegt, benutze entweder Dein Xiaomi- oder Dein MiDrive-Konto. Beide haben Zugriff auf Deine Daten.</string>
+  <string name="binded_accout_description">Konten wurden zusammengelegt, benutze entweder dein Xiaomi- oder dein MiDrive-Konto. Beide haben Zugriff auf Deine Daten.</string>
   <string name="binded_accout_title">MiDrive-Konto</string>
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Abbrechen</string>
@@ -127,7 +127,7 @@ Junk"</string>
   <string name="local_cache">Lokaler Cache</string>
   <string name="local_cache_size">Lokale Cache-Größe: %s</string>
   <string name="login_reg_content">MiDrive hilft dir, Deine Dateien zu speichern und sie zwischen mehreren Geräten zu synchronisieren.</string>
-  <string name="login_reg_content0">MiDrive ist Dein Cloud-Datenspeicher</string>
+  <string name="login_reg_content0">MiDrive ist dein Cloud-Datenspeicher</string>
   <string name="menu_item_cleanup">Datei-Cleanup</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Suchen</string>

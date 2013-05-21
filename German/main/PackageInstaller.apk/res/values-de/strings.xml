@@ -68,7 +68,7 @@
   <string name="uninstall_update_title">Update deinstallieren</string>
   <string name="uninstalling">Deinstallation...</string>
   <string name="unknown">Unbekannt</string>
-  <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen wurde Dein Telefon so eingestellt, dass Anwendungen von unsicheren Quellen nicht installiert werden können. Solltest du Anwendungen von fremden Quellen installieren, so trägst du alle Risiken bei Datenverlust oder Beschädigung. Du kannst dies auch unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen ändern."</string>
+  <string name="unknown_apps_dlg_text">"Aus Sicherheitsgründen wurde dein Telefon so eingestellt, dass Anwendungen von unsicheren Quellen nicht installiert werden können. Solltest du Anwendungen von fremden Quellen installieren, so trägst du alle Risiken bei Datenverlust oder Beschädigung. Du kannst dies auch unter Einstellungen-&gt;Sicherheit-&gt;Unbekannte Quellen ändern."</string>
   <string name="unknown_apps_dlg_title">Installation gesperrt</string>
   <string name="unknown_installer">Unbekannter Installer</string>
 </resources>

@@ -267,7 +267,7 @@
   <string name="experimental_validate_progress">Validiere...</string>
   <string name="experimental_validate_thanks">Danke!</string>
   <string name="experimental_validate_username">Xiaomi-ID</string>
-  <string name="experimental_validate_warning">Jede Deiner Tätigkeiten hilft MIUI besser zu werden!</string>
+  <string name="experimental_validate_warning">Jede deiner Tätigkeiten hilft MIUI besser zu werden!</string>
   <string name="find_device_check_sim">Überprüfe SIM…</string>
   <string name="find_device_sim_change_instructions">"Dein Gerät wurde gesperrt. Bitte lege die SIM-Karte ein, oder gebe das Passwort Deines Xiaomi-Kontos ein"</string>
   <string name="find_device_sim_change_instructions_no_network">"Dein Gerät hat eine SIM-Sperre. Bitte die originale SIM-Karte einlegen"</string>

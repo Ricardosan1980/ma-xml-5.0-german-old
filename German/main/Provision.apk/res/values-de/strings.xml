@@ -18,9 +18,9 @@
   <string name="other_service_user_experience">Dem User Experience-Programm beitreten</string>
   <string name="other_service_user_experience_summary0">"Wir verlassen uns darauf, dass du unser Produkt und dessen Besonderheiten nutzt und hoffen, dass du uns mit Deinem Feedback hilfst."</string>
   <string name="other_service_user_experience_summary1">Danke, MIUI-Team</string>
-  <string name="setup_complete_info">Service wird aktiviert, sobald du Dein Telefon das erste Mal benutzt</string>
+  <string name="setup_complete_info">Service wird aktiviert, sobald du dein Telefon das erste Mal benutzt</string>
   <string name="setup_complete_label">Setup abgeschlossen</string>
-  <string name="setup_complete_start">Du kannst nun Dein Telefon benutzen.</string>
+  <string name="setup_complete_start">Du kannst nun dein Telefon benutzen.</string>
   <string name="setup_complete_summary">Setup abgeschlossen. Viel Spaß mit MIUI!</string>
   <string name="shutdown">Ausschalten</string>
   <string name="sim_card_detection_dialog_message">Suche SIM-Karte, bitte warten...</string>
@@ -28,8 +28,8 @@
   <string name="sim_card_detection_label">SIM-Karte suchen</string>
   <string name="sim_card_detection_status_absent">Keine SIM-Karte gefunden!</string>
   <string name="traffic_protection_label">Datenverbrauch überwachen</string>
-  <string name="traffic_protection_summary">Die Überwachung des Datenverbrauchs erinnert dich daran, wenn Dein Traffic-Limit erreicht wurde.</string>
-  <string name="traffic_protection_text_hint">Bitte gib Dein Datenlimit ein.</string>
+  <string name="traffic_protection_summary">Die Überwachung des Datenverbrauchs erinnert dich daran, wenn dein Traffic-Limit erreicht wurde.</string>
+  <string name="traffic_protection_text_hint">Bitte gib dein Datenlimit ein.</string>
   <string name="traffic_protection_unknown">&lt;u&gt;"Ich weiß nicht. (Bitte später eintragen.)"&lt;/u&gt;</string>
   <string name="use_data">Mobile Daten aktivieren</string>
 </resources>

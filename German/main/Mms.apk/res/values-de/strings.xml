@@ -120,7 +120,7 @@
   <string name="exceed_message_size_limitation">Größenlimit erreicht.</string>
   <string name="expire_on">Läuft ab: %s</string>
   <string name="exporting_progress_private_message">Exportiere Nachrichten aus persönlichem Nachrichtenordner</string>
-  <string name="failed_to_add_media">Leider kannst du \"%1$s\" nicht zu Deiner Nachricht hinzufügen.</string>
+  <string name="failed_to_add_media">Leider kannst du \"%1$s\" nicht zu deiner Nachricht hinzufügen.</string>
   <string name="failed_to_resize_image">Bild nicht verkleinert.</string>
   <string name="fdn_check_failure">Du kannst nur Nachrichten an Deine freigegebenen Telefonnummern senden.</string>
   <string name="festival">Empfohlen</string>
@@ -129,7 +129,7 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"FWD: "</string>
-  <string name="found_old_messages">Insgesamt %1$s wurden bei alten Telefon-Konten gefunden. Sollen diese auf Dein aktuelles Benutzerkonto von \"%2$s\" hochgeladen werden?</string>
+  <string name="found_old_messages">Insgesamt %1$s wurden bei alten Telefon-Konten gefunden. Sollen diese auf dein aktuelles Benutzerkonto von \"%2$s\" hochgeladen werden?</string>
   <string name="found_old_messages_title">Nachrichten hochladen</string>
   <string name="found_wild_messages">Es wurden %s Nachrichten von anderen SIM-Karten via MiCloud gefunden. Sollen diese heruntergeladen werden?</string>
   <string name="found_wild_messages_title">Nachrichten herunterladen</string>
@@ -255,7 +255,7 @@
   <string name="pref_summary_delete_limit">%1$s Nachrichten pro Unterhaltung</string>
   <string name="pref_summary_delivery_reports">Einen Zustellbericht für jede von dir versendete Nachricht anfragen</string>
   <string name="pref_summary_hide_festival">\"Empfohlen\"-Tab für Nicht-Chinesische-Sprachen ausblenden</string>
-  <string name="pref_summary_manage_sim_messages">Auf Deiner SIM-Karte gespeicherte Nachrichten verwalten</string>
+  <string name="pref_summary_manage_sim_messages">Auf deiner SIM-Karte gespeicherte Nachrichten verwalten</string>
   <string name="pref_summary_mms_auto_retrieval">Nachrichten automatisch empfangen</string>
   <string name="pref_summary_mms_read_reports">Eine Lesebestätigung für jede von dir versendete Nachricht anfragen</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Nachrichten automatisch während des Roamings empfangen</string>

@@ -13,7 +13,7 @@
   <string name="bad_authentication">Authentifizierung fehlgeschlagen, falscher Benutzername oder Passwort</string>
   <string name="balance">Balance: %1$s Mi-Credits</string>
   <string name="bind_sina_weibo">Sina Weibo authorisieren</string>
-  <string name="bind_weibo_description">Finde Kontakte, Freunde und andere Informationen direkt über Dein Konto</string>
+  <string name="bind_weibo_description">Finde Kontakte, Freunde und andere Informationen direkt über dein Konto</string>
   <string name="binded">Authorisiert</string>
   <string name="btn_activate">Aktivieren</string>
   <string name="btn_back">Zurück</string>
@@ -38,7 +38,7 @@
   <string name="completed">Fertig</string>
   <string name="confirm">Bestätigen</string>
   <string name="data_keep_in_phone">Daten auf dem Gerät behalten</string>
-  <string name="data_sync_notice">Benutze Dein Xiaomi-Konto um Nachrichten, Kontakte und andere Daten zu synchronisieren</string>
+  <string name="data_sync_notice">Benutze dein Xiaomi-Konto um Nachrichten, Kontakte und andere Daten zu synchronisieren</string>
   <string name="data_wipe_from_phone">Von meinem Gerät löschen</string>
   <string name="disable_find_device_error">%1$s, Deaktivierung der Lokalisierungsfunktion fehlgeschlagen</string>
   <string name="email_already_be_used">E-Mail-Adresse schon in Benutzung</string>
@@ -55,7 +55,7 @@
   <string name="error_frozen_title">Konto gesperrt!</string>
   <string name="error_has_bought_summary">Du hast dieses Produkt bereits gekauft</string>
   <string name="error_has_bought_title">Kauf wiederholen</string>
-  <string name="error_illegal_order_summary">Es ist ein Fehler bei Deiner Bestellung aufgetreten, bitte versuche es später erneut</string>
+  <string name="error_illegal_order_summary">Bei deiner Bestellung ist ein Fehler aufgetreten, bitte versuche es später erneut</string>
   <string name="error_illegal_order_title">Bestellfehler!</string>
   <string name="error_mili_title">Keine ausreichenden Mi-Credits</string>
   <string name="error_network">Netzwerkfehler</string>
@@ -80,11 +80,11 @@
   <string name="find_device_enabling">Einschalten...</string>
   <string name="find_device_error_network">Netzwerk nicht verfügbar</string>
   <string name="find_device_error_server">Serverfehler</string>
-  <string name="find_device_notice_p1">Wenn du Dein Telefon verloren hast, gehe bitte auf</string>
+  <string name="find_device_notice_p1">Wenn du dein Telefon verloren hast, gehe bitte auf</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">um es zu finden, sperren oder alle Daten zu löschen.</string>
   <string name="find_device_success_title">Lokalisierungsfunktion ist nicht aktiviert</string>
-  <string name="find_password_on_web_msg">Bitte gehe auf account.xiaomi.com, um Dein Passwort zurückzusetzen</string>
+  <string name="find_password_on_web_msg">Bitte gehe auf account.xiaomi.com, um dein Passwort zurückzusetzen</string>
   <string name="forget_password" />
   <string name="frozen">(Gesperrt)</string>
   <string name="header_data_and_synchronization">Daten &amp; Synchronisierung</string>
@@ -106,8 +106,8 @@
   <string name="micloud_active_email_sent_1">Wir haben den Aktivierungslink an deine E-Mail gesendet:</string>
   <string name="micloud_active_email_sent_2" />
   <string name="micloud_active_email_visit">Besuche %s</string>
-  <string name="micloud_activing_account">Aktiviere Dein Konto...</string>
-  <string name="micloud_click_email">Klicke den Link in der E-Mail um Dein Xiaomi-Konto zu aktivieren</string>
+  <string name="micloud_activing_account">Aktiviere dein Konto...</string>
+  <string name="micloud_click_email">Klicke den Link in der E-Mail um dein Xiaomi-Konto zu aktivieren</string>
   <string name="micloud_click_email_to_valid">Klicke den Aktivierungs-Link in der E-Mail, die an dich geschickt wurde</string>
   <string name="micloud_delete_account">Konto löschen</string>
   <string name="micloud_email">E-Mail-Adresse</string>
@@ -131,7 +131,7 @@
   <string name="order_price">%1$s Mi-Credits</string>
   <string name="other_settings">Erweiterte Einstellungen</string>
   <string name="password">Passwort</string>
-  <string name="password_error">Bitte gib Dein Passwort ein</string>
+  <string name="password_error">Bitte gib dein Passwort ein</string>
   <string name="password_hint">Bitte gib das Passwort Deines Xiaomi-Kontos ein:</string>
   <string name="pay_record">Zahlungsverlauf</string>
   <string name="pay_record_empty">Kein Zahlungsverlauf</string>
@@ -233,7 +233,7 @@
   <string name="title_prepaid">Topup mit Karte</string>
   <string name="title_recharge">Topup Mi-Credits</string>
   <string name="title_recharge_record">Topup-Verlauf</string>
-  <string name="title_reg">Registere Dein Xiaomi-Konto</string>
+  <string name="title_reg">Registere dein Xiaomi-Konto</string>
   <string name="title_voucher">Topup mit Mi-Credit Gutschein</string>
   <string name="unactivated_user">Deaktiviert</string>
   <string name="unbind">Authorisierung widerrufen</string>

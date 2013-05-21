@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">Über das Telefon</string>
   <string name="active_xiaomi_account">Aktiv</string>
-  <string name="active_xiaomi_account_msg">"Bitte gehe zum MIUI-Forum, um Dein Xiaomi-Konto zu aktivieren:"</string>
+  <string name="active_xiaomi_account_msg">"Bitte gehe zum MIUI-Forum, um dein Xiaomi-Konto zu aktivieren:"</string>
   <string name="active_xiaomi_account_title">Xiaomi-Konto aktivieren</string>
   <string name="app_name">Updater</string>
   <string name="apply_buddy_update_info_message">Berühre "Aktualisieren", das Telefon wird mit der Aktualisierung beginnen</string>
@@ -80,7 +80,7 @@
   <string name="no_proper_updates">Es wurden keine Aktualisierungen für die installierte Version gefunden</string>
   <string name="no_updatecheck_executed">Überprüfung wurde noch nicht ausgeführt</string>
   <string name="no_updates_found">Du hast bereits die aktuellste Version installiert</string>
-  <string name="no_updates_warning">Es wurden keine Aktualisierungen für Dein Telefon gefunden</string>
+  <string name="no_updates_warning">Es wurden keine Aktualisierungen für dein Telefon gefunden</string>
   <string name="no_updates_warning2">Die Anwendung benachrichtigt dich über zukünftige Aktualisierungen</string>
   <string name="not_recommend">"Nicht empfehlen"</string>
   <string name="paused_queued_for_network">Warte auf Netzwerkverbindung</string>
@@ -105,7 +105,7 @@
   <string name="share_update">Info über System-Aktualisierung teilen</string>
   <string name="share_update_content_sign">Ich habe MIUI auf %1$s aktualisiert! Mein Update-Rang ist %2$s. Für Changelog-Details bitte %3$s besuchen</string>
   <string name="share_update_content_unsign">Ich habe MIUI auf %1$s aktualisiert! Mein Update-Rang ist %2$s. Für Changelog-Details bitte %3$s besuchen</string>
-  <string name="sign_in_add_account">Bitte aktiviere Dein Xiaomi-Konto</string>
+  <string name="sign_in_add_account">Bitte aktiviere dein Xiaomi-Konto</string>
   <string name="sign_in_add_account_helper">Dein Telefon hat kein aktives MIUI-Konto. Füge eins hinzu, um Nutzerpunkte zu erhalten</string>
   <string name="sign_in_info">"Dein Update-Rang ist %1$s.\n%2$s Nutzer haben sich für MIUI %3$s registriert"</string>
   <string name="sign_in_info_rank_more">"Dein Update-Rang nach Update ist %1$s.\nÜber %2$s haben sich für MIUI %3$s registriert"</string>

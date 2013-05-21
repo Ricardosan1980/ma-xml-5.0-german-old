@@ -262,11 +262,11 @@
   <string name="bluetooth_a2dp_profile_summary_connected">Mit Audiogerät verbunden</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Zur Audioübertragung genutzt</string>
   <string name="bluetooth_advanced_titlebar">Bluetooth erweitert</string>
-  <string name="bluetooth_ask_discovery">Eine Anwendung möchte Dein Telefon %1$d Sekunden für andere Bluetooth-Geräte sichtbar machen. Erlauben?</string>
+  <string name="bluetooth_ask_discovery">Eine Anwendung möchte dein Telefon %1$d Sekunden für andere Bluetooth-Geräte sichtbar machen. Erlauben?</string>
   <string name="bluetooth_ask_enablement">Eine Anwendung möchte Bluetooth aktivieren. Erlauben?</string>
-  <string name="bluetooth_ask_enablement_and_discovery">Eine Anwendung möchte Bluetooth aktivieren und Dein Telefon %1$d Sekunden für andere Geräte sichtbar machen. Erlauben?</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine Anwendung möchte Bluetooth aktivieren und Dein Telefon für andere Geräte sichtbar machen. Erlauben?</string>
-  <string name="bluetooth_ask_lasting_discovery">Eine Anwendung möchte Bluetooth aktivieren und Dein Telefon für andere Geräte "immer sichtbar" machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Eine Anwendung möchte Bluetooth aktivieren und dein Telefon %1$d Sekunden für andere Geräte sichtbar machen. Erlauben?</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Eine Anwendung möchte Bluetooth aktivieren und dein Telefon für andere Geräte sichtbar machen. Erlauben?</string>
+  <string name="bluetooth_ask_lasting_discovery">Eine Anwendung möchte Bluetooth aktivieren und dein Telefon für andere Geräte "immer sichtbar" machen. Erlauben?</string>
   <string name="bluetooth_auto_connect">Automatisch verbinden</string>
   <string name="bluetooth_confirm_passkey_msg">Bitte stelle sicher, dass :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; zum Pairing diesen Passkey anzeigt:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Verbinden mit…</string>
@@ -428,7 +428,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="breathing_light_freq_title">LED-Leuchtfrequenz</string>
   <string name="brightness">Helligkeit</string>
   <string name="brightness_auto_adjust_off">Du kannst die Helligkeit mit dem Slider so einstellen, wie es dir gefällt. Die Bildschirmhelligkeit wird sich dann nicht mehr ändern, egal in welcher Umgebung.</string>
-  <string name="brightness_auto_adjust_on">Die Automatische Helligkeit kann mit dem Slider eingestellt werden. Die Bildschirmhelligkeit passt sich dann entsprechend Deiner Einstellung und Umgebung an.</string>
+  <string name="brightness_auto_adjust_on">Die Automatische Helligkeit kann mit dem Slider eingestellt werden. Die Bildschirmhelligkeit passt sich dann entsprechend deiner Einstellung und Umgebung an.</string>
   <string name="brightness_summary">Stellt die Bildschirmhelligkeit ein</string>
   <string name="bssid_label">BSSID:</string>
   <string name="build_number">Build-Nummer</string>
@@ -473,7 +473,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="clear_failed_dlg_text">"Konnte Daten der Anwendung nicht löschen."</string>
   <string name="clear_failed_dlg_title">Daten löschen</string>
   <string name="clear_user_data_text">Daten löschen</string>
-  <string name="common_settings">Allgemeine Einstellungen</string>
+  <string name="common_settings">Haupteinstellungen</string>
   <string name="complete_settings">Alle Einstellungen</string>
   <string name="computing_size">Berechne…</string>
   <string name="config_list_label">Konfigurierte Netzwerke</string>
@@ -492,8 +492,8 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="credentials_enabled">Zugangsdatenspeicher aktiviert.</string>
   <string name="credentials_erased">Zugangsdatenspeicher wurde gelöscht.</string>
   <string name="credentials_install">Von Speicher installieren</string>
-  <string name="credentials_install_gesture_explanation">Du musst Dein Entsperrmuster eingeben, um die Zugangsdaten-Installation zu bestätigen.</string>
-  <string name="credentials_install_gesture_prompt">Gib Dein Entsperrmuster ein</string>
+  <string name="credentials_install_gesture_explanation">Du musst dein Entsperrmuster eingeben, um die Zugangsdaten-Installation zu bestätigen.</string>
+  <string name="credentials_install_gesture_prompt">Gib dein Entsperrmuster ein</string>
   <string name="credentials_install_summary">Zertifikate aus Speicher installieren</string>
   <string name="credentials_not_erased">"Zugangsdatenspeicher konnte nicht gelöscht werden."</string>
   <string name="credentials_old_password">Derzeitiges Passwort:</string>
@@ -510,7 +510,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="crypt_keeper_button_text">Telefon verschlüsseln</string>
   <string name="crypt_keeper_confirm_title">Verschlüsselung bestätigen</string>
   <string name="crypt_keeper_cooldown">Bitte in ^1 Sekunden erneut versuchen.</string>
-  <string name="crypt_keeper_desc">"Du kannst Deine Konten, Einstellungen, heruntergeladene Anwendung und deren Daten, Medien und andere Dateien verschlüsseln. Wenn Dein Telefon einmal verschlüsselt ist, musst du bei jedem Neustart eine numerische PIN oder ein Passwort zum entschlüsseln eingeben: Die Verschlüsselung kann ausschließlich durch ein Zurücksetzen auf Werkseinstellung entfernt werden, dadurch werden sämtliche Daten gelöscht.
+  <string name="crypt_keeper_desc">"Du kannst Deine Konten, Einstellungen, heruntergeladene Anwendung und deren Daten, Medien und andere Dateien verschlüsseln. Wenn dein Telefon einmal verschlüsselt ist, musst du bei jedem Neustart eine numerische PIN oder ein Passwort zum entschlüsseln eingeben: Die Verschlüsselung kann ausschließlich durch ein Zurücksetzen auf Werkseinstellung entfernt werden, dadurch werden sämtliche Daten gelöscht.
 
 Die Verschlüsselung dauert eine Stunde oder länger. Du musst mit einem voll geladenen Akku beginnen und das Telefon eingesteckt lassen, bis die Verschlüsselung vollständig ist. Sollte der Prozess unterbrochen werden, verlierst du einige oder alle Daten."</string>
   <string name="crypt_keeper_dialog_need_password_message">Du musst eine Lockscreen-PIN oder ein Passwort setzen, bevor die Verschlüsselung gestartet werden kann.</string>
@@ -526,10 +526,10 @@ Um das Telefon erneut zu benutzen, muss es auf Werkseinstellungen zurückgesetzt
   <string name="crypt_keeper_final_desc">Telefon verschlüsseln? Dieser Vorgang ist nicht umkehrbar und führt bei Unterbrechung zu Datenverlust. Die Verschlüsselung dauert eine Stunde oder länger, währenddessen wird das Telefon mehrfach neu gestartet.</string>
   <string name="crypt_keeper_low_charge_text">Lade Deinen Akku auf und versuche es erneut.</string>
   <string name="crypt_keeper_settings_title">Verschlüsselung</string>
-  <string name="crypt_keeper_setup_description">Bitte warte, während Dein Telefon verschlüsselt wird. ^1% abgeschlossen.</string>
+  <string name="crypt_keeper_setup_description">Bitte warte, während dein Telefon verschlüsselt wird. ^1% abgeschlossen.</string>
   <string name="crypt_keeper_setup_title">Verschlüssele</string>
   <string name="crypt_keeper_switch_input_method">Eingabemethode ändern</string>
-  <string name="crypt_keeper_unplugged_text">Stecke Dein Ladegerät an und versuche es erneut.</string>
+  <string name="crypt_keeper_unplugged_text">Stecke dein Ladegerät an und versuche es erneut.</string>
   <string name="cryptkeeper_emergency_call">Notruf</string>
   <string name="cryptkeeper_return_to_call">Zurück zu Anruf</string>
   <string name="current_backup_pw_prompt">Bitte das vollständige Wiederherstellungs-Passwort hier eingeben</string>
@@ -548,7 +548,7 @@ Du kannst innerhalb der Anwendung bessere Datenverbrauchs-Einstellungen finden."
   <string name="data_usage_app_settings">Zeige Anwendungseinstellungen</string>
   <string name="data_usage_auto_sync_off_dialog">"Dies verringert den Strom- und Datenverbrauch, aber du musst jedes Konto manuell synchronisieren, um aktuelle Informationen und Benachrichtigungen zu erhalten."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Auto-Synchronisierung deaktivieren?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Alle Änderungen, die du im Internet an Deinen Konten vornimmst, werden automatisch auf Dein Telefon kopiert.
+  <string name="data_usage_auto_sync_on_dialog">"Alle Änderungen, die du im Internet an Deinen Konten vornimmst, werden automatisch auf dein Telefon kopiert.
 
 Einige Konten können auch automatisch Änderungen, die du auf dem Telefon vornimmst, ins Internet kopieren. Ein Google-Account funktioniert auf diese Weise.
 
@@ -570,7 +570,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="data_usage_enable_mobile">Mobilfunk-Daten</string>
   <string name="data_usage_label_background">Hintergrund</string>
   <string name="data_usage_label_foreground">Vordergrund</string>
-  <string name="data_usage_limit_dialog_mobile">"Das Datenverbrauchs-Limit wurde erreicht. Das System wird nun Deine Datenverbindung deaktivieren. Vielleicht solltest du weniger Daten verbrauchen oder Dein Limit erhöhen."</string>
+  <string name="data_usage_limit_dialog_mobile">"Das Datenverbrauchs-Limit wurde erreicht. Das System wird nun Deine Datenverbindung deaktivieren. Vielleicht solltest du weniger Daten verbrauchen oder dein Limit erhöhen."</string>
   <string name="data_usage_limit_dialog_title">Schränke Datenverbrauch ein</string>
   <string name="data_usage_limit_editor_title">Datenverbrauchs-Limit setzen</string>
   <string name="data_usage_list_mobile">Mobilnetz</string>
@@ -638,7 +638,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="delete">Löschen</string>
   <string name="details_subtitle">Benutze Details</string>
   <string name="details_title">Benutze Details</string>
-  <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwicklungszwecke. Sie können dazu führen, dass Dein Telefon oder Anwendungen nicht mehr sachgemäß funktionieren.</string>
+  <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwicklungszwecke. Sie können dazu führen, dass dein Telefon oder Anwendungen nicht mehr sachgemäß funktionieren.</string>
   <string name="dev_settings_warning_title">Entwickler-Einstellungen erlauben?</string>
   <string name="development_enable">Entwickleroptionen aktivieren</string>
   <string name="development_settings_summary">Einstellungen für Anwendungsentwicklung festlegen</string>
@@ -956,7 +956,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="location_title">Mein Standort</string>
   <string name="lock_after_timeout">Automatisch sperren</string>
   <string name="lock_after_timeout_summary">Nach %1$s sperren</string>
-  <string name="lock_intro_message">"Schütze Dein Telefon vor unbefugtem Zugriff, indem du ein persönliches Entsperrmuster festlegst. Bewege Deinen Finger auf dem nächsten Bildschirm über mindestens 4 Punkte. 
+  <string name="lock_intro_message">"Schütze dein Telefon vor unbefugtem Zugriff, indem du ein persönliches Entsperrmuster festlegst. Bewege Deinen Finger auf dem nächsten Bildschirm über mindestens 4 Punkte. 
 
 Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lock_screen_unlock_show">Passwort-Eingabefeld direkt anzeigen</string>
@@ -966,11 +966,11 @@ Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lock_settings_title">Bildschirmsperre</string>
   <string name="lock_setup">Setup abgeschlossen</string>
   <string name="lock_sounds_enable_title">Ton bei Bildschirmsperre</string>
-  <string name="lock_title">Sichere Dein Telefon</string>
+  <string name="lock_title">Sichere dein Telefon</string>
   <string name="lockpassword_cancel_label">Abbrechen</string>
   <string name="lockpassword_choose_lock_generic_header">Entsperr-Auswahl</string>
-  <string name="lockpassword_choose_your_password_header">Wähle Dein Passwort</string>
-  <string name="lockpassword_choose_your_pattern_header">Wähle Dein Muster</string>
+  <string name="lockpassword_choose_your_password_header">Wähle dein Passwort</string>
+  <string name="lockpassword_choose_your_pattern_header">Wähle dein Muster</string>
   <string name="lockpassword_choose_your_pin_header">Wähle Deine PIN</string>
   <string name="lockpassword_confirm_passwords_dont_match">"Passwörter stimmen nicht überein"</string>
   <string name="lockpassword_confirm_pins_dont_match">"PINs stimmen nicht überein"</string>
@@ -1052,8 +1052,8 @@ Um Musik, Bilder und andere Benutzerdaten zu löschen, der "</string>
   <string name="master_clear_failed">"Es wurde kein Reset ausgeführt, weil der System Clear-Dienst nicht verfügbar ist."</string>
   <string name="master_clear_final_button_text">Alles löschen</string>
   <string name="master_clear_final_desc">"Alle persönlichen Informationen und heruntergeladene Anwendungen löschen? Dieser Vorgang kann nicht rückgängig gemacht werden!"</string>
-  <string name="master_clear_gesture_explanation">Du musst Dein Entsperrmuster eingeben, um das Telefon auf Werkseinstellung zurückzusetzen.</string>
-  <string name="master_clear_gesture_prompt">Zeichne Dein Entsperrmuster</string>
+  <string name="master_clear_gesture_explanation">Du musst dein Entsperrmuster eingeben, um das Telefon auf Werkseinstellung zurückzusetzen.</string>
+  <string name="master_clear_gesture_prompt">Zeichne dein Entsperrmuster</string>
   <string name="master_clear_personal_data">Möchtest du wirklich alle persönlichen Daten löschen? 
 Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="master_clear_personal_data_application">Möchtest du wirklich alle persönlichen Daten und installierte Anwendungen löschen? 
@@ -1067,8 +1067,8 @@ Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="media_format_desc">SD-Karte löschen? Alle Daten gehen verloren</string>
   <string name="media_format_final_button_text">Alles löschen</string>
   <string name="media_format_final_desc">"SD-Karte und alle darauf enthaltenen Daten löschen? Dieser Vorgang kann nicht rückgängig gemacht werden!"</string>
-  <string name="media_format_gesture_explanation">Du musst Dein Entsperrmuster eingeben um zu bestätigen, dass die SD-Karte gelöscht werden soll.</string>
-  <string name="media_format_gesture_prompt">Zeichne Dein Entsperrmuster</string>
+  <string name="media_format_gesture_explanation">Du musst dein Entsperrmuster eingeben um zu bestätigen, dass die SD-Karte gelöscht werden soll.</string>
+  <string name="media_format_gesture_prompt">Zeichne dein Entsperrmuster</string>
   <string name="media_format_summary">Löscht alle Daten auf der SD-Karte</string>
   <string name="media_format_title">Lösche SD-Karte</string>
   <string name="media_volume_summary">Lautstärke für Musik und Videos einstellen</string>
@@ -1113,7 +1113,7 @@ Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="msd_install">Treiber erneut installieren</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Weiter</string>
-  <string name="msd_install_retry_linux">"Wenn Dein PC das Mi2 nicht finden kann,
+  <string name="msd_install_retry_linux">"Wenn dein PC das Mi2 nicht finden kann,
 Versuche folgendes:
 1) Benutze die Installationstools sudo aptitude install mtpfs libfuse-dev libmad0-dev
 2) Erstelle ein Verzeichnis mkdir /media/mtp
@@ -1122,13 +1122,13 @@ Versuche folgendes:
 5) Greife auf das gemountete Gerät mtpfs /media/mtp mit dem Datei-Explorer zu; genau wie das lokale Verzeichnis
 6) Deinstalliere das Gerät fusermount -u /media/mtp
  Hinweis: Für Ubuntu 8.04"</string>
-  <string name="msd_install_retry_mac">"Wenn Dein Computer das Mi2 nicht finden kann,
+  <string name="msd_install_retry_mac">"Wenn dein Computer das Mi2 nicht finden kann,
 Versuche folgendes:
 "</string>
-  <string name="msd_install_retry_windows_vista">"Wenn Dein PC das Mi2 nicht finden kann,
+  <string name="msd_install_retry_windows_vista">"Wenn dein PC das Mi2 nicht finden kann,
 Versuche folgendes:
 "</string>
-  <string name="msd_install_retry_windows_xp">"Wenn Dein PC das Mi2 nicht finden kann,
+  <string name="msd_install_retry_windows_xp">"Wenn dein PC das Mi2 nicht finden kann,
 Versuche folgendes:
 "</string>
   <string name="msd_install_status_done">Treiber bereits installiert</string>
@@ -1384,7 +1384,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="privacy_settings_title">Sichern &amp; Wiederherstellen</string>
   <string name="private_sms_need_to_unlock">Bitte persönliches SMS-Passwort eingeben</string>
   <string name="private_sms_recording_intro_header">Zeichne ein Muster, um ein Entsperrmuster zu erstellen</string>
-  <string name="private_sms_reset_by_account">Bitte melde dich in Deinem Xiaomi-Konto an, um Dein persönliches SMS-Passwort zurückzusetzen</string>
+  <string name="private_sms_reset_by_account">Bitte melde dich in Deinem Xiaomi-Konto an, um dein persönliches SMS-Passwort zurückzusetzen</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Provider %1$s in Benutzung.</string>
@@ -1502,7 +1502,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="roaming">Datenroaming</string>
   <string name="roaming_disable">Bei Roaming mit Datendiensten verbinden</string>
   <string name="roaming_enable">Bei Roaming mit Datendiensten verbinden</string>
-  <string name="roaming_reenable_message">Datenverbindungen wurden getrennt. Du hast Dein Heimnetzwerk verlassen und Roaming war deaktiviert.</string>
+  <string name="roaming_reenable_message">Datenverbindungen wurden getrennt. Du hast dein Heimnetzwerk verlassen und Roaming war deaktiviert.</string>
   <string name="roaming_reenable_title">Achtung</string>
   <string name="roaming_turn_it_on_button">Einschalten</string>
   <string name="roaming_warning">Datenroaming erlauben? Dies kann zu erhöhten Kosten führen!</string>
@@ -2301,7 +2301,7 @@ Verbleibende Versuche :"</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="wireless_networks_settings_title">Drahtlos &amp; Netzwerke</string>
   <string name="wps_category">WPS-Sicherheit</string>
-  <string name="wps_connect_summary">Stelle sicher, dass Dein Router WPS unterstützt</string>
+  <string name="wps_connect_summary">Stelle sicher, dass dein Router WPS unterstützt</string>
   <string name="wps_connect_title">Mit WPS verbinden</string>
   <string name="xiaomi_account">Xiaomi-Konto</string>
   <string name="yes">Ja</string>
