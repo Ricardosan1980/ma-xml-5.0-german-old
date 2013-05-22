@@ -252,7 +252,9 @@
   <string name="country_name_zm">ZM</string>
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
+  <string name="days">Tage</string>
   <string name="delete">Löschen</string>
+  <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_xiaomi">Xiaomi Telefon</string>
   <string name="double_seventh_day">Chinesischer Valentinstag</string>
   <string name="emergency_call_string">Notruf</string>
@@ -293,6 +295,7 @@
   <string name="group_name_friends">Freunde</string>
   <string name="heavy_snow" />
   <string name="hoar_frost_falls" />
+  <string name="hours">%d Stunden</string>
   <string name="incorrect_pincode">Falscher PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Falscher PIN-Code, %d Versuche verbleibend</string>
   <string name="incorrect_pukcode">Falscher PUK-Code</string>
@@ -345,6 +348,7 @@
   <string name="lunar_zheng" />
   <string name="memory_clear_nothing_result">Kein zu löschender Speicher vorhanden</string>
   <string name="memory_clear_result">"%1$s Frei | %2$s verfügbar"</string>
+  <string name="minutes">%d Minuten</string>
   <string name="miui_copyright_title">Urheberrecht</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">MiCredit Nutzungsvereinbarung</string>
@@ -390,6 +394,7 @@
   <string name="private_num">Private Nummer</string>
   <string name="puk_operation_failed">PUK-Vorgang fehlgeschlagen.</string>
   <string name="reboot_confirm">Das Telefon wird neu gestartet</string>
+  <string name="reboot_confirm_title">Bist du sicher, dass du dein Telefon neu starten willst?</string>
   <string name="reboot_progress">Wird neu gestartet...</string>
   <string name="return_to_me_message">Bitte gib das Telefon an den Eigentümer zurück.</string>
   <string name="reverse_all">Alle löschen</string>
@@ -411,6 +416,7 @@
   <string name="share">Teilen</string>
   <string name="short_pincode_error_msg">Bitte gib 4-8 Stellen ein</string>
   <string name="short_pukcode_error_msg">Bitte mindestens 8 Stellen eingeben</string>
+  <string name="shutdown_confirm_title">Bist du sicher, dass du dein Telefon ausschalten willst?</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Die aktuelle SIM-Karte wurde noch nicht aktiviert. Eine internationale SMS ist erforderlich, um den Xiaomi-Synchronisierungs-Dienst zu aktivieren. Jetzt aktivieren?</string>
   <string name="sim_changed_reactivate_notice">Die aktuelle SIM-Karte wurde noch nicht aktiviert. Eine SMS ist erforderlich, um den Xiaomi-Synchronisierungs-Dienst zu aktivieren. Jetzt aktivieren?</string>

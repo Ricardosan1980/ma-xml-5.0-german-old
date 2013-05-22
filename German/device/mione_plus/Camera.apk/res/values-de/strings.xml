@@ -16,7 +16,9 @@
   <string name="camera_label">Kamera</string>
   <string name="camera_settings_label">Kamera-Einstellungen</string>
   <string name="can_not_play_video">Um das Video abzuspielen, solltest du den Bildschirm entsperren</string>
-  <string name="cannot_connect_camera">"Verbindung zur Kamera kann nicht hergestellt werden."</string>
+  <string name="cannot_connect_camera">Verbindung zur Kamera kann nicht hergestellt werden.</string>
+  <string name="cannot_connect_camera_once">Verbindung zur Kamera kann nicht hergestellt werden, bitte starte die Kamera neu</string>
+  <string name="cannot_connect_camera_twice">Verbindung zur Kamera kann nicht hergestellt werden, bitte starte das Telefon neu</string>
   <string name="clear_effects">Effekte löschen</string>
   <string name="close">Schließen</string>
   <string name="confirm_change_mode_title">Modus wechseln</string>

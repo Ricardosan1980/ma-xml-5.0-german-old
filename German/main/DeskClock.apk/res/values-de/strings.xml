@@ -117,6 +117,7 @@
   <string name="stopwatch_title">Stoppuhr</string>
   <string name="system_time_setting">Einstellungen</string>
   <string name="time">Uhrzeit</string>
+  <string name="timer_alert_alert_silenced">Timer nach %d Minuten beendet.</string>
   <string name="timer_continue">Weiter</string>
   <string name="timer_got_it">Verstanden</string>
   <string name="timer_hour">H</string>
