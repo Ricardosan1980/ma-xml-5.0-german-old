@@ -91,10 +91,13 @@
   <string name="ext_media_badremoval_notification_title">SD-Kartenspeicher unerwartet entfernt</string>
   <string name="ext_media_checking_notification_message">Überprüfe auf Fehler.</string>
   <string name="ext_media_checking_notification_title">Bereite SD-Kartenspeicher vor</string>
+  <string name="ext_media_mountable_notification_message">Öffne externes Medium mit Datei-Explorer</string>
+  <string name="ext_media_mountable_notification_title">SD-Karte verbunden</string>
   <string name="ext_media_nofs_notification_message">SD-Kartenspeicher ist leer oder hat ein nicht unterstütztes Format.</string>
   <string name="ext_media_nofs_notification_title">Leerer SD-Kartenspeicher</string>
   <string name="ext_media_nomedia_notification_message">SD-Kartenspeicher entfernt. Bitte neues Medium einlegen.</string>
   <string name="ext_media_nomedia_notification_title">SD-Kartenspeicher entfernt</string>
+  <string name="ext_media_safe_remove">Sicher entfernen</string>
   <string name="ext_media_safe_unmount_notification_message">Du kansst die SD-Karte jetzt sicher entnehmen.</string>
   <string name="ext_media_safe_unmount_notification_title">SD-Karte sicher zum entfernen</string>
   <string name="ext_media_unmountable_notification_message">SD-Kartenspeicher defekt. Du musst den Speicher eventuell neu formatieren.</string>
@@ -233,6 +236,7 @@
   <string name="tab_notifications_lable">Benachrichtigungen</string>
   <string name="tab_toggles_lable">Schalter</string>
   <string name="title_usb_accessory">USB-Geräte</string>
+  <string name="toast_rotation_locked">Anzeige auf Querformat fixiert</string>
   <string name="torch_activity_hint">Öffne die Taschenlampe, indem du [icon] im Sperrbildschirm gedrückt hältst</string>
   <string name="torch_activity_name">Taschenlampe</string>
   <string name="usb_accessory_confirm_prompt">%1$s öffnen, wenn dieses USB-Zubehör verbunden ist?</string>

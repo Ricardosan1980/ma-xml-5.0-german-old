@@ -51,7 +51,7 @@
   <string name="cloud_tab_all">Alle</string>
   <string name="cloud_tab_locations">Orte</string>
   <string name="cloudfolder_already_exists">Cloud-Ordner bereits vorhanden</string>
-  <string name="confirm_delete">Löschen</string>
+  <string name="confirm_delete">Bist du sicher, dass du %s gewählte Elemente löschen willst?</string>
   <string formatted="false" name="confirm_delete_album">Sollen %s Alben gelöscht werden (insgesamt %s Elemente)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Sollen %s Bild(er) in %s Alben gelöscht werden?</string>
   <string name="confirm_delete_folders_and_pictures">Soll %s gelöscht werden?</string>
