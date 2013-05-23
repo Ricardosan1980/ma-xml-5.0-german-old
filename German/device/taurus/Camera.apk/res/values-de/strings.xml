@@ -15,7 +15,7 @@
   <string name="camera_error_title">Kamera-Fehler</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_settings_label">Kamera-Einstellungen</string>
-  <string name="can_not_play_video">Zum abzuspielen Bildschirm entsperren</string>
+  <string name="can_not_play_video">Zum abspielen Bildschirm entsperren</string>
   <string name="cancel">Abbrechen</string>
   <string name="cannot_connect_camera">Verbindung zur Kamera kann nicht hergestellt werden.</string>
   <string name="cannot_connect_camera_once">Verbindung zur Kamera kann nicht hergestellt werden, bitte starte die Kamera neu</string>
