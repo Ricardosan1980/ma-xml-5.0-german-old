@@ -329,7 +329,7 @@
     <string name="permlab_receiveEmergencyBroadcast">Notfall-Broadcasts empfangen</string>
     <string name="permdesc_receiveEmergencyBroadcast">Ermöglicht der App, Notfall-Broadcasts zu empfangen und zu verarbeiten. Diese Berechtigung steht nur System-Apps zur Verfügung.</string>
     <string name="permlab_readCellBroadcasts">Cell Broadcast-Nachrichten lesen</string>
-    <string name="permdesc_readCellBroadcasts">Ermöglicht der App, von Deinem Gerät empfangene Cell Broadcast-Nachrichten zu lesen. Cell Broadcast-Benachrichtigungen werden an einigen Standorten gesendet, um dich über Notfallsituationen zu informieren. Schädliche Apps können die Leistung oder den Betrieb deines Geräts beeinträchtigen, wenn eine Cell Broadcast-Notfallbenachrichtigung eingeht.</string>
+    <string name="permdesc_readCellBroadcasts">Ermöglicht der App, von deinem Gerät empfangene Cell Broadcast-Nachrichten zu lesen. Cell Broadcast-Benachrichtigungen werden an einigen Standorten gesendet, um dich über Notfallsituationen zu informieren. Schädliche Apps können die Leistung oder den Betrieb deines Geräts beeinträchtigen, wenn eine Cell Broadcast-Notfallbenachrichtigung eingeht.</string>
     <string name="permlab_sendSms">Kurznachrichten senden</string>
     <string name="permdesc_sendSms">Ermöglicht der App, SMS zu senden. Dies kann zu unerwarteten Kosten führen. Schädliche Apps können Kosten verursachen, indem sie Nachrichten ohne deine Bestätigung senden.</string>
     <string name="permlab_sendSmsNoConfirmation">SMS ohne Bestätigung senden</string>

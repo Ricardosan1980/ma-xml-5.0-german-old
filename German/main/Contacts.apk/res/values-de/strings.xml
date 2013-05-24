@@ -138,7 +138,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Cloud-Wächter</string>
   <string name="composer_failed_to_get_database_infomation">"Datenbankinformationen konnten nicht abgerufen werden"</string>
-  <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Deinem Telefon befinden, wurde für diese das Exportieren außerhalb das Telefons eventuell von manchen Datenanbietern verboten.</string>
+  <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf deinem Telefon befinden, wurde für diese das Exportieren außerhalb das Telefons eventuell von manchen Datenanbietern verboten.</string>
   <string name="composer_not_initialized">Der vCard-Composer wurde nicht korrekt initialisiert</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
@@ -407,7 +407,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="import_to_xiaomi_account_progress_title">Kontakte in Xiaomi-Konto importieren</string>
   <string name="import_to_xiaomi_account_title">Sollen die folgenden Kontakte in dein Xiaomi-Konto importiert werden?</string>
   <string name="import_vcard_description">Kontakte von SD-Karte importieren</string>
-  <string name="import_weibo_dialog_title"> Sina Weibo Kontakte importieren</string>
+  <string name="import_weibo_dialog_title">Sina Weibo Kontakte importieren</string>
   <string name="import_weibo_fetch_followers">Sina Weibo Followers wiederherstellen…</string>
   <string name="import_weibo_notification_title">Importiere Sina Weibo Kontakte…</string>
   <string name="import_weibo_notification_title_done">Import abgeschlossen</string>
@@ -563,7 +563,7 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
 • Sichere Sicherung deiner Kontakte."</string>
   <string name="no_contact_details">Es sind keine zusätzlichen Informationen für diesen Kontakt vorhanden</string>
   <string name="no_contact_in_other_phone">Es sind keine Kontakte auf dem Telefon vorhanden</string>
-  <string name="no_contacts_dialog_message">Konnte Person nicht in Deinen Kontakten finden. Der Kontakt könnte auf der SIM-Karte vorhanden sein. Bitte importiere die SIM-Kontakte auf dein Telefon.</string>
+  <string name="no_contacts_dialog_message">Konnte Person nicht in deinen Kontakten finden. Der Kontakt könnte auf der SIM-Karte vorhanden sein. Bitte importiere die SIM-Kontakte auf dein Telefon.</string>
   <string name="no_contacts_dialog_title">Kontakt konnte nicht gefunden werden</string>
   <string name="no_contacts_selected">Es wurden keine Kontakte ausgewählt.</string>
   <string name="no_sdcard_message">Es wurde kein Speicher gefunden</string>
@@ -722,7 +722,7 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="resource_downloaded_title">Heruntergeladene Quellen</string>
   <string name="resource_downloading">Lade herunter...</string>
   <string name="resource_get_auth_checking">Prüfe Berechtigung...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Thema kann am aktuellen Gerät nicht angewendet werden. Du hast das jährliche Limit von von 10 Geräten mit Deinem Benutzerkonto erreicht.</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Thema kann am aktuellen Gerät nicht angewendet werden. Du hast das jährliche Limit von von 10 Geräten mit deinem Benutzerkonto erreicht.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Berechtigung übersteigt das Limit</string>
   <string name="resource_get_auth_missing">Dieses Thema wurde nicht vom offiziellen Markt herunter geladen, bitte lade ähnliche vom offiziellen Markt.</string>
   <string name="resource_get_auth_retrieving">Berechtigung abrufen...</string>

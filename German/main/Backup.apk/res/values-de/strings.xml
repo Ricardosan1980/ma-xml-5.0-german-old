@@ -24,7 +24,7 @@
   <string name="backup_data">Daten sichern</string>
   <string name="backup_delete">Löschen:</string>
   <string name="backup_empty">Es wurden keine Sicherungsdateien gefunden</string>
-  <string name="backup_empty_info">Sichere Deine Daten, Einstellungen und Anwendungen</string>
+  <string name="backup_empty_info">Sichere deine Daten, Einstellungen und Anwendungen</string>
   <string name="backup_error">Sicherungsfehler</string>
   <string name="backup_failed">Sicherung fehlgeschlagen. Bitte versuche es erneut</string>
   <string name="backup_file_error">Es wurde ein Problem mit der Sicherung festgestellt. Der Vorgang ist ungültig.</string>
@@ -49,7 +49,7 @@
   <string name="cancel_backup">Sicherung abbrechen</string>
   <string name="cancel_restore">Wiederherstellung abbrechen</string>
   <string name="cloud_app_name">Cloud-Sicherung</string>
-  <string name="cloud_backup_hint">Anmelden, um Deine Sicherungen sicher zu speichern und wiederherzustellen</string>
+  <string name="cloud_backup_hint">Anmelden, um deine Sicherungen sicher zu speichern und wiederherzustellen</string>
   <string name="cloud_backup_login">Mit Xiaomi-Konto anmelden</string>
   <string name="cloud_backup_window_title">Cloud Backup</string>
   <string name="cloud_home_title">Cloud</string>
@@ -77,8 +77,8 @@
   <string name="enable_encrypt_fail">Aktivieren der Verschlüsselung fehlgeschlagen</string>
   <string name="enable_encrypt_indicator">Sicherungen sind nicht verschlüsselt. Zum Aktivieren hier berühren.</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">"Das System wird Deine lokalen Sicherungen, basierend auf Deinem Xiaomi-Konto, verschlüsseln. Du musst mit Deinem Xiaomi-Konto angemeldet sein, um Daten zu entfernen, oder um die Sicherung auf anderen Geräten wiederherstellen zu können."</string>
-  <string name="enable_encrypt_summery2">"Neue Sicherungen werden automatisch verschlüsselt. Du musst mit Deinem Xiaomi-Konto angemeldet sein, um Daten zu entfernen, oder um die Sicherung auf anderen Geräten wiederherstellen zu können."</string>
+  <string name="enable_encrypt_summery1">"Das System wird deine lokalen Sicherungen, basierend auf deinem Xiaomi-Konto, verschlüsseln. Du musst mit deinem Xiaomi-Konto angemeldet sein, um Daten zu entfernen oder um die Sicherung auf anderen Geräten wiederherstellen zu können."</string>
+  <string name="enable_encrypt_summery2">"Neue Sicherungen werden automatisch verschlüsselt. Du musst mit deinem Xiaomi-Konto angemeldet sein, um Daten zu entfernen oder um die Sicherung auf anderen Geräten wiederherstellen zu können."</string>
   <string name="enable_encrypt_title">Verschlüsselung aktivieren</string>
   <string name="enable_encrypt_xiaomi_account">Diese Sicherung wurde von %1$s erstellt. Bitte entferne das aktuelle Benutzerkonto und melde dich mit %2$s an, um die Daten wiederherstellen zu können.</string>
   <string name="exchange_account">Exchange-Konto</string>

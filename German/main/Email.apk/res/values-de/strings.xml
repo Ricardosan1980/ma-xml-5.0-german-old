@@ -15,7 +15,7 @@
   <string name="account_password_spaces_error">Dieses Passwort beginnt oder endet mit einem oder mehreren Leerzeichen. Viele Server unterstützen keine Passwörter mit Leerzeichen.</string>
   <string name="account_security_dialog_content_fmt">%s erfordert, dass du deine Sicherheitseinstellungen aktualisierst.</string>
   <string name="account_security_dialog_title">Sicherheitsupdate</string>
-  <string name="account_security_policy_explanation_fmt">Der Server %s fordert die Erlaubnis zur Remote-Steuerung einiger Sicherheitsfunktionen auf Deinem Android-Gerät an.</string>
+  <string name="account_security_policy_explanation_fmt">Der Server %s fordert die Erlaubnis zur Remote-Steuerung einiger Sicherheitsfunktionen auf deinem Android-Gerät an.</string>
   <string name="account_security_title">Gerätesicherheit</string>
   <string name="account_security_waiting_policy_key_message">%s benötigt Sicherheitseinstellungsinformationen vom Server. Bitte warten...</string>
   <string name="account_settings_action">Kontoeinstellungen</string>
@@ -95,7 +95,7 @@
   <string name="account_setup_failed_auth_required">Authentifizierungsmethoden werden nicht vom Server unterstützt.</string>
   <string name="account_setup_failed_certificate_inaccessible">Zertifikat ist ungültig oder nicht aufrufbar.</string>
   <string name="account_setup_failed_certificate_required">Client-Zertifikat ist erforderlich. Verbindung zu einem Server mit Client-Zertifikat herstellen?</string>
-  <string name="account_setup_failed_check_credentials_message">Der Server hat einen Fehler zurückgegeben. Bitte überprüfe Deinen Benutzernamen und dein Passwort und versuche es erneut.</string>
+  <string name="account_setup_failed_check_credentials_message">Der Server hat einen Fehler zurückgegeben. Bitte überprüfe deinen Benutzernamen und dein Passwort und versuche es erneut.</string>
   <string name="account_setup_failed_dlg_auth_message">Benutzername oder Passwort falsch</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Benutzername/Password falsch
 (%s)"</string>
@@ -171,7 +171,7 @@
   <string name="account_setup_outgoing_smtp_server_label">SMTP-Server</string>
   <string name="account_setup_outgoing_title">Kontoeinrichtung</string>
   <string name="account_setup_outgoing_username_label">Benutzername</string>
-  <string name="account_setup_security_policies_required_fmt">Der Server %s fordert die Erlaubnis zur Remote-Steuerung einiger Sicherheitsfunktionen auf Deinem Android-Gerät an. Möchtest du die Einrichtung dieses Kontos abschließen?</string>
+  <string name="account_setup_security_policies_required_fmt">Der Server %s fordert die Erlaubnis zur Remote-Steuerung einiger Sicherheitsfunktionen auf deinem Android-Gerät an. Möchtest du die Einrichtung dieses Kontos abschließen?</string>
   <string name="account_setup_security_required_title">Remote-Sicherheitsverwaltung</string>
   <string name="account_setup_username_password_toast">Gib eine gültige E-Mail-Adresse und ein gültiges Passwort ein.</string>
   <string name="account_setup_username_uneditable_error">Du kannst Benutzernamen von Konten nicht ändern. Wähle \"Konto hinzufügen\" aus, um ein Konto mit einem anderen Benutzernamen hinzuzufügen.</string>
@@ -436,7 +436,7 @@ Cc: %4$s
   <string name="password_expire_warning_dialog_title">Passwort für Bildschirmsperre läuft ab</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" erfordert, dass du PIN bzw. Passwort für die Display-Sperre änderst.</string>
   <string name="password_expired_content_title">Sperr-Passwort abgelaufen</string>
-  <string name="password_expired_dialog_content_fmt">Die Daten für %s werden von Deinem Gerät gelöscht. Du kannst sie wiederherstellen, indem du deine PIN bzw. dein Passwort zum Sperren des Bildschirms änderst. Jetzt ändern?</string>
+  <string name="password_expired_dialog_content_fmt">Die Daten für %s werden von deinem Gerät gelöscht. Du kannst sie wiederherstellen, indem du deine PIN bzw. dein Passwort zum Sperren des Bildschirms änderst. Jetzt ändern?</string>
   <string name="password_expired_dialog_title">Sperr-Passwort abgelaufen</string>
   <string name="password_expired_ticker">Deine PIN bzw. dein Passwort zum Sperren des Bildschirms ist abgelaufen.</string>
   <string name="pause_state_low_battery">Ausgesetzt - Akku schwach</string>

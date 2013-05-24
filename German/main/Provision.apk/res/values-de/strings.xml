@@ -16,7 +16,7 @@
   <string name="other_service_permission_manager">App-Berechtigungen verwalten</string>
   <string name="other_service_permission_manager_summary">Überwache Apps auf Sicherheit und Privatsphäre</string>
   <string name="other_service_user_experience">Dem User Experience-Programm beitreten</string>
-  <string name="other_service_user_experience_summary0">"Wir verlassen uns darauf, dass du unser Produkt und dessen Besonderheiten nutzt und hoffen, dass du uns mit Deinem Feedback hilfst."</string>
+  <string name="other_service_user_experience_summary0">"Wir verlassen uns darauf, dass du unser Produkt und dessen Besonderheiten nutzt und hoffen, dass du uns mit deinem Feedback hilfst."</string>
   <string name="other_service_user_experience_summary1">Danke, MIUI-Team</string>
   <string name="setup_complete_info">Service wird aktiviert, sobald du dein Telefon das erste Mal benutzt</string>
   <string name="setup_complete_label">Setup abgeschlossen</string>

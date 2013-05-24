@@ -258,7 +258,7 @@
   <string name="device_xiaomi">Xiaomi Telefon</string>
   <string name="double_seventh_day">Chinesischer Valentinstag</string>
   <string name="emergency_call_string">Notruf</string>
-  <string name="error_forbidden">Es gibt Probleme mit Deinem Benutzerkonto. Synchronisierung wurde deaktiviert.</string>
+  <string name="error_forbidden">Es gibt Probleme mit deinem Benutzerkonto. Synchronisierung wurde deaktiviert.</string>
   <string name="error_not_acceptable">Es ist ein Serverfehler aufgetreten. Synchronisierung wurde deaktiviert.</string>
   <string name="error_title">Synchronisierungsfehler für %s</string>
   <string name="error_unauthorized">Zu viele Fehler bei der Konto-Authentifizierung. Synchronisierung wurde deaktiviert.</string>
@@ -387,7 +387,7 @@
   <string name="perm_tigger_toggle_dspt">Apps erlauben, Einstellungen in der Statusleiste umzuschalten</string>
   <string name="perm_tigger_toggle_lab">Einstellungen der Statusleiste umschalten</string>
   <string name="perm_use_find_device">Gerät orten</string>
-  <string name="permdesc_accessNote">Erlaubt es der App, auf Deinem Telefon gespeicherten Notizen zu lesen und zu bearbeiten. Schädliche Anwendungen könnten dies verwenden, um deine Notizen an Andere zu senden oder alle Notizen zu löschen.</string>
+  <string name="permdesc_accessNote">Erlaubt es der App, auf deinem Telefon gespeicherten Notizen zu lesen und zu bearbeiten. Schädliche Anwendungen könnten dies verwenden, um deine Notizen an Andere zu senden oder alle Notizen zu löschen.</string>
   <string name="permlab_accessNote">Auf Notizen zugreifen</string>
   <string name="pin_operation_failed">PIN-Vorgang fehlgeschlagen.</string>
   <string name="pincode_set_to_default_msg">PIN-Code ist auf 1234 gesetzt worden, bitte setze den PIN hier zurück.</string>

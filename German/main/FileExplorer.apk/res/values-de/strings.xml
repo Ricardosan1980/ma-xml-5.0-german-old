@@ -116,7 +116,7 @@ Junk"</string>
   <string name="header_text_cleaning">Lösche Junk-Reste</string>
   <string name="header_text_scanned">Junk-Dateien zum löschen gefunden</string>
   <string name="header_text_scanning">Scanne Junk-Files…</string>
-  <string name="instruction">Gib die folgende Adresse in Deinem FTP-Client ein:</string>
+  <string name="instruction">Gib die folgende Adresse in deinem FTP-Client ein:</string>
   <string name="instruction_pre">Dienst starten, um FTP-Server zu aktivieren</string>
   <string name="kingsoft_account">MiDrive-Konto</string>
   <string name="kuaipan_over_space">Dein MiDrive hat keinen Speicherplatz mehr.</string>
@@ -264,7 +264,7 @@ Junk"</string>
   <string name="user_guide_kuaipan_copy">"Greife auf verschiedenen Geräten auf deine Daten zu, indem du auf MiDrive hochlädst"</string>
   <string name="user_guide_other_version">Lade alternative Versionen von MiDrive herunter</string>
   <string name="user_guide_summary">Wie man MiDrive verwendet</string>
-  <string name="user_guide_upload_to_kuaipan">"Kopiere und füge Daten von Deinem Telefon in MiDrive ein"</string>
+  <string name="user_guide_upload_to_kuaipan">"Kopiere und füge Daten von deinem Telefon in MiDrive ein"</string>
   <string name="utf8_summary">Standardkodierungstyp</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">Version %1$s</string>

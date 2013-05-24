@@ -211,8 +211,8 @@
   <string name="sdcard_busy_message_nosdcard">Leider ist der SD-Karten-Speicher beschäftigt.</string>
   <string name="sdcard_error_message">Bei der SD-Karte ist ein Fehler aufgetreten.</string>
   <string name="sdcard_error_message_nosdcard">Im SD-Karten-Speicher ist ein Fehler aufgetreten.</string>
-  <string name="sdcard_missing_message">In Deinem Telefon ist keine SD-Karte eingelegt.</string>
-  <string name="sdcard_missing_message_nosdcard">In Deinem Telefon steht kein SD-Karten-Speicher zur Verfügung.</string>
+  <string name="sdcard_missing_message">In deinem Telefon ist keine SD-Karte eingelegt.</string>
+  <string name="sdcard_missing_message_nosdcard">In deinem Telefon steht kein SD-Karten-Speicher zur Verfügung.</string>
   <string name="search_hint">Musik durchsuchen</string>
   <string name="search_settings_description">Künstker, Alben und Lieder</string>
   <string name="search_suggestion">Suchvorschläge:</string>

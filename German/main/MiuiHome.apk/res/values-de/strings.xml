@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found">Die Anwendung ist auf Deinem Telefon nicht installiert.</string>
+  <string name="activity_not_found">Die Anwendung ist auf deinem Telefon nicht installiert.</string>
   <string name="application_name">MiuiHome</string>
   <string name="aqi_quality_index_dangerous">Gefährlich</string>
   <string name="aqi_quality_index_good">Gut</string>

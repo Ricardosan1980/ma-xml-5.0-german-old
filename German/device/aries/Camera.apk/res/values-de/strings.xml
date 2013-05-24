@@ -388,7 +388,7 @@
   <string name="simple_mode_button_text_hdr">HDR-Modus verlassen</string>
   <string name="simple_mode_button_text_panorama">Panorama-Modus verlassen</string>
   <string name="simple_mode_button_text_slow_video">Zeitlupe verlassen</string>
-  <string name="simple_mode_title">Einfacher Modus</string> 
+  <string name="simple_mode_title">Einfacher Modus</string>
   <string name="skip">Überspringen</string>
   <string name="slideshow">Diaschau</string>
   <string name="snapshot_lower_than_video">Video-Schnappschuss-Größe ist kleiner als Videogröße. Verringere Videogröße. Bitte eine gleiche oder höhere Auflösung wählen.</string>

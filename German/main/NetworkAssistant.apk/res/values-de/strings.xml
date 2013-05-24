@@ -140,7 +140,7 @@
   <string name="traffic_used_status">"Verbraucht: 
 %s"</string>
   <string name="unknown">unbekannt</string>
-  <string name="unknown_free_traffic_hint">"Falls du dein Datenvolumen nicht weisst, informiere dich bitte bei Deinem Mobilfunkanbieter"</string>
+  <string name="unknown_free_traffic_hint">"Falls du dein Datenvolumen nicht weisst, informiere dich bitte bei deinem Mobilfunkanbieter"</string>
   <string name="unknown_free_traffic_text">"Datenvolumen unbekannt?"</string>
   <string name="unknown_free_traffic_title">Unbekanntes Datenvolumen</string>
   <string name="unknown_location">Unbekannter Standort</string>

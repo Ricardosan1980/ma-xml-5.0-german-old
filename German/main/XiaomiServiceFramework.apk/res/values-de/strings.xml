@@ -195,7 +195,7 @@
   <string name="recharge_other">Wähle eine andere Zahlungsmethode</string>
   <string name="recharge_pcpay_summary">Zahlunger per Computer unterstützt andere Methoden und Limits</string>
   <string name="recharge_pcpay_title">Topup mit Computer</string>
-  <string name="recharge_prepaid_summary"> China Mobile, China Unicom and China Telecom topup Karten unterstützt</string>
+  <string name="recharge_prepaid_summary">China Mobile, China Unicom and China Telecom topup Karten unterstützt</string>
   <string name="recharge_prepaid_title">Prepaid topup-Karten</string>
   <string name="recharge_record">Topup-Verlauf</string>
   <string name="recharge_record_empty">Kein Topup-Verlauf</string>
@@ -209,7 +209,7 @@
   <string name="reg_type_phone">Mit Telefon registrieren (Empfohlen)</string>
   <string name="reging">Registrierung, bitte warten…</string>
   <string name="relogin">Login</string>
-  <string name="remove_account_notice">Was möchtst du mit den bereits synchronisierten Nachrichten, Kontakten, Anruflisten und Notizen auf Deinem Telefon machen?</string>
+  <string name="remove_account_notice">Was möchtst du mit den bereits synchronisierten Nachrichten, Kontakten, Anruflisten und Notizen auf deinem Telefon machen?</string>
   <string name="remove_confirm">Löschen</string>
   <string name="remove_unactivated_account_notice">Dieses Xiaomi-Konto ist nicht aktiviert, möchtest du es löschen?</string>
   <string name="removing_account">Entferne Konto...</string>
@@ -219,7 +219,7 @@
   <string name="sim_changed_notification_content">SIM deaktiviert, bitte erneut aktivieren</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Login überspringen</string>
-  <string name="skip_setup_account_msg">Mit Deinem Xiaomi-Konto kannst du deine SMS, Kontakte, Fotos, Notizen usw. synchronisieren und speichern. Fortfahren und später einrichten?</string>
+  <string name="skip_setup_account_msg">Mit deinem Xiaomi-Konto kannst du deine SMS, Kontakte, Fotos, Notizen usw. synchronisieren und speichern. Fortfahren und später einrichten?</string>
   <string name="skip_setup_account_title">Account-Einstellungen überspringen</string>
   <string name="sync_dspt">Xiaomi-Konto zur Synchronisierung nutzen</string>
   <string name="sync_off">Aus</string>
@@ -252,7 +252,7 @@
   <string name="voucher_edit_hint">Passwort:</string>
   <string name="voucher_edit_limit">Limit ändern</string>
   <string name="voucher_empty">Keine gespeicherten Mi-Credit Daten</string>
-  <string name="voucher_error_code">Es gibt ein Problem mit Deinem Mi-Credit-Gutschein Code</string>
+  <string name="voucher_error_code">Es gibt ein Problem mit deinem Mi-Credit-Gutschein Code</string>
   <string name="voucher_exchange">Austausch</string>
   <string name="voucher_exchange_count">Gutschein verwendet (%1$s)</string>
   <string name="voucher_exchange_success">%1$s Mi-Credit(s) Einlösung abgeschlossen</string>

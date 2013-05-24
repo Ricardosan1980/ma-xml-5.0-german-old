@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="cit_OTG_plugin_check_summary">Dieser Test erkennt ein OTG-Gerät.</string>
-  <string name="cit_OTG_plugin_check_title"> Starte OTG-Test</string>
-  <string name="cit_OTG_plugout_check_summary"> Dieser Test erkennt, ob ein OTG-Gerät angeschlossen ist.</string>
+  <string name="cit_OTG_plugin_check_title">Starte OTG-Test</string>
+  <string name="cit_OTG_plugout_check_summary">Dieser Test erkennt, ob ein OTG-Gerät angeschlossen ist.</string>
   <string name="cit_OTG_plugout_check_title">OTG Entfernt Status</string>
   <string name="cit_OTG_waiting_in">Bitte USB-OTG-Gerät anschließen.</string>
   <string name="cit_OTG_waiting_out">Bitte USB-OTG-Gerät entfernen.</string>
@@ -68,7 +68,7 @@
 2. Drücke auf Kamera
 3. Drücke auf den OK-Button, das System speichert das Bild automatisch
 4. Schaue dir die Vorschau an. Wenn du zufrieden bist, kannst du sie löschen."</string>
-  <string name="cit_front_camera_check_title"> Frontkamera testen (Frontkamera)</string>
+  <string name="cit_front_camera_check_title">Frontkamera testen (Frontkamera)</string>
   <string name="cit_gps_check_summary">Dieser Test zeigt GPS-Informationen</string>
   <string name="cit_gps_check_title">Teste GPS</string>
   <string name="cit_gps_disabled">"GPS ist nicht aktiviert. Aktiviere GPS über die Schnellauswahl"</string>
@@ -224,8 +224,8 @@
   <string name="cit_tool_wifi_tx_n_txrt">Datenrate: MCS</string>
   <string name="cit_torch_off">Taschenlampe ausschalten</string>
   <string name="cit_torch_on">Taschenlampe einschalten</string>
-  <string name="cit_usb_OTG_in"> USB-OTG-Gerät ist verbunden </string>
-  <string name="cit_usb_OTG_out"> USB-OTG-Gerät ist nicht verbunden </string>
+  <string name="cit_usb_OTG_in">USB-OTG-Gerät ist verbunden </string>
+  <string name="cit_usb_OTG_out">USB-OTG-Gerät ist nicht verbunden </string>
   <string name="cit_usb_charger_in">USB-Ladegerät ist verbunden</string>
   <string name="cit_usb_charger_out">USB-Ladegerät ist nicht verbunden</string>
   <string name="cit_version_check_summary">Die folgenden Hard- und Software-Versionen wurden gefunden:</string>

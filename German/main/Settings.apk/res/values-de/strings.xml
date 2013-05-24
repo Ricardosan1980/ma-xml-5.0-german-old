@@ -13,11 +13,11 @@
   <string name="access_control_app_entry_single">Gewählte Anwendung öffnen</string>
   <string name="access_control_need_to_unlock">Passwort zum Entsperren benötigt</string>
   <string name="access_control_need_password">"%s wurde geschützt 
-"</string> 
+"</string>
   <string name="access_control_no_back_footer">Drücke zum Verlassen auf [icon]</string>
   <string name="access_control_password_title">Passwort aktivieren</string>
   <string name="access_control_recording_intro_header">Zeichne ein Muster, um die Sperre zu aktivieren</string>
-  <string name="access_control_reset_by_account">Melde dich mit Deinem Xiaomi-Konto an, um das Passwort für die Zugriffskontrolle zurückzusetzen</string>
+  <string name="access_control_reset_by_account">Melde dich mit deinem Xiaomi-Konto an, um das Passwort für die Zugriffskontrolle zurückzusetzen</string>
   <string name="accessibility_enable">Bedienhilfe aktivieren</string>
   <string name="accessibility_long_press_timeout_title">Druck- &amp; Halteverzögerung</string>
   <string name="accessibility_menu_item_settings">Einstellungen</string>
@@ -53,7 +53,7 @@
   <string name="active_device_admin_msg">Geräte-Administrator</string>
   <string name="active_input_method_subtypes">Aktive Eingabe-Methoden</string>
   <string name="activity_picker_label">Aktion wählen</string>
-  <string name="adb_warning_message">USB-Debugging ist ausschließlich für Entwickler-Zwecke. Benutze es, um Daten zwischen Deinem Computer und Handy zu kopieren, Apps ohne Benachrichtigung zu installieren oder um Log-Daten auszulesen.</string>
+  <string name="adb_warning_message">USB-Debugging ist ausschließlich für Entwickler-Zwecke. Benutze es, um Daten zwischen deinem Computer und Handy zu kopieren, Apps ohne Benachrichtigung zu installieren oder um Log-Daten auszulesen.</string>
   <string name="adb_warning_title">USB-Debugging erlauben?</string>
   <string name="add_account_label">Konto hinzufügen</string>
   <string name="add_device_admin">Aktivieren</string>
@@ -519,9 +519,9 @@ Die Verschlüsselung dauert eine Stunde oder länger. Du musst mit einem voll ge
   <string name="crypt_keeper_encrypt_title">Telefon verschlüsseln</string>
   <string name="crypt_keeper_encrypted_summary">Verschlüsselt</string>
   <string name="crypt_keeper_enter_password">Passwort eingeben</string>
-  <string name="crypt_keeper_failed_summary">"Verschlüsselung wurde unterbrochen und konnte nicht abgeschlossen werden. Aus diesem Grund sind die Daten auf Deinem Telefon nicht mehr verfügbar. 
+  <string name="crypt_keeper_failed_summary">"Verschlüsselung wurde unterbrochen und konnte nicht abgeschlossen werden. Aus diesem Grund sind die Daten auf deinem Telefon nicht mehr verfügbar. 
 
-Um das Telefon erneut zu benutzen, muss es auf Werkseinstellungen zurückgesetzt werden. Wenn du das Telefon danach einrichtest, hast du die Möglichkeit, alle Daten, die auf Deinem Google-Konto gesichert wurden, wiederherzustellen."</string>
+Um das Telefon erneut zu benutzen, muss es auf Werkseinstellungen zurückgesetzt werden. Wenn du das Telefon danach einrichtest, hast du die Möglichkeit, alle Daten, die auf deinem Google-Konto gesichert wurden, wiederherzustellen."</string>
   <string name="crypt_keeper_failed_title">Verschlüsselung nicht erfolgreich</string>
   <string name="crypt_keeper_final_desc">Telefon verschlüsseln? Dieser Vorgang ist nicht umkehrbar und führt bei Unterbrechung zu Datenverlust. Die Verschlüsselung dauert eine Stunde oder länger, währenddessen wird das Telefon mehrfach neu gestartet.</string>
   <string name="crypt_keeper_low_charge_text">Lade Deinen Akku auf und versuche es erneut.</string>
@@ -542,7 +542,7 @@ Um das Telefon erneut zu benutzen, muss es auf Werkseinstellungen zurückgesetzt
   <string name="data_usage_app_restrict_background_summary_disabled">Um Hintergrunddaten für diese Anwendung einzuschränken, muss zunächst ein Limit für Mobilfunk-Daten gesetzt werden.</string>
   <string name="data_usage_app_restrict_dialog">"Dieses Feature könnte dazu führen, das Anwendungen, die mit Hintergrunddaten arbeiten, nicht mehr funktionieren wenn kein WLAN-Netzwerk verfügbar ist.
 
-Du kannst innerhalb der Anwendung bessere Datenverbrauchs-Einstellungen finden."</string>  
+Du kannst innerhalb der Anwendung bessere Datenverbrauchs-Einstellungen finden."</string>
   <string name="data_usage_app_restrict_dialog_title">Hintergrunddaten einschränken?</string>
   <string name="data_usage_app_restricted">Eingeschränkt</string>
   <string name="data_usage_app_settings">Zeige Anwendungseinstellungen</string>
@@ -1043,7 +1043,7 @@ Du bist derzeit mit folgenden Konten angemeldet:
 Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden."</string>
   <string name="master_clear_button_text">Telefon zurücksetzen</string>
   <string name="master_clear_confirm_title">Zurücksetzen?</string>
-  <string name="master_clear_desc">"Dies löscht alle Daten auf Deinem Telefon"</string>
+  <string name="master_clear_desc">"Dies löscht alle Daten auf deinem Telefon"</string>
   <string name="master_clear_desc_also_erases_external" />
   <string name="master_clear_desc_erase_external_storage">"
 
@@ -1384,7 +1384,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="privacy_settings_title">Sichern &amp; Wiederherstellen</string>
   <string name="private_sms_need_to_unlock">Bitte persönliches SMS-Passwort eingeben</string>
   <string name="private_sms_recording_intro_header">Zeichne ein Muster, um ein Entsperrmuster zu erstellen</string>
-  <string name="private_sms_reset_by_account">Bitte melde dich in Deinem Xiaomi-Konto an, um dein persönliches SMS-Passwort zurückzusetzen</string>
+  <string name="private_sms_reset_by_account">Bitte melde dich in deinem Xiaomi-Konto an, um dein persönliches SMS-Passwort zurückzusetzen</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Provider %1$s in Benutzung.</string>
@@ -2291,7 +2291,7 @@ Verbleibende Versuche :"</string>
   <string name="wifi_wps_failed_tkip">Die Sicherheitseinstellung des Routers (TKIP) wird nicht unterstützt</string>
   <string name="wifi_wps_failed_wep">Die Sicherheitseinstellung des Routers (WEP) wird nicht unterstützt</string>
   <string name="wifi_wps_in_progress">WPS in Bearbeitung, dies kann bis zu zwei Minuten dauern</string>
-  <string name="wifi_wps_onstart_pbc">Drücke den WPS-Knopf an Deinem Router. Er heißt eventuell \"WPS\" oder enthält dieses Symbol:</string>
+  <string name="wifi_wps_onstart_pbc">Drücke den WPS-Knopf an deinem Router. Er heißt eventuell \"WPS\" oder enthält dieses Symbol:</string>
   <string name="wifi_wps_onstart_pin">Bitte den PIN %1$s auf dem WLAN-Router eingeben. Das Setup kann bis zu zwei Minuten dauern.</string>
   <string name="wifi_wps_overlap_error">Es wurde eine andere WPS-Sitzung gefunden. Bitte in ein paar Minuten erneut versuchen.</string>
   <string name="wifi_wps_setup_msg">Starte WPS...</string>
