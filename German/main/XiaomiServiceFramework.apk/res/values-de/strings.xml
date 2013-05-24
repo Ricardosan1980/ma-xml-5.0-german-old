@@ -3,7 +3,7 @@
   <string name="access_denied">Zugriff verweigert</string>
   <string name="account">Konto</string>
   <string name="account_detail">Xiaomi-Konto: %1$s</string>
-  <string name="account_dspt">"Das Xiaomi-Konto kann Deine Nachrichten, Kontakte, Bilder etc. synchronisieren und sichern"</string>
+  <string name="account_dspt">"Das Xiaomi-Konto kann deine Nachrichten, Kontakte, Bilder etc. synchronisieren und sichern"</string>
   <string name="account_hint_text">E-Mail/Telefonnummer</string>
   <string name="account_name">Account: %1$s</string>
   <string name="activating">Aktiviere...</string>
@@ -43,7 +43,7 @@
   <string name="disable_find_device_error">%1$s, Deaktivierung der Lokalisierungsfunktion fehlgeschlagen</string>
   <string name="email_already_be_used">E-Mail-Adresse schon in Benutzung</string>
   <string name="enable_find_device_error">%1$s, Aktivierung der Lokalisierungsfunktion fehlgeschlagen</string>
-  <string name="error_account_changed_summary">Dein Xiaomi-Konto wurde aktualisiert. Bitte überprüfe Deine Angaben und versuche es noch einmal</string>
+  <string name="error_account_changed_summary">Dein Xiaomi-Konto wurde aktualisiert. Bitte überprüfe deine Angaben und versuche es noch einmal</string>
   <string name="error_account_changed_title">Konto aktualisiert</string>
   <string name="error_auth_summary">Konto-Authentifizierung fehlgeschlagen, bitte erneut versuchen</string>
   <string name="error_auth_title">Konto-Fehler</string>
@@ -59,7 +59,7 @@
   <string name="error_illegal_order_title">Bestellfehler!</string>
   <string name="error_mili_title">Keine ausreichenden Mi-Credits</string>
   <string name="error_network">Netzwerkfehler</string>
-  <string name="error_network_summary">Ein Netzwerkfehler ist aufgetreten. Bitte überprüfe Deine Verbindung und versuche es erneut</string>
+  <string name="error_network_summary">Ein Netzwerkfehler ist aufgetreten. Bitte überprüfe deine Verbindung und versuche es erneut</string>
   <string name="error_network_title">Netzwerkfehler</string>
   <string name="error_no_sms_service">SMS-Dienst nicht verfügbar</string>
   <string name="error_server">Serverfehler</string>
@@ -67,7 +67,7 @@
   <string name="error_server_title">Serverfehler</string>
   <string name="error_sim_not_ready">SIM nicht bereit</string>
   <string name="error_unknown">Unbekannter Fehler: %1$s</string>
-  <string name="error_user_id_mismatch_summary">Bitte überprüfe Deine Kontodetails und versuche es erneut</string>
+  <string name="error_user_id_mismatch_summary">Bitte überprüfe deine Kontodetails und versuche es erneut</string>
   <string name="error_user_id_mismatch_title">Authentifizierungs-Fehler!</string>
   <string name="error_verify_summary">Anwendung hat nicht die Erlaubnis, diesen Service anzufragen</string>
   <string name="failed_to_send_activate_email">Senden der Aktivierungs-E-Mail fehlgeschlagen</string>
@@ -90,7 +90,7 @@
   <string name="header_data_and_synchronization">Daten &amp; Synchronisierung</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Passwort eingeben</string>
-  <string name="int_phone_user_notice">Wenn du eine Telefonnummer ausserhalb von China registrierst, verwende bitte auch Deine Landesvorwahl, z.B. +43xxxxxxxxx</string>
+  <string name="int_phone_user_notice">Wenn du eine Telefonnummer ausserhalb von China registrierst, verwende bitte auch deine Landesvorwahl, z.B. +43xxxxxxxxx</string>
   <string name="label_order_name">Name: </string>
   <string name="label_order_price">Anzahl: </string>
   <string name="login">Login</string>
@@ -123,7 +123,7 @@
   <string name="micloud_resend_active_email">Aktivierungs-Mail erneut senden</string>
   <string name="micloud_use_existing">Vorhanden</string>
   <string name="micloud_via_int_sms_alert">Es wird eine internationale SMS zu den Anbieter üblichen Kosten geschickt. Fortfahren?</string>
-  <string name="micloud_via_sms_alert">Es wird eine SMS geschickt um Deine Telefonnummer zu bestätigen. Fortfahren?</string>
+  <string name="micloud_via_sms_alert">Es wird eine SMS geschickt um deine Telefonnummer zu bestätigen. Fortfahren?</string>
   <string name="micloud_welcome_skip_login">Anmeldung überspringen</string>
   <string name="mili_center">Mi-Credit Zentrale</string>
   <string name="next">Weiter</string>
@@ -219,7 +219,7 @@
   <string name="sim_changed_notification_content">SIM deaktiviert, bitte erneut aktivieren</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Login überspringen</string>
-  <string name="skip_setup_account_msg">Mit Deinem Xiaomi-Konto kannst du Deine SMS, Kontakte, Fotos, Notizen usw. synchronisieren und speichern. Fortfahren und später einrichten?</string>
+  <string name="skip_setup_account_msg">Mit Deinem Xiaomi-Konto kannst du deine SMS, Kontakte, Fotos, Notizen usw. synchronisieren und speichern. Fortfahren und später einrichten?</string>
   <string name="skip_setup_account_title">Account-Einstellungen überspringen</string>
   <string name="sync_dspt">Xiaomi-Konto zur Synchronisierung nutzen</string>
   <string name="sync_off">Aus</string>
@@ -238,7 +238,7 @@
   <string name="unactivated_user">Deaktiviert</string>
   <string name="unbind">Authorisierung widerrufen</string>
   <string name="update_contacts">Kontakte aktualisieren</string>
-  <string name="update_contacts_description">Aktualisiere Deine Telefon-Kontakte und andere Informationen</string>
+  <string name="update_contacts_description">Aktualisiere deine Telefon-Kontakte und andere Informationen</string>
   <string name="updated_contacts">%s Kontakte aktualisiert</string>
   <string name="user_agreement_p1">"Durch die Registrierung stimmst du den "</string>
   <string name="user_agreement_p2">Xiaomi-Nutzungsbedingungen</string>

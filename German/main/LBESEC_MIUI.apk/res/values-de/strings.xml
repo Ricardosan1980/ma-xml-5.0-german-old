@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Anwendungen</string>
-  <string name="Dashboard_HIPS_Disable_Content">Bei Deaktivierung werden Anwendungen nicht mehr überwacht und Deine Sicherheit und Privatsphäre ist nicht mehr gewährleistet. Soll dies wirklich deaktiviert werden?</string>
+  <string name="Dashboard_HIPS_Disable_Content">Bei Deaktivierung werden Anwendungen nicht mehr überwacht und deine Sicherheit und Privatsphäre ist nicht mehr gewährleistet. Soll dies wirklich deaktiviert werden?</string>
   <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
   <string name="Dashboard_Log">Protokolle</string>
   <string name="Dashboard_Log_Clear_Content">Alle Protokolle werden gelöscht. Fortfahren?</string>
@@ -77,8 +77,8 @@
   <string name="HIPS_Perm_Call">Telefonat</string>
   <string name="HIPS_Perm_CallLog">Anrufliste</string>
   <string name="HIPS_Perm_CallLog_Access">Deine Anrufliste lesen</string>
-  <string name="HIPS_Perm_CallLog_Desc">Auf Deine Anrufliste zugreifen</string>
-  <string name="HIPS_Perm_CallLog_Hint">%1$s Anwendungen haben die Berechtigung, auf Deine Anrufliste zuzugreifen</string>
+  <string name="HIPS_Perm_CallLog_Desc">Auf deine Anrufliste zugreifen</string>
+  <string name="HIPS_Perm_CallLog_Hint">%1$s Anwendungen haben die Berechtigung, auf deine Anrufliste zuzugreifen</string>
   <string name="HIPS_Perm_CallMonitor">Anrufüberwachung</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Ein- und ausgehende Anrufe überwachen, die Lautstärke anpassen, etc.</string>
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s Anwendungen haben die Berechtigung, ein- und ausgehende Anrufe zu überwachen und die Lautstärke anzupassen.</string>
@@ -91,8 +91,8 @@
   <string name="HIPS_Perm_CancelMissedCalls">Benachrichtigungen über verpasste Anrufe löschen</string>
   <string name="HIPS_Perm_Contact">Kontakte</string>
   <string name="HIPS_Perm_Contact_Access">Deine Kontaktliste lesen</string>
-  <string name="HIPS_Perm_Contact_Desc">Auf Deine Kontaktliste zugreifen</string>
-  <string name="HIPS_Perm_Contact_Hint">%1$s Anwendungen haben die Berechtigung, auf Deine Kontaktliste zuzugreifen</string>
+  <string name="HIPS_Perm_Contact_Desc">Auf deine Kontaktliste zugreifen</string>
+  <string name="HIPS_Perm_Contact_Hint">%1$s Anwendungen haben die Berechtigung, auf deine Kontaktliste zuzugreifen</string>
   <string name="HIPS_Perm_EndCall">Den aktuellen Anruf beenden</string>
   <string name="HIPS_Perm_GetCallState">Den aktuellen Anrufstatus erhalten</string>
   <string name="HIPS_Perm_ListenCallState">Den Anrufstatus überwachen</string>

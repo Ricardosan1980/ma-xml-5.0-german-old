@@ -330,7 +330,7 @@
 Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Benötigt 16-stelligen PIN]"</string>
   <string name="bluetooth_enter_pin_other_device">Dieser PIN muss eventuell auch auf dem anderen Gerät eingegeben werden.</string>
   <string name="bluetooth_error_title" />
-  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s möchte auf Deine Dateien und Ordner zugreifen. %2$s Zugriff erlauben?</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s möchte auf deine Dateien und Ordner zugreifen. %2$s Zugriff erlauben?</string>
   <string name="bluetooth_ftp_connection_permission_request">FTP-Verbindungsanfrage</string>
   <string name="bluetooth_ftp_remember_choice">"Nicht erneut fragen"</string>
   <string name="bluetooth_ftp_request">FTP-Andrage</string>
@@ -344,7 +344,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="bluetooth_lock_voice_dialing">Sprachwahl sperren</string>
   <string name="bluetooth_lock_voice_dialing_summary">Sperrt die Sprachwahl über Bluetooth, wenn das Gerät benutzt wird</string>
   <string name="bluetooth_map_connection_permission_request">Karten-Verbindungsanfrage</string>
-  <string name="bluetooth_mas_acceptance_dialog_text">%1$s möchte Deine auf Deine Nachrichten zugreifen. %2$s Zugriff erlauben?</string>
+  <string name="bluetooth_mas_acceptance_dialog_text">%1$s möchte auf deine Nachrichten zugreifen. %2$s Zugriff erlauben?</string>
   <string name="bluetooth_mas_remember_choice">"Nicht erneut fragen"</string>
   <string name="bluetooth_mas_request">Nachrichten-Zugriffsanfrage</string>
   <string name="bluetooth_menu_advanced">Erweitert</string>
@@ -371,7 +371,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="bluetooth_pan_nap_profile_summary_connected">Teilt lokale Internetverbindung mit Gerät</string>
   <string name="bluetooth_pan_profile_summary_use_for">Für Internetverbindung nutzen</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Für Internetverbindung mit Gerät verbunden</string>
-  <string name="bluetooth_pb_acceptance_dialog_text">%1$s möchte auf Deine Kontakte und Anrufliste zugreifen. %2$s Zugriff erlauben?</string>
+  <string name="bluetooth_pb_acceptance_dialog_text">%1$s möchte auf deine Kontakte und Anrufliste zugreifen. %2$s Zugriff erlauben?</string>
   <string name="bluetooth_pb_remember_choice">"Nicht erneut fragen"</string>
   <string name="bluetooth_pbap_connection_permission_request">PBAP-Verbindungsanfrage</string>
   <string name="bluetooth_permission_request">Bluetooth-Zugriffsanfrage</string>
@@ -394,7 +394,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_rename_button">Umbenennen</string>
   <string name="bluetooth_rename_device">Telefon umbenennen</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s möchte auf Deine SIM-Karte zugreifen. %2$s Zugriff erlauben?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s möchte auf deine SIM-Karte zugreifen. %2$s Zugriff erlauben?</string>
   <string name="bluetooth_sap_connection_permission_request">SAP-Verbindungsanfrage</string>
   <string name="bluetooth_sap_profile_summary_connected">Mit SIM-Zugriffsserver verbunden</string>
   <string name="bluetooth_sap_profile_summary_not_connected">Nicht mit SIM-Zugriffsserver verbunden</string>
@@ -510,7 +510,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="crypt_keeper_button_text">Telefon verschlüsseln</string>
   <string name="crypt_keeper_confirm_title">Verschlüsselung bestätigen</string>
   <string name="crypt_keeper_cooldown">Bitte in ^1 Sekunden erneut versuchen.</string>
-  <string name="crypt_keeper_desc">"Du kannst Deine Konten, Einstellungen, heruntergeladene Anwendung und deren Daten, Medien und andere Dateien verschlüsseln. Wenn dein Telefon einmal verschlüsselt ist, musst du bei jedem Neustart eine numerische PIN oder ein Passwort zum entschlüsseln eingeben: Die Verschlüsselung kann ausschließlich durch ein Zurücksetzen auf Werkseinstellung entfernt werden, dadurch werden sämtliche Daten gelöscht.
+  <string name="crypt_keeper_desc">"Du kannst deine Konten, Einstellungen, heruntergeladene Anwendung und deren Daten, Medien und andere Dateien verschlüsseln. Wenn dein Telefon einmal verschlüsselt ist, musst du bei jedem Neustart eine numerische PIN oder ein Passwort zum entschlüsseln eingeben: Die Verschlüsselung kann ausschließlich durch ein Zurücksetzen auf Werkseinstellung entfernt werden, dadurch werden sämtliche Daten gelöscht.
 
 Die Verschlüsselung dauert eine Stunde oder länger. Du musst mit einem voll geladenen Akku beginnen und das Telefon eingesteckt lassen, bis die Verschlüsselung vollständig ist. Sollte der Prozess unterbrochen werden, verlierst du einige oder alle Daten."</string>
   <string name="crypt_keeper_dialog_need_password_message">Du musst eine Lockscreen-PIN oder ein Passwort setzen, bevor die Verschlüsselung gestartet werden kann.</string>
@@ -570,7 +570,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="data_usage_enable_mobile">Mobilfunk-Daten</string>
   <string name="data_usage_label_background">Hintergrund</string>
   <string name="data_usage_label_foreground">Vordergrund</string>
-  <string name="data_usage_limit_dialog_mobile">"Das Datenverbrauchs-Limit wurde erreicht. Das System wird nun Deine Datenverbindung deaktivieren. Vielleicht solltest du weniger Daten verbrauchen oder dein Limit erhöhen."</string>
+  <string name="data_usage_limit_dialog_mobile">"Das Datenverbrauchs-Limit wurde erreicht. Das System wird nun deine Datenverbindung deaktivieren. Vielleicht solltest du weniger Daten verbrauchen oder dein Limit erhöhen."</string>
   <string name="data_usage_limit_dialog_title">Schränke Datenverbrauch ein</string>
   <string name="data_usage_limit_editor_title">Datenverbrauchs-Limit setzen</string>
   <string name="data_usage_list_mobile">Mobilnetz</string>
@@ -798,7 +798,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="error_title" />
   <string name="external_code_size_label">USB-Speicheranwendung</string>
   <string name="external_data_size_label">SD-Karte</string>
-  <string name="factory_reset_summary">Du kannst Deine persönlichen Daten löschen, indem du das Telefon auf Werkseinstellung zurücksetzt, oder die installierten Anwendungen löschen und die SD-Karte formatieren, um die Werkseinstellungen wiederherzustellen</string>
+  <string name="factory_reset_summary">Du kannst deine persönlichen Daten löschen, indem du das Telefon auf Werkseinstellung zurücksetzt, oder die installierten Anwendungen löschen und die SD-Karte formatieren, um die Werkseinstellungen wiederherzustellen</string>
   <string name="failed_to_open_app_settings_toast">Konnte Einstellungen für %1$s nicht öffnen</string>
   <string name="fcc_equipment_id">Equipment-ID</string>
   <string name="filter">Filter</string>
@@ -971,7 +971,7 @@ Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lockpassword_choose_lock_generic_header">Entsperr-Auswahl</string>
   <string name="lockpassword_choose_your_password_header">Wähle dein Passwort</string>
   <string name="lockpassword_choose_your_pattern_header">Wähle dein Muster</string>
-  <string name="lockpassword_choose_your_pin_header">Wähle Deine PIN</string>
+  <string name="lockpassword_choose_your_pin_header">Wähle deine PIN</string>
   <string name="lockpassword_confirm_passwords_dont_match">"Passwörter stimmen nicht überein"</string>
   <string name="lockpassword_confirm_pins_dont_match">"PINs stimmen nicht überein"</string>
   <string name="lockpassword_confirm_your_password_header">Passwort bestätigen</string>
@@ -1201,7 +1201,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="perm_hips_allow_all">Alles erlauben</string>
   <string name="perm_hips_answer_call">Derzeitigen eingehenden Anruf beantworten</string>
   <string name="perm_hips_call_number">%1$s anrufen</string>
-  <string name="perm_hips_calllog_access">deine Anrufliste lesen</string>
+  <string name="perm_hips_calllog_access">Deine Anrufliste lesen</string>
   <string name="perm_hips_cancel_missed_calls">Benachrichtigungen über verpasste Anrufe löschen</string>
   <string name="perm_hips_contact_access">Deine Kontaktliste lesen</string>
   <string name="perm_hips_desc">Überwache die Sicherheit und Privatsphäre von %1$d Anwendungen</string>
@@ -1483,7 +1483,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="recognizer_settings_title">Sprachsuche</string>
   <string name="recognizer_title">Spracherkennung</string>
   <string name="recompute_size">Berechne Größe…</string>
-  <string name="remove_account_failed">Dieses Konto wird von einigen Anwendungen gebraucht. Du kannst es nur löschen, wenn du das Telefon über Einstellungen &gt; Sichern &amp; Wiederherstellen auf Werkseinstellung zurücksetzt (dies löscht Deine persönlichen Daten).</string>
+  <string name="remove_account_failed">Dieses Konto wird von einigen Anwendungen gebraucht. Du kannst es nur löschen, wenn du das Telefon über Einstellungen &gt; Sichern &amp; Wiederherstellen auf Werkseinstellung zurücksetzt (dies löscht deine persönlichen Daten).</string>
   <string name="remove_account_label">Konto entfernen</string>
   <string name="remove_device_admin">Deaktivieren</string>
   <string name="remove_from_frequently_fragment">\"%s\" von den generellen Einstellungen entfernen?</string>

@@ -122,7 +122,7 @@
   <string name="exporting_progress_private_message">Exportiere Nachrichten aus persönlichem Nachrichtenordner</string>
   <string name="failed_to_add_media">Leider kannst du \"%1$s\" nicht zu deiner Nachricht hinzufügen.</string>
   <string name="failed_to_resize_image">Bild nicht verkleinert.</string>
-  <string name="fdn_check_failure">Du kannst nur Nachrichten an Deine freigegebenen Telefonnummern senden.</string>
+  <string name="fdn_check_failure">Du kannst nur Nachrichten an deine freigegebenen Telefonnummern senden.</string>
   <string name="festival">Empfohlen</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Wird geladen...</string>

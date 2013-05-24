@@ -13,7 +13,7 @@
   <string name="background">Download im Hintergrund</string>
   <string name="bind_account">An MiDrive-Konto binden</string>
   <string name="bind_account_summary">Solltest du bereits ein MiDrive-Konto haben, so kannst du dies hinzufügen, um persönliche Daten abzurufen</string>
-  <string name="binded_accout_description">Konten wurden zusammengelegt, benutze entweder dein Xiaomi- oder dein MiDrive-Konto. Beide haben Zugriff auf Deine Daten.</string>
+  <string name="binded_accout_description">Konten wurden zusammengelegt, benutze entweder dein Xiaomi- oder dein MiDrive-Konto. Beide haben Zugriff auf deine Daten.</string>
   <string name="binded_accout_title">MiDrive-Konto</string>
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Abbrechen</string>
@@ -127,7 +127,7 @@ Junk"</string>
   <string name="loading">Wird geladen...</string>
   <string name="local_cache">Lokaler Cache</string>
   <string name="local_cache_size">Lokale Cache-Größe: %s</string>
-  <string name="login_reg_content">MiDrive hilft dir, Deine Dateien zu speichern und sie zwischen mehreren Geräten zu synchronisieren.</string>
+  <string name="login_reg_content">MiDrive hilft dir, deine Dateien zu speichern und sie zwischen mehreren Geräten zu synchronisieren.</string>
   <string name="login_reg_content0">MiDrive ist dein Cloud-Datenspeicher</string>
   <string name="menu_item_cleanup">Datei-Cleanup</string>
   <string name="menu_item_ftp">FTP</string>
@@ -261,7 +261,7 @@ Junk"</string>
   <string name="used">Verwendet</string>
   <string name="user_guide">Benutzerhandbuch</string>
   <string name="user_guide_download_other_version">"Du kannst MiDrive sogar auf Deinen PC oder Mac herunterladen"</string>
-  <string name="user_guide_kuaipan_copy">"Greife auf verschiedenen Geräten auf Deine Daten zu, indem du auf MiDrive hochlädst"</string>
+  <string name="user_guide_kuaipan_copy">"Greife auf verschiedenen Geräten auf deine Daten zu, indem du auf MiDrive hochlädst"</string>
   <string name="user_guide_other_version">Lade alternative Versionen von MiDrive herunter</string>
   <string name="user_guide_summary">Wie man MiDrive verwendet</string>
   <string name="user_guide_upload_to_kuaipan">"Kopiere und füge Daten von Deinem Telefon in MiDrive ein"</string>

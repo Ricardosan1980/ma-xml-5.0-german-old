@@ -123,7 +123,7 @@
   <string name="system_backup_download_helper">Nach dem herunterladen, wird das Gerät zur Aktualisierung automatisch neu gestartet.</string>
   <string name="system_backup_error_message">MIUI-Sicherung wurde nicht gefunden, bitte manuell sichern</string>
   <string name="system_backup_ok_text">Sichern</string>
-  <string name="sytemt_backup_helper">Eine System-Aktualisierung löscht keine Nutzerdaten. Es wird dennoch empfohlen, Deine Nutzerdaten zu sichern, bevor du aktualisierst</string>
+  <string name="sytemt_backup_helper">Eine System-Aktualisierung löscht keine Nutzerdaten. Es wird dennoch empfohlen, deine Nutzerdaten zu sichern, bevor du aktualisierst</string>
   <string name="top_secret_build">Secret build</string>
   <string name="update_comment_hint">(Optional)</string>
   <string name="update_comment_title">Deine Kommentare</string>

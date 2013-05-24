@@ -767,7 +767,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="preferred_network_mode_title">Netzwerk-Modus</string>
   <string name="preferred_network_mode_wcdma_only_summary">Bevorzugter Netzwerk-Modus: Nur WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Bevorzugter Netzwerk-Modus: WCDMA bevorzugt</string>
-  <string name="preferred_network_type_3g_only_warning_miui">"Du hast 3G als bevorzugten Netzwerk-Modus gewählt. Sollte Deine SIM kein 3G unterstützen, so hast du keinen Empfang. Drücke "OK" um fortzufahren."</string>
+  <string name="preferred_network_type_3g_only_warning_miui">"Du hast 3G als bevorzugten Netzwerk-Modus gewählt. Sollte deine SIM kein 3G unterstützen, so hast du keinen Empfang. Drücke "OK" um fortzufahren."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G bevorzugt</string>

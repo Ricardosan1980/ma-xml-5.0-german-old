@@ -24,7 +24,7 @@
   <string name="add_to_my_contacts">Zu meinen Kontakten hinzufügen</string>
   <string name="add_wait">Hinzufügen Warteschleife</string>
   <string name="add_xiaomi_account_dialog_btn">Verwende Xiaomi-Konto</string>
-  <string name="add_xiaomi_account_dialog_msg">Für eine optimale Verwendung, bitte überlege dein Xiaomi-Konto zu verwenden um Deine Kontakte mit deinem Computer zu snychronisieren, sichern und verwalten.</string>
+  <string name="add_xiaomi_account_dialog_msg">Für eine optimale Verwendung, bitte überlege dein Xiaomi-Konto zu verwenden um deine Kontakte mit deinem Computer zu snychronisieren, sichern und verwalten.</string>
   <string name="add_xiaomi_account_dialog_title">Wähle Sync-Konto</string>
   <string name="aggregation_suggestion_edit_dialog_message">Zum Bearbeiten der ausgewählten Kontakte wechseln? Bisher eingegebene Informationen werden gespeichert.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Ausgewählte Kontakte bearbeiten</string>
@@ -110,7 +110,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="callrecordview_menu_show_missed">Verpasste Anrufe</string>
   <string name="callrecordview_menu_show_stranger">Unbekannte Anrufe</string>
   <string name="callrecordview_menu_show_title">Anruflistenfilter</string>
-  <string name="cancel_confirmation_dialog_message">Sollen Deine Änderungen verworfen werden?</string>
+  <string name="cancel_confirmation_dialog_message">Sollen deine Änderungen verworfen werden?</string>
   <string name="cancel_export_confirmation_message">Soll das Exportieren von %s abgebrochen werden?</string>
   <string name="cancel_import_confirmation_message">Soll das Importieren von %s abgebrochen werden?</string>
   <string name="cancel_import_dialog_message">Möchtest du den Import von Kontakten wirklich abbrechen?</string>
@@ -169,7 +169,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="contact_edit_title_readonly">Read-Only-Kontakt</string>
   <string name="contact_editor_prompt_multiple_accounts">Du kannst den neuen Kontakt mit einem der folgenden Benutzerkonten synchronisieren. Welches soll verwendet werden?</string>
   <string name="contact_editor_prompt_one_account">Dein neuer Kontakt wird mit \"%1$s\" synchronisiert.</string>
-  <string name="contact_editor_prompt_zero_accounts">"Der neue Kontakt wurde nicht gesichert. Möchtest du ein Benutzerkonto hinzufügen, welches Deine Kontakte online sichert und synchronisiert?"</string>
+  <string name="contact_editor_prompt_zero_accounts">"Der neue Kontakt wurde nicht gesichert. Möchtest du ein Benutzerkonto hinzufügen, welches deine Kontakte online sichert und synchronisiert?"</string>
   <string name="contact_list_loading">Lädt...</string>
   <string name="contact_pick_photo">Bild</string>
   <string name="contact_read_only">Nicht durch diese Anwendung editierbar</string>
@@ -359,7 +359,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="frequentList">Häufigkeit</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Name</string>
-  <string name="generic_no_account_prompt">Sichere Deine Kontakte, selbst wenn du es verlierst: Synchronisiere mit einem Online-Dienst.</string>
+  <string name="generic_no_account_prompt">Sichere deine Kontakte, selbst wenn du es verlierst: Synchronisiere mit einem Online-Dienst.</string>
   <string name="generic_no_account_prompt_title">Ein Konto hinzufügen</string>
   <string name="ghostData_company">Firma</string>
   <string name="ghostData_title">Titel</string>
@@ -844,7 +844,7 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="strequentList">Favoriten</string>
   <string name="success_message_import_from_account">Importieren erfolgreich</string>
   <string name="summary_kind_title">Zusammenfassung</string>
-  <string name="t9_search_guide">Gib eine Nummer ein, oder durchsuche Deine Kontakte per T9-Index.</string>
+  <string name="t9_search_guide">Gib eine Nummer ein, oder durchsuche deine Kontakte per T9-Index.</string>
   <string name="take_new_photo">Neues Bild aufnehmen</string>
   <string name="take_photo">Bild aufnehmen</string>
   <string name="titleJoinContactDataWith">Kontakte zusammenführen</string>

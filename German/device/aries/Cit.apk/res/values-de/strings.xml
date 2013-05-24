@@ -94,11 +94,11 @@
   <string name="cit_headset_plug_detect_summary">Test überprüft Kopfhörer-Buchse. Kopfhörer muss vorher eingesteckt sein</string>
   <string name="cit_headset_plug_detect_title">Teste Kopfhörer-Erkennung</string>
   <string name="cit_headset_plug_finish">Kopfhörer eingesteckt</string>
-  <string name="cit_headset_plug_hint">Bitte stecke Deine Kopfhörer ein</string>
+  <string name="cit_headset_plug_hint">Bitte stecke deine Kopfhörer an</string>
   <string name="cit_headset_pull_detect_summary">Test überprüft, ob Kopfhörer ausgesteckt wurden</string>
   <string name="cit_headset_pull_detect_title">Teste Kopfhörer-Entfernung</string>
   <string name="cit_headset_pull_finish">Kopfhörer ausgesteckt</string>
-  <string name="cit_headset_pull_hint">Bitte stecke Deine Kopfhörer aus</string>
+  <string name="cit_headset_pull_hint">Bitte stecke deine Kopfhörer aus</string>
   <string name="cit_hide_menu">Menü schließen</string>
   <string name="cit_kayboard_volume_down">Teste Button: VOLUME_DOWN</string>
   <string name="cit_kayboard_volume_up">Teste Button: VOLUME_UP</string>
@@ -117,7 +117,7 @@
   <string name="cit_light_sensor_check_title">Teste Lichtsensor</string>
   <string name="cit_magnetic_sensor_check_summary">Unten sind die derzeitigen Magnometer-Werte in X, Y, Z-Achsenform</string>
   <string name="cit_magnetic_sensor_check_title">Teste Magnometer</string>
-  <string name="cit_main_camera_check_summary">Test-Checkliste:\n\n 1. Drücke den Kamera-Button, um die Kamera zu öffnen\n 2. Stelle sicher, dass der Blitz aktiviert ist\n 3. Drücke auf Deine Bilderliste\n 4. Drücke den OK-Button, dies speichert das Bild automatisch\n 5. Überprüfe, ob das Bild korrekt angezeigt wird und lösche es</string>
+  <string name="cit_main_camera_check_summary">Test-Checkliste:\n\n 1. Drücke den Kamera-Button, um die Kamera zu öffnen\n 2. Stelle sicher, dass der Blitz aktiviert ist\n 3. Drücke auf deine Bilderliste\n 4. Drücke den OK-Button, dies speichert das Bild automatisch\n 5. Überprüfe, ob das Bild korrekt angezeigt wird und lösche es</string>
   <string name="cit_main_camera_check_title">Teste Kamera (Hauptkamera)</string>
   <string name="cit_name">Hardware-Erkennung</string>
   <string name="cit_not_available">Nutzerversion unterstütz diesen Test nicht, nur Werks-Test verfügbar</string>

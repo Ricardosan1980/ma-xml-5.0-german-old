@@ -81,7 +81,7 @@
   <string name="insert_record">Eintrag hinzufügen</string>
   <string name="localPhoneName">Mein Name</string>
   <string name="map_acceptance_dialog_header">Ordnerzugriff</string>
-  <string name="map_acceptance_dialog_title">%1$s möchte auf Deine Ordner zugreifen. %2$s Zugriff gestatten?</string>
+  <string name="map_acceptance_dialog_title">%1$s möchte auf deine Ordner zugreifen. %2$s Zugriff gestatten?</string>
   <string name="map_acceptance_timeout_message">Zeitüberschreitung bei der Verbindungsannahme mit %1$s</string>
   <string name="map_alert_conn_failed_message">Bluetooth MAP-Verbindung fehlgeschlagen.</string>
   <string name="map_authentication_timeout_message">Zeitüberschreitung bei der Eingabe des Session-Keys mit %1$s</string>

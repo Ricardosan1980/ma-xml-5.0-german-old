@@ -13,7 +13,7 @@
   <string name="account_name_display_all">Alle Konten</string>
   <string name="account_out_of_quota">Das Speicherplatzkontingent für das Konto ist überschritten.</string>
   <string name="account_password_spaces_error">Dieses Passwort beginnt oder endet mit einem oder mehreren Leerzeichen. Viele Server unterstützen keine Passwörter mit Leerzeichen.</string>
-  <string name="account_security_dialog_content_fmt">%s erfordert, dass du Deine Sicherheitseinstellungen aktualisierst.</string>
+  <string name="account_security_dialog_content_fmt">%s erfordert, dass du deine Sicherheitseinstellungen aktualisierst.</string>
   <string name="account_security_dialog_title">Sicherheitsupdate</string>
   <string name="account_security_policy_explanation_fmt">Der Server %s fordert die Erlaubnis zur Remote-Steuerung einiger Sicherheitsfunktionen auf Deinem Android-Gerät an.</string>
   <string name="account_security_title">Gerätesicherheit</string>
