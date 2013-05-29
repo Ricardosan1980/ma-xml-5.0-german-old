@@ -94,7 +94,7 @@
   <string name="giftcard_denom_frozen">Mi-Credit(s) gesperrt</string>
   <string name="giftcard_empty">Kein Gutschein</string>
   <string name="giftcard_expire">%1$s-%2$s-%3$s abgelaufen</string>
-+  <string name="giftcard_hint">"Mi-Credits von Gutschein werden zuerst ausgegeben
+  <string name="giftcard_hint">"Mi-Credits von Gutschein werden zuerst ausgegeben
 und können, wenn abgelaufen, nicht verwendet werden."</string>
   <string name="giftcard_record">Mi-Credit empfangen</string>
   <string name="giftcard_value">(%1$s Mi-Credit Gutschein)</string>
