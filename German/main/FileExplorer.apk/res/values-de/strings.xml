@@ -78,6 +78,7 @@
   <string name="empty_dir_cleanup_indication">%s Junk-Dateien</string>
   <string name="empty_dir_title">Leere Verzeichnisse</string>
   <string name="enable_sd_card">SD-Karte ist nicht verfügbar, lege bitte eine ein</string>
+  <string name="error_filename_too_long">Dateiname zu lang</string>
   <string name="error_info_cant_send_folder">Der Ordner konnte nicht gesendet werden</string>
   <string name="error_open_file_failed_no_app_found">Keine App gefunden um die Datei zu öffnen</string>
   <string name="fail_to_create_folder">Der Ordner konnte nicht erstellt werden, da er bereits vorhanden ist</string>

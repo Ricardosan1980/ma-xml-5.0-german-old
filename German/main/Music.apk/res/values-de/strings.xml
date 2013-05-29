@@ -41,6 +41,7 @@
   <string name="confirm">Bestätigen</string>
   <string name="correct_id3_by_internet">ID3 über Mobilfunknetz automatisch korrigieren</string>
   <string name="correct_id3_failed">ID3-Datenkorrektur fehlgeschlagen!</string>
+  <string name="correct_id3_in_processing">Korrigiere ID3-Daten</string>
   <string name="correct_id3_not_support">ID3-Korrektur wird von diesem Dateityp nicht unterstützt.</string>
   <string name="correct_id3_open_other_connect">Bitte schalte die ID3-Datenkorrektur in den Mobilfunknetz-Einstellungen ein</string>
   <string name="correct_id3_settings">ID3-Korrektur-Einstellungen</string>
@@ -57,8 +58,6 @@
   <string name="delete_playlist_menu">Löschen</string>
   <string name="delete_song_desc">\"%s\" wird permanent von der SD-Karte gelöscht.</string>
   <string name="deselect_all">Alle verwerfen</string>
-  <string name="dirac_disabled">Dirac Ausgeschaltet</string>
-  <string name="dirac_enabled">Dirac Eingeschaltet</string>
   <string name="download">Herunterladen</string>
   <string name="download_album_settings">Albumcover herunterladen</string>
   <string name="download_album_summary">Kann den Datenverbrauch erhöhen. Nur in Verwendung mit WLAN-Verbindung empfohlen.</string>
@@ -72,7 +71,6 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="edit_playlist_menu">Bearbeiten</string>
   <string name="empty_edit_hint">Informationen nicht verfügbar</string>
   <string name="emptyplaylist">Die ausgewählte Wiedergabeliste ist leer.</string>
   <string name="enter_sleep_mode">Sleep-Modus aktivieren</string>
@@ -161,8 +159,8 @@
   <string name="no_song_downloaded">Titel kann nicht heruntergeladen werden</string>
   <string name="not_selected">Bitte wähle ein Lied aus</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
-  <string name="online_music">Online-Musik</string>
   <string name="online_search_hint">Nach Online-Musik suchen</string>
+  <string name="online_title">Online</string>
   <string name="other_settings">Andere</string>
   <string name="overwrite_confirm">Überschreiben</string>
   <string name="play_all">Alle wiedergeben</string>
@@ -178,7 +176,6 @@
   <string name="playlist_deleted_message">Wiedergabeliste gelöscht.</string>
   <string name="playlist_favorite">Favoriten</string>
   <string name="playlist_frequently_played">Häufig gespielt</string>
-  <string name="playlist_new">Neue Wiedergabeliste erstellen</string>
   <string name="playlist_recently_added">Kürzlich hinzugefügt</string>
   <string name="playlist_recently_played">Kürzlich gespielt</string>
   <string name="playlist_renamed_message">Wiedergabeliste umbenannt.</string>

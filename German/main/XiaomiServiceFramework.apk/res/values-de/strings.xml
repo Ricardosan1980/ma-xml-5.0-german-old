@@ -53,6 +53,7 @@
   <string name="error_expired_summary">Deine Bestellung ist abgelaufen</string>
   <string name="error_frozen_summary">Dein Konto wurde gesperrt</string>
   <string name="error_frozen_title">Konto gesperrt!</string>
+  <string name="error_giftcard_summary">Gutscheininformation kann nicht abgerufen werden</string>
   <string name="error_has_bought_summary">Du hast dieses Produkt bereits gekauft</string>
   <string name="error_has_bought_title">Kauf wiederholen</string>
   <string name="error_illegal_order_summary">Bei deiner Bestellung ist ein Fehler aufgetreten, bitte versuche es später erneut</string>
@@ -87,6 +88,16 @@
   <string name="find_password_on_web_msg">Bitte gehe auf account.xiaomi.com, um dein Passwort zurückzusetzen</string>
   <string name="forget_password" />
   <string name="frozen">(Gesperrt)</string>
+  <string name="giftcard_acitivity_and_denomination">%2$s Mi-Credit Gutschein von %1$s</string>
+  <string name="giftcard_denom">Mi-Credit(s)</string>
+  <string name="giftcard_denom_available">Mi-Credit(s) verfügbar</string>
+  <string name="giftcard_denom_frozen">Mi-Credit(s) gesperrt</string>
+  <string name="giftcard_empty">Kein Gutschein</string>
+  <string name="giftcard_expire">%1$s-%2$s-%3$s abgelaufen</string>
++  <string name="giftcard_hint">"Mi-Credits von Gutschein werden zuerst ausgegeben
+und können, wenn abgelaufen, nicht verwendet werden."</string>
+  <string name="giftcard_record">Mi-Credit empfangen</string>
+  <string name="giftcard_value">(%1$s Mi-Credit Gutschein)</string>
   <string name="header_data_and_synchronization">Daten &amp; Synchronisierung</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Passwort eingeben</string>
@@ -126,6 +137,7 @@
   <string name="micloud_via_sms_alert">Es wird eine SMS geschickt um deine Telefonnummer zu bestätigen. Fortfahren?</string>
   <string name="micloud_welcome_skip_login">Anmeldung überspringen</string>
   <string name="mili_center">Mi-Credit Zentrale</string>
+  <string name="my_mili_record">Mein Mi-Credit</string>
   <string name="next">Weiter</string>
   <string name="nobind">Nicht authorisiert</string>
   <string name="order_price">%1$s Mi-Credits</string>
@@ -245,18 +257,9 @@
   <string name="user_agreement_p3"> und </string>
   <string name="user_agreement_p4">Datenschutzerklärungen zu</string>
   <string name="user_agreement_p5">"Durch die Anmeldung stimmst du den "</string>
-  <string name="voucher_btn_exchange">Verwende Gutschein</string>
-  <string name="voucher_btn_exchange_error">Ungültig</string>
-  <string name="voucher_btn_has_exchanged">Gutschein eingelöst</string>
-  <string name="voucher_denom">Mi-Credits</string>
   <string name="voucher_edit_hint">Passwort:</string>
   <string name="voucher_edit_limit">Limit ändern</string>
-  <string name="voucher_empty">Keine gespeicherten Mi-Credit Daten</string>
   <string name="voucher_error_code">Es gibt ein Problem mit deinem Mi-Credit-Gutschein Code</string>
-  <string name="voucher_exchange">Austausch</string>
-  <string name="voucher_exchange_count">Gutschein verwendet (%1$s)</string>
-  <string name="voucher_exchange_success">%1$s Mi-Credit(s) Einlösung abgeschlossen</string>
-  <string name="voucher_expire">%1$s-%2$s-%3$s abgelaufen</string>
-  <string name="voucher_input">Eingabe</string>
+  <string name="voucher_input_password_prompt">Passwort eingeben</string>
   <string name="xmpp_server_addr" />
 </resources>

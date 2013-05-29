@@ -8,6 +8,7 @@
   <string name="accessibility_zoom_control">Zoom-Steuerung</string>
   <string name="albums">Fotoalben</string>
   <string name="aperture">Blende</string>
+  <string name="app_details">App Details:</string>
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Gerät auf ebenem Untergrund platzieren und einen Moment aus dem Bild gehen"</string>
   <string name="camera_disabled">Kamera wurde durch Sicherheitseinstellungen deaktiviert.</string>
@@ -27,6 +28,19 @@
   <string name="confirm_location_message">MI-Two kann deinen Standort aufnehmen, möchtest du die Standort-Einstellungen aufrufen?</string>
   <string name="confirm_restore_message">Kamera auf Standardwerte zurücksetzen?</string>
   <string name="confirm_restore_title">Standardwerte wiederherstellen</string>
+  <string name="contact_address">Adresse</string>
+  <string name="contact_birthday">Geburtstag</string>
+  <string name="contact_company">Firma</string>
+  <string name="contact_details">Kontaktdetails:</string>
+  <string name="contact_email">E-Mail</string>
+  <string name="contact_name">Name</string>
+  <string name="contact_nickname">Spitzname</string>
+  <string name="contact_note">Notiz</string>
+  <string name="contact_phone">Telefon</string>
+  <string name="contact_title">Titel</string>
+  <string name="contact_web">Web</string>
+  <string name="copy_text">Kopiere Text</string>
+  <string name="copy_text_success">Text erfolgreich kopiert</string>
   <string name="crop_saved">Bearbeitetes Bild unter %s gespeichert</string>
   <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
@@ -60,6 +74,11 @@
   <string name="error_fail_to_start_audio_capture">Audio-Aufzeichnung fehlgeschlagen: Mikrofon wird von einer anderen Quelle verwendet.</string>
   <string name="exposure_time">Belichtungszeit</string>
   <string name="file_size">Dateigröße</string>
+  <string name="find_market_qrcode">Finde Market-QR-Code</string>
+  <string name="find_mecard_qrcode">Finde Besucherausweis-QR-Code</string>
+  <string name="find_other_qrcode">Finde QR-Code</string>
+  <string name="find_web_qrcode">Finde Website-QR-Code</string>
+  <string name="find_weixin_qrcode">Find Weixin-QR-Code</string>
   <string name="flash">Blitz</string>
   <string name="flash_off">Kein Blitz</string>
   <string name="flash_on">Blitz an</string>
@@ -78,8 +97,10 @@
   <string name="height">Höhe</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="import_complete">Import vollständig</string>
+  <string name="import_contact">Importiere Kontakt</string>
   <string name="import_fail">Import fehlgeschlagen!</string>
   <string name="iso">ISO</string>
+  <string name="launch_market">Starte PlayStore</string>
   <string name="loading">Lädt...</string>
   <string name="loading_video">Lädt Video...</string>
   <string name="location">Standort</string>
@@ -131,7 +152,7 @@
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
   <string name="pref_camera_coloreffect_entry_none">Kein Effekt</string>
-  <string name="pref_camera_coloreffect_entry_posterize">Kanaltrennung</string>
+  <string name="pref_camera_coloreffect_entry_posterize">Tonwerttrennung</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
   <string name="pref_camera_coloreffect_title">Farbeffekt</string>
   <string name="pref_camera_contrast_entry_level0">Stufe 0</string>
@@ -333,6 +354,10 @@
   <string name="rotate_left">Links drehen</string>
   <string name="rotate_right">Rechts drehen</string>
   <string name="save">Speichern</string>
+  <string name="scan_qrcode">QR-Code scannen</string>
+  <string name="secure_access_web_url">Sicherer Webzugriff</string>
+  <string name="see_app_details">Zeige App Details</string>
+  <string name="see_qrcode_details">Zeige QR-Code Details</string>
   <string name="select_all">Alles auswählen</string>
   <string name="select_image">Bild auswählen</string>
   <string name="select_item">Objekt auswählen</string>
@@ -359,6 +384,7 @@
   <string name="snapshot_qcif_and_d1">Video-Schnappschuss-Größe wird für diese Auflösung unterstützt.</string>
   <string name="snapshotsize_low_powermode">Bildauflösung wird im Low-Power-Modus nicht unterstützt. Video-Schnappschuss-Größe wird verwendet. Bitte High-Power-Modus für Bildauflösung verwenden.</string>
   <string name="spaceIsLow_content">Auf der SD-Karte ist kein Platz mehr. Ändere die Auflösung, lösche Bilder oder andere Daten, um Speicherplatz zu gewinnen.</string>
+  <string name="success_message_import_from_account">Erfolgreich importiert</string>
   <string name="tags">Tags</string>
   <string name="tap_to_focus">Zum Fokussieren berühren.</string>
   <string name="time">Zeit</string>
@@ -380,6 +406,10 @@
   <string name="video_snapshot_hint">Mache ein Foto während der Videoaufnahme, indem du das Vorschaubild berührst.</string>
   <string name="videocamera_settings_label">Videokamera-Einstellungen</string>
   <string name="wait">Bitte warten…</string>
+  <string name="web_url_apk_warning">Der gewählte QR-Code enthält eine App die ein Risiko darstellen könnte. Bitte suche stattdessen nach der App im PlayStore.</string>
+  <string name="web_url_warning">Der Website-QR-Code könnte ein Risiko darstellen. MIUI-Browser wird den QR-Code für dich sicher scannen.</string>
+  <string name="website_details">"Website Details: "</string>
+  <string name="weixin_details">"Weixin Details: "</string>
   <string name="white_balance">Weißabgleich</string>
   <string name="width">Breite</string>
 </resources>

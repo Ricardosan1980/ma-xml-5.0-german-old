@@ -99,6 +99,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="callrecordview_menu_delete_called">Ausgehende Anrufe löschen</string>
   <string name="callrecordview_menu_delete_confirm">\"%s\" bestätigen?</string>
   <string name="callrecordview_menu_delete_missed">Verpasste Anrufe löschen</string>
+  <string name="callrecordview_menu_delete_new">Neue Kontakte aus der Anrufliste löschen</string>
   <string name="callrecordview_menu_delete_one">Von der Anrufliste entfernen</string>
   <string name="callrecordview_menu_delete_stranger">Unbekannte Nummern aus der Anrufliste löschen</string>
   <string name="callrecordview_menu_paste">Einfügen</string>
@@ -108,6 +109,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="callrecordview_menu_show_all">Alle Anrufe</string>
   <string name="callrecordview_menu_show_called">Ausgehende Anrufe</string>
   <string name="callrecordview_menu_show_missed">Verpasste Anrufe</string>
+  <string name="callrecordview_menu_show_new">Neue Kontakte</string>
   <string name="callrecordview_menu_show_stranger">Unbekannte Anrufe</string>
   <string name="callrecordview_menu_show_title">Anruflistenfilter</string>
   <string name="cancel_confirmation_dialog_message">Sollen deine Änderungen verworfen werden?</string>
@@ -323,6 +325,8 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="eventLabelsGroup">Ereignisse</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Exportieren auf die SIM-Karte abgeschlossen</string>
+  <string name="export_sim_contact_finish_failure">SIM-Speicher ist voll, abgeschlossen: %1$d unvollständig: %2$d</string>
+  <string name="export_sim_contact_finish_success">%d Kontakt(e) von SIM-Karte kopiert</string>
   <string name="export_sim_contacts_dialog_message">Deine SIM-Karte kann bis zu %d Kontakte speichern. Möchtest du wirklich fortfahren?</string>
   <string name="export_to_sdcard">In Speicher exportieren</string>
   <string name="export_to_sim">Auf SIM-Karte exportieren</string>
@@ -386,6 +390,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="hint_findContacts">Kontakte finden</string>
   <string name="hint_more_contact">Verwende \"Kontakte zusammenführen\" wenn Kontakte doppelt vorhanden sind</string>
   <string name="hint_search_contacts">%d Kontakte</string>
+  <string name="hint_search_emails">%d E-Mails</string>
   <string name="hint_search_phone_numbers">%d Kontakt-Telefonnummer</string>
   <string name="ic_menu_back">Zurück</string>
   <string name="ic_menu_done">Fertig</string>
