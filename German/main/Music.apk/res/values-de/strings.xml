@@ -39,7 +39,7 @@
   <string name="click_to_shuffle">Berühren, um alle zufällig wiederzugeben</string>
   <string name="complete">Abgeschlossen</string>
   <string name="confirm">Bestätigen</string>
-  <string name="correct_id3_by_internet">ID3 über Mobilfunknetz automatisch korrigieren</string>
+  <string name="correct_id3_by_internet">ID3 automatisch über Mobilfunknetz korrigieren</string>
   <string name="correct_id3_failed">ID3-Datenkorrektur fehlgeschlagen!</string>
   <string name="correct_id3_in_processing">Korrigiere ID3-Daten</string>
   <string name="correct_id3_not_support">ID3-Korrektur wird von diesem Dateityp nicht unterstützt.</string>
@@ -79,22 +79,22 @@
   <string name="equalizer_delete_success">Equalizer-Profil erfolgreich entfernt</string>
   <string name="equalizer_save_success">Equalizer-Profil gespeichert</string>
   <string name="fade_effect_settings">Überblenden</string>
-  <string name="fade_effect_summary">Überblendet nacheinander abgespielte Liedern</string>
+  <string name="fade_effect_summary">Überblendet nacheinander abgespielte Lieder</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="file_not_found">Datei ist nicht vorhanden</string>
   <string name="filter_by_duration">Nach Dauer sortieren</string>
-  <string name="filter_by_duration_format">%2$dMin%5$2dSek</string>
+  <string name="filter_by_duration_format">%2$d Min %5$2d Sek</string>
   <string name="filter_by_duration_max">5 Min</string>
   <string name="filter_by_duration_min">0 Sek</string>
   <string name="filter_by_duration_prefix">"Mindestdauer: "</string>
   <string name="filter_by_duration_summary">Kürzere Audio-Dateien werden ausgeblendet</string>
   <string name="filter_by_folder">Nach Ordnern filtern</string>
   <string name="filter_by_folder_summary_off">Nicht aktiviert. (Zum Bearbeiten auf Ordner tippen.)</string>
-  <string name="filter_by_folder_summary_on">Bereits aktiviert. Nur Dateien in ausgewählten Ordnern werden angezeigt.</string>
+  <string name="filter_by_folder_summary_on">Aktiviert. Nur Dateien in ausgewählten Ordnern werden angezeigt.</string>
   <string name="filter_by_size">Nach Größe filtern</string>
   <string name="filter_by_size_max">2 MB</string>
   <string name="filter_by_size_min">0 KB</string>
-  <string name="filter_by_size_prefix">"Mindestgröße:"</string>
+  <string name="filter_by_size_prefix">"Mindestgröße: "</string>
   <string name="filter_by_size_summary">Kleinere Audio-Dateien werden ausgeblendet</string>
   <string name="filter_notification">Filter wurde angewendet. Du kannst diese Einstellungen in den Filter-Einstellungen ändern.</string>
   <string formatted="false" name="folder_title_format">%s(%d)</string>

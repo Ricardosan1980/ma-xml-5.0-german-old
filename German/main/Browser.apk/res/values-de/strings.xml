@@ -37,6 +37,7 @@
   <string name="add_to_other_folder_menu_option">Anderer Ordner</string>
   <string name="add_xiaomi_account_warning">Bitte melde dich zuerst mit deinem Xiaomi-Konto an</string>
   <string name="added_to_bookmarks">Zu Lesezeichen hinzugefügt</string>
+  <string name="alert_tips">Die Website die du besuchst, könnte ein potentielles Sicherheitsrisiko darstellen. Möchtest du weitermachen?</string>
   <string name="allow">Erlauben</string>
   <string name="application_name">Browser</string>
   <string name="autofill_profile_editor_address_line_1">Adresszeile 1:</string>
@@ -97,6 +98,8 @@
   <string name="choosertitle_sharevia">Teilen via</string>
   <string name="clear">Löschen</string>
   <string name="clear_history">Verlauf löschen</string>
+  <string name="close_all_tab_alert_message">Bist du sicher, dass du alle Tabs schliessen willst?</string>
+  <string name="close_all_tab_alert_title">Schließe alle Tabs</string>
   <string name="containing_folder">Hinzufügen zu</string>
   <string formatted="false" name="contextheader_folder_bookmarkcount">%d Lesezeichen</string>
   <string name="contextheader_folder_empty">Leerer Ordner</string>
@@ -217,6 +220,10 @@
   <string name="menu_view_download">Downloads</string>
   <string name="move_to_up_folder">Eine Ebene nach oben</string>
   <string name="multi_select_title">%1$s Element(e) ausgewählt</string>
+  <string name="navigation_button_close">Schließen</string>
+  <string name="navigation_button_newtab">Neu</string>
+  <string name="navigation_button_tab">Tab</string>
+  <string name="navigation_button_view">Zeigen</string>
   <string name="name">Label</string>
   <string name="new_folder">Neuer Ordner</string>
   <string name="new_incognito_tab">Neuer Inkognito-Tab</string>
@@ -298,6 +305,7 @@
   <string name="pref_extras_website_settings">Website-Einstellungen</string>
   <string name="pref_extras_website_settings_summary">Erweiterte Einstellungen für individuelle Webseiten</string>
   <string name="pref_fling_on_border_enabled">Rand-Wischgeste</string>
+  <string name="pref_fling_on_border_enabled_title_summary">Von der Kante des Bildschrims wischen</string>
   <string name="pref_fling_on_border_operation">Vorgang der Rand-Wischgeste</string>
   <string name="pref_font_size_category">Schriftgröße</string>
   <string name="pref_force_userscalable">Zoom erzwingen</string>

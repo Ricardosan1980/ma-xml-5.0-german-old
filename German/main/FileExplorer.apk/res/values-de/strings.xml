@@ -205,7 +205,7 @@ Junk"</string>
   <string name="restart_cleaning">Neustart</string>
   <string name="scanning">Scanne...</string>
   <string name="scanning_on_going">Scanne...</string>
-  <string name="sd_card_available">Verfügbarer Speicher:\u0020%1$s</string>
+  <string name="sd_card_available">Freier Speicher:\u0020%1$s</string>
   <string name="sd_card_size">SD-Karte:\u0020%1$s</string>
   <string name="sd_full">SD-Karte ist voll</string>
   <string name="sd_size_label">SD-Karten Speicher</string>
