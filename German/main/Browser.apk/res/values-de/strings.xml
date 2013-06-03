@@ -99,7 +99,7 @@
   <string name="clear">Löschen</string>
   <string name="clear_history">Verlauf löschen</string>
   <string name="close_all_tab_alert_message">Bist du sicher, dass du alle Tabs schliessen willst?</string>
-  <string name="close_all_tab_alert_title">Schließe alle Tabs</string>
+  <string name="close_all_tab_alert_title">Alle Tabs schließen</string>
   <string name="containing_folder">Hinzufügen zu</string>
   <string formatted="false" name="contextheader_folder_bookmarkcount">%d Lesezeichen</string>
   <string name="contextheader_folder_empty">Leerer Ordner</string>
