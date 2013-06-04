@@ -2402,7 +2402,6 @@ Jeder Benutzer kann die Aktualiserung von Anwendungsberechtigungen im Namen alle
   <string name="wifi_skipped_message">"WARNUNG: Dies könnte erhöhte Datenkosten verursachen.
 
 Telefon-Setup kann erhebliche Netzwerkaktivität benötigen."</string>
-  <string name="wifi_speed">Verbindungsgeschwindigkeit</string>
   <string name="wifi_ssid">Netzwerk-SSID</string>
   <string name="wifi_starting">Schalte WLAN ein…</string>
   <string name="wifi_state_disabled">Deaktiviert</string>
