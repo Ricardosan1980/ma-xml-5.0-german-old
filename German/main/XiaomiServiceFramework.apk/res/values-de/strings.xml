@@ -162,8 +162,8 @@ und können, falls abgelaufen, nicht verwendet werden."</string>
   <string name="prepaid_edit_limit">Stellen</string>
   <string name="prepaid_error_card_length">Bitte die korrekte Prepaid-Kartennummer oder Passwort eingeben</string>
   <string name="prepaid_error_card_number">Bitte den korrekten topup Betrag angeben</string>
-  <string name="prepaid_error_carrier">Bitte wähle Deinen Mobilfunkbetreiber aus</string>
-  <string name="prepaid_error_denomination">Bitte topup Betrag wählen</string>
+  <string name="prepaid_error_carrier">Bitte wähle deinen Mobilfunkbetreiber aus</string>
+  <string name="prepaid_error_denomination">Bitte top-up Betrag wählen</string>
   <string name="prepaid_error_password">Bitte gib das korrekte Prepaid-Karten-Passwort ein</string>
   <string name="prepaid_number_edit_hint">Nummer der Prepaid-Karte</string>
   <string name="prepaid_password_edit_hint">Passwort der Prepaid-Karte</string>

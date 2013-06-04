@@ -456,7 +456,7 @@
   <string name="fdn_summary_miui">Die oben genannten Optionen sind deaktiviert, wenn FDN aktiviert ist</string>
   <string name="fdn_unavailable">FDN-Service nicht verfügbar</string>
   <string name="fw_change_failed">"Änderung der Rufumleitung fehlgeschlagen.
-Bitte kontaktiere Deinen Anbieter, wenn das Problem weiterhin besteht."</string>
+Bitte kontaktiere deinen Anbieter, wenn das Problem weiterhin besteht."</string>
   <string name="fw_get_in_vm_failed">"Konnte Einstellungen der Rufumleitung nicht speichern.
 Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="general_news_settings">Allgemeine Nachrichten</string>

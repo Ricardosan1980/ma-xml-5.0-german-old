@@ -83,7 +83,7 @@
   <string name="mobile_traffic">2G/3G: %s</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Datenverbrauch-Einstellungen</string>
-  <string name="notify_carrier_settings_title">Du hast Deinen Mobilfunkanbieter noch nicht konfiguriert. Jetzt konfigurieren?</string>
+  <string name="notify_carrier_settings_title">Du hast deinen Mobilfunkanbieter noch nicht konfiguriert. Jetzt konfigurieren?</string>
   <string name="notify_traffic_settings_cancel_hint">Benachrichtigungen und Datenverbrauch-Überwachung wird deaktiviert. Jetzt beenden?</string>
   <string name="notify_traffic_settings_title">Du hast dein Datenvolumen noch nicht konfiguriert. Jetzt konfigurieren?</string>
   <string name="overseas_menu_traffic_adjust">Manuell einstellen</string>
@@ -124,7 +124,7 @@
   <string name="sync_traffic_fail_message">Synchronisation mit Mobilfunkanbieter fehlgeschlagen: Der Server ist ausgelastet. Bitte versuche es später erneut, oder rufe den Kundendienst %s für weitere Hilfestellungen an</string>
   <string name="sync_traffic_fail_title">Synchronisierung fehlgeschlagen</string>
   <string name="sync_traffic_ing">Wird mit Netzwerbetreiber synchronisiert, bitte warten...</string>
-  <string name="sync_traffic_no_cmd_detail">"Füge deine Stadt, Provinz, IStGH-Marke und Deinen Mobilfunkanbieter in folgendem Forenthema ein: http://www.miui.com/forum-172-1.html. Vielen Dank."</string>
+  <string name="sync_traffic_no_cmd_detail">"Füge deine Stadt, Provinz, IStGH-Marke und deinen Mobilfunkanbieter in folgendem Forenthema ein: http://www.miui.com/forum-172-1.html. Vielen Dank."</string>
   <string name="sync_traffic_no_cmd_title">Kein SMS-Template</string>
   <string name="sync_traffic_success">"Daten wurden mit Mobilfunkanbieter synchronisiert und der Datenverbrauch entsprechend eingestellt"</string>
   <string name="text_day" />
@@ -132,7 +132,7 @@
   <string name="text_save">Speichern</string>
   <string name="traffic_none">N/A</string>
   <string name="traffic_remain">Übrig</string>
-  <string name="traffic_settings_error">Es wurde ein Fehler mit Deinen Einstellungen für das monatliche Datenvolumen festgestellt. In Anbetracht deiner Einstellungen und der Mobilfunkanbieter-SMS, beträgt dein monatliches Datenvolumen: %1$s und dein übriges Datenvolumen: %2$s.</string>
+  <string name="traffic_settings_error">Es wurde ein Fehler mit deinen Einstellungen für das monatliche Datenvolumen festgestellt. In Anbetracht deiner Einstellungen und der Mobilfunkanbieter-SMS, beträgt dein monatliches Datenvolumen: %1$s und dein übriges Datenvolumen: %2$s.</string>
   <string name="traffic_suffix">Verbrauch</string>
   <string name="traffic_suffix_with_uint">Verbrauch (MB)</string>
   <string name="traffic_total">"Gesamt: 

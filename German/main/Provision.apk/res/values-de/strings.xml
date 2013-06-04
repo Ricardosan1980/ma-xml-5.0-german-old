@@ -9,10 +9,10 @@
   <string name="other_service_google_location">Google Standortdienste</string>
   <string name="other_service_google_location_use">Standort &amp; Google-Suche</string>
   <string name="other_service_google_location_use_help">"Erlaube Googles Standortdiensten anonyme Standortdaten zu sammeln. Es wird auch gesammelt, wenn keine Anwendungen aktiv sind. Um diese Einstellung zu ändern, verwende Einstellungen &gt; Standort-Dienste"</string>
-  <string name="other_service_google_location_use_summary">Erlaube Google Deinen Standort zu verwenden, um Suchergebnisse und andere Dienste zu verbessern</string>
+  <string name="other_service_google_location_use_summary">Erlaube Google deinen Standort zu verwenden, um Suchergebnisse und andere Dienste zu verbessern</string>
   <string name="other_service_label">Andere Dienste</string>
   <string name="other_service_location">Standortdienste</string>
-  <string name="other_service_location_summary">Standortdienste gestattet "Maps" und anderen Anwendungen, Deinen Standort per GPS zu bestimmen</string>
+  <string name="other_service_location_summary">Standortdienste gestattet "Maps" und anderen Anwendungen, deinen Standort per GPS zu bestimmen</string>
   <string name="other_service_permission_manager">App-Berechtigungen verwalten</string>
   <string name="other_service_permission_manager_summary">Überwache Apps auf Sicherheit und Privatsphäre</string>
   <string name="other_service_user_experience">Dem User Experience-Programm beitreten</string>

@@ -165,7 +165,7 @@
   <string name="screen_rotation_freeze_message">Bildschirmrotation im Landschaftsmodus gesperrt</string>
   <string name="screenshot_failed_text">"Screenshot konnte nicht gespeichert werden. Speicher eventuell in Benutzung"</string>
   <string name="screenshot_failed_title">"Konnte keinen Screenshot aufnehmen."</string>
-  <string name="screenshot_saved_text">Berühren, um Deinen Screenshot anzuzeigen.</string>
+  <string name="screenshot_saved_text">Berühren, um deinen Screenshot anzuzeigen.</string>
   <string name="screenshot_saved_title">Screenshot aufgenommen.</string>
   <string name="screenshot_saving_text">Screenshot wird gespeichert.</string>
   <string name="screenshot_saving_ticker">Speichere Screenshot...</string>
@@ -230,7 +230,7 @@
   <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_sync_auto">Auto-Sync</string>
   <string name="status_bar_toggle_sync_manual">Sync</string>
-  <string name="status_bar_toggle_syncing">Synchronisiert</string>
+  <string name="status_bar_toggle_syncing">Sync</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_use_physical_keyboard">Physikalische Tastatur verwenden</string>
   <string name="tab_notifications_lable">Benachrichtigungen</string>

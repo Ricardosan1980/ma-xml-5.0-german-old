@@ -273,7 +273,7 @@
   <string name="set_recent_album">Als Lieblingsalbum festlegen</string>
   <string name="set_wallpaper">Als Desktop-Hintergrund festlegen</string>
   <string name="settings">Einstellungen</string>
-  <string name="settings_i_xiaomi_com">Melde dich bei i.xiaomi.com an, um Deinen Cloud-Speicher zu verwalten</string>
+  <string name="settings_i_xiaomi_com">Melde dich bei i.xiaomi.com an, um deinen Cloud-Speicher zu verwalten</string>
   <string name="share_album">Album teilen</string>
   <string name="shadow">Schatten</string>
   <string name="sharpen">Schärfen</string>
@@ -310,7 +310,7 @@
   <string name="sync_album">Album synchronisieren</string>
   <string name="sync_album_error">Herunterladen der Fotos dieses Albums fehlgeschlagen. Bitte versuche es später erneut.</string>
   <string name="sync_album_set_error">Herunterladen der Liste an Alben fehlgeschlagen. Bitte versuche es später erneut.</string>
-  <string name="sync_album_summary">Lade deine Bilder und Bildschirmfotos in Deinen MiCloud-Albenspeicher hoch</string>
+  <string name="sync_album_summary">Lade deine Bilder und Bildschirmfotos in deinen MiCloud-Albenspeicher hoch</string>
   <string name="sync_history_power_on">Während dem Aufladen synchronisieren</string>
   <string name="sync_only_in_wifi">Nur WLAN</string>
   <string name="sync_only_in_wifi_summary">Empfohlene Einstellung, da ansonsten der Datenverbrauch zunimmt.</string>

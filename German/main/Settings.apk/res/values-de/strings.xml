@@ -19,16 +19,37 @@
   <string name="access_control_recording_intro_header">Zeichne ein Muster, um die Sperre zu aktivieren</string>
   <string name="access_control_reset_by_account">Melde dich mit deinem Xiaomi-Konto an, um das Passwort für die Zugriffskontrolle zurückzusetzen</string>
   <string name="accessibility_enable">Bedienhilfe aktivieren</string>
-  <string name="accessibility_long_press_timeout_title">Druck- &amp; Halteverzögerung</string>
+  <string name="accessibility_feature_state_off">Aus</string>
+  <string name="accessibility_feature_state_on">Ein</string>
+  <string name="accessibility_global_gesture_preference_description">"Wenn diese Funktion eingeschaltet ist, kannst du schnell, in nur zwei Schritten, die Eingabehilfen aktivieren:
+
+Schritt 1: Drücke und halte den Ein-/Aus-Knopf bist du einen Ton hörst oder Vibration fühlst.
+
+Schritt 2: Berühre und halte mit zwei Fingern, bis du eine akustische Bestätigung hörst.
+
+Wenn das Gerät mehrere Benutzer hat, schaltet der Kurzbefehl am Sperrbildschirm die Eingabehilfen vorübergehend ein, bis das Gerät entsperrt wird."</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Aus</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Ein</string>
+  <string name="accessibility_global_gesture_preference_title">Eingabehilfen Kurzbefehl</string>
+  <string name="accessibility_long_press_timeout_preference_title">Druck- &amp; Halteverzögerung</string>
   <string name="accessibility_menu_item_settings">Einstellungen</string>
   <string name="accessibility_no_services_installed">Keine Dienste installiert</string>
-  <string name="accessibility_power_button_ends_call_title">An-/Aus-Knopf beendet den Anruf</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Ein-/Aus-Knopf beendet den Anruf</string>
+  <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion eingeschaltet ist, kannst du durch dreifach auf den Bildschirm tippen ein- und auszoomen.
+
+Wenn eingezoomt, kannst du:
+"<ul><li>"Verschieben: Ziehe mit zwei oder mehr Fingern über den Bildschirm.
+"<li>Zoom-Level einstellen: Ziehe zwei oder mehr Finger zusammen oder spreize sie auseinander.</li></li></ul>"
+
+Durch dreifach tippen und halten, kannst du vorübergehend vergrössern was unter deinem Finger ist. So vergrössert, kannst du mit dem Finger über den Bildschirm ziehen um verschiedene Bildausschnitte anzusehen. Hebe deinen Finger um zur vorherigen Einstellung zurückzukehren.
+
+Anmerkung: Dreifach tippen um zu vergrößern funktioniert überall ausser auf der Tastatur und der Navigationsleiste."</string>
+  <string name="accessibility_screen_magnification_title">Vergrößerungsgesten</string>
   <string name="accessibility_script_injection_allowed">Erlaubt</string>
   <string name="accessibility_script_injection_button_allow">Erlauben</string>
   <string name="accessibility_script_injection_button_disallow">"Nicht erlauben</string>
   <string name="accessibility_script_injection_disallowed">Nicht erlaubt</string>
   <string name="accessibility_script_injection_security_warning_summary">Möchtest du, dass Anwendungen Scripts von Google installieren, um mehr Zugriff auf deren Web-Inhalte zu haben?</string>
-  <string name="accessibility_script_injection_title">Web-Scripts installieren</string>
   <string name="accessibility_service_default_description">Keine Beschreibung verfügbar.</string>
   <string name="accessibility_service_disable_warning_summary">Drücke "OK" um %1$s anzuhalten.</string>
   <string name="accessibility_service_disable_warning_title">%1$s anhalten?</string>
@@ -46,12 +67,18 @@
   <string name="accessibility_sync_enabled">Synchronisation aktiviert</string>
   <string name="accessibility_sync_error">Fehler bei der Synchronisation.</string>
   <string name="accessibility_system_title">System</string>
-  <string name="accessibility_toggle_large_text_title">Großer Text</string>
+  <string name="accessibility_toggle_large_text_preference_title">Großer Text</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Bildschirmvergrösserung bei Anwendungs-Übergang aktualisieren</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Bildschirmvergrösserung automatisch aktualisieren</string>
+  <string name="accessibility_toggle_screen_magnification_preference_title">Bildschirmvergrösserung</string>
+  <string name="accessibility_toggle_script_injection_preference_title">Verbessere Web-Zugänglichkeit</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Passwörter sprechen</string>
   <string name="account_settings">Konten</string>
   <string name="account_sync_settings_title">Synchronisation</string>
   <string name="activating">Aktiviere...</string>
   <string name="active_device_admin_msg">Geräte-Administrator</string>
   <string name="active_input_method_subtypes">Aktive Eingabe-Methoden</string>
+  <string name="activity_not_found">Anwendung ist auf deinem Telefon nicht installiert.</string>
   <string name="activity_picker_label">Aktion wählen</string>
   <string name="adb_warning_message">USB-Debugging ist ausschließlich für Entwickler-Zwecke. Benutze es, um Daten zwischen deinem Computer und Handy zu kopieren, Apps ohne Benachrichtigung zu installieren oder um Log-Daten auszulesen.</string>
   <string name="adb_warning_title">USB-Debugging erlauben?</string>
@@ -66,6 +93,7 @@
   <string name="airplane_mode">Flugmodus</string>
   <string name="alarm_volume_title">Wecker</string>
   <string name="all_volume_title">Lautstärke</string>
+  <string name="allow">Erlauben</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Nachdem du das Widget erstellt hast, kann %1$s auf alle angezeigten Daten zugreifen.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget erstellen und Zugriff erlauben?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s immer erlauben, Widgets zu erstellen und auf Daten zuzugreifen</string>
@@ -125,6 +153,8 @@
   <string name="app_not_found_dlg_title" />
   <string name="app_notifications_switch_label">Benachrichtigungen anzeigen</string>
   <string name="app_process_limit_title">Limit für Hintergrundprozesse</string>
+  <string name="app_special_disable_dlg_text">Wenn du die integrierte Anwendung deaktivierst, könnten sich andere Anwendungen falsch verhalten und deine Daten werden gelöscht.</string>
+  <string name="app_special_disable_dlg_title">Daten löschen und Anwendung deaktivieren?</string>
   <string name="application_forbid_auto_startup">%s verbieten, im Hintergrund zu starten</string>
   <string name="application_info_label">Anwendungs-Informationen</string>
   <string name="application_item_already_permission">Erlaubt</string>
@@ -138,6 +168,7 @@
   <string name="assisted_gps">Verwende unterstütztes GPS</string>
   <string name="assisted_gps_disabled">Benutze Server, um GPS zu unterstützen (deaktivieren, um GPS-Performance zu verbessern)</string>
   <string name="assisted_gps_enabled">Benutze Server, um GPS zu unterstützen (deaktivieren, um Datenverbrauch zu verringern)</string>
+  <string name="audio_profile_settings_title">Audioprofile</string>
   <string name="audio_record_proc_title">Geräuschunterdrückung</string>
   <string name="auto_caps">Automatische Großschreibung</string>
   <string name="auto_caps_summary">Automatisch den ersten Buchstaben eines Satzes groß schreiben</string>
@@ -190,6 +221,7 @@
   <string name="battery_desc_display">Stromverbrauch durch Display und Beleuchtung</string>
   <string name="battery_desc_radio">Stromverbrauch durch Mobilfunk-Empfang</string>
   <string name="battery_desc_standby">Stromverbrauch durch Stand-By</string>
+  <string name="battery_desc_users">Stromverbrauch durch Benutzer</string>
   <string name="battery_desc_voice">Stromverbrauch durch Sprachanrufe</string>
   <string name="battery_desc_wifi">Stromverbrauch durch WLAN</string>
   <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
@@ -215,12 +247,14 @@
   <string name="battery_info_power_unknown">Unbekannt</string>
   <string name="battery_info_power_unplugged">Abgesteckt</string>
   <string name="battery_info_power_usb">USB</string>
+  <string name="battery_info_power_wireless">Drahtlos</string>
   <string name="battery_info_scale_label">Akku-Skala:</string>
   <string name="battery_info_screen_on">Bildschirm an:</string>
   <string name="battery_info_status_charging">Lädt</string>
   <string name="battery_info_status_charging_ac">(Ladegerät)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
-  <string name="battery_info_status_discharging">Entlädt</string>
+  <string name="battery_info_status_charging_wireless">(drathlos)</string>
+  <string name="battery_info_status_discharging">Lädt nicht</string>
   <string name="battery_info_status_full">Voll</string>
   <string name="battery_info_status_label">Akku-Status:</string>
   <string name="battery_info_status_not_charging">Lädt nicht</string>
@@ -431,6 +465,10 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="brightness_auto_adjust_on">Die Automatische Helligkeit kann mit dem Slider eingestellt werden. Die Bildschirmhelligkeit passt sich dann entsprechend deiner Einstellung und Umgebung an.</string>
   <string name="brightness_summary">Stellt die Bildschirmhelligkeit ein</string>
   <string name="bssid_label">BSSID:</string>
+  <string name="bugreport_in_power">Energiemenü Fehlermeldungen</string>
+  <string name="bugreport_in_power_summary">Im Energiemenü die Möglichkeit vorsehen, eine Fehlermeldung zu erzeugen</string>
+  <string name="bugreport_tool_log_toast">Log nach %s gesichert</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Erstelle Fehlermeldung, dauer etwa eine Minute</string>
   <string name="build_number">Build-Nummer</string>
   <string name="builtin_keyboard_settings_summary">Tastatur-Einstellungen für physikalische Tastatur</string>
   <string name="builtin_keyboard_settings_title">Physikalische Tastatur</string>
@@ -524,7 +562,7 @@ Die Verschlüsselung dauert eine Stunde oder länger. Du musst mit einem voll ge
 Um das Telefon erneut zu benutzen, muss es auf Werkseinstellungen zurückgesetzt werden. Wenn du das Telefon danach einrichtest, hast du die Möglichkeit, alle Daten, die auf deinem Google-Konto gesichert wurden, wiederherzustellen."</string>
   <string name="crypt_keeper_failed_title">Verschlüsselung nicht erfolgreich</string>
   <string name="crypt_keeper_final_desc">Telefon verschlüsseln? Dieser Vorgang ist nicht umkehrbar und führt bei Unterbrechung zu Datenverlust. Die Verschlüsselung dauert eine Stunde oder länger, währenddessen wird das Telefon mehrfach neu gestartet.</string>
-  <string name="crypt_keeper_low_charge_text">Lade Deinen Akku auf und versuche es erneut.</string>
+  <string name="crypt_keeper_low_charge_text">Lade deinen Akku auf und versuche es erneut.</string>
   <string name="crypt_keeper_settings_title">Verschlüsselung</string>
   <string name="crypt_keeper_setup_description">Bitte warte, während dein Telefon verschlüsselt wird. ^1% abgeschlossen.</string>
   <string name="crypt_keeper_setup_title">Verschlüssele</string>
@@ -548,7 +586,7 @@ Du kannst innerhalb der Anwendung bessere Datenverbrauchs-Einstellungen finden."
   <string name="data_usage_app_settings">Zeige Anwendungseinstellungen</string>
   <string name="data_usage_auto_sync_off_dialog">"Dies verringert den Strom- und Datenverbrauch, aber du musst jedes Konto manuell synchronisieren, um aktuelle Informationen und Benachrichtigungen zu erhalten."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Auto-Synchronisierung deaktivieren?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Alle Änderungen, die du im Internet an Deinen Konten vornimmst, werden automatisch auf dein Telefon kopiert.
+  <string name="data_usage_auto_sync_on_dialog">"Alle Änderungen, die du im Internet an deinen Konten vornimmst, werden automatisch auf dein Telefon kopiert.
 
 Einige Konten können auch automatisch Änderungen, die du auf dem Telefon vornimmst, ins Internet kopieren. Ein Google-Account funktioniert auf diese Weise.
 
@@ -589,7 +627,10 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="data_usage_metered_wifi_disabled">Aktiviere WLAN, um mobile Hotspots auszuwählen.</string>
   <string name="data_usage_pick_cycle_day">Tag des Monats für Rückstellung:</string>
   <string name="data_usage_received_sent">%1$s empfangen, %2$s gesendet</string>
-  <string name="data_usage_restrict_background">"Wenn du Hintergrunddaten in Mobilnetzen einschränkst, dann funktionieren einige Anwendungen und Dienste nur bei einer bestehenden WLAN-Verbindung."</string>
+  <string name="data_usage_restrict_background">"Wenn du Hintergrunddaten in Mobilnetzen einschränkst, funktionieren einige Anwendungen und Dienste nur bei WLAN-Verbindung."</string>
+  <string name="data_usage_restrict_background_multiuser">"Wenn du Hintergrunddaten in Mobilnetzen einschränkst, funktionieren einige Anwendungen und Dienste nur bei WLAN-Verbindung.
+
+Diese Einstellung betrifft alle Benutzer auf diesem Telefon."</string>
   <string name="data_usage_restrict_background_title">Hintergrunddaten einschränken?</string>
   <string name="data_usage_restrict_denied_dialog">"Hintergrunddaten können nur bei gesetztem Datenlimit eingeschränkt werden."</string>
   <string name="data_usage_summary_title">Datenverbrauch</string>
@@ -603,6 +644,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="data_usage_total_during_range">%2$s: ungefähr %1$s verbraucht.</string>
   <string name="data_usage_total_during_range_mobile">"%2$s: ungefähr %1$s verbraucht, durch das Telefon berechnet. Die Berechnung des Datenverbrauchs beim Provider kann abweichen."</string>
   <string name="data_usage_uninstalled_apps">Entfernte Anwendungen</string>
+  <string name="data_usage_uninstalled_apps_users">Entfernte Anwendungen und Benutzer</string>
   <string name="data_usage_warning_editor_title">Datenverbrauchs-Warnung einstellen</string>
   <string name="date_and_time">Zeit- &amp; Datumseinstellungen</string>
   <string name="date_and_time_settings_summary">Datums-, Uhrzeit- und Zeitzonen-Format einstellen</string>
@@ -636,6 +678,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="default_input_method">Standard-Eingabemethode auswählen</string>
   <string name="default_usb_mode">Standard USB-Verbindungstyp</string>
   <string name="delete">Löschen</string>
+  <string name="deny">Ablehnen</string>
   <string name="details_subtitle">Benutze Details</string>
   <string name="details_title">Benutze Details</string>
   <string name="dev_settings_warning_message">Diese Einstellungen sind nur für Entwicklungszwecke. Sie können dazu führen, dass dein Telefon oder Anwendungen nicht mehr sachgemäß funktionieren.</string>
@@ -723,7 +766,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="dolby_eq_enter_alert_msg">Möchtest du den Dolby Equalizer-Modus öffnen?</string>
   <string name="dolby_eq_enter_alert_title">Dolby EQ-Modus öffnen</string>
   <string name="dolby_eq_flat">Flat</string>
-  <string name="dolby_eq_hiphop">Hiphop</string>
+  <string name="dolby_eq_hiphop">Hip-Hop</string>
   <string name="dolby_eq_jazz">Jazz</string>
   <string name="dolby_eq_metal">Metal</string>
   <string name="dolby_eq_pop">Pop</string>
@@ -767,6 +810,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="enable_adb_summary">Debug-Modus bei USB-Verbindung</string>
   <string name="enable_compatibility">Anwendung skalieren</string>
   <string name="enable_drive_mode">Laufwerksmodus aktivieren</string>
+  <string name="enable_opengl_traces_title">Aktiviere OpenGL-Traces</string>
   <string name="enable_snapshot_screenlock">Gedrückt halten, um Screenshot aufzunehmen</string>
   <string name="enable_text">Aktivieren</string>
   <string name="enable_traces_dialog_title">Aktivierte Traces auswählen</string>
@@ -774,6 +818,7 @@ Um auszuwählen, welche Informationen synchronisiert werden, gehe zu Einstellung
   <string name="enable_traces_summary_none">Keine Traces aktiviert</string>
   <string name="enable_traces_summary_num">%1$d Traces aktiviert</string>
   <string name="enable_traces_title">Traces aktivieren</string>
+  <string name="enable_wifi_display">Aktiviere WLAN-Anzeige</string>
   <string name="enforce_read_external_confirm_message">"Wenn der USB-Speicher geschützt ist, müssen Anwendungen um Erlaubnis fragen, wenn sie Daten von externen Speichern lesen möchten.
 
 Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler eine Aktualisierung durchgeführt hat."</string>
@@ -824,19 +869,38 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="font_size_summary">Passe die Größe des Texts oder Layouts für Anwendungen wie; Anruf, Nachrichten, Kontakte etc. an, um Lesbarkeit und Bedienbarkeit zu verbessern.</string>
   <string name="force_hw_ui">GPU-Rendering erzwingen</string>
   <string name="force_hw_ui_summary">2D-Hardwarebeschleunigung in Anwendungen verwenden</string>
+  <string name="force_msaa">4x MSAA erzwingen</string>
+  <string name="force_msaa_summary">4x MSAA in OpenGL ES 2.0 Anwendungen verwenden</string>
   <string name="force_stop">Anhalten erzwingen</string>
   <string name="force_stop_dlg_text">Wenn du eine Anwendung anhältst, so kommt es unter Umständen zu Fehlfunktionen.</string>
   <string name="force_stop_dlg_title">Anhalten erzwingen?</string>
   <string name="forget_wifi_message">Dieses WLAN-Netzwerk löschen? Das Passwort muss bei erneuter Verbindung wieder eingegeben werden</string>
   <string name="frequently_fragment_delete">Löschen</string>
   <string name="frequently_fragment_tempty">Häufig genutzte Objekte werden hier aufgelistet</string>
+  <string name="gadget_bluetooth">Bluetooth</string>
+  <string name="gadget_brightness_state_auto">Auto</string>
+  <string name="gadget_brightness_state_full">Voll</string>
+  <string name="gadget_brightness_state_half">Halb</string>
+  <string name="gadget_brightness_state_off">Aus</string>
+  <string name="gadget_brightness_template">Helligkeit %1$s</string>
+  <string name="gadget_gps">GPS</string>
   <string name="gadget_picker_title">Gadget auswählen</string>
+  <string name="gadget_state_off">Aus</string>
+  <string name="gadget_state_on">Ein</string>
+  <string name="gadget_state_template">%1$s %2$s</string>
+  <string name="gadget_state_turning_off">Schalte aus</string>
+  <string name="gadget_state_turning_on">Schalte ein</string>
+  <string name="gadget_sync">Sync</string>
   <string name="gadget_title">Energieeinstellungen</string>
   <string name="gadget_toggle_bluetooth">Aktualisiert Bluetooth-Einstellungen</string>
   <string name="gadget_toggle_wifi">Aktualisiert WLAN-Einstellungen</string>
+  <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Game-Controller</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
+  <string name="getConfiguredNetworks">Hole konfigurierte Netzwerke</string>
+  <string name="getConnectionInfo">Hole Verbindungsinfo</string>
+  <string name="global_change_warning">Diese Einstellung betrifft alle Benutzer auf diesem Telefon.</string>
+  <string name="global_font_change_title">Schriftgröße ändern</string>
+  <string name="global_locale_change_title">Sprache ändern</string>
   <string name="haptic_feedback_enable_title">Vibration bei Berührung</string>
   <string name="haptic_feedback_level">Vibrationsstärke</string>
   <string name="hardkeyboard_category">Einstellungen für physikalische Tastatur</string>
@@ -859,9 +923,13 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="help_url_bluetooth" />
   <string name="help_url_choose_lockscreen" />
   <string name="help_url_data_usage" />
+  <string name="help_url_dreams" />
+  <string name="help_url_location_access" />
   <string name="help_url_more_networks" />
+  <string name="help_url_security" />
   <string name="help_url_sound" />
   <string name="help_url_tether" />
+  <string name="help_url_users" />
   <string name="help_url_vpn" />
   <string name="help_url_wifi" />
   <string name="hidden_ssid_label">Versteckte SSID:</string>
@@ -891,6 +959,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="input_settings">Eingabe-Einstellungen</string>
   <string name="install_all_warning">Dein Telefon und deine persönlichen Daten sind durch Anwendungen von unbekannten Quellen gefährdet. Du stimmst zu, das sämtliche Schäden am Telefon oder Datenverlust durch Benutzung dieser Anwendungen auf eigenes Risiko geschieht.</string>
   <string name="install_applications">Unbekannte Quellen</string>
+  <string name="install_text">Installiere</string>
   <string name="install_unknown_applications">Installation von unbekannten Quellen erlauben</string>
   <string name="insufficient_storage">Nicht genug Speicherplatz verfügbar.</string>
   <string name="intent_sender_account_label">Konto:</string>
@@ -947,16 +1016,19 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="local_backup_password_toast_confirmation_mismatch">"Neues Passwort und Bestätigung stimmen nicht überein"</string>
   <string name="local_backup_password_toast_success">Neues Passwort gesetzt</string>
   <string name="local_backup_password_toast_validation_failure">Fehler beim Erstellen des Backup-Passworts</string>
+  <string name="location_access_summary">Erlaube Anwendungen die um Erlaubnis gefragt haben, deine Standortinformationen zu verwenden</string>
+  <string name="location_access_title">Zugriff auf meinen Standort</string>  
   <string name="location_gps">GPS-Satelliten</string>
-  <string name="location_neighborhood_level">Anwendungen erlauben, Daten von Quellen wie WLAN-Netzwerken oder mobilen Netzen zu nutzen, um Deinen ungefähren Standort zu bestimmen</string>
+  <string name="location_neighborhood_level">Anwendungen erlauben, Daten von Quellen wie WLAN-Netzwerken oder mobilen Netzen zu nutzen, um deinen ungefähren Standort zu bestimmen</string>
   <string name="location_neighborhood_level_wifi">Standort über WLAN ermittelt</string>
   <string name="location_network_based">"Googles Standort-Dienste"</string>
   <string name="location_settings_title">Standort-Dienste</string>
-  <string name="location_street_level">Anwendungen erlauben, Deinen Standort per GPS zu bestimmen</string>
+  <string name="location_sources_heading">Standortquellen</string>
+  <string name="location_street_level">Anwendungen erlauben, deinen Standort per GPS zu bestimmen</string>
   <string name="location_title">Mein Standort</string>
   <string name="lock_after_timeout">Automatisch sperren</string>
   <string name="lock_after_timeout_summary">Nach %1$s sperren</string>
-  <string name="lock_intro_message">"Schütze dein Telefon vor unbefugtem Zugriff, indem du ein persönliches Entsperrmuster festlegst. Bewege Deinen Finger auf dem nächsten Bildschirm über mindestens 4 Punkte. 
+  <string name="lock_intro_message">"Schütze dein Telefon vor unbefugtem Zugriff, indem du ein persönliches Entsperrmuster festlegst. Bewege deinen Finger auf dem nächsten Bildschirm über mindestens 4 Punkte. 
 
 Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lock_screen_unlock_show">Passwort-Eingabefeld direkt anzeigen</string>
@@ -1013,7 +1085,7 @@ Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lockpattern_retry_button_text">Wiederholen</string>
   <string name="lockpattern_settings_change_lock_pattern">Entsperrmuster ändern</string>
   <string name="lockpattern_settings_choose_lock_pattern">Entsperrmuster setzen</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">An-/Aus-Taste sperrt umgehend</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Ein-/Aus-Taste sperrt umgehend</string>
   <string name="lockpattern_settings_enable_summary">Zum Entsperren des Bildschirms muss ein Muster gezeichnet werden</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Bei Berührung vibrieren</string>
   <string name="lockpattern_settings_enable_title">Muster erforderlich</string>
@@ -1077,9 +1149,13 @@ Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="memory">RAM</string>
   <string name="memory_apps_usage">Anwendungen</string>
   <string name="memory_available">Verfügbar</string>
+  <string name="memory_available_read_only">Frei (nur lesen)</string>
   <string name="memory_calculating_size">Berechne</string>
+  <string name="memory_clear_cache_message">Dies wird den Datenpuffer für alle Anwendungen löschen.</string>
+  <string name="memory_clear_cache_title">Datenpuffer löschen?</string>
   <string name="memory_dcim_usage">Fotos, Videos</string>
   <string name="memory_downloads_usage">Downloads</string>
+  <string name="memory_media_cache_usage">Datenpuffer</string>
   <string name="memory_media_misc_usage">Verschiedenes</string>
   <string name="memory_media_usage">Medien</string>
   <string name="memory_music_usage">Audio (Musik, Klingeltöne, Podcasts, etc.)</string>
@@ -1161,6 +1237,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="no_running_services">Keine laufenden Dienste.</string>
   <string name="no_services">Nicht aktiv</string>
   <string name="normal_date_format">Regional (%s)</string>
+  <string name="not_installed">Nicht installiert</string>
   <string name="notification_pulse_title">Benachrichtigungs-LED</string>
   <string name="notification_sound_dialog_title">Benachrichtigungston wählen</string>
   <string name="notification_sound_title">Standard-Benachrichtigung</string>
@@ -1171,6 +1248,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="oem_radio_info_label">OEM-Spezifische Info / Einstellungen</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen-Tastatureinstellungen</string>
   <string name="other_relative">Andere Berechtigungen</string>
+  <string name="overlay_display_devices_title">Simuliere sekundäre Bildschirme</string>
   <string name="owner_info_settings_edit_text_hint">Text eingeben, der auf dem Sperrbildschirm angezeigt werden soll</string>
   <string name="owner_info_settings_summary" />
   <string name="owner_info_settings_title">Eigentümer-Informationen</string>
@@ -1367,7 +1445,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="pref_button_light">Tastenbeleuchtung</string>
   <string name="pref_button_light_summary">Menü, Home und Zurück-Taste</string>
   <string name="pref_operational_key">Funktionstaste</string>
-  <string name="pref_volume_wake_summary">Lautstärke hoch/runter aktiviert das Gerät. Für Geräte gedacht, wo der An-/Aus-Knopf schwer zu drücken ist</string>
+  <string name="pref_volume_wake_summary">Lautstärke hoch/runter aktiviert das Gerät. Für Geräte gedacht, wo der Ein-/Aus-Knopf schwer zu drücken ist</string>
   <string name="pref_volume_wake_title">Aktivierung durch Lautstärketasten</string>
   <string name="preference_change_password_title">Passwort ändern</string>
   <string name="preferred_launcher_title">Bevorzugter Launcher</string>
@@ -1450,6 +1528,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="radio_info_band_mode_label">Frequenz auswählen</string>
   <string name="radio_info_call_redirect_label">Anrufweiterleitung:</string>
   <string name="radio_info_call_status_label">Anrufstatus:</string>
+  <string name="radio_info_cellinfo_label">Zelleninformation:</string>
   <string name="radio_info_current_network_label">Derzeitiges Netzwerk:</string>
   <string name="radio_info_data_attempts_label">Datenversuche:</string>
   <string name="radio_info_data_successes_label">Datenerfolge:</string>
@@ -1483,6 +1562,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="recognizer_settings_title">Sprachsuche</string>
   <string name="recognizer_title">Spracherkennung</string>
   <string name="recompute_size">Berechne Größe…</string>
+  <string name="regulatory_information">Zulassungsinformationen</string>
   <string name="remove_account_failed">Dieses Konto wird von einigen Anwendungen gebraucht. Du kannst es nur löschen, wenn du das Telefon über Einstellungen &gt; Sichern &amp; Wiederherstellen auf Werkseinstellung zurücksetzt (dies löscht deine persönlichen Daten).</string>
   <string name="remove_account_label">Konto entfernen</string>
   <string name="remove_device_admin">Deaktivieren</string>
@@ -1506,7 +1586,12 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="roaming_reenable_title">Achtung</string>
   <string name="roaming_turn_it_on_button">Einschalten</string>
   <string name="roaming_warning">Datenroaming erlauben? Dies kann zu erhöhten Kosten führen!</string>
+  <string name="roaming_warning_multiuser">"Wenn du Datenroaming erlaubst, können extrem hohe Roamingkosten entstehen!
+
+Diese Einstellung betrifft alle Benuzter auf diesem Telefon."</string>  
   <string name="rssi_label">RSSI:</string>
+  <string name="running_process_item_removed_user_label">Gelöschter Benutzer</string>
+  <string name="running_process_item_user_label">Benutzer: %1$s</string>
   <string name="running_processes_item_description_p_p">%1$d Prozesse und %2$d Dienste</string>
   <string name="running_processes_item_description_p_s">%1$d Prozesse und %2$d Dienst</string>
   <string name="running_processes_item_description_s_p">%1$d Prozess und %2$d Dienste</string>
@@ -1524,7 +1609,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="screen_button_key">Virtuelle Bildschirmtasten</string>
   <string name="screen_color_temperature_adjust">Farbtemperatur anpassen</string>
   <string name="screen_compatibility_label">Bildschirmkompabilität</string>
-  <string name="screen_compatibility_text">Diese Anwendung ist unter Umständen nicht für Deinen Bildschirm angepasst. Du kannst hier die Anpassung an Deinen Bildschirm bestimmen.</string>
+  <string name="screen_compatibility_text">Diese Anwendung ist unter Umständen nicht für deinen Bildschirm angepasst. Du kannst hier die Anpassung an deinen Bildschirm bestimmen.</string>
   <string name="screen_key_long_press">Bildschirm Tasten halten</string>
   <string name="screen_key_long_press_action">Funktion auslösen</string>
   <string name="screen_key_long_press_timeout">Zeitüberschreitung beim halten</string>
@@ -1534,15 +1619,18 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="screen_timeout">Bildschirm ausschalten</string>
   <string name="screen_timeout_summary">Nach %1$s Inaktivität</string>
   <string name="screen_timeout_title">Bildschirm-Timeout</string>
+  <string name="screensaver_settings_button">Einstellungen</string>
+  <string name="screensaver_settings_disabled_prompt">Um zu sehen was passiert, wenn das Telefon im Dock und/oder auf Energiesparen ist, schalte Daydream ein.</string>
+  <string name="screensaver_settings_dream_start">Beginne jetzt</string>
   <string name="screensaver_activate_on_dock_title">Auch beim Docken starten</string>
   <string name="screensaver_component_title">Selected candy</string>
+  <string name="screensaver_settings_summary_dock">Im Dock</string>
+  <string name="screensaver_settings_summary_either_long">Im Dock oder auf Energiesparen und laden</string>
+  <string name="screensaver_settings_summary_either_short">Beides</string>
   <string name="screensaver_settings_summary_off">Deaktiviert</string>
-  <string name="screensaver_settings_summary_on">Startet bei Inaktivität wenn Ladegerät verbunden</string>
+  <string name="screensaver_settings_summary_sleep">Während des Ladens</string>
   <string name="screensaver_settings_title">Screen Candy</string>
-  <string name="screensaver_test">Probiers aus!</string>
-  <string name="screensaver_timeout_summary">Nach %1$s Leerlauf</string>
-  <string name="screensaver_timeout_title">Wann aktivieren</string>
-  <string name="screensaver_timeout_zero_summary">Nie</string>
+  <string name="screensaver_settings_when_to_dream">Daydream, wann?</string>
   <string name="sd_card_settings_label">SD-Karte</string>
   <string name="sd_card_storage">SD-Kartenspeicher</string>
   <string name="sd_eject">SD-Karte demounten</string>
@@ -1605,16 +1693,21 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="security_passwords_title">Passwörter</string>
   <string name="security_privacy_settings_title">Sicherheit &amp; Privatsphäre</string>
   <string name="security_relative">Sicherheitsrelevant</string>
+  <string name="security_settings_billing_desc">Diese Anwendung könnte dich Geld kosten:</string>
   <string name="security_settings_desc">Diese Anwendung hat Zugriff auf:</string>
   <string name="security_settings_desc_multi">Diese Anwendung hat auf die folgenden Dinge Zugriff. Um die Leistung zu verbessern und Speichernutzung zu verringern, wurden %1$s die gleichen Zugriffe wie %2$s gewährt, da diese im selben Prozess laufen:</string>
-  <string name="security_settings_summary">Meinen Standort einstellen, Bildschirmsperre, SIM-Kartensperre, etc.</string>
+  <string name="security_settings_premium_sms_desc">Sende Premium-SMS</string>  
+  <string name="security_settings_summary">Meinen Standort einstellen, Bildschirm entsperren, SIM-Kartensperre, etc.</string>  
   <string name="security_settings_title">Sicherheit</string>
   <string name="sel_sub_summary">Wähle die Dienste für SUB-1 und SUB-2</string>
   <string name="sel_sub_title">Konfiguriere Dienste</string>
   <string name="select_all">Alle auswählen</string>
   <string name="select_application">Anwendung wählen</string>
   <string name="select_device_admin_msg">Geräte-Administratoren</string>
-  <string name="select_subscription">Wähle Dienste</string>
+  <string name="selinux_status">SELinux Status</string>
+  <string name="selinux_status_disabled">Ausgeschaltet</string>
+  <string name="selinux_status_enforcing">Erzwungen</string>
+  <string name="selinux_status_permissive">Tolerant</string>
   <string name="service_background_processes">%1$s frei</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s in Gebrauch</string>
@@ -1649,10 +1742,16 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="show_background_processes">Gecachte Prozesse anzeigen</string>
   <string name="show_cpu_usage">CPU-Auslastung anzeigen</string>
   <string name="show_cpu_usage_summary">Bildschirmanzeige zur CPU-Auslastung</string>
+  <string name="show_dev_already">Nicht nötig, du bist bereits ein Entwickler.</string>
+  <string name="show_dev_on">Du bist jetzt ein Entwickler!</string>
   <string name="show_fc">Force-Close anzeigen</string>
   <string name="show_fc_summary">Zeigt Dialog bei fehlerhafter Beendigung</string>
-  <string name="show_hw_screen_updates">Show GPU view updates</string>
-  <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
+  <string name="show_hw_layers_updates">Zeige Hardwarelayer-Aktualisierung</string>
+  <string name="show_hw_layers_updates_summary">Hardwarelayer grün blinken, wenn sie aktualisieren</string>
+  <string name="show_hw_overdraw">Zeige GPU überzeichnen</string>
+  <string name="show_hw_overdraw_summary">Vom Besten zum Schlechtesten: blau, grün, hellrot, rot</string>
+  <string name="show_hw_screen_updates">Zeige GPU-View Aktualisierung</string>
+  <string name="show_hw_screen_updates_summary">Innerhalb der Fenster blinken, wenn mit der GPU gezeichnet</string>
   <string name="show_magnifier_when_input">Lupe anzeigen</string>
   <string name="show_owner_info_on_lockscreen_label">Eigentümer-Informationen im Sperrbildschirm anzeigen</string>
   <string name="show_password">Passwörter sichtbar machen</string>
@@ -1663,6 +1762,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="show_screen_updates_summary">Bildschirmflackern während der Aktualisierung</string>
   <string name="show_touches">Berührungen anzeigen</string>
   <string name="show_touches_summary">Zeige visuelles Feedback für Berührungen</string>
+  <string name="show_user_info_on_lockscreen_label">Zeige Benutzerinformation am Sperrbildschirm</string>
   <string name="silent_mode_title">Lautlos-Modus</string>
   <string name="sim_absent">Keine SIM/RUIM</string>
   <string name="sim_bad_pin">Falsche PIN</string>
@@ -1733,6 +1833,7 @@ Verbleibende Versuche :"</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
+  <string name="status_latest_area_info">Betreiberinformation</string>
   <string name="status_meid_number">MEID</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
@@ -1753,6 +1854,7 @@ Verbleibende Versuche :"</string>
   <string name="storage_low_summary">Einige Systemfunktionen, wie beispielsweise Synchronisierung, funktionieren unter Umständen nicht korrekt. Versuche Speicherplatz zu gewinnen, indem du Objekte wie Anwendungen oder Medien löschst.</string>
   <string name="storage_low_title">Geringer Speicherplatz</string>
   <string name="storage_menu_usb">USB-Verbindung mit Computer</string>
+  <string name="storage_other_users">Andere Benutzer</string>
   <string name="storage_settings">Speicher</string>
   <string name="storage_settings_summary">SD-Karte demounten, verfügbaren Speicher anzeigen</string>
   <string name="storage_settings_title">Speichereinstellungen</string>
@@ -1803,12 +1905,12 @@ Verbleibende Versuche :"</string>
   <string name="tether_settings_title_bluetooth">Bluetooth-Tethering</string>
   <string name="tether_settings_title_usb">USB-Tethering</string>
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-  <string name="tether_settings_title_wifi">Tragbarer Hotspot</string>
+  <string name="tether_settings_title_wifi">Mobiler Hotspot</string>
   <string name="tethering_help_button_text">Hilfe</string>
   <string name="time_picker_title">Zeit</string>
   <string name="time_zone_auto_stub">Zeitzone auswählen</string>
   <string name="timezone_settings">Zeitzone</string>
-  <string name="title_dolby_control">Dolby Mobile Control</string>
+  <string name="title_dolby_control">Dolby Einstellungen</string>
   <string name="title_font_size">Schriftgröße</string>
   <string name="total_size">%s (insgesamt)</string>
   <string name="total_size_label">Insgesamt</string>
@@ -1864,6 +1966,7 @@ Verbleibende Versuche :"</string>
   <string name="turn_off_radio">Radio ausschalten</string>
   <string name="turn_on_radio">Radio einschalten</string>
   <string name="under_keyguard">Am Sperrbildschirm</string>
+  <string name="uninstall_all_users_text">Für alle Benutzer deinstallieren</string>
   <string name="uninstall_text">Deinstallieren</string>
   <string name="unknown">unbekannt</string>
   <string name="unlock_backup_info_summary">"Wie möchtest du entsperren, wenn die Gesichtserkennung fehlschlägt?"</string>
@@ -1942,9 +2045,24 @@ Verbleibende Versuche :"</string>
   <string name="use_location_summary">Erlaubt Google, den Standort zur Verbesserung von Suchergebnissen und anderen Diensten zu nutzen</string>
   <string name="use_location_title">Standort &amp; Google-Suche</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systemsprache verwenden</string>
+  <string name="user_account_title">Konto für Inhalte</string>
   <string name="user_add_user_menu">Benutzer hinzufügen</string>
-  <string name="user_confirm_remove_message">Willst du den ausgewählten Benutzer und alle verwandten Daten wirklich vom Gerät entfernen?</string>
+  <string name="user_add_user_message_long">"Du kannst dieses Gerät mit anderen Personen teilen, indem du zusätzliche Benutzer erstellst. Jeder Benutzer hat seinen eigenen Bereich, den er mit seinen eigenen Anwendungen, Hintergrundbild und so weiter, personaliseren kann. Benutzer können auch Geräteeinstellungen, wie WLAN, ändern die alle betreffen.
+
+Nachdem du einen neuen Benutzer erstellt hast, muss diese Person eine Einstellungsroutine durchgehen.
+
+Jeder Benutzer kann die Aktualiserung von Anwendungsberechtigungen im Namen aller aller anderen Benutzer zulassen."</string>
+ <string name="user_add_user_message_short">"Nachdem du einen neuen Benutzer erstellt hast, muss diese Person eine Einstellungsroutine durchgehen.
+
+Jeder Benutzer kann die Aktualiserung von Anwendungsberechtigungen im Namen aller aller anderen Benutzer zulassen."</string>
+  <string name="user_add_user_title">Neuen Benutzer hinzufügen</string>
+  <string name="user_adding_new_user">Füge neuen Benutzer hinzu…</string>
+  <string name="user_cannot_manage_message">Nur der Eigentümer des Telefons kann Benutzer verwalten.</string>
+  <string name="user_confirm_remove_message">Der Benutzer und alle seine Daten werden vom Telefon entfernt. Du kannst diese Aktion nicht rückgängig machen.</string>
+  <string name="user_confirm_remove_self_message">Dein Benutzer und alle deine Daten werden vom Telefon entfernt. Du kannst diese Aktion nicht rückgängig machen.</string>
+  <string name="user_confirm_remove_self_title">Eigenen Benutzer löschen?</string>
   <string name="user_confirm_remove_title">Benutzer entfernen?</string>
+  <string name="user_delete_button">Löschen</string>
   <string name="user_details_title">Details bearbeiten</string>
   <string name="user_dict_multiple_settings_title">Persönliche Wörterbücher</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
@@ -1965,18 +2083,26 @@ Verbleibende Versuche :"</string>
   <string name="user_dict_settings_summary" />
   <string name="user_dict_settings_titlebar">Persönliches Wörterbuch</string>
   <string name="user_dict_single_settings_title">Persönliches Wörterbuch</string>
-  <string name="user_discard_user_menu">Verwerfen</string>
-  <string name="user_information_heading">Benutzerinformationen</string>
-  <string name="user_list_title">Benutzer</string>
-  <string name="user_market_apps_heading">Installierte Anwendungen</string>
-  <string name="user_market_requires_pin">Erfordert PIN</string>
-  <string name="user_max_content_rating">Inhaltsbewertung</string>
-  <string name="user_name_title">Name</string>
-  <string name="user_new_user_name">Lästiges Balg</string>
-  <string name="user_remove_user_menu">Benutzer entfernen</string>
-  <string name="user_restrictions_heading">Inhaltsbeschränkung</string>
-  <string name="user_settings_title">Benutzer &amp; Beschränkungen</string>
-  <string name="user_system_apps_heading">System-Anwendungen</string>
+  <string name="user_info_settings_title">Benutzerinformation</string>
+  <string name="user_list_title">Andere Benutzer</string>
+  <string name="user_new_user_name">Neuer Benutzer</string>
+  <string name="user_nickname">Spitzname</string>
+  <string name="user_owner">Besitzer</string>
+  <string name="user_picture_title">Fotoausweis</string>
+  <string name="user_remove_user_menu">%1$s von diesem Gerät löschen</string>
+  <string name="user_settings_title">Benutzer</string>
+  <string name="user_setup_button_setup_later">Nicht jetzt</string>
+  <string name="user_setup_button_setup_now">Jetzt einrichten</string>
+  <string name="user_setup_dialog_message">Stell sicher, dass die Person das Gerät übernehmen und ihr Konto einrichten kann</string>
+  <string name="user_setup_dialog_title">Benutzer jetzt einrichten?</string>
+  <string name="user_summary_active">Aktiv</string>
+  <string name="user_summary_inactive">Nicht aktiv</string>
+  <string name="user_summary_not_set_up">Nicht eingerichtet</string>
+  <string name="user_you_section">Du</string>
+  <string name="verify_applications">Überprüfe Anwendungen</string>
+  <string name="verify_applications_summary">Verweigere oder warne vor der Installaton von Anwendungen die Schaden anrichten könnten</string>
+  <string name="verify_apps_over_usb_summary">Überprüfe installierte Anwendungen mit ADB/ADT auf schädliches Verhalten.</string>
+  <string name="verify_apps_over_usb_title">Anwendungen über USB überprüfen</string>
   <string name="version_text">Version %1$s</string>
   <string name="vibrate_category_title">Vibration</string>
   <string name="vibrate_in_normal_title">Vibrieren, wenn Normal</string>
@@ -2044,14 +2170,18 @@ Verbleibende Versuche :"</string>
   <string name="vpn_dns_servers">DNS-Server (bsp. 8.8.8.8)</string>
   <string name="vpn_dns_servers_hint">z.B. 8.8.8.8</string>
   <string name="vpn_edit">VPN-Netzwerk bearbeiten</string>
-  <string name="vpn_ipsec_ca_cert">IPSec CA certificate</string>
-  <string name="vpn_ipsec_identifier">IPSec identifier</string>
-  <string name="vpn_ipsec_secret">IPSec pre-shared key</string>
-  <string name="vpn_ipsec_server_cert">IPSec server certificate</string>
-  <string name="vpn_ipsec_user_cert">IPSec user certificate</string>
-  <string name="vpn_l2tp_secret">L2TP secret</string>
+  <string name="vpn_ipsec_ca_cert">IPSec CA-Zertifikat</string>
+  <string name="vpn_ipsec_identifier">IPSec Kennung</string>
+  <string name="vpn_ipsec_secret">IPSec Pre-Shared-Key</string>
+  <string name="vpn_ipsec_server_cert">IPSec Server-Zertifikat</string>
+  <string name="vpn_ipsec_user_cert">IPSec Benutzer-Zertifikat</string>
+  <string name="vpn_l2tp_secret">L2TP Secret</string>
+  <string name="vpn_lockdown_config_error">Ständig verbundenes VPN erfordert eine IP-Adresse für beide, Server and DNS.</string>
+  <string name="vpn_lockdown_none">Kein</string>
+  <string name="vpn_lockdown_summary">Wähle ein VPN-Profil über das du ständig verbunden bleiben willst. Netzwerkverkehr ist dann nur erlaubt, wenn eine Verbindung mit diesem VPN besteht.</string>
   <string name="vpn_menu_delete">Netzwerk entfernen</string>
   <string name="vpn_menu_edit">Netzwerk bearbeiten</string>
+  <string name="vpn_menu_lockdown">Ständig verbundenes VPN</string>
   <string name="vpn_missing_cert">Ein Zertifikat fehlt. Bitte Profil bearbeiten.</string>
   <string name="vpn_mppe">PPP-Verschlüsselung (MPPE)</string>
   <string name="vpn_name">Name</string>
@@ -2094,11 +2224,13 @@ Verbleibende Versuche :"</string>
   <string name="wifi_advanced_mac_address_title">MAC-Adresse</string>
   <string name="wifi_advanced_settings_label">IP-Einstellungen</string>
   <string name="wifi_advanced_titlebar">Erweiterte WLAN-Einstellungen</string>
+  <string name="wifi_and_mobile_skipped_message">Warnung: Das Telefon wird nicht in der Lage sein die Aktualität deiner Software zu prüfen.</string>
   <string name="wifi_api_test">WLAN-API</string>
   <string name="wifi_cancel">Abbrechen</string>
   <string name="wifi_certificate">Zertifikat</string>
   <string name="wifi_config_info">WLAN-Konfiguration</string>
   <string name="wifi_connect">Verbinden</string>
+  <string name="wifi_connect_failed_message">Das Telefon war nicht in der Lage sich mit diesem WLAN-Netzwerk zu verbinden.</string>
   <string name="wifi_context_menu_change_password">Passwort ändern</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI-Zertifikate ändern</string>
   <string name="wifi_context_menu_connect">Mit Netzwerk verbinden</string>
@@ -2106,11 +2238,33 @@ Verbleibende Versuche :"</string>
   <string name="wifi_disabled_generic">Deaktiviert</string>
   <string name="wifi_disabled_help">Das Netzwerk wurde wegen schwacher Verbindung gemieden. Du kannst dieses Verhalten unter Einstellungen &gt; WLAN, Fortgeschritten ändern.</string>
   <string name="wifi_disabled_network_failure">Schwache Verbindung vermieden</string>
-  <string name="wifi_disabled_password_failure">Problem bei der Authentifizierung</string>
+  <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
+  <string name="wifi_display_available_devices">Verfügbare Geräte</string>
+  <string name="wifi_display_details">Anzeigeeinstellungen</string>
+  <string name="wifi_display_disconnect_text">Dies beendet deine Verbindung mit:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="wifi_display_disconnect_title">Trennen?</string>
+  <string name="wifi_display_no_devices_found">Keine WLAN-Signale in der Umgebung gefunden.</string>
+  <string name="wifi_display_options_done">Fertig</string>
+  <string name="wifi_display_options_forget">Vergessen</string>
+  <string name="wifi_display_options_name">Name</string>
+  <string name="wifi_display_options_title">WLAN-Anzeigeoptionen</string>
+  <string name="wifi_display_paired_devices">Verbundene Geräte</string>
+  <string name="wifi_display_search_for_devices">Suche nach Signalen</string>
+  <string name="wifi_display_searching_for_devices">Suche…</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">WLAN-Anzeige ist deaktiviert, weil WLAN ausgeschaltet ist.</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_off">Um Geräte zu sehen, schalte die WLAN-Anzeige ein.</string>
+  <string name="wifi_display_settings_title">WLAN-Anzeige</string>
+  <string name="wifi_display_status_available">Verfügbar</string>
+  <string name="wifi_display_status_connected">Verbunden</string>
+  <string name="wifi_display_status_connecting">Verbindet</string>
+  <string name="wifi_display_summary_disabled">Deaktiviert</string>
+  <string name="wifi_display_summary_off">Aus</string>
+  <string name="wifi_display_summary_on">Ein</string>
   <string name="wifi_dns1">DNS 1</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">4.4.4.4</string>
+  <string name="wifi_dont_skip">Nicht überspringen</string>
   <string name="wifi_eap_anonymous">Anonyme Identität</string>
   <string name="wifi_eap_ca_cert">CA-Zertifikat</string>
   <string name="wifi_eap_identity">Identität</string>
@@ -2142,6 +2296,7 @@ Verbleibende Versuche :"</string>
   <string name="wifi_menu_connect">Mit Netzwerk verbinden</string>
   <string name="wifi_menu_forget">Netzwerk entfernen</string>
   <string name="wifi_menu_modify">Netzwerk bearbeiten</string>
+  <string name="wifi_menu_more_options">Erweiterte Einstellungen</string>
   <string name="wifi_menu_p2p">WLAN Direkt</string>
   <string name="wifi_menu_scan">Scan</string>
   <string name="wifi_menu_wfd">WLAN Anzeige</string>
@@ -2157,9 +2312,10 @@ Verbleibende Versuche :"</string>
   <string name="wifi_other_network">Anderes Netzwerk…</string>
   <string name="wifi_p2p_cancel_connect_message">Möchtest du Die Verbindungseinladung an %1$s abbrechen?</string>
   <string name="wifi_p2p_cancel_connect_title">Einladung abbrechen?</string>
+  <string name="wifi_p2p_delete_group_message">Diese Gruppe vergessen?</string>
   <string name="wifi_p2p_device_info">Geräte-Information</string>
-  <string name="wifi_p2p_disconnect_message">Wenn du die Verbindung trennst, dann endet die Verbindung mit %1$s.</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Wenn du die Verbindung trennst, dann endet die Verbindung mit %1$s und %2$s anderen Geräten.</string>
+  <string name="wifi_p2p_disconnect_message">Wenn du die Verbindung trennst, endet die Verbindung mit %1$s.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Wenn du die Verbindung trennst, endet die Verbindung mit %1$s und %2$s anderen Geräten.</string>
   <string name="wifi_p2p_disconnect_title">Verbindung trennen?</string>
   <string name="wifi_p2p_failed_connect_message">"Verbindung fehlgeschlagen."</string>
   <string name="wifi_p2p_failed_rename_message">Konnte Gerät nicht umbenennen.</string>
@@ -2171,6 +2327,7 @@ Verbleibende Versuche :"</string>
   <string name="wifi_p2p_menu_searching">Sucht…</string>
   <string name="wifi_p2p_peer_devices">Peer-Geräte</string>
   <string name="wifi_p2p_persist_network">Diese Verbindung speichern</string>
+  <string name="wifi_p2p_remembered_groups">Gemerkte Gruppen</string>
   <string name="wifi_p2p_settings_title">WLAN Direkt</string>
   <string name="wifi_p2p_wps_setup">WLAN Sicherheitseinstellungen</string>
   <string name="wifi_password">Passwort</string>
@@ -2241,6 +2398,11 @@ Verbleibende Versuche :"</string>
   <string name="wifi_show_password">Zeige Passwort</string>
   <string name="wifi_signal">Signalstärke</string>
   <string name="wifi_speed">Verbindungsgeschwindigkeit</string>
+  <string name="wifi_skip_anyway">Trozdem überspringen</string>
+  <string name="wifi_skipped_message">"WARNUNG: Dies könnte erhöhte Datenkosten verursachen.
+
+Telefon-Setup kann erhebliche Netzwerkaktivität benötigen."</string>
+  <string name="wifi_speed">Verbindungsgeschwindigkeit</string>
   <string name="wifi_ssid">Netzwerk-SSID</string>
   <string name="wifi_starting">Schalte WLAN ein…</string>
   <string name="wifi_state_disabled">Deaktiviert</string>
@@ -2252,12 +2414,17 @@ Verbleibende Versuche :"</string>
   <string name="wifi_status">Status</string>
   <string name="wifi_status_test">WLAN-Status</string>
   <string name="wifi_stopping">Schalte WLAN aus…</string>
-  <string name="wifi_tether_checkbox_text">Tragbarer WLAN-Hotspot</string>
+  <string name="wifi_suspend_optimizations">WLAN-Optimierung</string>
+  <string name="wifi_suspend_optimizations_summary">Minimiere Energieverbrauch wenn WLAN eingeschaltet ist</string>
+  <string name="wifi_tether_checkbox_text">Mobiler WLAN-Hotspot</string>
   <string name="wifi_tether_configure_ap_text">WLAN-Hotspot konfigurieren</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-  <string name="wifi_tether_configure_subtext">%1$s %2$s tragbarer WLAN-Hotspot</string>
-  <string name="wifi_tether_enabled_subtext">Tragbarer Hotspot %1$s aktiv</string>
-  <string name="wifi_tether_failed_subtext">Tragbarer Hotspot - Fehler</string>
+  <string name="wifi_tether_configure_subtext">%1$s %2$s mobiler WLAN-Hotspot</string>
+  <string name="wifi_tether_enabled_subtext">Mobiler Hotspot %1$s aktiv</string>
+  <string name="wifi_tether_failed_subtext">Mobiler Hotspot - Fehler</string>
+  <string name="wifi_tether_setting_title">Grundeinstellungen</string>
+  <string name="wifi_tether_starting">Schalte Hotspot ein…</string>
+  <string name="wifi_tether_stopping">Schalte Hotspot aus…</string>
   <string name="wifi_unchanged">(unverändert)</string>
   <string name="wifi_unspecified">(unspezifiziert)</string>
   <string name="wifi_update">Aktualisiere Statistik</string>
