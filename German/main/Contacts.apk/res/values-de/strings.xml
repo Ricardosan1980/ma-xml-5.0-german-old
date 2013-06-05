@@ -450,6 +450,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="loading_group_members">Gruppenmitglieder werden geladen...</string>
   <string name="loading_groups">Gruppen werden geladen...</string>
   <string name="loading_recent">Kürzliche Kontakte werden geladen...</string>
+  <string name="loading_resource_detail_fail">Laden der Ressource fehlgeschlagen!</string>
   <string name="loading_resource_detail_info">Ressourcen-Info laden...</string>
   <string name="local_invisible_directory">Andere</string>
   <string name="local_profile_title">Mein lokales Profil</string>
@@ -751,6 +752,7 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="resource_title">Quellen-Detail</string>
   <string name="resource_title_select_ringtone">Wähle Klingelton</string>
   <string name="resource_update">Aktualisieren</string>
+  <string name="resource_waiting_download">Warte auf herunterladen...</string>
   <string name="restore_nickname">Wiederherstellen</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Zurückrufen</string>

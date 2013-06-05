@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Notizen können mit deinem Xiaomi-Konto synchronisiert werden. Jetzt anmelden?</string>
+  <string name="alert_action_edit_anyway">Weiter bearbeiten</string>
   <string name="alert_edit_action_delete">Entfernen</string>
   <string name="alert_edit_action_update">Aktualisieren</string>
   <string name="alert_message_delete_folders">Die ausgewählten %1$s Ordner löschen?</string>

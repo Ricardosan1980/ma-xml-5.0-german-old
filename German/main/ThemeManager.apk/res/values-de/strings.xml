@@ -37,6 +37,7 @@
   <string name="fail_to_add_account">Hinzufügen des Benutzerkontos fehlgeschlagen</string>
   <string name="live_wallpaper">Live-Hintergrundbild</string>
   <string name="loading">Lädt...</string>
+  <string name="loading_resource_detail_fail">Laden der Ressource fehlgeschlagen!</string>
   <string name="loading_resource_detail_info">Lädt...</string>
   <string name="lockscreen_wallpaper">Sperrbildschirm-Hintergrundbild</string>
   <string name="lockstyle_personal_settings">Anpassung</string>
@@ -108,11 +109,17 @@
   <string name="resource_title">Quell-Details</string>
   <string name="resource_title_select_ringtone">Klingelton auswählen</string>
   <string name="resource_update">Aktualisierung</string>
-  <string name="restore_default_theme_alert">Möglicherweise bist du ein Opfer einer Fälschung, bitte besuche den Themen-Markt um das Thema erneut herunter zu laden oder zu kaufen.</string>
+  <string name="resource_waiting_download">Warte auf herunterladen...</string>
+  <string name="restore_default_theme_alert">Du bist möglicherweise ein Opfer einer Fälschung, bitte besuche den Themen-Markt um das Thema erneut herunter zu laden oder zu kaufen.</string>
   <string name="sdcard_status_changed_dialog_message">"Anwendung wird geschlossen. Bitte erneut öffnen, um Quellen zu aktualisieren."</string>
   <string name="sdcard_status_changed_dialog_title">Status der SD-Karte geändert</string>
   <string name="short_ringtone_resource">Kurz (&lt;5sek)</string>
   <string name="theme_another_import_running">Der Import wird bereits ausgeführt. Bitte warte und versuche es anschließend erneut</string>
+  <string name="theme_batch_has_update_text">Neue Version für %1$d Themen verfügbar</string>
+  <string name="theme_batch_update_all">Alle aktualisieren</string>
+  <string name="theme_batch_update_dlg_content">Willst du jetzt aktualisieren?</string>
+  <string name="theme_batch_update_dlg_title">Aktualisieren</string>
+  <string name="theme_batch_updating_text">%1$d Themen werden aktualisiert</string>
   <string name="theme_changed_failed_message">Anwenden des Themas %1$s fehlgeschlagen.</string>
   <string name="theme_changed_message">%1$s wurde erfolgreich angewendet.</string>
   <string name="theme_changing_dialog_title">Neues Thema wird angewendet. Bitte warten...</string>
@@ -149,6 +156,7 @@
   <string name="theme_import_item_delete_request_content">Thema wurde noch nicht aktualisiert. Du kannst es verwenden, sobald es aktualisiert wurde. Alternativ kannst du das Thema auch löschen.</string>
   <string name="theme_import_item_delete_request_title">Thema nicht aktualisiert</string>
   <string name="theme_import_item_importing">Wird aktualisiert...</string>
+  <string name="theme_import_item_not_exist">Element ist nicht vorhanden</string>
   <string name="theme_import_item_not_upgraded">Nicht aktualisiert</string>
   <string name="theme_import_item_reject_use">Thema wird derzeit aktualisiert. Bitte warten...</string>
   <string name="theme_import_item_waiting">Wartet...</string>

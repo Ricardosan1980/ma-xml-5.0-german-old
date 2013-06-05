@@ -38,8 +38,8 @@ Wenn das Gerät mehrere Benutzer hat, schaltet der Kurzbefehl am Sperrbildschirm
   <string name="accessibility_screen_magnification_summary">"Wenn diese Funktion eingeschaltet ist, kannst du durch dreifach auf den Bildschirm tippen ein- und auszoomen.
 
 Wenn eingezoomt, kannst du:
-"<ul><li>"Verschieben: Ziehe mit zwei oder mehr Fingern über den Bildschirm.
-"<li>Zoom-Level einstellen: Ziehe zwei oder mehr Finger zusammen oder spreize sie auseinander.</li></li></ul>"
+"&lt;ul&gt;&lt;li&gt;"Verschieben: Ziehe mit zwei oder mehr Fingern über den Bildschirm.
+"&lt;li&gt;Zoom-Level einstellen: Ziehe zwei oder mehr Finger zusammen oder spreize sie auseinander.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
 
 Durch dreifach tippen und halten, kannst du vorübergehend vergrössern was unter deinem Finger ist. So vergrössert, kannst du mit dem Finger über den Bildschirm ziehen um verschiedene Bildausschnitte anzusehen. Hebe deinen Finger um zur vorherigen Einstellung zurückzukehren.
 
@@ -896,8 +896,8 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="gadget_toggle_wifi">Aktualisiert WLAN-Einstellungen</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Game-Controller</string>
-  <string name="getConfiguredNetworks">Hole konfigurierte Netzwerke</string>
-  <string name="getConnectionInfo">Hole Verbindungsinfo</string>
+  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
+  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">Diese Einstellung betrifft alle Benutzer auf diesem Telefon.</string>
   <string name="global_font_change_title">Schriftgröße ändern</string>
   <string name="global_locale_change_title">Sprache ändern</string>
@@ -1017,7 +1017,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
   <string name="local_backup_password_toast_success">Neues Passwort gesetzt</string>
   <string name="local_backup_password_toast_validation_failure">Fehler beim Erstellen des Backup-Passworts</string>
   <string name="location_access_summary">Erlaube Anwendungen die um Erlaubnis gefragt haben, deine Standortinformationen zu verwenden</string>
-  <string name="location_access_title">Zugriff auf meinen Standort</string>  
+  <string name="location_access_title">Zugriff auf meinen Standort</string>
   <string name="location_gps">GPS-Satelliten</string>
   <string name="location_neighborhood_level">Anwendungen erlauben, Daten von Quellen wie WLAN-Netzwerken oder mobilen Netzen zu nutzen, um deinen ungefähren Standort zu bestimmen</string>
   <string name="location_neighborhood_level_wifi">Standort über WLAN ermittelt</string>
@@ -1588,7 +1588,7 @@ folge bitte den Bildschirmanweisungen, um die Installation abzuschließen"</stri
   <string name="roaming_warning">Datenroaming erlauben? Dies kann zu erhöhten Kosten führen!</string>
   <string name="roaming_warning_multiuser">"Wenn du Datenroaming erlaubst, können extrem hohe Roamingkosten entstehen!
 
-Diese Einstellung betrifft alle Benuzter auf diesem Telefon."</string>  
+Diese Einstellung betrifft alle Benuzter auf diesem Telefon."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Gelöschter Benutzer</string>
   <string name="running_process_item_user_label">Benutzer: %1$s</string>
@@ -1619,11 +1619,11 @@ Diese Einstellung betrifft alle Benuzter auf diesem Telefon."</string>
   <string name="screen_timeout">Bildschirm ausschalten</string>
   <string name="screen_timeout_summary">Nach %1$s Inaktivität</string>
   <string name="screen_timeout_title">Bildschirm-Timeout</string>
+  <string name="screensaver_activate_on_dock_title">Auch beim Docken starten</string>
+  <string name="screensaver_component_title">Selected candy</string>
   <string name="screensaver_settings_button">Einstellungen</string>
   <string name="screensaver_settings_disabled_prompt">Um zu sehen was passiert, wenn das Telefon im Dock und/oder auf Energiesparen ist, schalte Daydream ein.</string>
   <string name="screensaver_settings_dream_start">Beginne jetzt</string>
-  <string name="screensaver_activate_on_dock_title">Auch beim Docken starten</string>
-  <string name="screensaver_component_title">Selected candy</string>
   <string name="screensaver_settings_summary_dock">Im Dock</string>
   <string name="screensaver_settings_summary_either_long">Im Dock oder auf Energiesparen und laden</string>
   <string name="screensaver_settings_summary_either_short">Beides</string>
@@ -2052,7 +2052,7 @@ Verbleibende Versuche :"</string>
 Nachdem du einen neuen Benutzer erstellt hast, muss diese Person eine Einstellungsroutine durchgehen.
 
 Jeder Benutzer kann die Aktualiserung von Anwendungsberechtigungen im Namen aller aller anderen Benutzer zulassen."</string>
- <string name="user_add_user_message_short">"Nachdem du einen neuen Benutzer erstellt hast, muss diese Person eine Einstellungsroutine durchgehen.
+  <string name="user_add_user_message_short">"Nachdem du einen neuen Benutzer erstellt hast, muss diese Person eine Einstellungsroutine durchgehen.
 
 Jeder Benutzer kann die Aktualiserung von Anwendungsberechtigungen im Namen aller aller anderen Benutzer zulassen."</string>
   <string name="user_add_user_title">Neuen Benutzer hinzufügen</string>
@@ -2241,7 +2241,7 @@ Jeder Benutzer kann die Aktualiserung von Anwendungsberechtigungen im Namen alle
   <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
   <string name="wifi_display_available_devices">Verfügbare Geräte</string>
   <string name="wifi_display_details">Anzeigeeinstellungen</string>
-  <string name="wifi_display_disconnect_text">Dies beendet deine Verbindung mit:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="wifi_display_disconnect_text">Dies beendet deine Verbindung mit:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="wifi_display_disconnect_title">Trennen?</string>
   <string name="wifi_display_no_devices_found">Keine WLAN-Signale in der Umgebung gefunden.</string>
   <string name="wifi_display_options_done">Fertig</string>
@@ -2336,6 +2336,7 @@ Jeder Benutzer kann die Aktualiserung von Anwendungsberechtigungen im Namen alle
   <string name="wifi_quick_toggle_summary">WLAN einschalten</string>
   <string name="wifi_quick_toggle_title">WLAN</string>
   <string name="wifi_remembered">Gespeichert</string>
+  <string name="wifi_required_info_text">Um das Setup zu vervollständigen, braucht dein Gerät Zugang zu einem WLAN. Nach dem Setup, kannst du zwischen WLAN und mobilen Daten umschalten.</string>
   <string name="wifi_save">Speichern</string>
   <string name="wifi_secured_first_item">Gesichert mit %1$s</string>
   <string name="wifi_secured_second_item">, gesichert mit %1$s</string>
@@ -2397,11 +2398,11 @@ Jeder Benutzer kann die Aktualiserung von Anwendungsberechtigungen im Namen alle
   <string name="wifi_show_advanced">Zeige erweiterte Optionen</string>
   <string name="wifi_show_password">Zeige Passwort</string>
   <string name="wifi_signal">Signalstärke</string>
-  <string name="wifi_speed">Verbindungsgeschwindigkeit</string>
   <string name="wifi_skip_anyway">Trozdem überspringen</string>
   <string name="wifi_skipped_message">"WARNUNG: Dies könnte erhöhte Datenkosten verursachen.
 
 Telefon-Setup kann erhebliche Netzwerkaktivität benötigen."</string>
+  <string name="wifi_speed">Verbindungsgeschwindigkeit</string>
   <string name="wifi_ssid">Netzwerk-SSID</string>
   <string name="wifi_starting">Schalte WLAN ein…</string>
   <string name="wifi_state_disabled">Deaktiviert</string>
