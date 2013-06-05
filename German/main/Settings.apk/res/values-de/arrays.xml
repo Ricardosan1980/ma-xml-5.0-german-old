@@ -7,4 +7,17 @@
         <item>Starte Google Now</item>
         <item>Schließe aktuelle App</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Keines</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi und 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Keines</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafik)</item>
+        <item>Call stack bei glGetError</item>
+    </string-array>
 </resources>
