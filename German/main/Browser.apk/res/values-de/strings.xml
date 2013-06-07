@@ -83,6 +83,7 @@
   <string name="bookmark_url">URL</string>
   <string name="bookmark_url_not_valid">"Diese URL ist ungültig"</string>
   <string name="bookmarks">Lesezeichen</string>
+  <string name="bookmarks_content_is_null">Keine Lesezeichen</string>
   <string name="bookmarks_management">Lesezeichen</string>
   <string name="bookmarks_root_folder">Stammverzeichnis</string>
   <string name="bookmarks_search">Browser</string>
@@ -98,6 +99,7 @@
   <string name="choosertitle_sharevia">Teilen via</string>
   <string name="clear">Löschen</string>
   <string name="clear_history">Verlauf löschen</string>
+  <string name="clear_history_group">Verlauf löschen</string>
   <string name="close_all_tab_alert_message">Bist du sicher, dass du alle Tabs schliessen willst?</string>
   <string name="close_all_tab_alert_title">Alle Tabs schließen</string>
   <string name="containing_folder">Hinzufügen zu</string>
@@ -154,8 +156,13 @@
   <string name="export_bookmark_failure">Exportieren der Lesezeichen auf die SD-Karte fehlgeschlagen!</string>
   <string name="export_bookmark_sucess">Lesezeichen erfolgreich auf die SD-Karte exportiert!</string>
   <string name="exported_bookmark_file_name">Meine Favoriten</string>
+  <string name="file_dir">Ordner</string>
+  <string name="file_name">Dateiname</string>
+  <string name="file_picker">Pfad wählen</string>
   <string name="file_picker_new_folder">Neuer Ordner</string>
   <string name="file_picker_sdcard_not_found">Keine SD-Karte gefunden. Bitte überprüfe, ob die Karte eingelegt oder in Nutzung ist</string>
+  <string name="filename_empty_alert_message">Dateiname kann nicht leer sein</string>
+  <string name="filename_illegal_alert_message">Dateiname enthält ungültige Zeichen, Datei wurde automatisch entfernt.</string>
   <string name="find_on_page">Seite durchsuchen</string>
   <string name="folder_name">Ordnername</string>
   <string name="forward">Vor</string>
@@ -176,6 +183,10 @@
   <string name="goto_dot">Los</string>
   <string name="have_sent_bookmark_to_home_screen">Lesezeichen zum Home-Screen hinzugefügt</string>
   <string name="history">Verlauf</string>
+  <string name="history_browsed">Browserverlauf</string>
+  <string name="history_most_visited">Meistbesucht</string>
+  <string name="history_saved_webpage">Speichere Webseite</string>
+  <string name="history_track">Verlauf</string>
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Startseite festgelegt</string>
   <string name="http">http://</string>
@@ -235,6 +246,8 @@
   <string name="open_all_bookmarks">Alle öffnen</string>
   <string name="open_all_in_new_window">Alle in neuen Tabs öffnen</string>
   <string name="open_bookmark">Öffnen</string>
+  <string name="open_history_group_in_new_window">Öffne alle Verlaufselmente in einem neuen Fenster</string>
+  <string name="open_history_most_visited_group_in_new_window">Öffne alle meistbesuchten Webseiten</string>
   <string name="other_bookmarks">Weitere Lesezeichen</string>
   <string name="page_info">Seiteninfos</string>
   <string name="page_info_address">Adresse:</string>
@@ -345,6 +358,7 @@
   <string name="pref_privacy_clear_geolocation_access_dlg">Webseiten-Standortfreigaben löschen?</string>
   <string name="pref_privacy_clear_geolocation_access_summary">Die Standortfreigaben für alle Webseiten löschen</string>
   <string name="pref_privacy_clear_history">Verlauf löschen</string>
+  <string name="pref_privacy_clear_history_by_group_dlg">Bist du sicher, dass du den Browserverlauf löschen willst?</string>
   <string name="pref_privacy_clear_history_dlg">Den Browserverlauf löschen?</string>
   <string name="pref_privacy_clear_history_summary">Den Browserverlauf löschen</string>
   <string name="pref_privacy_clear_passwords">Passwörter löschen</string>
@@ -387,6 +401,7 @@
   <string name="pref_zoom_on_double_tap">Bei zweifachem Tippen zoomen</string>
   <string name="preview">Vorschau</string>
   <string name="progress_dialog_setting_wallpaper">Hintergrundbild wird festgelegt...</string>
+  <string name="quicklinks_management">Quick-Links</string>
   <string name="readmode_reach_last_page">Die letzte Seite wurde erreicht</string>
   <string name="readmodelist_bookmarks_to_show">Leseliste</string>
   <string name="recover">Wiederherstellen</string>
@@ -403,8 +418,12 @@
   <string name="return_to_homepage">Zur Homepage zurück</string>
   <string name="rlz_access_point">Y1</string>
   <string name="save">Ok</string>
+  <string name="save_dialog_title">Speichern</string>
+  <string name="save_file_already_exist_alert_message">Datei ist bereits vorhanden, willst du sie überschreiben?</string>
+  <string name="save_file_already_exist_alert_title">Datei ist vorhanden!</string>
   <string name="save_to_bookmarks">Zu den Lesezeichen speichern</string>
   <string name="saving_snapshot">Wird gespeichert...</string>
+  <string name="search_139">Search 139</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Los</string>
@@ -441,6 +460,9 @@
   <string name="stop">Anhalten</string>
   <string name="stop_loading">Anhalten</string>
   <string name="stopping">Wird angehalten...</string>
+  <string name="storage_internal">Telefonspeicher</string>
+  <string name="storage_sd_card">SD-Karte</string>
+  <string name="storage_usb">USB-Speicher</string>
   <string name="tab_bookmarks">Lesezeichen</string>
   <string name="tab_closed">Tab wurde geschlossen.</string>
   <string name="tab_history">Verlauf</string>

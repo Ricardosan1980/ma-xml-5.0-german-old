@@ -725,7 +725,7 @@
     <string-array name="pref_homepage_choices">
         <item>MIUI-Home</item>
         <item>Am meisten besucht</item>
-        <item>Other</item>
+        <item>Angepasst</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Winzig</item>
@@ -758,6 +758,16 @@
         <item>Korean (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
+        <item>Nie</item>
+        <item>Nur über WLAN</item>
+        <item>Immer</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Nie</item>
+        <item>Nur über WLAN</item>
+        <item>Immer</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
         <item>Nie</item>
         <item>Nur über WLAN</item>
         <item>Immer</item>
