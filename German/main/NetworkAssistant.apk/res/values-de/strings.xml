@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about">Über</string>
+  <string name="adjust_no_network_update_data_fail">Aktualisierung der Daten fehlgeschlagen, bitte versuche es nocheinmal, nachdem du deine Netzwerkeinstellungen überprüft hast.</string>
   <string name="adjust_traffic_auto_adjust_hint">Das System fragt den Datenverbrauch regelmäßig vom Mobilfunkanbieter ab und stellt diesen ein. Das Festlegen der Mobilfunkanbieter-Informationen wird benötigt</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Automatische Einstellung ist aktiviert und stellt den Datenverbrauch regelmäßig ein</string>
   <string name="adjust_traffic_auto_adjust_title">Datenverbrauch automatisch einstellen</string>
