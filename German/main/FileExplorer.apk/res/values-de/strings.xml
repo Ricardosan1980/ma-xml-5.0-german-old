@@ -38,13 +38,14 @@
   <string name="clean_title">Dateien löschen, die mehr als 30 Tage im Papierkorb liegen</string>
   <string name="clean_trash_box">Papierkorb leeren</string>
   <string name="cleanup_complete">Cleanup erfolgreich</string>
-  <string name="clear_cache">Cache leeren</string>
   <string name="close">Schließen</string>
+  <string name="compress_fail">Komprimieren fehlgeschlagen, Ziel ist bereits vorhanden</string>
   <string name="compress_message">Komprimieren nach:</string>
   <string name="compress_title">Komprimieren</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Kopieren fehlgeschlagen</string>
+  <string name="create_kuaipan_shortcut_pref">Verknüpfung auf Homescreen hinzufügen</string>
   <string name="create_new_folder_desctiption">Neuer Ordner wird erstellt...</string>
   <string name="create_new_folder_failed">Erstellen des Ordners %1$s fehlgeschlagen</string>
   <string name="create_share_link_description">Teilen-Link wird erstellt…</string>
@@ -71,6 +72,7 @@
   <string name="dialog_type_video">Video</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Leeres Verzeichnis</string>
+  <string name="dlg_error_unmount_text">SD-Karte konnte nicht entfernt werden. Bitte später erneut versuchen.</string>
   <string name="download_current_progress" />
   <string name="download_failed">Herunterladen fehlgeschlagen!</string>
   <string name="download_link_completed">"Ich habe %1$s über MiDrive geteilt. Klicke zum Ansehen auf folgenden Link: "</string>
@@ -82,7 +84,8 @@
   <string name="error_info_cant_send_folder">Der Ordner konnte nicht gesendet werden</string>
   <string name="error_open_file_failed_no_app_found">Keine App gefunden um die Datei zu öffnen</string>
   <string name="fail_to_create_folder">Der Ordner konnte nicht erstellt werden, da er bereits vorhanden ist</string>
-  <string name="fail_to_rename">Die Datei oder der Ordner konnte nicht umbenannt werden, da sie bzw. er bereits vorhanden ist</string>
+  <string name="fail_to_create_folder_unknown">Erstellen nicht möglich: Unbekannter Fehler</string>
+  <string name="fail_to_rename">Die Datei oder der Ordner konnte nicht umbenannt werden, da bereits vorhanden</string>
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Klingelton</string>
   <string name="favorite_screen_cap">Bildschirmaufnahmen</string>
@@ -126,7 +129,6 @@ Junk"</string>
   <string name="kuaipan_tech_support">Technische Unterstützung bereitgestellt durch Kingsoft Kuaipan</string>
   <string name="load_err">Laden fehlgeschlagen</string>
   <string name="loading">Wird geladen...</string>
-  <string name="local_cache">Lokaler Cache</string>
   <string name="local_cache_size">Lokale Cache-Größe: %s</string>
   <string name="login_reg_content">MiDrive hilft dir, deine Dateien zu speichern und sie zwischen mehreren Geräten zu synchronisieren.</string>
   <string name="login_reg_content0">MiDrive ist dein Cloud-Datenspeicher</string>
@@ -150,6 +152,9 @@ Junk"</string>
   <string name="no_app_cache_indication">Kein Anwendungscache</string>
   <string name="no_app_garbage_indication">Kein Anwendungsmüll</string>
   <string name="no_empty_dir_indication">Keine leeren Verzeichnisse</string>
+  <string name="no_enough_space">Nicht genug Speicherplatz</string>
+  <string name="no_enough_storage_indication">Nicht genug Speicherplatz vorhanden, Einfügen fehlgeschlagen. Bitte lösche nicht mehr benötigte Dateien und versuche es noch einmal oder verwende Cleanup um Speicherplatz frei zu machen.</string>
+  <string name="no_enough_storage_title">Nicht genug Speicherplatz vorhanden</string>
   <string name="no_file">Keine Dateien</string>
   <string name="no_more_space">Kein freier Speicherplatz</string>
   <string name="no_tasks">Keine Aufgaben</string>
@@ -203,7 +208,7 @@ Junk"</string>
   <string name="rename_description">Wird umbenannt. Bitte warten...</string>
   <string name="rename_failed">Umbenennen von《%1$s》fehlgeschlagen</string>
   <string name="restart_cleaning">Neustart</string>
-  <string name="scanning">Scanne...</string>
+  <string name="scanning" formatted="false">Scanne %d Anwendung... (Gesamt %d Anwendungen)</string>
   <string name="scanning_on_going">Scanne...</string>
   <string name="sd_card_available">Freier Speicher:\u0020%1$s</string>
   <string name="sd_card_size">SD-Karte:\u0020%1$s</string>
