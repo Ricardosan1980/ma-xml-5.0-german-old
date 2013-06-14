@@ -709,7 +709,7 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="recent_contacts_label">Kürzlich</string>
   <string name="recent_number">Kürzlich</string>
   <string name="recent_updates">Kürzliche Aktualisierungen</string>
-  <string name="redirect_calls_to_vm_confirm_message">Wenn du dich bei deinem Netzbetreiber nicht für diesen Dienst angemeldet hast bitte nicht einschalten, sonst kann es sein, dass du von diesem Kontakt keine Anrufe empfangen kannst.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Wenn du dich bei deinem Netzbetreiber für diesen Dienst nicht angemeldet hast bitte nicht einschalten, sonst kann es sein, dass du von diesem Kontakt keine Anrufe empfangen kannst.</string>
   <string name="redirect_calls_to_vm_confirm_text">Einschalten</string>
   <string name="relationLabelsGroup">Verhältnis</string>
   <string name="remind_btn_ignore">Ignorieren</string>
