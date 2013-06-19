@@ -42,6 +42,8 @@
   <string formatted="false" name="overwrite_dialog_message">%s ist bereits vorhanden. Soll dies überschrieben werden?</string>
   <string name="preference_led_indicator">Anzeige wenn Bildschirm gesperrt</string>
   <string name="preference_led_indicator_prompt">LED und Statusanzeige während der Aufnahme, wenn der Bildschirm gesperrt ist</string>
+  <string name="preference_record_type_dialog_title">Aufnahmetyp wählen</string>
+  <string name="preference_record_type_title">Aufnahmetyp</string>
   <string name="preference_silent_mode">Lautlose Aufnahme</string>
   <string name="preference_silent_mode_summary">Einschalten um die lautlose Aufnahme zu aktivieren</string>
   <string name="record_list">Aufnahmenliste</string>

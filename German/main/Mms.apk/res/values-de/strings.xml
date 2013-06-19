@@ -260,7 +260,9 @@
   <string name="pref_summary_mms_read_reports">Eine Lesebestätigung für jede von dir versendete Nachricht anfragen</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Nachrichten automatisch während des Roamings empfangen</string>
   <string name="pref_summary_new_message_popup">Pop-Ups anzeigen, wenn eine neue Nachricht erhalten wurde</string>
-  <string name="pref_summary_new_message_popup_when_secure">Keine Pop-Up-Benachrichtigungen anzeigen, wenn Zugriffskontrollen aktiviert sind</string>
+  <string name="pref_summary_new_message_popup_when_secure">Keine Pop-Up-Benachrichtigungen anzeigen, wenn Zugriffskontrolle aktiviert ist</string>
+  <string name="pref_summary_notification_body_enabled">Nachrichtenvorschau in Sperrbildschirm und Statuszeile anzeigen</string>
+  <string name="pref_summary_notification_body_enabled_when_secure">Keine Nachrichtenvorschau anzeigen, wenn Zugriffskontrolle aktiviert ist</string>
   <string name="pref_summary_on_system_mms_priority">Die MMS-System-App wird Nachrichten zuerst erhalten</string>
   <string name="pref_summary_show_recent_contacts">Während dem Verfassen einer Nachricht eine Liste mit kürzlich kontaktierten Kontakten anzeigen</string>
   <string name="pref_summary_wake_up_screen">Bildschirm beim Erhalt neuer Nachrichten aktivieren</string>
@@ -276,6 +278,7 @@
   <string name="pref_title_mms_read_reports">Lesebestätigungen</string>
   <string name="pref_title_mms_retrieval_during_roaming">Automatisches Abrufen bei Roaming</string>
   <string name="pref_title_new_message_popup">\"Neue Nachricht\"-Popups</string>
+  <string name="pref_title_notification_body_enabled">Vorschau Anzeigen</string>
   <string name="pref_title_ringtone_repeat">Benachrichtigungston wiederholen</string>
   <string name="pref_title_show_recent_contacts">Kürzliche Kontakte anzeigen</string>
   <string name="pref_title_sms_delete">Textnachrichtenlimit</string>
@@ -392,6 +395,7 @@
   <string name="too_many_recipients">Diese Nachricht hat zu viele Empfänger (%1$s). Empfänger sind auf %2$s beschränkt.</string>
   <string name="too_many_unsent_mms">"Die Nachricht kann im Augenblick nicht gesendet werden. Es existieren zu viele nicht gesendete MMS."</string>
   <string name="try_to_send">Senden versuchen</string>
+  <string name="type_attachment">Anhang</string>
   <string name="type_audio">Audio</string>
   <string name="type_picture">Bild</string>
   <string name="type_to_compose_text_enter_to_send">Nachricht eingeben</string>

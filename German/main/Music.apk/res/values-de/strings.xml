@@ -198,6 +198,7 @@
   <string name="rename_playlist_menu">Umbenennen</string>
   <string name="retry">Wiederholen</string>
   <string name="ringtone_menu">Als Klingelton verwenden</string>
+  <string name="ringtone_not_support">Klingeltonformat wird nicht unterstützt</string>
   <string name="ringtone_set">\"%s\" wurde als Klingelton festgelegt.</string>
   <string name="save">Speichern</string>
   <string name="scanning">SD-Karte wird durchsucht...</string>

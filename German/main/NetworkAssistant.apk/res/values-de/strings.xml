@@ -24,6 +24,7 @@
   <string name="app_detail_internet_control_category">Netzwerksteuerung</string>
   <string name="app_detail_title">App-Details</string>
   <string name="app_detail_version">Version: %s</string>
+  <string name="app_has_deleted">%s wurde gelöscht.</string>
   <string name="app_name">Datenverbrauch</string>
   <string name="app_traffic_detail">Verbrauch (%s)</string>
   <string name="apply_rules_failed">"Anwenden der Firewall fehlgeschlagen. Bitte versuche es erneut. (%s)"</string>

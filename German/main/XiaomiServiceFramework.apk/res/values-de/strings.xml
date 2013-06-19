@@ -107,6 +107,7 @@ und können, falls abgelaufen, nicht verwendet werden."</string>
   <string name="login">Login</string>
   <string name="login_failed">Login fehlgeschlagen</string>
   <string name="login_notice">Loggt ein...</string>
+  <string name="memu_refresh">Aktualisieren</string>
   <string name="mibi_license_message">Xiaomi Mi-Credit Service. Durch drücken von "OK" akzeptierst du die Bedingungen %1$s.</string>
   <string name="mibi_license_message_span">Mi-Credit Nutzervereinbarung</string>
   <string name="mibi_license_title">Mi-Credit Nutzungsvereinbarung</string>

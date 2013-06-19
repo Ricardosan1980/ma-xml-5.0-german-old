@@ -11,6 +11,8 @@
   <string name="app_name">Datei-Explorer</string>
   <string name="application_size_label">App</string>
   <string name="background">Download im Hintergrund</string>
+  <string name="big5_summary">Die Standardzeichenkodierung für traditionelle chinesische Schriftzeichen in Windows</string>
+  <string name="big5_title">Big5</string>
   <string name="bind_account">An MiDrive-Konto binden</string>
   <string name="bind_account_summary">Solltest du bereits ein MiDrive-Konto haben, so kannst du dies hinzufügen, um persönliche Daten abzurufen</string>
   <string name="binded_accout_description">Konten wurden zusammengelegt, benutze entweder dein Xiaomi- oder dein MiDrive-Konto. Beide haben Zugriff auf deine Daten.</string>
@@ -123,6 +125,7 @@ Junk"</string>
   <string name="instruction">Gib die folgende Adresse in deinem FTP-Client ein:</string>
   <string name="instruction_pre">Dienst starten, um FTP-Server zu aktivieren</string>
   <string name="kingsoft_account">MiDrive-Konto</string>
+  <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Dein MiDrive hat keinen Speicherplatz mehr.</string>
   <string name="kuaipan_prompt">MiDrive-Hilfe</string>
   <string name="kuaipan_prompt_message">"Der Server ist momentan nicht verfügbar. Bitte versuche es später erneut"</string>
@@ -261,8 +264,9 @@ Junk"</string>
   <string name="ui_main_toast_favorite_removed">Favorit(en) entfernt</string>
   <string name="ui_main_toast_operation_failed">Favorit %1$s entfernen fehlgeschlagen.</string>
   <string name="uninstall_app_data">Lösche Anwendung und Daten</string>
+  <string name="unmount_inform_text">SD-Karte wird ausgeworfen.</string>
   <string name="upload_failed">Hochladen fehlgeschlagen!</string>
-  <string name="upload_file_toolarge_message">"%1$d Dateien, die größer als 300MB sind, können nicht hochgeladen werden. Bitte rufe für weitere Details die Übertragungsverwaltung auf."</string>
+  <string name="upload_file_toolarge_message">"%1$d Dateien, die größer als 300 MB sind, können nicht hochgeladen werden. Bitte rufe für weitere Details die Übertragungsverwaltung auf."</string>
   <string name="uploading">Wird hochgeladen...</string>
   <string name="used">Verwendet</string>
   <string name="user_guide">Benutzerhandbuch</string>
