@@ -39,6 +39,8 @@
   <string name="added_to_bookmarks">Zu Lesezeichen hinzugefügt</string>
   <string name="alert_tips">Die Website die du besuchst, könnte ein potentielles Sicherheitsrisiko darstellen. Möchtest du weitermachen?</string>
   <string name="allow">Erlauben</string>
+  <string name="app_new_version">Du hast schon die neueste Version heruntergeladen</string>
+  <string name="app_update_install">Neue Version wurde heruntergeladen und steht zur Installation bereit</string>
   <string name="application_name">Browser</string>
   <string name="autofill_profile_editor_address_line_1">Adresszeile 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Straße, Hausnummer, Postfach, ...</string>
@@ -89,7 +91,7 @@
   <string name="bookmarks_search">Browser</string>
   <string name="browserFrameFileErrorLabel">Dateiproblem</string>
   <string name="browserFrameFormResubmitLabel" />
-  <string name="browserFrameFormResubmitMessage">"du versuchst, eine Seite anzuzeigen, an die bereits Daten geschickt wurden (\"POSTDATA\"). Wenn du die Daten erneut sendest, wird jeder Vorgang (Online-Kauf, Bestätigung) unter Umständen erneut ausgeführt."</string>
+  <string name="browserFrameFormResubmitMessage">"Du versuchst, eine Seite anzuzeigen, an die bereits Daten geschickt wurden (\"POSTDATA\"). Wenn du die Daten erneut sendest, wird jeder Vorgang (Online-Kauf, Bestätigung) unter Umständen erneut ausgeführt."</string>
   <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
   <string name="browser_bookmarks_page_bookmarks_text">Lesezeichen</string>
   <string name="browser_history">Kürzlich besuchte Seiten</string>
@@ -100,6 +102,7 @@
   <string name="clear">Löschen</string>
   <string name="clear_history">Verlauf löschen</string>
   <string name="clear_history_group">Verlauf löschen</string>
+  <string name="clip_dialog_title">Kopierten Link öffnen?</string>
   <string name="close_all_tab_alert_message">Bist du sicher, dass du alle Tabs schliessen willst?</string>
   <string name="close_all_tab_alert_title">Alle Tabs schließen</string>
   <string name="containing_folder">Hinzufügen zu</string>
@@ -131,6 +134,8 @@
   <string name="delete_multi_bookmarks_alert_title">Sollen %1$s Element(e) gelöscht werden?</string>
   <string name="disable_autofill">AutoFill deaktivieren</string>
   <string name="do_not_save">Abbrechen</string>
+  <string name="download_complete">Download beendet</string>
+  <string name="download_failed">Download fehlgeschlagen</string>
   <string formatted="false" name="download_no_sdcard_dlg_msg">USB-Speicher zum Herunterladen von %s benötigt.</string>
   <string name="download_no_sdcard_dlg_title">USB-Speicher nicht verfügbar</string>
   <string name="download_pending">Download wird gestartet...</string>
@@ -281,12 +286,14 @@
   <string name="pref_content_open_in_background">Im Hintergrund öffnen</string>
   <string name="pref_content_open_in_background_summary">Neue Tabs hinter dem aktuellen Tab öffnen</string>
   <string name="pref_content_plugins">Plugins aktivieren</string>
+  <string name="pref_content_preload_title">Inhalt vorab laden</string>
   <string name="pref_content_search_engine">Suchmaschine festlegen</string>
   <string name="pref_content_search_engine_summary">Wähle eine Suchmaschine</string>
   <string name="pref_content_title">Seiteninhalt</string>
-  <string name="pref_data_preload_dialogtitle">Suchergebnisse vorladen</string>
-  <string name="pref_data_preload_summary">Dem Browser erlauben, sehr wahrscheinliche Suchergebnisse im Hintergrund vorzuladen</string>
-  <string name="pref_data_preload_title">Suchergebnisse vorladen</string>
+  <string name="pref_data_preload_dialogtitle">Suchergebnisse vorab laden</string>
+  <string name="pref_data_preload_summary">Dem Browser erlauben, sehr wahrscheinliche Suchergebnisse im Hintergrund vorab zu laden</string>
+  <string name="pref_data_preload_title">Suchergebnisse vorab laden</string>
+  <string name="pref_data_preload_value_never_summary">Dem Browser nicht gestatten, sensible Ergebnisse im Hintergrund zu öffnen</string>
   <string name="pref_data_title">Bandbreitenverwaltung</string>
   <string name="pref_default_text_encoding">Textkodierung</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -329,6 +336,13 @@
   <string name="pref_general_sync_title">Synchronisation</string>
   <string name="pref_general_title">Allgemein</string>
   <string name="pref_gesture_title">Gesten-Vorgänge</string>
+  <string name="pref_image_display_control">Bildanzeige steuern</string>
+  <string name="pref_images_preload_dialogtitle">Bilder vorab laden...</string>
+  <string name="pref_images_preload_summary">" Erlaube dem Browser Bilder vorab zu laden, wenn dies vom Server unterstützt wird"</string>
+  <string name="pref_images_preload_title">Bilder vorab laden</string>
+  <string name="pref_images_preload_value_always_summary">Dem Browser immer erlauben Bilder vorab zu laden, wenn dies vom Server unterstützt wird</string>
+  <string name="pref_images_preload_value_never_summary">Dem Browser niemals erlauben Bilder vorab zu laden</string>
+  <string name="pref_images_preload_value_wifi_only_summary">Bilder nur bei WLAN-Verbindung vorab laden</string>
   <string name="pref_inverted">Invertiertes Rendering</string>
   <string name="pref_inverted_category">Invertiertes Bildschirm-Rendering</string>
   <string name="pref_inverted_contrast">Kontrast</string>
@@ -340,9 +354,10 @@
   <string name="pref_lab_quick_controls">Schnellsteuerung</string>
   <string name="pref_lab_quick_controls_summary">Wische mit dem Daumen von der linken oder rechten Ecke, um die Schnellsteuerung zu öffnen und um die App- und URL-Leiste auszublenden</string>
   <string name="pref_lab_title">Labs</string>
-  <string name="pref_link_prefetch_dialogtitle">Webseiten vorladen</string>
-  <string name="pref_link_prefetch_summary">Dem Browser erlauben, verlinkte Webseiten im Hintergrund vorzuladen</string>
-  <string name="pref_link_prefetch_title">Webseiten vorladen</string>
+  <string name="pref_link_prefetch_dialogtitle">Webseiten vorab laden</string>
+  <string name="pref_link_prefetch_summary">Dem Browser erlauben, verlinkte Webseiten im Hintergrund vorab zu laden</string>
+  <string name="pref_link_prefetch_title">Webseiten vorab laden</string>
+  <string name="pref_link_prefetch_value_never_summary">Dem Browser nicht erlauben, verlinkte Webseiten im Hintergrund vorab zu laden</string>
   <string name="pref_min_font_size">Minimale Schriftgröße</string>
   <string formatted="false" name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Cache löschen</string>
@@ -384,7 +399,7 @@
   <string name="pref_set_homepage_to">Festlegen als</string>
   <string name="pref_setting_title">Seiten-Einstellungen</string>
   <string name="pref_text_zoom">Textskalierung</string>
-  <string name="pref_ua_mione_entry">Mi-one</string>
+  <string name="pref_ua_mione_entry">Mi-One</string>
   <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">User-Agent</string>
   <string name="pref_ua_title">User-Agent-Verwaltung</string>
@@ -393,9 +408,7 @@
   <string name="pref_video_preload_dialogtitle">Lädt Video...</string>
   <string name="pref_video_preload_summary">Browser gestatten, Video vorauszuladen, wenn der Server es unterstützt</string>
   <string name="pref_video_preload_title">Video lädt</string>
-  <string name="pref_video_preload_value_always">ALWAYS</string>
-  <string name="pref_video_preload_value_never">NEVER</string>
-  <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
+  <string name="pref_video_preload_value_never_summary">Dem Browser nicht erlauben Videos vorab zu laden</string>
   <string name="pref_volume_key_enabled">Lautstärketasten</string>
   <string name="pref_volume_key_operation">Aufgabe der Lautstärketasten</string>
   <string name="pref_zoom_on_double_tap">Bei zweifachem Tippen zoomen</string>
