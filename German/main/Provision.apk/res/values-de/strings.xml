@@ -30,6 +30,6 @@
   <string name="traffic_protection_label">Datenverbrauch überwachen</string>
   <string name="traffic_protection_summary">Die Überwachung des Datenverbrauchs erinnert dich daran, wenn dein Traffic-Limit erreicht wurde.</string>
   <string name="traffic_protection_text_hint">Bitte gib dein Datenlimit ein.</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;"Ich weiß nicht. (Bitte später eintragen.)"&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown">Bitte später eintragen.</string>
   <string name="use_data">Mobile Daten aktivieren</string>
 </resources>
