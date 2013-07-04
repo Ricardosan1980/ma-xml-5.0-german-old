@@ -88,6 +88,8 @@
   <string name="time_picker_dialog_title">Erinnerungszeit festlegen</string>
   <string name="toast_message_add_image_fail">Einfügen des Bildes fehlgeschlagen!</string>
   <string name="toast_privacy_mode">Notiz kann im Wächtermodus nicht geändert werden</string>
+  <string name="toast_reach_text_limit_attachment">Der Inhalt der Notiz ist zu lang um neue Anhänge einzufügen.</string>
+  <string name="toast_reach_text_limit_truncate">"Der Inhalt der Notiz wurde abgeschnitten weil er zu lang ist."</string>
   <string name="widget_havenot_content">Es wurde keine zugehörige Notiz gefunden. Berühren, um eine zugehörige Notiz zu erstellen.</string>
   <string name="widget_under_visit_mode">Wächtermodus aktiv. Inhalt der Notizen kann nicht eingesehen werden</string>
 </resources>

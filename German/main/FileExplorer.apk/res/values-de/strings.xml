@@ -19,7 +19,8 @@
   <string name="binded_accout_title">MiDrive-Konto</string>
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Abbrechen</string>
-  <string name="cancel_cleanup_garbage_cleanup">Aufräumen abbrechen</string>
+  <string name="cancel_cleanup_garbage_cleanup">Bereinigung abbrechen</string>
+  <string name="cancel_with_count_down">Abbrechen (%d)</string>
   <string name="category_all">Alle</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -39,7 +40,10 @@
   <string name="clean_message">Löschen von %1$s</string>
   <string name="clean_title">Dateien löschen, die mehr als 30 Tage im Papierkorb liegen</string>
   <string name="clean_trash_box">Papierkorb leeren</string>
-  <string name="cleanup_complete">Cleanup erfolgreich</string>
+  <string name="cleaned">Bereinigung beendet</string>
+  <string name="cleaning">Bereinige...</string>
+  <string name="cleanup_complete">Bereinigen erfolgreich</string>
+  <string name="cleanup_stopped">Bereinigung angehalten</string>
   <string name="close">Schließen</string>
   <string name="compress_fail">Komprimieren fehlgeschlagen, Ziel ist bereits vorhanden</string>
   <string name="compress_message">Komprimieren nach:</string>
@@ -47,6 +51,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Kopieren fehlgeschlagen</string>
+  <string name="count_down_time">Beginne nach %d Sekunden</string>
   <string name="create_kuaipan_shortcut_pref">Verknüpfung auf Homescreen hinzufügen</string>
   <string name="create_new_folder_desctiption">Neuer Ordner wird erstellt...</string>
   <string name="create_new_folder_failed">Erstellen des Ordners %1$s fehlgeschlagen</string>
@@ -91,6 +96,7 @@
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Klingelton</string>
   <string name="favorite_screen_cap">Bildschirmaufnahmen</string>
+  <string name="file_cleanup">Datei-Bereinigung</string>
   <string name="file_info_canread">Lesbar:</string>
   <string name="file_info_canwrite">Beschreibbar:</string>
   <string name="file_info_ishidden">Versteckt:</string>
@@ -117,7 +123,7 @@
 Junk"</string>
   <string name="gbk_summary">Falls du GBK-Kodierung verwendest, z.B. Windows Explorer, dann wählen diesen Typ der Kodierung aus, um verstümmelten chinesisschen Text zu vermeiden</string>
   <string name="gbk_title">GBK</string>
-  <string name="give_up_cleaning">Clean-up abbrechen</string>
+  <string name="give_up_cleaning">Bereinigung abbrechen</string>
   <string name="header_text_cleaned">Junk gelöscht</string>
   <string name="header_text_cleaning">Lösche Junk-Reste</string>
   <string name="header_text_scanned">Junk-Dateien zum löschen gefunden</string>
@@ -135,7 +141,7 @@ Junk"</string>
   <string name="local_cache_size">Lokale Cache-Größe: %s</string>
   <string name="login_reg_content">MiDrive hilft dir, deine Dateien zu speichern und sie zwischen mehreren Geräten zu synchronisieren.</string>
   <string name="login_reg_content0">MiDrive ist dein Cloud-Datenspeicher</string>
-  <string name="menu_item_cleanup">Datei-Cleanup</string>
+  <string name="menu_item_cleanup">Datei-Bereinigung</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Suchen</string>
   <string name="menu_item_sort">Sortiert nach</string>
@@ -211,6 +217,7 @@ Junk"</string>
   <string name="rename_description">Wird umbenannt. Bitte warten...</string>
   <string name="rename_failed">Umbenennen von《%1$s》fehlgeschlagen</string>
   <string name="restart_cleaning">Neustart</string>
+  <string name="scanned">Scan abgeschlossen</string>
   <string name="scanning" formatted="false">Scanne %d Anwendung... (Gesamt %d Anwendungen)</string>
   <string name="scanning_on_going">Scanne...</string>
   <string name="sd_card_available">Freier Speicher:\u0020%1$s</string>

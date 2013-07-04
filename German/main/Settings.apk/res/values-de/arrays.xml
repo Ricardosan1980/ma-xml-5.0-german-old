@@ -20,4 +20,10 @@
         <item>Systrace (Grafik)</item>
         <item>Call stack bei glGetError</item>
     </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Gesichtserkennung</item>
+        <item>Muster</item>
+        <item>Numerisches Passwort</item>
+        <item>Gemischtes Passwort</item>
+    </string-array>
 </resources>
