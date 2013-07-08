@@ -62,7 +62,7 @@
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Nachfragen&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Ablehnen</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Ablehnen&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject_Count">Abgelehnt: %1$d</string>
+  <string name="HIPS_Action_Reject_Count">Ablehnen: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Privatsphäre</string>
   <string name="HIPS_Group_Expense">Sicherheit</string>
   <string name="HIPS_Group_Internet">Internetzugang</string>
@@ -161,7 +161,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Ein permamenter Hardwareschaden ist ebenfalls möglich</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Verwende dies mit Vorsicht!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Soll %1$s erlaubt werden, ROOT-Berechtigungen zu erhalten?</string>
-  <string name="HIPS_SecurityPrompt_Reject">Abgelehnt (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject">Ablehnen (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Auswahl merken</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s möchte %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d Berechtigungen</string>
