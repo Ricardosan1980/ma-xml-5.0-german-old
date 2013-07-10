@@ -19,7 +19,8 @@
   <string name="dialog_title_storage_full">Speicher voll</string>
   <string name="dialog_warning">Warnung</string>
   <string name="error_app_internal">Interner Anwendungsfehler</string>
-  <string name="error_app_internal_title">Anwendungsfehler</string>
+  <string name="error_app_internal_title">Rekorderfehler</string>
+  <string name="error_filename_too_long">Dateiname zu lang</string>
   <string name="error_mediadb_new_record">Speichern der Aufnahme fehlgeschlagen</string>
   <string name="error_sdcard_access">Zugriff auf externen oder internen Speicher fehlgeschlagen</string>
   <string name="fm_record">FM-Aufnahme (%d)</string>

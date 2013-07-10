@@ -504,6 +504,8 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="cdma_security_settings_summary">Stellt Standort, Bildschirmsperre und Zugangsdaten-Speicher ein</string>
   <string name="cell_broadcast_settings">Netzwerk-Funk</string>
   <string name="cell_broadcast_settings_summary">Stellt die Art von Notfall-Warnungen ein.</string>
+  <string name="change_password">Ändere das Passwort</string>
+  <string name="change_security_lock">Versuche andere Arten der Entsperrung</string>
   <string name="checkbox_notification_same_as_incoming_call">Benutze gleiche Lautstärke wie für eingehende Anrufe</string>
   <string name="choose_timezone">Zeitzone auswählen</string>
   <string name="clear_activities">Standardwerte löschen</string>
@@ -530,7 +532,7 @@ Bitte den PIN für Pairing mit \"%1$s\" eingeben. [Hohe Sicherheit aktiviert: Be
   <string name="controls_subtitle">Stromverbrauch einstellen</string>
   <string name="copyright_title">Copyright</string>
   <string name="create">Erstellen</string>
-  <string name="credentials_configure_lock_screen_hint">Du musst eine Lockscreen-PIN oder Passwort festlegen, bevor du Zugangsdaten speichern kannst.</string>
+  <string name="credentials_configure_lock_screen_hint">Du musst eine Sperrbildschirm-PIN oder Passwort festlegen, bevor du Zugangsdaten speichern kannst.</string>
   <string name="credentials_enabled">Zugangsdatenspeicher aktiviert.</string>
   <string name="credentials_erased">Zugangsdatenspeicher wurde gelöscht.</string>
   <string name="credentials_install">Von Speicher installieren</string>
@@ -1037,6 +1039,7 @@ Einige Anwendunngen können eventuell nicht funktionieren, bis der Entwickler ei
 Bereit anzufangen? Tippe auf "Weiter"."</string>
   <string name="lock_screen_unlock_show">Passwort-Eingabefeld direkt anzeigen</string>
   <string name="lock_screen_unlock_show_summary">"Keine anderen Sperrbildschirme nutzen, Passwort-Eingabefeld direkt anzeigen"</string>
+  <string name="lock_settings_common_title">Sperreinstellungen</string>
   <string name="lock_settings_picker_settings">Bildschirmsperre setzen</string>
   <string name="lock_settings_picker_title">Bildschirmsperre auswählen</string>
   <string name="lock_settings_title">Bildschirmsperre</string>
@@ -1164,6 +1167,7 @@ Achtung: Dieser Vorgang kann nicht rückgängig gemacht werden!</string>
   <string name="memory_media_usage">Medien</string>
   <string name="memory_music_usage">Audio (Musik, Klingeltöne, Podcasts, etc.)</string>
   <string name="memory_size">Speicher insgesamt</string>
+  <string name="memory_title">Verfügbar %1$s\u0009\u0009Gesamt %2$s</string>
   <string name="menu_cancel">Verwerfen</string>
   <string name="menu_delete">APN löschen</string>
   <string name="menu_key">Menü-Taste</string>
@@ -1974,6 +1978,7 @@ Verbleibende Versuche :"</string>
   <string name="tts_settings_changed_demo">Deine Einstellungen wurden geändert. Dies ist ein Beispiel, wie es nun klingt.</string>
   <string name="tts_settings_title">Text-To-Speech Ausgabe</string>
   <string name="turn_off_radio">Radio ausschalten</string>
+  <string name="turn_off_security_lock">Sperre ausschalten</string>
   <string name="turn_on_radio">Radio einschalten</string>
   <string name="under_keyguard">Am Sperrbildschirm</string>
   <string name="uninstall_all_users_text">Für alle Benutzer deinstallieren</string>
@@ -2489,6 +2494,8 @@ Telefon-Setup kann erhebliche Netzwerkaktivität benötigen."</string>
   <string name="wps_connect_summary">Stelle sicher, dass dein Router WPS unterstützt</string>
   <string name="wps_connect_title">Mit WPS verbinden</string>
   <string name="xiaomi_account">Xiaomi-Konto</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="xiaomi_money_service">MiCredit-Center</string>
   <string name="yes">Ja</string>
   <string name="zone_auto">Automatische Zeitzone</string>
   <string name="zone_auto_summaryOff">Benutze vom Netzwerk bereitgestellte Zeitzone</string>

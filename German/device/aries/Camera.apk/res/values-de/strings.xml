@@ -359,6 +359,9 @@
   <string name="pref_video_continuous_focus">Kontinuierlicher Fokus</string>
   <string name="pref_video_continuous_focus_entry_off">Aus</string>
   <string name="pref_video_continuous_focus_entry_on">An</string>
+  <string name="pref_video_focusmode_entry_auto">Tippen</string>
+  <string name="pref_video_focusmode_entry_continuous">CAF</string>
+  <string name="pref_video_focusmode_title">Fokussierungsmodus</string>
   <string name="pref_video_quality_entry_1080p">Full HD 1080p</string>
   <string name="pref_video_quality_entry_480p">SD 480p</string>
   <string name="pref_video_quality_entry_720p">HD 720p</string>
