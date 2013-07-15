@@ -280,7 +280,8 @@
   <string name="fm_record_smaple_prefix_miui">Radioaufnahme</string>
   <string name="fools_day">1. April</string>
   <string name="force_exit_message">\"%1$s\" wurde erfolgreich beendet</string>
-  <string name="forget_password_string">Hilfe</string>
+  <string name="forget_password_string">"Passwort
+vergessen?"</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">Im Wächter-Modus werden Anrufe, Notizen, Galerie-Daten und Textnachrichten ausgeblendet und der Desktop kann nicht bearbeitet werden. Ein Passwort kann zum Schützen des Wächter-Modus in den Einstellungen der Zugriffskontrolle festgelegt werden</string>
   <string name="global_action_toggle_privacy_mode">Wächter</string>
