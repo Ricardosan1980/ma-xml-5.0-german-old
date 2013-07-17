@@ -62,7 +62,7 @@
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Nachfragen&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Ablehnen</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Ablehnen&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject_Count">Ablehnen: %1$d</string>
+  <string name="HIPS_Action_Reject_Count">Nein: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Privatsphäre</string>
   <string name="HIPS_Group_Expense">Sicherheit</string>
   <string name="HIPS_Group_Internet">Internetzugang</string>
