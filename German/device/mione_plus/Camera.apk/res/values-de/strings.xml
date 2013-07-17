@@ -207,9 +207,9 @@
   <string name="pref_camera_jpegquality_entry_normal">Normal</string>
   <string name="pref_camera_jpegquality_entry_superfine">Sehr fein</string>
   <string name="pref_camera_jpegquality_title">Bildqualität</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Aus</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_on">An</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Serienbild-Aufnahme</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Scharfstellen</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Serienbild</string>
+  <string name="pref_camera_long_pressing_burst_shooting_title">Auslöser-Aktion</string>
   <string name="pref_camera_movie_solid_entry_off">Aus</string>
   <string name="pref_camera_movie_solid_entry_on">An</string>
   <string name="pref_camera_movie_solid_title">Bildstabilisierung</string>

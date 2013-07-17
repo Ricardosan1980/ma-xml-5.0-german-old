@@ -22,6 +22,8 @@
   <string name="call_record_folder_name">Anrufnotizen</string>
   <string name="close">Schließen</string>
   <string name="default_folder_name">Notizen</string>
+  <string name="dlg_desc_confirm_alarm_silent">Erinnerungen und Notizen werden im Lautlos-Modus, wenn abgeschaltet, stumm sein.</string>
+  <string name="dlg_title_confirm_alarm_silent">Willst du die Erinnerungen im Lautlos-Modus stumm schalten?</string>
   <string name="enable_sync">Synchronisierung</string>
   <string name="enable_sync_desc">Notizen können mit deinem Xiaomi-Konto %1$s synchronisiert werden. Jetzt synchronisieren?</string>
   <string name="error_note_empty_for_clock">Leider kann bei einer leeren Notiz keine Uhrzeit festgelegt werden</string>
@@ -70,8 +72,11 @@
   <string name="notify_alarm_action_mute">Stumm</string>
   <string name="notify_alarm_action_view">Zeigen</string>
   <string name="notify_alarm_title">Erinnerung</string>
+  <string name="pref_desc_alarm_when_silent">Erinnerungen werden im Lautlos-Modus läuten</string>
   <string name="pref_desc_mode_grid">Raster</string>
   <string name="pref_desc_mode_list">Liste</string>
+  <string name="pref_title_alarm_when_silent">Alarm im Lautlos-Modus</string>
+  <string name="pref_title_common">Allgemeine Einstellungen</string>
   <string name="pref_title_data_export">Datenexport</string>
   <string name="pref_title_data_export_to_sdcard">Notiz auf SD-Karte exportieren</string>
   <string name="pref_title_note_style">Notiz-Stil</string>

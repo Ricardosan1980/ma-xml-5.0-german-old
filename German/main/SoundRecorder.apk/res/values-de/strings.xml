@@ -18,6 +18,9 @@
   <string name="dialog_send">Senden</string>
   <string name="dialog_title_storage_full">Speicher voll</string>
   <string name="dialog_warning">Warnung</string>
+  <string name="duration_format_hour">%s h</string>
+  <string name="duration_format_minute">%s m</string>
+  <string name="duration_format_second">%s s</string>
   <string name="error_app_internal">Interner Anwendungsfehler</string>
   <string name="error_app_internal_title">Rekorderfehler</string>
   <string name="error_filename_too_long">Dateiname zu lang</string>
@@ -30,9 +33,10 @@
   <string name="low_battery_message_title">Niedriger Akkustand</string>
   <string name="low_battery_warning">Unerwartetes Herunterfahren kann zu Aufnahmeverlust führen. Es wird empfohlen, nur mit voll aufgeladenem Akku aufzunehmen.</string>
   <string name="mark_now">(Aktuell)</string>
-  <string name="max_length_reached">Maximale Länge erreicht</string>
+  <string name="max_length_reached">Maximale Dauer erreicht</string>
   <string name="menu_settings">Einstellungen</string>
   <string name="menu_view_record_list">Alle Aufnahmen</string>
+  <string name="message_file_size_error">Die Aufnahme hat die maximale Dauer die für %s unterstützt wird erreicht.</string>
   <string formatted="false" name="minute">%d Minute</string>
   <string name="no_file">Keine Aufnahmen</string>
   <string name="notification_playback">Aufnahme wird wiedergegeben...</string>
@@ -68,5 +72,6 @@
   <string name="status_bar_recording_pause">"Aufnahme wurde angehalten."</string>
   <string name="storage_is_full">Speicher ist voll</string>
   <string formatted="false" name="timer_format">%02d:%02d</string>
+  <string name="toast_max_record_time">Anwendung: %1$s maximal unterstützte Aufnahmedauer %2$s</string>
   <string name="unknown_caller">Unbekannter Anrufer</string>
 </resources>

@@ -8,6 +8,7 @@
   <string name="account_type_format">%1$s Kontakt</string>
   <string name="actionIncomingCall">Eingehende Anrufe</string>
   <string name="action_menu_overflow_description">Weitere Optionen</string>
+  <string name="activity_not_found_uri">Keine unterstüzte Anwendung gefunden!</string>
   <string name="activity_title_confirm_add_detail">Zu Kontakt hinzufügen</string>
   <string name="activity_title_contacts_filter">Anzuzeigende Kontakte</string>
   <string name="activity_title_settings">Einstellungen</string>
@@ -154,6 +155,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">"Möchtest du wirklich %s's Anrufmitschnitt löschen?"</string>
   <string name="confirm_delete_selected_call_log">Die %1d ausgewählte(n) Gruppe(n) an Gesprächsmitschnitten löschen?</string>
+  <string name="confirm_delete_sim_entry_miui">%d ausgewählte Kontakte von der SIM-Karte löschen?</string>
   <string name="confirm_export_message">Deine Kontaktliste in die Datei \"%s\" exportieren?</string>
   <string name="confirm_export_title">Exportieren bestätigen</string>
   <string name="connections">Verbindungen</string>
@@ -209,7 +211,11 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="delete_duplicate_message">"Wird zusammengeführt... "</string>
   <string name="delete_group_dialog_message">"Soll die Gruppe \"%1$s\" gelöscht werden? (Die Kontakte dieser Gruppe bleiben erhalten.)"</string>
   <string name="delete_group_dialog_title">Gruppe löschen</string>
+  <string name="delete_selected_sim_entry_miui">Ausgewählte Kontakte löschen?</string>
+  <string name="delete_sim_entries_finish">Ausgewählte SIM-Kontakte erfolgreich gelöscht</string>
+  <string name="delete_sim_entry_miui">SIM-Kontakte löschen</string>
   <string name="delete_unknown_contact_calllog_title">"Anrufliste von unbekannten Kontakten löschen?"</string>
+  <string name="deleting_sim_entry_miui">Lösche Kontakte von SIM-Karte</string>
   <string name="description_add_contact">Kontakt hinzufügen</string>
   <string name="description_author">Author:</string>
   <string name="description_call">%1$s anrufen</string>
@@ -399,6 +405,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="ic_menu_done">Fertig</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
+  <string name="import_all_sim_entries_miui">Alle Kontakte importieren</string>
   <string name="import_all_vcard_string">Alle vCard-Dateien importieren</string>
   <string name="import_contact_card_button">Importieren</string>
   <string name="import_failure_no_vcard_file">Auf dem Speicher wurde keine vCard-Datei gefunden</string>
@@ -409,6 +416,9 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="import_name">Name</string>
   <string name="import_one_vcard_string">Eine vCard-Datei importieren</string>
   <string name="import_percent">0%</string>
+  <string name="import_selected_sim_entries_miui">Ausgewählte Kontakte importieren</string>
+  <string name="import_sim_entries_finish">Import von SIM-Kontakten erfolgreich abgeschlossen</string>
+  <string name="import_sim_entry_miui">Importiere von SIM</string>
   <string name="import_to_xiaomi_account_confirm">Importieren</string>
   <string name="import_to_xiaomi_account_progress_finish">Importieren erfolgreich!</string>
   <string name="import_to_xiaomi_account_progress_message">Wird importiert...</string>
@@ -426,6 +436,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="import_weibo_notification_title_done">Import abgeschlossen</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
+  <string name="importing_sim_contacts_miui">Importiere SIM-Kontakte...</string>
   <string name="importing_vcard_canceled_title">Importieren von %s wurde abgebrochen</string>
   <string name="importing_vcard_description">Importieren von %s</string>
   <string name="importing_vcard_finished_title">Importieren der vCard \"%s\" abgeschlossen</string>
@@ -697,12 +708,14 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="processing">Verarbeite...</string>
   <string name="profile_display_name">Mein Profil einrichten</string>
   <string name="profile_name">Mein Profil</string>
+  <string name="profile_name_photo">Ich</string>
   <string formatted="false" name="progress_notifier_message">%s/%s importieren: %s</string>
   <string name="quickcontact_missing_app">Es wurde keine Anwendung gefunden, welche diese Aktion ausführen könnte</string>
   <string name="quit_dialog_confirm_title">Soll das Zusammenführen von Kontakten beendet werden?</string>
   <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
   <string name="readOnlyContactWarning">Du kannst keine Kontakte von schreibgeschützten Benutzerkonten löschen, diese aber in deiner Kontaktliste ausblenden.</string>
+  <string name="readingSimContacts">Lese SIM-Karten-Information, bitte warten...</string>
   <string name="reading_vcard_canceled_title">Lesen der vCard-Daten abgebrochen</string>
   <string name="reading_vcard_failed_title">"Konnte vCard-Daten nicht lesen"</string>
   <string name="rebuild_t9_index_dialog_message">T9-Indexdaten werden wiederhergestellt…</string>
@@ -806,10 +819,14 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="shortcutDialContact">Direktwahl</string>
   <string name="shortcutMessageContact">Direktnachricht</string>
   <string name="showAllContactsJoinItem">Alle Kontakte anzeigen</string>
+  <string name="simContacts_airplaneMode">Um Kontakte von deiner SIM-Karte zu importiere, schalte bitte den Flugzeug-Modus aus.</string>
+  <string name="simContacts_empty">Keine Kontakte auf der SIM-Karte gefunden.</string>
   <string name="simContacts_emptyLoading">Von SIM-Karte laden…</string>
   <string name="simContacts_title">SIM-Karten-Kontakte</string>
   <string name="sim_card_no_free_space_message">Deine SIM-Karte ist voll. Neue Kontakte konnten nicht importiert werden. Bitte lösche Kontakte auf der SIM-Karte und versuche es anschließend erneut</string>
   <string name="sim_card_no_free_space_title">SIM-Karte ist voll</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">Auswahl aufheben</string>
+  <string name="sim_contact_dropdown_menu_select_all_miui">Alle wählen</string>
   <string name="sim_contact_search_error">Der Fehler tritt auf, wenn SIM-Karten-Kontakte durchsucht werden</string>
   <string name="sim_contacts">SIM-Kontakte</string>
   <string name="sim_export_loading">SIM-Karten-Informationen werden gelesen. Dieser Vorgang kann eine Weile dauern. Bitte habe etwas Geduld.</string>
@@ -871,6 +888,8 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="title_other_devices">Andere verfügbare Geräte</string>
   <string name="title_paired_devices">Gepaarte Geräte</string>
   <string name="toast_call_detail_error">"Für den angefragten Anruf konnten keine Details gelesen werden."</string>
+  <string name="toast_copy_done">Kopieren erfolgreich abgeschlossen</string>
+  <string name="toast_copying">Kopiere, bitte warten...</string>
   <string name="toast_displaying_all_contacts">Zeige alle Kontakte</string>
   <string name="toast_finish_delete_call_log">Die Anrufliste wurde gelöscht</string>
   <string name="toast_for_failed_saving_nickname">Speichern des Spitznamens fehlgeschlagen!</string>

@@ -775,6 +775,7 @@ Trotzdem zum neuen Anbieter wechseln?"</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Nur 2G (energiesparend)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">Nur 3G</string>
+  <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title_miui">Netzwerk-Auswahl</string>
   <string name="primary_account_summary_with">Primäres Konto. %s</string>
   <string name="private_num">Private Nummer</string>
