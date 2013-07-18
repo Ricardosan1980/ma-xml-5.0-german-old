@@ -105,6 +105,18 @@
   <string name="clip_dialog_title">Kopierten Link öffnen?</string>
   <string name="close_all_tab_alert_message">Bist du sicher, dass du alle Tabs schliessen willst?</string>
   <string name="close_all_tab_alert_title">Alle Tabs schließen</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+  <string name="common_use_phrase_bottom_bar_down_analytic_txt">Einklappen</string>
+  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+  <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Einfügen</string>
+  <string name="common_use_phrase_bottom_bar_paste_txt">Einfügen</string>
+  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+  <string name="common_use_phrase_bottom_bar_up_analytic_txt">Ausklappen</string>
+  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="containing_folder">Hinzufügen zu</string>
   <string formatted="false" name="contextheader_folder_bookmarkcount">%d Lesezeichen</string>
   <string name="contextheader_folder_empty">Leerer Ordner</string>
@@ -133,14 +145,23 @@
   <string name="delete_folder">Ordner löschen</string>
   <string name="delete_multi_bookmarks_alert_title">Sollen %1$s Element(e) gelöscht werden?</string>
   <string name="disable_autofill">AutoFill deaktivieren</string>
+  <string name="disk_space_available">%1$s verfügbar</string>
+  <string name="disk_space_selected">%1$s ausgewählt</string>
+  <string name="disk_space_used">%1$s verwendet</string>
   <string name="do_not_save">Abbrechen</string>
+  <string name="download">Download</string>
   <string name="download_complete">Download beendet</string>
+  <string name="download_default_path_txt">Als Standard-Download-Pfad einstellen und nicht nach Download-Pfad fragen</string>
   <string name="download_failed">Download fehlgeschlagen</string>
   <string formatted="false" name="download_no_sdcard_dlg_msg">USB-Speicher zum Herunterladen von %s benötigt.</string>
   <string name="download_no_sdcard_dlg_title">USB-Speicher nicht verfügbar</string>
   <string name="download_pending">Download wird gestartet...</string>
   <string name="download_sdcard_busy_dlg_msg">Der USB-Speicher ist nicht verfügbar. Um Downloads zu ermöglichen, berühre "USB-Speicher deaktivieren" in der Benachrichtigungsleiste.</string>
   <string name="download_sdcard_busy_dlg_title">USB-Speicher nicht verfügbar</string>
+  <string name="download_video_alert_message">Wenn dein aktueller Tarif Datengebühren beinhaltet, könnte das herunterladen von Videos dein Datenvolumen verbrauchen, willst du weitermachen?</string>
+  <string name="download_video_alert_title">Anmerkung zum Download!</string>
+  <string name="downloaded">Heruntergeladen</string>
+  <string name="downloading">Herunterladen</string>
   <string name="dump_counters">V8-Zähler entleeren</string>
   <string name="dump_display_tree">\"Display tree\" in Datei entleeren</string>
   <string name="dump_dom_tree">\"DOM tree\" in Datei entleeren</string>
@@ -223,6 +244,7 @@
   <string name="js_engine_flags">JS-Flags setzen</string>
   <string name="loadSuspended">"Der Browser kann diese Seite nicht laden, weil keine Internetverbindung besteht."</string>
   <string name="loadSuspendedTitle">Keine Internetverbindung</string>
+  <string name="loading_rest_candidates">Lade restliche Anwärter</string>
   <string name="loading_video">Video wird geladen...</string>
   <string name="local_bookmarks">Lokal</string>
   <string name="location">Adresse</string>
@@ -244,7 +266,8 @@
   <string name="new_folder">Neuer Ordner</string>
   <string name="new_incognito_tab">Neuer Inkognito-Tab</string>
   <string name="new_tab">Neuer Tab</string>
-  <string name="no_subfolders">Keine Unterordner.</string>
+  <string name="no_subfolders">Keine Unterordner</string>
+  <string name="not_enough_disk_space_alert">Unzureichender Speicherplatz</string>
   <string name="not_remind_again">Erinnere mich nicht mehr daran</string>
   <string name="notif_install_successful">Download erfolgreich</string>
   <string name="ok">Ok</string>
@@ -263,6 +286,8 @@
   <string name="please_select_a_file_to_import">Bitte wähle die Datei</string>
   <string name="popup_window_attempt">Dieser Seite das Öffnen eines Popup-Fensters erlauben?</string>
   <string name="pref_accessibility_title">Barrierefreiheit</string>
+  <string name="pref_accessibility_url_shortcut_enter_summary">Wenn in die Adressleiste eingetragen wird, können häufig verwendete Buchstabenkombinationen mit einem Tastendruck eingegeben werden</string>
+  <string name="pref_accessibility_url_shortcut_enter_title">Schnelle URL-Eingabe</string>
   <string name="pref_allow_apptabs">Mehrere Tabs pro App erlauben</string>
   <string name="pref_autofill_enabled">AutoFill-Formular</string>
   <string name="pref_autofill_enabled_summary">Fülle Formulare mit einer einzelnen Berührung aus</string>
@@ -324,6 +349,10 @@
   <string name="pref_extras_title">Erweitert</string>
   <string name="pref_extras_website_settings">Website-Einstellungen</string>
   <string name="pref_extras_website_settings_summary">Erweiterte Einstellungen für individuelle Webseiten</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">Standard Download-Pfad-Einstellungen wiederherstellen</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Standard wiederherstellen</string>
+  <string name="pref_file_download_save_modify_default_path">Download-Pfad ändern</string>
+  <string name="pref_file_download_save_title">Datei herunterladen und sichern</string>
   <string name="pref_fling_on_border_enabled">Rand-Wischgeste</string>
   <string name="pref_fling_on_border_enabled_title_summary">Von der Kante des Bildschrims wischen</string>
   <string name="pref_fling_on_border_operation">Vorgang der Rand-Wischgeste</string>
@@ -430,6 +459,8 @@
   <string name="report_reading_mode_issue">Lesemodus-Problem an MIUI berichten</string>
   <string name="return_to_homepage">Zur Homepage zurück</string>
   <string name="rlz_access_point">Y1</string>
+  <string name="same_bookmarks_warning">Dieses Lesezeichen ist schon vorhanden</string>
+  <string name="same_folder_name_warning">Dieser Ordner ist schon vorhanden</string>
   <string name="save">Ok</string>
   <string name="save_dialog_title">Speichern</string>
   <string name="save_file_already_exist_alert_message">Datei ist bereits vorhanden, willst du sie überschreiben?</string>

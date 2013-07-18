@@ -105,6 +105,9 @@
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Standort per GPS festgelegt</string>
   <string name="gps_notification_searching_text">Suche GPS</string>
+  <string name="headset_custom">Anpassen</string>
+  <string name="headset_info">Knopffunktionen anpassen</string>
+  <string name="headset_settings">Kopfhörer verbunden</string>
   <string name="invalid_charger">"Aufladen per USB nicht unterstützt. Bitte benutze ausschließlich das mitgelieferte Ladegerät."</string>
   <string name="key_position_custom">Benutzerdefinierte Tastenposition</string>
   <string name="label_view">View</string>

@@ -104,6 +104,7 @@ verwendet Verschlüsselungsverfahren um deine finanzielle Sicherheit zu gewährl
   <string name="error_has_bought_title">Kauf wiederholen</string>
   <string name="error_illegal_order_summary">Bei deiner Bestellung ist ein Fehler aufgetreten, bitte versuche es später erneut</string>
   <string name="error_illegal_order_title">Bestellfehler!</string>
+  <string name="error_invalid_dev_id">Geräte-ID ist ungültig</string>
   <string name="error_mili_title">Keine ausreichenden Mi-Credits</string>
   <string name="error_network">Netzwerkfehler</string>
   <string name="error_network_summary">Ein Netzwerkfehler ist aufgetreten. Bitte überprüfe deine Verbindung und versuche es erneut</string>
