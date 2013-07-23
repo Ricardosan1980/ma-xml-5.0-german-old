@@ -101,7 +101,7 @@
   <string name="choosertitle_sharevia">Teilen via</string>
   <string name="clear">Löschen</string>
   <string name="clear_history">Verlauf löschen</string>
-  <string name="clear_history_group">Verlauf löschen</string>
+  <string name="clear_history_group">Gesamten %s Verlauf löschen</string>
   <string name="clip_dialog_title">Kopierten Link öffnen?</string>
   <string name="close_all_tab_alert_message">Bist du sicher, dass du alle Tabs schliessen willst?</string>
   <string name="close_all_tab_alert_title">Alle Tabs schließen</string>
@@ -274,7 +274,7 @@
   <string name="open_all_bookmarks">Alle öffnen</string>
   <string name="open_all_in_new_window">Alle in neuen Tabs öffnen</string>
   <string name="open_bookmark">Öffnen</string>
-  <string name="open_history_group_in_new_window">Öffne alle Verlaufselmente in einem neuen Fenster</string>
+  <string name="open_history_group_in_new_window">Öffne alle %s Verlaufselmente in einem neuen Fenster</string>
   <string name="open_history_most_visited_group_in_new_window">Öffne alle meistbesuchten Webseiten</string>
   <string name="other_bookmarks">Weitere Lesezeichen</string>
   <string name="page_info">Seiteninfos</string>

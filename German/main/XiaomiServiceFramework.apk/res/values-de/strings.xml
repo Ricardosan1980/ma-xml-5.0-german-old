@@ -214,11 +214,11 @@ und können, falls abgelaufen, nicht verwendet werden."</string>
   <string name="micloud_welcome_skip_login">Anmeldung überspringen</string>
   <string name="mili_center">Mi-Credit</string>
   <string name="msg_denomination_type">Mi-Credit</string>
-  <string name="msg_error">SMS-Topup fehlgeschlagen</string>
+  <string name="msg_error">SMS-Aufladung fehlgeschlagen</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">SMS-Topup kostet in der Durchführung mehr, daher &lt;font color=red&gt;2 RMB = 1 Mi-Credit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">SMS-Aufladung kostet in der Durchführung mehr, daher 2 RMB = 1 Mi-Credit</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">Für jedes SMS-Topup, berechnen die Netzanbieter 0,1 RMB Servicegebühr</string>
+  <string name="msg_picker_hint_2_2">Für jede SMS-Aufladung, berechnen die Netzanbieter 0,1 RMB Servicegebühr</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maximale monatliche Aufladung von 300 RMB</string>
   <string name="my_mili_record">Mein Mi-Credit</string>
