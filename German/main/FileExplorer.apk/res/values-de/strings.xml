@@ -3,6 +3,7 @@
   <string name="account_bind_prompt">"Migriere Benutzerdaten, dein Konto wird vorübergehen gesperrt, bitte warten..."</string>
   <string name="add_task">Auftrag hinzufügen</string>
   <string name="adding_upload_tasks">Upload-Auftrag hinzufügen.</string>
+  <string name="already_signin_description">Du bist schon angemeldet</string>
   <string name="app_cache_cleanup_indication">%s Cache</string>
   <string name="app_cache_title">App-Cache</string>
   <string name="app_garbage_cleanup_indication">%s App-Junk</string>
@@ -213,7 +214,9 @@ Junk"</string>
   <string name="operation_unfavorite">Aus Favoriten entfernen</string>
   <string name="pan_settting">MiDrive-Einstellungen</string>
   <string name="paused">Angehalten</string>
+  <string name="pull_to_signin">Herunterziehen um sich anzumelden und gratis Speicherplatz bekommen</string>
   <string name="query_bind_state">Statusabfrage, bitte warten...</string>
+  <string name="release_to_signin">Zum anmelden loslassen</string>
   <string name="rename_description">Wird umbenannt. Bitte warten...</string>
   <string name="rename_failed">Umbenennen von《%1$s》fehlgeschlagen</string>
   <string name="restart_cleaning">Neustart</string>
@@ -233,6 +236,10 @@ Junk"</string>
   <string name="server_control_settings">Server-Einstellungen</string>
   <string name="share_link_failed">Erstellen eines Links zum Teilen fehlgeschlagen. Bitte versuche es erneut!</string>
   <string name="show_message">Die Datei kann nicht geöffnet werden, ohne vorher heruntergeladen zu werden</string>
+  <string name="sign_description">Anmelden...</string>
+  <string name="signin_error">Netzwerk derzeit nicht verfügbar, versuche es nocheinmal</string>
+  <string name="signin_success">"Anmelden erfolgreich!
+Erhalte gratis Speicherplatz %1$s"</string>
   <string name="space_info">Netzwerkspeicher: %1$s verfügbar，insgesamt: %2$s</string>
   <string name="space_usage">Nutzung</string>
   <string name="start_cleanup">Aufräumen starten</string>
@@ -266,6 +273,7 @@ Junk"</string>
   <string name="ui_bar_txt_upload_progress">Wird hochgeladen...</string>
   <string name="ui_filechange_btn_download">Dateien herunterladen</string>
   <string name="ui_filechange_btn_upload">Dateien hochladen</string>
+  <string name="ui_main_menu_option_sign_in">Anmelden</string>
   <string name="ui_main_menu_option_task_manage">Übertragungsverwaltung</string>
   <string name="ui_main_progress_txt_open_file">Wird heruntergeladen...</string>
   <string name="ui_main_toast_favorite_removed">Favorit(en) entfernt</string>

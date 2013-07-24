@@ -26,6 +26,7 @@
   <string name="dlg_title_confirm_alarm_silent">Willst du die Erinnerungen im Lautlos-Modus stumm schalten?</string>
   <string name="enable_sync">Synchronisierung</string>
   <string name="enable_sync_desc">Notizen können mit deinem Xiaomi-Konto %1$s synchronisiert werden. Jetzt synchronisieren?</string>
+  <string name="error_contact_not_exist">Der Kontakt ist nicht vorhanden</string>
   <string name="error_note_empty_for_clock">Leider kann bei einer leeren Notiz keine Uhrzeit festgelegt werden</string>
   <string name="error_note_empty_for_send_to_desktop">Leider kann keine leere Notiz an den Startbildschirm gesendet werden</string>
   <string name="error_note_not_exist">Die Notiz ist nicht vorhanden</string>

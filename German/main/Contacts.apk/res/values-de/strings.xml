@@ -317,6 +317,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="display_warn_remove_ungrouped">"Mit dem Entfernen von \"%s\" von der Synchronisation werden auch jegliche nicht gruppierten Kontakte von der Synchronisation entfernt."</string>
   <string name="download_failed">Download fehlgeschlagen!</string>
   <string name="download_preview_failed">Laden der Vorschau fehlgeschlagen</string>
+  <string name="duplicate_group_name">Gruppenname schon vorhanden</string>
   <string name="editContactDescription">Kontakt bearbeiten</string>
   <string name="editGroupDescription">Gruppe bearbeiten</string>
   <string name="edit_contact">Kontakt bearbeiten</string>

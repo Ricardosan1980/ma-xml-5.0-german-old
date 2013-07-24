@@ -13,6 +13,8 @@
   <string name="check_network">Zeige Netzwerkeinstellungen</string>
   <string name="confirm_delete_all_call_log_title">Löschen aller Anrufverläufe?</string>
   <string name="confirm_delete_call_log_title">Anrufverlauf löschen?</string>
+  <string name="contact_detail_calllog_call_note_tips">Anrufnotizen</string>
+  <string name="contact_detail_calllog_call_record_tips">Anrufverlauf</string>
   <string name="custom_mark_category">Angepasst</string>
   <string name="data_error">Atuelles Service nicht verfügbar, bitte später noch einmal versuchen</string>
   <string name="delete">Löschen</string>
