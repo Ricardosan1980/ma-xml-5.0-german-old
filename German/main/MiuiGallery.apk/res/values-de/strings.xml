@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importieren</string>
+  <string name="accept">Annehmen</string>
   <string name="action_fail_unknown_error">Vorgang wegen unbekannten Fehlers gescheitert.</string>
   <string name="activity_not_found">Keine Anwendung verfügbar, die diese Aktion ausführen kann.</string>
   <string name="add_account">Benutzerkonto hinzufügen</string>
@@ -11,7 +12,17 @@
   <string name="add_to_cloud_folder">Zu Cloud-Ordner hinzufügen</string>
   <string name="adding_recipients">Empfänger hinzufügen...</string>
   <string name="album_name">Albumname</string>
+  <string name="album_quota_fulfiled">Kann Album nicht erstellen, Anzahl der Alben hat das Limit erreicht..</string>
+  <string name="album_share_kicked">Du wurdest von %1$s entfernt</string>
   <string name="album_share_stat_content">Neues Album, Einladungen zum teilen</string>
+  <string name="album_share_subtitle_accepting">Akzeptiere Einladung von %1$s...</string>
+  <string name="album_share_subtitle_denying">Ignoriere Einladung von %1$s...</string>
+  <string name="album_share_subtitle_invited">Geteilt von %1$s. Akzeptieren oder ignorieren?</string>
+  <string name="album_share_subtitle_normal">Geteilt von %1$s</string>
+  <string name="album_share_subtitle_not_ready">Album-Information nicht bereit. Zum herunterladen klicken.</string>
+  <string name="album_share_subtitle_quitting">Schließe Einladung von %1$s...</string>
+  <string name="album_share_subtitle_requesting">Album-Information herunterladen...</string>
+  <string name="album_share_title_new_album">Neues, geteiltes Album</string>
   <string name="albums">Alben</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Hinweis</string>
@@ -109,8 +120,11 @@
   <string name="email_picker_title">Gemeinsame E-Mail hinzufügen</string>
   <string name="empty_album">Es sind keine Bilder oder Videos verfügbar.</string>
   <string name="enter_email_hint">"E-Mail-Adresse eingeben "</string>
+  <string name="error_invalid_link">Die Verknüpfung ist ungültig oder abgelaufen, bitte frage den Eigentümer des Albums ob er eine neue erstellen kann.</string>
+  <string name="error_repeat_apply">Das Album wurde bereits mit dir geteilt</string>
   <string name="error_should_not_select_image">Achtung: Bitte keine Bilddatei auswählen.</string>
   <string name="error_should_not_select_video">Achtung: Bitte keine Videodatei auswählen.</string>
+  <string name="error_socket_timeout">Netzwerkzeitüberschreitung, bitte versuche es später noch einmal.</string>
   <string name="exit_share">Album verlassen</string>
   <string name="exit_share_failed">Album %1$s verlassen fehlgeschlagen</string>
   <string name="exit_share_in_process">Versuche Album zu verlassen, bitte warten...</string>
@@ -138,6 +152,7 @@
   <string name="frame_semicircle">Halbkreis</string>
   <string name="frame_white">Weiß</string>
   <string name="gallery_cloud_provider_name">Galerie</string>
+  <string name="gallery_setting">Galerie-Einstellungen</string>
   <string name="global_setting">Einstellungen</string>
   <string name="grain">Filmkörnung</string>
   <string name="grayscale">Schwarz &amp; weiß</string>
@@ -155,6 +170,7 @@
   <string name="how_many_sub_folders">%d Ordner</string>
   <string name="how_many_videos">%d Videos</string>
   <string name="hue_polymorphism">Fotoeditor Farbeffekt</string>
+  <string name="image_quota_fulfiled">Kann Bild nicht erstellen, die Anzahl der Bilder hat das Limit erreicht.</string>
   <string name="import_complete">Importieren abgeschlossen</string>
   <string name="import_fail">Importieren fehlgeschlagen</string>
   <string name="initial_cloud_button_text">Nutze jetzt deine MiCloud</string>
@@ -168,6 +184,7 @@
   <string name="kick_sharer">Entferne Verteiler</string>
   <string name="kick_sharer_failed">Verteiler entfernen fehlgeschlagen</string>
   <string name="kick_sharer_successfully">Verteiler erfolgreich entfernt</string>
+  <string name="landscape_mode">Querformat-Modus aktivieren</string>
   <string name="loading">Wird geladen...</string>
   <string name="loading_failure">Foto kann nicht geladen werden</string>
   <string name="loading_thumbnail">Thumbnail wird geladen...</string>
@@ -285,6 +302,7 @@
   <string name="share_by_email_start">Versuche %1$s im Hintergrund zu teilen</string>
   <string name="share_by_email_successfully">Teilen von %1$s mit E-Mail erfolgreich</string>
   <string name="share_user_name">Name</string>
+  <string name="sharer_quota_fulfiled">Kann Beteiligten nicht hinzufügen, Anzahl hat das Limit erreicht.</string>
   <string name="sharer_status_accepted">Angenommen</string>
   <string name="sharer_status_refused">Abgelehnt</string>
   <string name="sharer_status_waiting">Warte</string>
