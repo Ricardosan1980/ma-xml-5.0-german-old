@@ -64,8 +64,8 @@
   <string name="qm_auto_time_turn_off_title">Zeitpunkt zum Anschalten des Lautlos-Modus auswählen</string>
   <string name="qm_auto_time_turn_on">Von</string>
   <string name="qm_auto_time_turn_on_title">Zeitpunkt zum Ausschalten des Lautlos-Modus auswählen</string>
-  <string name="qm_notification">Lautlos-Modus angeschaltet, du wirst nicht gestört werden</string>
-  <string name="qm_open">Lautlos-Modus anschalten</string>
+  <string name="qm_notification">Lautlos-Modus aktiviert</string>
+  <string name="qm_open">Lautlos-Modus aktivieren</string>
   <string name="qm_other_settings">Erweitert</string>
   <string name="qm_other_settings_group">Weitere Einstellungen</string>
   <string name="qm_other_settings_info">Passe die Aktionen für Anrufe und Nachrichten an, wenn der Lautlos-Modus aktiviert ist</string>
@@ -73,7 +73,7 @@
   <string name="qm_repeated_call_summary_3min">Ein wiederholter Anruf der selben Person, innerhalb von drei Minuten, wird nicht stummgeschaltet.</string>
   <string name="qm_repeated_call_summary_none">Keine Ausnahme für wiederholte Anrufe</string>
   <string name="qm_special_call_setting_group">Ausnahmen</string>
-  <string name="qm_summary">Nach dem Aktivieren des Lautlos-Moduses werden eingehende Anrufe und Nachrichten stummgeschaltet und das Telefon wird nicht aufgeweckt</string>
+  <string name="qm_summary">Nach dem Aktivieren des Lautlos-Moduses werden eingehende Anrufe und Nachrichten stummgeschaltet und das Telefon wird von Benachrichtigungen nicht aufgeweckt</string>
   <string name="qm_vip_call_button_title">Anrufer der Weißen Liste zulassen</string>
   <string name="qm_vip_call_setting_title">Weiße-Liste-Anrufer-Einstellungen</string>
   <string name="qm_vip_call_summary_contact">Alle Kontakte</string>
@@ -85,12 +85,17 @@
   <string name="qm_vip_list_group">Weiße Liste</string>
   <string name="qm_vip_sms_setting_button">Weiße-Liste-Nachrichten stummschalten</string>
   <string name="quiet_mode">Lautlos-Modus</string>
+  <string name="st_advanced_setting_group">Erweiterte Einstellungen</string>
   <string name="st_bl_block_setting_title">Später erneut nachfragen</string>
   <string name="st_bl_setting_group">Schwarze-Liste-Einstellungen</string>
   <string name="st_block_all">Anrufe und Nachrichten abweisen</string>
   <string name="st_block_mute">Anrufe abweisen und Nachrichten stummschalten</string>
   <string name="st_block_private_call_button">Unterdrückte Nummern abweisen</string>
+  <string name="st_block_setting_group">Blockieren-Einstellungen</string>
+  <string name="st_block_setting_title">Anrufe und Nachrichten</string>
   <string name="st_block_title">Abweisen und protokollieren</string>
+  <string name="st_block_unknown_call">Alle unbekannten Anrufe blockieren</string>
+  <string name="st_block_unknown_sms">Alle unbekannten Nachrichten blockieren</string>
   <string name="st_call_group">Anrufe</string>
   <string name="st_common_setting_group">Schnellansicht</string>
   <string name="st_filter_keywords_setting_summary1">Nachrichten von unbekannten Kontakten werden abgewiesen.</string>
@@ -101,7 +106,9 @@
   <string name="st_mute_all">Anrufe und Nachrichten stummschalten</string>
   <string name="st_mute_block">Anrufe stummschalten und Nachrichten abweisen</string>
   <string name="st_mute_title">Lautlos-Modus</string>
+  <string name="st_other_setting_group">Weitere Einstellungen</string>
   <string name="st_settings_name">Einstellungen</string>
+  <string name="st_show_block_notification">Show Blockierte Benachrichtigung anzeigen</string>
   <string name="st_sms_group">Nachrichten</string>
   <string name="tab_blacklist">Schwarze Liste</string>
   <string name="tab_block_log">Firewall</string>
@@ -110,6 +117,7 @@
   <string name="tab_title">Wächter</string>
   <string name="toast_keyword_blank">Stichwort ist leer</string>
   <string name="toast_keyword_exist">Stichwort \"%s\" bereits vorhanden</string>
+  <string name="toast_keyword_invalid">Ungültiges Stichwort eingegeben</string>
   <string name="twelve_hour_time_format">a h:mm</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
 </resources>

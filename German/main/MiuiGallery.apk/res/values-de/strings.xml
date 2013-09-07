@@ -102,13 +102,17 @@
   <string name="defalt_local_mobile">Mobil</string>
   <string name="delete">Löschen</string>
   <string name="delete_fail_too_many_items">Löschen fehlgeschlagen, zu viele Elemente ausgewählt</string>
+  <string name="delete_file">Möchten Sie %1$d ausgewählte Datei(en) löschen?</string>
+  <string name="delete_files_and_folders">Möchten Sie %1$d ausgewählte Datei(en) und %2$d ausgewählte(n) Ordner löschen?</string>
+  <string name="delete_folder">Möchten Sie %1$d ausgewählte(n) Ordner löschen?</string>
   <string name="deleting_files">Dateien werden gelöscht...</string>
   <string name="demo_video_folder_display_name" />
   <string name="description">Beschreibung</string>
   <string name="deselect_all">Alle abwählen</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_title">%1$d von %2$d Elementen:</string>
+  <string name="details_title">%1$d von %2$d Objekten:</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Dokumentation</string>
   <string name="done">Fertig</string>
   <string name="doodle">Kritzeln</string>
@@ -175,6 +179,7 @@
   <string name="import_fail">Importieren fehlgeschlagen</string>
   <string name="initial_cloud_button_text">Nutze jetzt deine MiCloud</string>
   <string name="initial_cloud_text">Organisiere und betrachte deine Fotos überall, jederzeit</string>
+  <string name="initializing_cloud">Cloud-Album wird initialisiert...</string>
   <string name="input_cloudfolder_name">Name des Cloud-Ordners</string>
   <string name="internal_camera_folder_display_name">Interne Kamerafotos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interne Bildschirmfotos</string>
@@ -236,6 +241,7 @@
   <string name="open_sync">Jetzt synchroniseren</string>
   <string name="open_single_image_failure">Öffnen der Bilddatei fehlgeschlagen!</string>
   <string name="open_sync_title">Synchronisierung erforderlich</string>
+  <string name="operation_delete_confirm_message_folder">"Ordner und Dateien werden zur selben Zeit gelöscht."</string>
   <string name="operation_refresh">Aktualisieren</string>
   <string name="operation_rename">Umbenennen</string>
   <string name="orientation">Ausrichtung</string>

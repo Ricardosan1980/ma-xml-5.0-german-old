@@ -3,6 +3,7 @@
   <string name="action_submit">Senden</string>
   <string name="app_label">Feedback</string>
   <string name="btn_send">Senden</string>
+  <string name="bugreport_feedback_from">Von: %s</string>
   <string name="description">Beschreibung (erforderlich)</string>
   <string name="discard_draft_dialog_button_cancel">Abbrechen</string>
   <string name="discard_draft_dialog_button_discard">Ok</string>

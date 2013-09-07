@@ -78,6 +78,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="call_other_fax">Fax anrufen</string>
   <string name="call_pager">Pager anrufen</string>
   <string name="call_radio">Radio anrufen</string>
+  <string name="call_record_setting_miui">Aufnahme-Einstellungen</string>
   <string name="call_settings">Einstellungen</string>
   <string name="call_telex">Telex anrufen</string>
   <string name="call_tty_tdd">TTY/TDD anrufen</string>
@@ -139,7 +140,9 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="clearFrequentsConfirmation_title">Häufige Kontakte löschen?</string>
   <string name="clearFrequentsProgress_title">Lösche häufige Kontakte...</string>
   <string name="clear_default">Standardwerte löschen</string>
+  <string name="clear_digits">Telefonnummer löschen</string>
   <string name="click_close">Zum Schließen berühren</string>
+  <string name="close_dial_pad">Wählfeld schließen</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Cloud-Wächter</string>
   <string name="composer_failed_to_get_database_infomation">"Datenbankinformationen konnten nicht abgerufen werden"</string>
@@ -207,6 +210,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="deleteConfirmation_title">Löschen</string>
   <string name="delete_call_log_title">Ausgewählte Anrufliste löschen?</string>
   <string name="delete_contact_calllog_title">"Soll die gesamte Anrufliste des Kontakts gelöscht werden?"</string>
+  <string name="delete_dial_input">Löschen</string>
   <string name="delete_duplicate">Zusammenführen</string>
   <string name="delete_duplicate_message">"Wird zusammengeführt... "</string>
   <string name="delete_group_dialog_message">"Soll die Gruppe \"%1$s\" gelöscht werden? (Die Kontakte dieser Gruppe bleiben erhalten.)"</string>
@@ -215,6 +219,7 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="delete_sim_entries_finish">Ausgewählte SIM-Kontakte erfolgreich gelöscht</string>
   <string name="delete_sim_entry_miui">SIM-Kontakte löschen</string>
   <string name="delete_unknown_contact_calllog_title">"Anrufliste von unbekannten Kontakten löschen?"</string>
+  <string name="deleting">Wird gelöscht...</string>
   <string name="deleting_sim_entry_miui">Lösche Kontakte von SIM-Karte</string>
   <string name="description_add_contact">Kontakt hinzufügen</string>
   <string name="description_author">Author:</string>
@@ -281,7 +286,8 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="device_pairing_dialog_title">Gerät verbindet</string>
   <string name="device_version_header_bluetooth">Bluetooth-Einstellungen öffnen</string>
   <string name="device_version_header_no_bluetooth">Kontakte von SIM-Karte importieren</string>
-  <string name="device_version_title">Wähle Telefon-Version</string>
+  <string name="device_version_title">Telefonversion wählen</string>
+  <string name="dial">Wählen</string>
   <string name="dialerDialpadHintText">Wählen, um einen Anruf hinzuzufügen</string>
   <string name="dialerIconLabel">Kürzlich</string>
   <string name="dialerKeyboardHintText">Benutze die Tastatur zum Wählen</string>
@@ -315,6 +321,8 @@ Wenn du den Synchronisations-Service verwendest, werden die Kontakte auch in der
   <string name="display_sim_contacts">SIM-Kontakte</string>
   <string name="display_ungrouped">Alle anderen Kontakte</string>
   <string name="display_warn_remove_ungrouped">"Mit dem Entfernen von \"%s\" von der Synchronisation werden auch jegliche nicht gruppierten Kontakte von der Synchronisation entfernt."</string>
+  <string name="dlg_add_blacklist">Ausgewählte Nummer zur Schwarzen Liste hinzufügen?</string>
+  <string name="dlg_remove_blacklist">Ausgewählte Nummer von der Schwarzen Liste entfernen?</string>
   <string name="download_failed">Download fehlgeschlagen!</string>
   <string name="download_preview_failed">Laden der Vorschau fehlgeschlagen</string>
   <string name="duplicate_group_name">Gruppenname schon vorhanden</string>
@@ -739,6 +747,7 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="remind_btn_ignore">Ignorieren</string>
   <string name="remind_btn_sync_now">Jetzt synchronisieren</string>
   <string name="removePhoto">Bild entfernen</string>
+  <string name="remove_blacklist">Von Schwarzer Liste entfernen</string>
   <string name="remove_duplicate">"MIUI wird dir helfen, Duplikate zu finden und zusammenzuführen. Kontakte werden nicht automatisch zusammengefügt, dies musst du manuell machen."</string>
   <string name="resource_alarm_default">Wecker</string>
   <string name="resource_app_name">Quellen durchsuchen</string>
@@ -749,6 +758,8 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="resource_default_name">Quelle</string>
   <string name="resource_delete_all">Bist du sicher, dass du die %1$d gewählten Quellen löschen willst?</string>
   <string name="resource_delete_confirm">Bist du sicher, dass du diese Quellen löschen willst?</string>
+  <string name="resource_delta_update_failed">Patch-Aktualisierung fehlgeschlagen! Die vollständige Quelle wird nun heruntergeladen</string>
+  <string name="resource_delta_update_successful">Patch-Aktualisierung erfolgreich. %1$s wird gespeichert.</string>
   <string name="resource_detail">Details</string>
   <string name="resource_download">Laden</string>
   <string name="resource_downloaded_title">Heruntergeladene Quellen</string>
@@ -758,6 +769,7 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="resource_get_auth_exceed_max_limit_title">Berechtigung übersteigt das Limit</string>
   <string name="resource_get_auth_missing">Dieses Thema wurde nicht vom offiziellen Markt herunter geladen, bitte lade ähnliche vom offiziellen Markt.</string>
   <string name="resource_get_auth_retrieving">Berechtigung abrufen...</string>
+  <string name="resource_import_successful">Herunterladen erfolgreich.</string>
   <string name="resource_importing">Importiere</string>
   <string name="resource_list_title">Zuletzt ausgewählt</string>
   <string name="resource_local">Lokal %1$s</string>
@@ -910,7 +922,7 @@ Um einen Kontakt in deiner Liste zu Favoriten hinzuzufügen:
   <string name="upgrade_out_of_memory_retry">Aktualisierung wiederholen</string>
   <string name="upgrade_out_of_memory_uninstall">Einige Anwendungen deinstallieren</string>
   <string name="use_photo_as_primary">Dieses Bild verwenden</string>
-  <string name="use_photo_as_primary2">Benutze %s Kontaktbild</string>
+  <string name="use_photo_as_primary2">Kontaktbild von %1$s verwenden</string>
   <string name="user_profile_contacts_list_header">Ich</string>
   <string name="vcard_export_request_rejected_message">Die vCard-Exportierungsanfrage wurde abgewiesen. Bitte versuche es später erneut.</string>
   <string name="vcard_export_will_start_message">%s wird in Kürze exportiert.</string>
